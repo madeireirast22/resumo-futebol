@@ -1,0 +1,1045 @@
+{
+ "gerado": "2026-09-04T16:27:14.764Z",
+ "competicoes": [
+  {
+   "chave": "brasileirao-a-2025",
+   "nome": "Brasileirão Série A",
+   "apelido": "brasileirao-a",
+   "ano": "2025",
+   "torneioId": 325,
+   "temporadaId": 72034,
+   "jogos": 380,
+   "jogosNaFonte": null,
+   "arquivo": "json/brasileirao-a-2025.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 380,
+     "media": 4.67,
+     "overs": {
+      "1.5": 94.5,
+      "2.5": 85.3,
+      "3.5": 71.1
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 380,
+     "media": 9.92,
+     "overs": {
+      "7.5": 77.9,
+      "8.5": 63.9,
+      "9.5": 51.1,
+      "10.5": 39.2
+     }
+    },
+    "chutes_ht": {
+     "jogos": 380,
+     "media": 12.04,
+     "overs": {
+      "7.5": 91.6,
+      "9.5": 71.6,
+      "11.5": 52.4
+     }
+    },
+    "chutes_ft": {
+     "jogos": 380,
+     "media": 26.12,
+     "overs": {
+      "19.5": 88.7,
+      "21.5": 79.5,
+      "23.5": 63.4
+     }
+    },
+    "alvo_ht": {
+     "jogos": 380,
+     "media": 3.94,
+     "overs": {
+      "2.5": 76.8,
+      "3.5": 55.5,
+      "4.5": 36.1
+     }
+    },
+    "alvo_ft": {
+     "jogos": 380,
+     "media": 8.78,
+     "overs": {
+      "6.5": 75.8,
+      "7.5": 64.5,
+      "8.5": 50.3
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 374,
+     "media": 1.83,
+     "overs": {
+      "0.5": 84,
+      "1.5": 55.1,
+      "2.5": 26.2
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 374,
+     "media": 5.05,
+     "overs": {
+      "3.5": 73.5,
+      "4.5": 58.6,
+      "5.5": 40.9
+     }
+    },
+    "faltas_ht": {
+     "jogos": 145,
+     "media": 13.52,
+     "overs": {
+      "9.5": 84.1,
+      "11.5": 68.3,
+      "13.5": 46.2
+     }
+    },
+    "faltas_ft": {
+     "jogos": 376,
+     "media": 27.77,
+     "overs": {
+      "21.5": 83.8,
+      "23.5": 75.5,
+      "25.5": 64.6
+     }
+    }
+   }
+  },
+  {
+   "chave": "brasileirao-a-2026",
+   "nome": "Brasileirão Série A",
+   "apelido": "brasileirao-a",
+   "ano": "2026",
+   "torneioId": 325,
+   "temporadaId": 87678,
+   "jogos": 235,
+   "jogosNaFonte": null,
+   "arquivo": "json/brasileirao-a-2026.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 235,
+     "media": 4.65,
+     "overs": {
+      "1.5": 93.2,
+      "2.5": 86,
+      "3.5": 67.7
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 235,
+     "media": 10.08,
+     "overs": {
+      "7.5": 76.6,
+      "8.5": 68.9,
+      "9.5": 56.2,
+      "10.5": 39.1
+     }
+    },
+    "chutes_ht": {
+     "jogos": 235,
+     "media": 12.21,
+     "overs": {
+      "7.5": 89.4,
+      "9.5": 77.4,
+      "11.5": 57.9
+     }
+    },
+    "chutes_ft": {
+     "jogos": 235,
+     "media": 27.08,
+     "overs": {
+      "19.5": 87.2,
+      "21.5": 82.1,
+      "23.5": 71.5
+     }
+    },
+    "alvo_ht": {
+     "jogos": 235,
+     "media": 3.94,
+     "overs": {
+      "2.5": 73.2,
+      "3.5": 54.9,
+      "4.5": 34.5
+     }
+    },
+    "alvo_ft": {
+     "jogos": 235,
+     "media": 8.72,
+     "overs": {
+      "6.5": 76.2,
+      "7.5": 61.3,
+      "8.5": 49.4
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 230,
+     "media": 1.73,
+     "overs": {
+      "0.5": 80,
+      "1.5": 50,
+      "2.5": 27
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 230,
+     "media": 4.75,
+     "overs": {
+      "3.5": 71.3,
+      "4.5": 52.6,
+      "5.5": 34.3
+     }
+    },
+    "faltas_ht": {
+     "jogos": 235,
+     "media": 12.77,
+     "overs": {
+      "9.5": 78.3,
+      "11.5": 62.1,
+      "13.5": 39.1
+     }
+    },
+    "faltas_ft": {
+     "jogos": 235,
+     "media": 26.52,
+     "overs": {
+      "21.5": 78.7,
+      "23.5": 68.1,
+      "25.5": 52.3
+     }
+    }
+   }
+  },
+  {
+   "chave": "brasileirao-b-2025",
+   "nome": "Brasileirão Série B",
+   "apelido": "brasileirao-b",
+   "ano": "2025",
+   "torneioId": 390,
+   "temporadaId": 72603,
+   "jogos": 168,
+   "jogosNaFonte": 380,
+   "arquivo": "json/brasileirao-b-2025.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 168,
+     "media": 4.65,
+     "overs": {
+      "1.5": 92.3,
+      "2.5": 82.1,
+      "3.5": 68.5
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 168,
+     "media": 9.98,
+     "overs": {
+      "7.5": 73.2,
+      "8.5": 63.7,
+      "9.5": 53.6,
+      "10.5": 41.7
+     }
+    },
+    "chutes_ht": {
+     "jogos": 168,
+     "media": 12.89,
+     "overs": {
+      "7.5": 92.9,
+      "9.5": 79.2,
+      "11.5": 63.1
+     }
+    },
+    "chutes_ft": {
+     "jogos": 168,
+     "media": 27.52,
+     "overs": {
+      "19.5": 91.1,
+      "21.5": 81,
+      "23.5": 71.4
+     }
+    },
+    "alvo_ht": {
+     "jogos": 168,
+     "media": 3.79,
+     "overs": {
+      "2.5": 72.6,
+      "3.5": 50,
+      "4.5": 32.1
+     }
+    },
+    "alvo_ft": {
+     "jogos": 168,
+     "media": 8.19,
+     "overs": {
+      "6.5": 70.2,
+      "7.5": 58.3,
+      "8.5": 44
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 165,
+     "media": 1.9,
+     "overs": {
+      "0.5": 86.7,
+      "1.5": 52.7,
+      "2.5": 27.3
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 165,
+     "media": 5.26,
+     "overs": {
+      "3.5": 69.7,
+      "4.5": 58.2,
+      "5.5": 46.1
+     }
+    },
+    "faltas_ht": {
+     "jogos": 69,
+     "media": 13.12,
+     "overs": {
+      "9.5": 85.5,
+      "11.5": 59.4,
+      "13.5": 39.1
+     }
+    },
+    "faltas_ft": {
+     "jogos": 165,
+     "media": 27.2,
+     "overs": {
+      "21.5": 82.4,
+      "23.5": 70.3,
+      "25.5": 60
+     }
+    }
+   }
+  },
+  {
+   "chave": "brasileirao-b-2026",
+   "nome": "Brasileirão Série B",
+   "apelido": "brasileirao-b",
+   "ano": "2026",
+   "torneioId": 390,
+   "temporadaId": 89840,
+   "jogos": 238,
+   "jogosNaFonte": null,
+   "arquivo": "json/brasileirao-b-2026.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 238,
+     "media": 4.89,
+     "overs": {
+      "1.5": 94.5,
+      "2.5": 86.1,
+      "3.5": 68.1
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 238,
+     "media": 10.63,
+     "overs": {
+      "7.5": 79,
+      "8.5": 70.2,
+      "9.5": 58.8,
+      "10.5": 48.3
+     }
+    },
+    "chutes_ht": {
+     "jogos": 238,
+     "media": 12.84,
+     "overs": {
+      "7.5": 95.8,
+      "9.5": 82.4,
+      "11.5": 61.3
+     }
+    },
+    "chutes_ft": {
+     "jogos": 238,
+     "media": 26.93,
+     "overs": {
+      "19.5": 92.4,
+      "21.5": 82.4,
+      "23.5": 69.3
+     }
+    },
+    "alvo_ht": {
+     "jogos": 238,
+     "media": 3.9,
+     "overs": {
+      "2.5": 77.3,
+      "3.5": 53.8,
+      "4.5": 31.1
+     }
+    },
+    "alvo_ft": {
+     "jogos": 238,
+     "media": 8.39,
+     "overs": {
+      "6.5": 72.7,
+      "7.5": 59.7,
+      "8.5": 46.6
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 236,
+     "media": 1.74,
+     "overs": {
+      "0.5": 78.4,
+      "1.5": 49.2,
+      "2.5": 26.3
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 236,
+     "media": 4.85,
+     "overs": {
+      "3.5": 70.8,
+      "4.5": 53.4,
+      "5.5": 36.4
+     }
+    },
+    "faltas_ht": {
+     "jogos": 238,
+     "media": 14.08,
+     "overs": {
+      "9.5": 88.7,
+      "11.5": 76.5,
+      "13.5": 53.8
+     }
+    },
+    "faltas_ft": {
+     "jogos": 238,
+     "media": 29.34,
+     "overs": {
+      "21.5": 90.3,
+      "23.5": 83.6,
+      "25.5": 73.1
+     }
+    }
+   }
+  },
+  {
+   "chave": "copa-do-brasil-2025",
+   "nome": "Copa do Brasil",
+   "apelido": "copa-do-brasil",
+   "ano": "2025",
+   "torneioId": 373,
+   "temporadaId": 71944,
+   "jogos": 72,
+   "jogosNaFonte": null,
+   "arquivo": "json/copa-do-brasil-2025.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 72,
+     "media": 5.25,
+     "overs": {
+      "1.5": 97.2,
+      "2.5": 81.9,
+      "3.5": 75
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 72,
+     "media": 11,
+     "overs": {
+      "7.5": 76.4,
+      "8.5": 69.4,
+      "9.5": 63.9,
+      "10.5": 56.9
+     }
+    },
+    "chutes_ht": {
+     "jogos": 72,
+     "media": 12.88,
+     "overs": {
+      "7.5": 95.8,
+      "9.5": 77.8,
+      "11.5": 55.6
+     }
+    },
+    "chutes_ft": {
+     "jogos": 72,
+     "media": 26.86,
+     "overs": {
+      "19.5": 88.9,
+      "21.5": 77.8,
+      "23.5": 68.1
+     }
+    },
+    "alvo_ht": {
+     "jogos": 72,
+     "media": 4.07,
+     "overs": {
+      "2.5": 77.8,
+      "3.5": 58.3,
+      "4.5": 41.7
+     }
+    },
+    "alvo_ft": {
+     "jogos": 72,
+     "media": 8.96,
+     "overs": {
+      "6.5": 75,
+      "7.5": 63.9,
+      "8.5": 54.2
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 70,
+     "media": 1.8,
+     "overs": {
+      "0.5": 78.6,
+      "1.5": 52.9,
+      "2.5": 34.3
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 71,
+     "media": 4.63,
+     "overs": {
+      "3.5": 66.2,
+      "4.5": 49.3,
+      "5.5": 32.4
+     }
+    },
+    "faltas_ht": {
+     "jogos": 10,
+     "media": 12.6,
+     "overs": {
+      "9.5": 90,
+      "11.5": 60,
+      "13.5": 50
+     }
+    },
+    "faltas_ft": {
+     "jogos": 72,
+     "media": 26.11,
+     "overs": {
+      "21.5": 80.6,
+      "23.5": 66.7,
+      "25.5": 51.4
+     }
+    }
+   }
+  },
+  {
+   "chave": "copa-do-brasil-2026",
+   "nome": "Copa do Brasil",
+   "apelido": "copa-do-brasil",
+   "ano": "2026",
+   "torneioId": 373,
+   "temporadaId": 89353,
+   "jogos": 64,
+   "jogosNaFonte": null,
+   "arquivo": "json/copa-do-brasil-2026.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 64,
+     "media": 4.16,
+     "overs": {
+      "1.5": 89.1,
+      "2.5": 71.9,
+      "3.5": 51.6
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 64,
+     "media": 9.45,
+     "overs": {
+      "7.5": 64.1,
+      "8.5": 59.4,
+      "9.5": 50,
+      "10.5": 34.4
+     }
+    },
+    "chutes_ht": {
+     "jogos": 64,
+     "media": 11.88,
+     "overs": {
+      "7.5": 82.8,
+      "9.5": 76.6,
+      "11.5": 56.3
+     }
+    },
+    "chutes_ft": {
+     "jogos": 64,
+     "media": 25.72,
+     "overs": {
+      "19.5": 84.4,
+      "21.5": 79.7,
+      "23.5": 68.8
+     }
+    },
+    "alvo_ht": {
+     "jogos": 64,
+     "media": 3.7,
+     "overs": {
+      "2.5": 62.5,
+      "3.5": 46.9,
+      "4.5": 31.3
+     }
+    },
+    "alvo_ft": {
+     "jogos": 64,
+     "media": 7.84,
+     "overs": {
+      "6.5": 64.1,
+      "7.5": 53.1,
+      "8.5": 37.5
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 63,
+     "media": 1.56,
+     "overs": {
+      "0.5": 73,
+      "1.5": 44.4,
+      "2.5": 22.2
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 63,
+     "media": 4.76,
+     "overs": {
+      "3.5": 69.8,
+      "4.5": 52.4,
+      "5.5": 38.1
+     }
+    },
+    "faltas_ht": {
+     "jogos": 64,
+     "media": 13.72,
+     "overs": {
+      "9.5": 87.5,
+      "11.5": 65.6,
+      "13.5": 48.4
+     }
+    },
+    "faltas_ft": {
+     "jogos": 64,
+     "media": 28.11,
+     "overs": {
+      "21.5": 84.4,
+      "23.5": 73.4,
+      "25.5": 64.1
+     }
+    }
+   }
+  },
+  {
+   "chave": "libertadores-2025",
+   "nome": "CONMEBOL Libertadores",
+   "apelido": "libertadores",
+   "ano": "2025",
+   "torneioId": 384,
+   "temporadaId": 70083,
+   "jogos": 154,
+   "jogosNaFonte": null,
+   "arquivo": "json/libertadores-2025.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 154,
+     "media": 4.29,
+     "overs": {
+      "1.5": 91.6,
+      "2.5": 80.5,
+      "3.5": 64.3
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 154,
+     "media": 9.13,
+     "overs": {
+      "7.5": 68.2,
+      "8.5": 57.1,
+      "9.5": 46.8,
+      "10.5": 30.5
+     }
+    },
+    "chutes_ht": {
+     "jogos": 154,
+     "media": 12.63,
+     "overs": {
+      "7.5": 88.3,
+      "9.5": 79.2,
+      "11.5": 61.7
+     }
+    },
+    "chutes_ft": {
+     "jogos": 154,
+     "media": 26.17,
+     "overs": {
+      "19.5": 89,
+      "21.5": 79.2,
+      "23.5": 64.3
+     }
+    },
+    "alvo_ht": {
+     "jogos": 154,
+     "media": 4.05,
+     "overs": {
+      "2.5": 77.9,
+      "3.5": 58.4,
+      "4.5": 38.3
+     }
+    },
+    "alvo_ft": {
+     "jogos": 154,
+     "media": 8.66,
+     "overs": {
+      "6.5": 72.1,
+      "7.5": 64.3,
+      "8.5": 53.2
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 150,
+     "media": 1.84,
+     "overs": {
+      "0.5": 84.7,
+      "1.5": 62,
+      "2.5": 27.3
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 150,
+     "media": 4.99,
+     "overs": {
+      "3.5": 72,
+      "4.5": 51.3,
+      "5.5": 36.7
+     }
+    },
+    "faltas_ht": {
+     "jogos": 8,
+     "media": 11.13,
+     "overs": {
+      "9.5": 62.5,
+      "11.5": 50,
+      "13.5": 25
+     }
+    },
+    "faltas_ft": {
+     "jogos": 154,
+     "media": 22.95,
+     "overs": {
+      "21.5": 56.5,
+      "23.5": 39,
+      "25.5": 31.2
+     }
+    }
+   }
+  },
+  {
+   "chave": "libertadores-2026",
+   "nome": "CONMEBOL Libertadores",
+   "apelido": "libertadores",
+   "ano": "2026",
+   "torneioId": 384,
+   "temporadaId": 87760,
+   "jogos": 141,
+   "jogosNaFonte": null,
+   "arquivo": "json/libertadores-2026.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 141,
+     "media": 4.21,
+     "overs": {
+      "1.5": 90.8,
+      "2.5": 79.4,
+      "3.5": 57.4
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 141,
+     "media": 8.96,
+     "overs": {
+      "7.5": 66,
+      "8.5": 52.5,
+      "9.5": 43.3,
+      "10.5": 35.5
+     }
+    },
+    "chutes_ht": {
+     "jogos": 141,
+     "media": 12.03,
+     "overs": {
+      "7.5": 88.7,
+      "9.5": 72.3,
+      "11.5": 51.8
+     }
+    },
+    "chutes_ft": {
+     "jogos": 141,
+     "media": 25.26,
+     "overs": {
+      "19.5": 83,
+      "21.5": 72.3,
+      "23.5": 55.3
+     }
+    },
+    "alvo_ht": {
+     "jogos": 141,
+     "media": 3.8,
+     "overs": {
+      "2.5": 76.6,
+      "3.5": 53.2,
+      "4.5": 32.6
+     }
+    },
+    "alvo_ft": {
+     "jogos": 141,
+     "media": 8.3,
+     "overs": {
+      "6.5": 70.2,
+      "7.5": 55.3,
+      "8.5": 44.7
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 138,
+     "media": 1.75,
+     "overs": {
+      "0.5": 76.8,
+      "1.5": 55.1,
+      "2.5": 26.1
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 138,
+     "media": 4.7,
+     "overs": {
+      "3.5": 71.7,
+      "4.5": 47.8,
+      "5.5": 32.6
+     }
+    },
+    "faltas_ht": {
+     "jogos": 141,
+     "media": 10.82,
+     "overs": {
+      "9.5": 64.5,
+      "11.5": 41.8,
+      "13.5": 22
+     }
+    },
+    "faltas_ft": {
+     "jogos": 141,
+     "media": 22.44,
+     "overs": {
+      "21.5": 62.4,
+      "23.5": 43.3,
+      "25.5": 30.5
+     }
+    }
+   }
+  },
+  {
+   "chave": "sul-americana-2025",
+   "nome": "CONMEBOL Sul-Americana",
+   "apelido": "sul-americana",
+   "ano": "2025",
+   "torneioId": 480,
+   "temporadaId": 70070,
+   "jogos": 156,
+   "jogosNaFonte": null,
+   "arquivo": "json/sul-americana-2025.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 156,
+     "media": 4.33,
+     "overs": {
+      "1.5": 89.1,
+      "2.5": 78.2,
+      "3.5": 61.5
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 156,
+     "media": 8.79,
+     "overs": {
+      "7.5": 61.5,
+      "8.5": 48.7,
+      "9.5": 35.9,
+      "10.5": 27.6
+     }
+    },
+    "chutes_ht": {
+     "jogos": 156,
+     "media": 11.83,
+     "overs": {
+      "7.5": 86.5,
+      "9.5": 71.2,
+      "11.5": 50
+     }
+    },
+    "chutes_ft": {
+     "jogos": 156,
+     "media": 26.09,
+     "overs": {
+      "19.5": 87.8,
+      "21.5": 75.6,
+      "23.5": 64.7
+     }
+    },
+    "alvo_ht": {
+     "jogos": 156,
+     "media": 3.56,
+     "overs": {
+      "2.5": 67.3,
+      "3.5": 48.1,
+      "4.5": 30.8
+     }
+    },
+    "alvo_ft": {
+     "jogos": 156,
+     "media": 8.13,
+     "overs": {
+      "6.5": 68.6,
+      "7.5": 53.2,
+      "8.5": 42.9
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 154,
+     "media": 1.49,
+     "overs": {
+      "0.5": 77.9,
+      "1.5": 40.9,
+      "2.5": 21.4
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 154,
+     "media": 4.55,
+     "overs": {
+      "3.5": 67.5,
+      "4.5": 51.3,
+      "5.5": 31.8
+     }
+    },
+    "faltas_ht": {
+     "jogos": 8,
+     "media": 11.5,
+     "overs": {
+      "9.5": 62.5,
+      "11.5": 62.5,
+      "13.5": 37.5
+     }
+    },
+    "faltas_ft": {
+     "jogos": 155,
+     "media": 23.23,
+     "overs": {
+      "21.5": 63.2,
+      "23.5": 50.3,
+      "25.5": 32.9
+     }
+    }
+   }
+  },
+  {
+   "chave": "sul-americana-2026",
+   "nome": "CONMEBOL Sul-Americana",
+   "apelido": "sul-americana",
+   "ano": "2026",
+   "torneioId": 480,
+   "temporadaId": 87770,
+   "jogos": 144,
+   "jogosNaFonte": null,
+   "arquivo": "json/sul-americana-2026.json",
+   "metricas": {
+    "escanteios_ht": {
+     "jogos": 144,
+     "media": 4.7,
+     "overs": {
+      "1.5": 93.8,
+      "2.5": 83.3,
+      "3.5": 68.1
+     }
+    },
+    "escanteios_ft": {
+     "jogos": 144,
+     "media": 9.08,
+     "overs": {
+      "7.5": 70.1,
+      "8.5": 57.6,
+      "9.5": 43.1,
+      "10.5": 32.6
+     }
+    },
+    "chutes_ht": {
+     "jogos": 144,
+     "media": 12.28,
+     "overs": {
+      "7.5": 91,
+      "9.5": 75.7,
+      "11.5": 51.4
+     }
+    },
+    "chutes_ft": {
+     "jogos": 144,
+     "media": 26.18,
+     "overs": {
+      "19.5": 83.3,
+      "21.5": 75,
+      "23.5": 63.2
+     }
+    },
+    "alvo_ht": {
+     "jogos": 144,
+     "media": 3.74,
+     "overs": {
+      "2.5": 70.1,
+      "3.5": 47.9,
+      "4.5": 29.9
+     }
+    },
+    "alvo_ft": {
+     "jogos": 144,
+     "media": 8.24,
+     "overs": {
+      "6.5": 63.9,
+      "7.5": 45.8,
+      "8.5": 36.8
+     }
+    },
+    "cartoes_ht": {
+     "jogos": 142,
+     "media": 1.56,
+     "overs": {
+      "0.5": 71.1,
+      "1.5": 46.5,
+      "2.5": 24.6
+     }
+    },
+    "cartoes_ft": {
+     "jogos": 142,
+     "media": 4.76,
+     "overs": {
+      "3.5": 71.1,
+      "4.5": 48.6,
+      "5.5": 35.2
+     }
+    },
+    "faltas_ht": {
+     "jogos": 144,
+     "media": 10.45,
+     "overs": {
+      "9.5": 61.8,
+      "11.5": 39.6,
+      "13.5": 16
+     }
+    },
+    "faltas_ft": {
+     "jogos": 144,
+     "media": 22.56,
+     "overs": {
+      "21.5": 53.5,
+      "23.5": 41.7,
+      "25.5": 31.3
+     }
+    }
+   }
+  }
+ ]
+}
