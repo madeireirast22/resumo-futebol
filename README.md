@@ -46,4 +46,12 @@ Sufixos: `_ht` = 1º tempo, `_ft` = jogo inteiro.
   sem o turno.
 - Não há jogos futuros nem odds.
 
+## Cache
+
+O `raw.githubusercontent.com` guarda cada arquivo por uns 5 minutos. Logo
+depois de uma atualização você pode receber a versão anterior — inclusive um
+`indice.json` velho, cujos caminhos de time podem não existir mais e darem
+404. Como o robô publica uma vez por dia, isso quase nunca aparece; se
+aparecer, espere alguns minutos.
+
 Dado derivado da SofaScore. Aqui só entram agregados, não a base dela.
