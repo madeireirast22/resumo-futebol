@@ -1,0 +1,416 @@
+{
+ "time": "Clube De Regatas Brasil",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 1.75,
+  "contraMedia": 5,
+  "totalMedia": 6.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 6.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 11.5,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 12.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 9,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 10
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 13.25,
+  "contraMedia": 17.5,
+  "totalMedia": 30.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 14.5,
+   "contra": 15.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 19.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 3.75,
+  "totalMedia": 5.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 4.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4.75,
+  "contraMedia": 7.25,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 8.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 1,
+  "totalMedia": 2.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 3,
+  "contraMedia": 3,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 15.5,
+  "contraMedia": 11,
+  "totalMedia": 26.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 17,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 14,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-05-01",
+   "adv": "Santos",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     13
+    ],
+    "ch": [
+     14,
+     16
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-23",
+   "adv": "Santos",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    5,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     12
+    ],
+    "ch": [
+     15,
+     18
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-07-30",
+   "adv": "Cruzeiro",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     3,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     12
+    ],
+    "ch": [
+     10,
+     23
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-08",
+   "adv": "Cruzeiro",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     9
+    ],
+    "ch": [
+     14,
+     13
+    ],
+    "car": [
+     4,
+     4
+    ]
+   }
+  }
+ ]
+}

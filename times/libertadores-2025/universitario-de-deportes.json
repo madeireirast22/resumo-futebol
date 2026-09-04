@@ -1,0 +1,572 @@
+{
+ "time": "Universitario de Deportes",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 2.25,
+  "contraMedia": 2,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 2.75
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 4.63,
+  "contraMedia": 4.38,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 5.25
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 6.38,
+  "contraMedia": 7.5,
+  "totalMedia": 13.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 7.75,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5,
+   "contra": 8.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 11.75,
+  "contraMedia": 14.5,
+  "totalMedia": 26.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 12.5,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 11,
+   "contra": 15
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 2,
+  "contraMedia": 3,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 3.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2.75
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 3.5,
+  "contraMedia": 4.5,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 4
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 1,
+  "contraMedia": 0.86,
+  "totalMedia": 1.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 3,
+  "contraMedia": 2,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 11.88,
+  "contraMedia": 9,
+  "totalMedia": 20.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 13.5,
+   "contra": 8.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 10.25,
+   "contra": 9.75
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-03",
+   "adv": "River Plate",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     2,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     6,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-09",
+   "adv": "Independiente del Valle",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     8,
+     13
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-23",
+   "adv": "Barcelona SC Guayaquil",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     5,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     12,
+     15
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-09",
+   "adv": "Independiente del Valle",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     10,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     14,
+     10
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-15",
+   "adv": "Barcelona SC Guayaquil",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     10,
+     6
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     3
+    ],
+    "ch": [
+     18,
+     14
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-28",
+   "adv": "River Plate",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     2,
+     15
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     5,
+     22
+    ]
+   }
+  },
+  {
+   "data": "2025-08-15",
+   "adv": "Palmeiras",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     9,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     12,
+     22
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-22",
+   "adv": "Palmeiras",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     10,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     4
+    ],
+    "ch": [
+     19,
+     10
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

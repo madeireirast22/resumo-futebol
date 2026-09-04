@@ -1,0 +1,334 @@
+{
+ "time": "Criciúma",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 3,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 7,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 8,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 11,
+  "contraMedia": 16,
+  "totalMedia": 27,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 19
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 4,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 1,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 15,
+  "contraMedia": 9.5,
+  "totalMedia": 24.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-05-01",
+   "adv": "Red Bull Bragantino",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     8
+    ],
+    "ch": [
+     10,
+     13
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-23",
+   "adv": "Red Bull Bragantino",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    6
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     10,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     12,
+     19
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

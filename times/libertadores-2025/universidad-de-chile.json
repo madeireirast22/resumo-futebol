@@ -1,0 +1,498 @@
+{
+ "time": "Universidad de Chile",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 1.83,
+  "contraMedia": 1.67,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 5.33,
+  "contraMedia": 3.83,
+  "totalMedia": 9.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 6.17,
+  "contraMedia": 4.5,
+  "totalMedia": 10.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 7.33,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 13.67,
+  "contraMedia": 10.17,
+  "totalMedia": 23.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 14,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 13.33,
+   "contra": 12.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 1.67,
+  "contraMedia": 1.83,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 4.17,
+  "contraMedia": 3.83,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 2.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 1.17,
+  "contraMedia": 0.83,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2.83,
+  "contraMedia": 2.83,
+  "totalMedia": 5.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 1.33
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 13.17,
+  "contraMedia": 12.33,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 13.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 14.67,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-03",
+   "adv": "Botafogo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     2,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-04-09",
+   "adv": "Estudiantes de La Plata",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     5,
+     8
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     11
+    ],
+    "ch": [
+     11,
+     15
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-22",
+   "adv": "Carabobo FC",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     3
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     12,
+     7
+    ],
+    "car": [
+     4,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-08",
+   "adv": "Estudiantes de La Plata",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     13,
+     11
+    ],
+    "car": [
+     2,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Carabobo FC",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     12,
+     1
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     0
+    ],
+    "ch": [
+     23,
+     6
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-28",
+   "adv": "Botafogo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     17,
+     15
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}

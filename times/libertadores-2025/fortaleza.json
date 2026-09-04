@@ -1,0 +1,539 @@
+{
+ "time": "Fortaleza",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 2.57,
+  "contraMedia": 2,
+  "totalMedia": 4.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 5.14,
+  "contraMedia": 4.86,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 4,
+   "pro": 7,
+   "contra": 4.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 5.43,
+  "contraMedia": 7,
+  "totalMedia": 12.43,
+  "casa": {
+   "jogos": 4,
+   "pro": 6.25,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 8.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 12.29,
+  "contraMedia": 15.43,
+  "totalMedia": 27.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 14.75,
+   "contra": 14.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 9,
+   "contra": 16.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 2,
+  "contraMedia": 2.29,
+  "totalMedia": 4.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 4.14,
+  "contraMedia": 5,
+  "totalMedia": 9.14,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.75,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 3.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 1,
+  "contraMedia": 1.29,
+  "totalMedia": 2.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.86,
+  "contraMedia": 1.86,
+  "totalMedia": 4.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 1.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 13.29,
+  "contraMedia": 14,
+  "totalMedia": 27.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 12.5,
+   "contra": 15.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 14.33,
+   "contra": 12.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-02",
+   "adv": "Racing Club",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     14,
+     24
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-04-24",
+   "adv": "Atlético Bucaramanga",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     8,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     13,
+     17
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-07",
+   "adv": "Colo-Colo",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     8,
+     7
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     17,
+     15
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Atlético Bucaramanga",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     5,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     2
+    ],
+    "ch": [
+     15,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-30",
+   "adv": "Racing Club",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     6,
+     17
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-12",
+   "adv": "Vélez Sarsfield",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     5
+    ],
+    "ch": [
+     13,
+     13
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-19",
+   "adv": "Vélez Sarsfield",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     1,
+     10
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     8,
+     15
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  }
+ ]
+}

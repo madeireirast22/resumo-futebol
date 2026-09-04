@@ -1,0 +1,678 @@
+{
+ "time": "Operário-PR",
+ "competicao": {
+  "chave": "brasileirao-b-2026",
+  "nome": "Brasileirão Série B",
+  "apelido": "brasileirao-b",
+  "ano": "2026",
+  "torneioId": 390,
+  "temporadaId": 89840,
+  "jogos": 238,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 238,
+   "media": 4.89,
+   "overs": {
+    "1.5": 94.5,
+    "2.5": 86.1,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 238,
+   "media": 10.63,
+   "overs": {
+    "7.5": 79,
+    "8.5": 70.2,
+    "9.5": 58.8,
+    "10.5": 48.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 238,
+   "media": 12.84,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 82.4,
+    "11.5": 61.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 238,
+   "media": 26.93,
+   "overs": {
+    "19.5": 92.4,
+    "21.5": 82.4,
+    "23.5": 69.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 238,
+   "media": 3.9,
+   "overs": {
+    "2.5": 77.3,
+    "3.5": 53.8,
+    "4.5": 31.1
+   }
+  },
+  "alvo_ft": {
+   "jogos": 238,
+   "media": 8.39,
+   "overs": {
+    "6.5": 72.7,
+    "7.5": 59.7,
+    "8.5": 46.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 236,
+   "media": 1.74,
+   "overs": {
+    "0.5": 78.4,
+    "1.5": 49.2,
+    "2.5": 26.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 236,
+   "media": 4.85,
+   "overs": {
+    "3.5": 70.8,
+    "4.5": 53.4,
+    "5.5": 36.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 238,
+   "media": 14.08,
+   "overs": {
+    "9.5": 88.7,
+    "11.5": 76.5,
+    "13.5": 53.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 238,
+   "media": 29.34,
+   "overs": {
+    "21.5": 90.3,
+    "23.5": 83.6,
+    "25.5": 73.1
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 23,
+  "proMedia": 2.7,
+  "contraMedia": 2,
+  "totalMedia": 4.7,
+  "casa": {
+   "jogos": 12,
+   "pro": 2.75,
+   "contra": 1.83
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 2.64,
+   "contra": 2.18
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 23,
+  "proMedia": 5.26,
+  "contraMedia": 5.09,
+  "totalMedia": 10.35,
+  "casa": {
+   "jogos": 12,
+   "pro": 6.58,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 3.82,
+   "contra": 5.91
+  }
+ },
+ "chutes_ht": {
+  "jogos": 23,
+  "proMedia": 6.74,
+  "contraMedia": 6.48,
+  "totalMedia": 13.22,
+  "casa": {
+   "jogos": 12,
+   "pro": 7.58,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 5.82,
+   "contra": 7.55
+  }
+ },
+ "chutes_ft": {
+  "jogos": 23,
+  "proMedia": 14.13,
+  "contraMedia": 13.48,
+  "totalMedia": 27.61,
+  "casa": {
+   "jogos": 12,
+   "pro": 16.42,
+   "contra": 11.83
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 11.64,
+   "contra": 15.27
+  }
+ },
+ "alvo_ht": {
+  "jogos": 23,
+  "proMedia": 1.87,
+  "contraMedia": 2.09,
+  "totalMedia": 3.96,
+  "casa": {
+   "jogos": 12,
+   "pro": 2,
+   "contra": 1.92
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 1.73,
+   "contra": 2.27
+  }
+ },
+ "alvo_ft": {
+  "jogos": 23,
+  "proMedia": 4.39,
+  "contraMedia": 4.48,
+  "totalMedia": 8.87,
+  "casa": {
+   "jogos": 12,
+   "pro": 5.08,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 3.64,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 23,
+  "proMedia": 1.26,
+  "contraMedia": 1.26,
+  "totalMedia": 2.52,
+  "casa": {
+   "jogos": 12,
+   "pro": 1.33,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 1.18,
+   "contra": 1.27
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 23,
+  "proMedia": 2.48,
+  "contraMedia": 3.13,
+  "totalMedia": 5.61,
+  "casa": {
+   "jogos": 12,
+   "pro": 2.08,
+   "contra": 2.92
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 2.91,
+   "contra": 3.36
+  }
+ },
+ "faltas_ht": {
+  "jogos": 23,
+  "proMedia": 6.78,
+  "contraMedia": 7.74,
+  "totalMedia": 14.52,
+  "casa": {
+   "jogos": 12,
+   "pro": 7.42,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 6.09,
+   "contra": 7.45
+  }
+ },
+ "faltas_ft": {
+  "jogos": 23,
+  "proMedia": 14.04,
+  "contraMedia": 16,
+  "totalMedia": 30.04,
+  "casa": {
+   "jogos": 12,
+   "pro": 15.17,
+   "contra": 15.67
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 12.82,
+   "contra": 16.36
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-06-21",
+   "adv": "Goiás",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     10
+    ],
+    "ch": [
+     10,
+     17
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-06-27",
+   "adv": "América Mineiro",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     20,
+     10
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-07-07",
+   "adv": "Athletic Club",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     8
+    ],
+    "ch": [
+     11,
+     18
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-12",
+   "adv": "Grêmio Novorizontino",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     10,
+     12
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-07-18",
+   "adv": "Sport Recife",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     16,
+     23
+    ],
+    "car": [
+     2,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2026-07-27",
+   "adv": "Atlético Goianiense",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     10,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     16,
+     16
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-07",
+   "adv": "São Bernardo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     22,
+     15
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-16",
+   "adv": "Avaí",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     12,
+     1
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     21,
+     9
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-19",
+   "adv": "Cuiabá",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     7,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     21,
+     6
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-23",
+   "adv": "Vila Nova FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  }
+ ]
+}

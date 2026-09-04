@@ -1,0 +1,498 @@
+{
+ "time": "Deportivo Táchira",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 1.33,
+  "contraMedia": 1.83,
+  "totalMedia": 3.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 3.83,
+  "contraMedia": 3.67,
+  "totalMedia": 7.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 3.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 6.17,
+  "contraMedia": 7.33,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 6.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 13.67,
+  "contraMedia": 16.33,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 3,
+   "pro": 18.33,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 9,
+   "contra": 21.67
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 1.5,
+  "contraMedia": 2.67,
+  "totalMedia": 4.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2.67
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 3.5,
+  "contraMedia": 6.33,
+  "totalMedia": 9.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.67,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 7.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 0.83,
+  "contraMedia": 1.17,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 2.5,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 7.17,
+  "contraMedia": 7.83,
+  "totalMedia": 15,
+  "casa": {
+   "jogos": 3,
+   "pro": 8.33,
+   "contra": 6.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 9
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-04",
+   "adv": "Flamengo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     2,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     7,
+     12
+    ],
+    "car": [
+     5,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-04-10",
+   "adv": "LDU",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     9,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     10,
+     23
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-24",
+   "adv": "Central Córdoba",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     7,
+     8
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     9,
+     22
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-07",
+   "adv": "LDU",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     14,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     1
+    ],
+    "ch": [
+     39,
+     8
+    ],
+    "car": [
+     1,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-05-13",
+   "adv": "Central Córdoba",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     9,
+     13
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-29",
+   "adv": "Flamengo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     8,
+     20
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  }
+ ]
+}

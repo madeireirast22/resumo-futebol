@@ -9,9 +9,15 @@ jogo a jogo não está aqui.
 
 ## Por onde começar
 
-- [`indice.json`](https://raw.githubusercontent.com/madeireirast22/resumo-futebol/main/indice.json) — a régua das competições, sem os times (~17 KB).
-  Leia primeiro e escolha a competição.
-- `<liga>-<ano>.json` — a competição inteira (~148 a 280 KB).
+- [`indice.json`](https://raw.githubusercontent.com/madeireirast22/resumo-futebol/main/indice.json) — a régua das competições (~30 KB).
+  Leia primeiro: ele lista, por competição, o caminho exato do arquivo de
+  cada time. Não adivinhe nome de arquivo, pegue dali.
+- `times/<liga>-<ano>/<time>.json` — **um time, ~8 KB.** É o que você quer
+  na maioria das vezes: traz as médias do time, a sequência dos últimos 10
+  jogos e a régua da competição junto, então uma busca só já basta.
+- `<liga>-<ano>.json` — a competição inteira (~150 a 280 KB). Use só quando
+  precisar de todos os times de uma vez; para projetar um confronto, dois
+  arquivos de time custam 16 KB em vez de 280.
 
 ## Formato
 

@@ -1,0 +1,506 @@
+{
+ "time": "Club Atlético Peñarol",
+ "competicao": {
+  "chave": "libertadores-2026",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2026",
+  "torneioId": 384,
+  "temporadaId": 87760,
+  "jogos": 141,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 141,
+   "media": 4.21,
+   "overs": {
+    "1.5": 90.8,
+    "2.5": 79.4,
+    "3.5": 57.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 141,
+   "media": 8.96,
+   "overs": {
+    "7.5": 66,
+    "8.5": 52.5,
+    "9.5": 43.3,
+    "10.5": 35.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 141,
+   "media": 12.03,
+   "overs": {
+    "7.5": 88.7,
+    "9.5": 72.3,
+    "11.5": 51.8
+   }
+  },
+  "chutes_ft": {
+   "jogos": 141,
+   "media": 25.26,
+   "overs": {
+    "19.5": 83,
+    "21.5": 72.3,
+    "23.5": 55.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 141,
+   "media": 3.8,
+   "overs": {
+    "2.5": 76.6,
+    "3.5": 53.2,
+    "4.5": 32.6
+   }
+  },
+  "alvo_ft": {
+   "jogos": 141,
+   "media": 8.3,
+   "overs": {
+    "6.5": 70.2,
+    "7.5": 55.3,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 138,
+   "media": 1.75,
+   "overs": {
+    "0.5": 76.8,
+    "1.5": 55.1,
+    "2.5": 26.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 138,
+   "media": 4.7,
+   "overs": {
+    "3.5": 71.7,
+    "4.5": 47.8,
+    "5.5": 32.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 141,
+   "media": 10.82,
+   "overs": {
+    "9.5": 64.5,
+    "11.5": 41.8,
+    "13.5": 22
+   }
+  },
+  "faltas_ft": {
+   "jogos": 141,
+   "media": 22.44,
+   "overs": {
+    "21.5": 62.4,
+    "23.5": 43.3,
+    "25.5": 30.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 2,
+  "contraMedia": 1.67,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 4,
+  "contraMedia": 3.33,
+  "totalMedia": 7.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 4.33
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 6.17,
+  "contraMedia": 6.17,
+  "totalMedia": 12.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 8.67
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 13.33,
+  "contraMedia": 12.33,
+  "totalMedia": 25.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 15.67,
+   "contra": 10.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11,
+   "contra": 14.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2,
+  "contraMedia": 1.83,
+  "totalMedia": 3.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 4,
+  "contraMedia": 3.83,
+  "totalMedia": 7.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 3
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 1,
+  "contraMedia": 1.2,
+  "totalMedia": 2.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 3.2,
+  "contraMedia": 2.6,
+  "totalMedia": 5.8,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 4.5,
+  "contraMedia": 8.17,
+  "totalMedia": 12.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 8.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 8
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 10.67,
+  "contraMedia": 14.83,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 10,
+   "contra": 17
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.33,
+   "contra": 12.67
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-10",
+   "adv": "Independiente Santa Fe",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     10,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     16,
+     15
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-04-17",
+   "adv": "Club Atlético Platense",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     5,
+     3
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     5,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2026-05-01",
+   "adv": "Corinthians",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     9,
+     15
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Club Atlético Platense",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     3,
+     10
+    ],
+    "car": [
+     4,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     8,
+     13
+    ],
+    "car": [
+     6,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-22",
+   "adv": "Corinthians",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     6,
+     7
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     16,
+     21
+    ]
+   }
+  },
+  {
+   "data": "2026-05-28",
+   "adv": "Independiente Santa Fe",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     8,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     22,
+     5
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

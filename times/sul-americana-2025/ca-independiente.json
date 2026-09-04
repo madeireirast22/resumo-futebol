@@ -1,0 +1,539 @@
+{
+ "time": "CA Independiente",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 3.71,
+  "contraMedia": 2,
+  "totalMedia": 5.71,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 6.43,
+  "contraMedia": 2.86,
+  "totalMedia": 9.29,
+  "casa": {
+   "jogos": 3,
+   "pro": 8,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 10.86,
+  "contraMedia": 4.57,
+  "totalMedia": 15.43,
+  "casa": {
+   "jogos": 3,
+   "pro": 15,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.75,
+   "contra": 6.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 21.29,
+  "contraMedia": 8.29,
+  "totalMedia": 29.57,
+  "casa": {
+   "jogos": 3,
+   "pro": 28,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 16.25,
+   "contra": 10.75
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 2.71,
+  "contraMedia": 1.29,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 1.75
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 6.29,
+  "contraMedia": 2.14,
+  "totalMedia": 8.43,
+  "casa": {
+   "jogos": 3,
+   "pro": 8.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.5,
+   "contra": 3
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.86,
+  "contraMedia": 0.43,
+  "totalMedia": 1.29,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 0.75
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.57,
+  "contraMedia": 3,
+  "totalMedia": 5.57,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3,
+   "contra": 3.25
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 11,
+  "contraMedia": 13.14,
+  "totalMedia": 24.14,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 13.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 11.5,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-01",
+   "adv": "Nacional Potosí",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     4,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     14,
+     16
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-08",
+   "adv": "Boston River",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     6,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     18,
+     6
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-22",
+   "adv": "Guaraní",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     17,
+     9
+    ],
+    "car": [
+     4,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-05-07",
+   "adv": "Boston River",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    5,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     11,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     19,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-15",
+   "adv": "Guaraní",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     19,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     1
+    ],
+    "ch": [
+     35,
+     7
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-28",
+   "adv": "Nacional Potosí",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    7,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     20,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     31,
+     2
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-14",
+   "adv": "Universidad de Chile",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     7,
+     8
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     15,
+     13
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "time": "Barracas Central",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 2.67,
+  "contraMedia": 2.83,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 4.33,
+  "contraMedia": 4.67,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 5.33,
+  "contraMedia": 8,
+  "totalMedia": 13.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.67,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 10,
+  "contraMedia": 15.5,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.33,
+   "contra": 14.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.67,
+   "contra": 16.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 3.17,
+  "totalMedia": 5.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 3.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 2.67,
+  "contraMedia": 6.67,
+  "totalMedia": 9.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 6.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 1.83,
+  "contraMedia": 1.5,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1.67
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 3.83,
+  "contraMedia": 3.33,
+  "totalMedia": 7.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 3.67
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 6.83,
+  "contraMedia": 5,
+  "totalMedia": 11.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.67,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 7,
+   "contra": 6.33
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 11.83,
+  "contraMedia": 10.83,
+  "totalMedia": 22.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 13,
+   "contra": 9.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10.67,
+   "contra": 12.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-07",
+   "adv": "Vasco da Gama",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     12,
+     15
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Olimpia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     12
+    ],
+    "car": [
+     4,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2026-04-29",
+   "adv": "Audax Italiano",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     9,
+     8
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Olimpia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     10,
+     12
+    ],
+    "car": [
+     4,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     19,
+     21
+    ],
+    "car": [
+     4,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2026-05-19",
+   "adv": "Audax Italiano",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     5,
+     10
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     10,
+     15
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-27",
+   "adv": "Vasco da Gama",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     2,
+     12
+    ],
+    "car": [
+     3,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     4,
+     22
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}

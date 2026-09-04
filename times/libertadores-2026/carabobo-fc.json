@@ -1,0 +1,432 @@
+{
+ "time": "Carabobo FC",
+ "competicao": {
+  "chave": "libertadores-2026",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2026",
+  "torneioId": 384,
+  "temporadaId": 87760,
+  "jogos": 141,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 141,
+   "media": 4.21,
+   "overs": {
+    "1.5": 90.8,
+    "2.5": 79.4,
+    "3.5": 57.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 141,
+   "media": 8.96,
+   "overs": {
+    "7.5": 66,
+    "8.5": 52.5,
+    "9.5": 43.3,
+    "10.5": 35.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 141,
+   "media": 12.03,
+   "overs": {
+    "7.5": 88.7,
+    "9.5": 72.3,
+    "11.5": 51.8
+   }
+  },
+  "chutes_ft": {
+   "jogos": 141,
+   "media": 25.26,
+   "overs": {
+    "19.5": 83,
+    "21.5": 72.3,
+    "23.5": 55.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 141,
+   "media": 3.8,
+   "overs": {
+    "2.5": 76.6,
+    "3.5": 53.2,
+    "4.5": 32.6
+   }
+  },
+  "alvo_ft": {
+   "jogos": 141,
+   "media": 8.3,
+   "overs": {
+    "6.5": 70.2,
+    "7.5": 55.3,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 138,
+   "media": 1.75,
+   "overs": {
+    "0.5": 76.8,
+    "1.5": 55.1,
+    "2.5": 26.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 138,
+   "media": 4.7,
+   "overs": {
+    "3.5": 71.7,
+    "4.5": 47.8,
+    "5.5": 32.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 141,
+   "media": 10.82,
+   "overs": {
+    "9.5": 64.5,
+    "11.5": 41.8,
+    "13.5": 22
+   }
+  },
+  "faltas_ft": {
+   "jogos": 141,
+   "media": 22.44,
+   "overs": {
+    "21.5": 62.4,
+    "23.5": 43.3,
+    "25.5": 30.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 3.5,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 4.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 5,
+  "contraMedia": 5.5,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 7
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 7.5,
+  "contraMedia": 6.25,
+  "totalMedia": 13.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 8,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 13.75,
+  "contraMedia": 14.75,
+  "totalMedia": 28.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 9.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 14.5,
+   "contra": 20
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 1.75,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4,
+  "contraMedia": 5,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 1.5,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 2.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2.75,
+  "contraMedia": 3.5,
+  "totalMedia": 6.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 3.5
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 5,
+  "contraMedia": 4.5,
+  "totalMedia": 9.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 12,
+  "contraMedia": 11.75,
+  "totalMedia": 23.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-02-17",
+   "adv": "Huachipato",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     11,
+     11
+    ],
+    "car": [
+     6,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-02-24",
+   "adv": "Huachipato",
+   "mando": "F",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     6,
+     9
+    ],
+    "car": [
+     0,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     15,
+     23
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-03-04",
+   "adv": "Club Sporting Cristal",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     7,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     3
+    ],
+    "ch": [
+     15,
+     8
+    ],
+    "car": [
+     0,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-03-11",
+   "adv": "Club Sporting Cristal",
+   "mando": "F",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    4,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     8,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     14,
+     17
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  }
+ ]
+}

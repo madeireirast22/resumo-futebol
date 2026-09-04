@@ -1,0 +1,498 @@
+{
+ "time": "Bahia",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 2.33,
+  "contraMedia": 2.5,
+  "totalMedia": 4.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 6.33,
+  "contraMedia": 4.67,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 5.5,
+  "contraMedia": 5.33,
+  "totalMedia": 10.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 12.83,
+  "contraMedia": 10.33,
+  "totalMedia": 23.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 14,
+   "contra": 10.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 10.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2.33,
+  "contraMedia": 1.5,
+  "totalMedia": 3.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 5,
+  "contraMedia": 3.83,
+  "totalMedia": 8.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 3
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 0.67,
+  "contraMedia": 0.5,
+  "totalMedia": 1.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 0.67
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 1.5,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 11.33,
+  "contraMedia": 13.33,
+  "totalMedia": 24.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 12,
+   "contra": 12.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10.67,
+   "contra": 14.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-05-01",
+   "adv": "Paysandu SC",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     8
+    ],
+    "ch": [
+     17,
+     15
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-21",
+   "adv": "Paysandu SC",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     16,
+     12
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-07-30",
+   "adv": "Retrô",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     4,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     16,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-06",
+   "adv": "Retrô",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     7,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     4
+    ],
+    "ch": [
+     16,
+     6
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-28",
+   "adv": "Fluminense",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     3,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     8
+    ],
+    "ch": [
+     10,
+     10
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-09-10",
+   "adv": "Fluminense",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     2,
+     5
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     2,
+     10
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "time": "Independiente Santa Fe",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 3.5,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 9,
+  "contraMedia": 9,
+  "totalMedia": 18,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 11
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 22,
+  "contraMedia": 13.5,
+  "totalMedia": 35.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 31,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 18
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 4,
+  "totalMedia": 7.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 9.5,
+  "contraMedia": 4.5,
+  "totalMedia": 14,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 2,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 9.5,
+  "contraMedia": 12,
+  "totalMedia": 21.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 14
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-02-18",
+   "adv": "Deportes Iquique",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     7,
+     11
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     13,
+     18
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-02-25",
+   "adv": "Deportes Iquique",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    3,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     11,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     31,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

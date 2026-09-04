@@ -1,0 +1,637 @@
+{
+ "time": "Macará",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 9,
+  "proMedia": 3.67,
+  "contraMedia": 2,
+  "totalMedia": 5.67,
+  "casa": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3.4,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 9,
+  "proMedia": 6.33,
+  "contraMedia": 4.11,
+  "totalMedia": 10.44,
+  "casa": {
+   "jogos": 4,
+   "pro": 7.5,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 5.4,
+   "contra": 5.6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 9,
+  "proMedia": 5.89,
+  "contraMedia": 5.44,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 4,
+   "pro": 7,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 5,
+   "contra": 6.2
+  }
+ },
+ "chutes_ft": {
+  "jogos": 9,
+  "proMedia": 12.33,
+  "contraMedia": 11.56,
+  "totalMedia": 23.89,
+  "casa": {
+   "jogos": 4,
+   "pro": 14.5,
+   "contra": 9.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 10.6,
+   "contra": 13.2
+  }
+ },
+ "alvo_ht": {
+  "jogos": 9,
+  "proMedia": 1.44,
+  "contraMedia": 1.56,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1.4,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 9,
+  "proMedia": 2.78,
+  "contraMedia": 3.33,
+  "totalMedia": 6.11,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 2.75
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3,
+   "contra": 3.8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 9,
+  "proMedia": 0.89,
+  "contraMedia": 0.67,
+  "totalMedia": 1.56,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1,
+   "contra": 0.2
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 9,
+  "proMedia": 2.78,
+  "contraMedia": 2.33,
+  "totalMedia": 5.11,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3,
+   "contra": 2.2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 9,
+  "proMedia": 5.22,
+  "contraMedia": 3.33,
+  "totalMedia": 8.56,
+  "casa": {
+   "jogos": 4,
+   "pro": 6.25,
+   "contra": 4.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4.4,
+   "contra": 2.6
+  }
+ },
+ "faltas_ft": {
+  "jogos": 9,
+  "proMedia": 11.78,
+  "contraMedia": 9,
+  "totalMedia": 20.78,
+  "casa": {
+   "jogos": 4,
+   "pro": 11.5,
+   "contra": 9.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 12,
+   "contra": 8.6
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-06",
+   "adv": "Orense SC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     7,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     8
+    ],
+    "ch": [
+     11,
+     11
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-10",
+   "adv": "América de Cali",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     10,
+     8
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Tigre",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     9,
+     15
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-01",
+   "adv": "Alianza Atlético de Sullana",
+   "mando": "F",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     5
+    ],
+    "ch": [
+     15,
+     10
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Tigre",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     5
+    ],
+    "ch": [
+     15,
+     16
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-22",
+   "adv": "Alianza Atlético de Sullana",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     11,
+     2
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     1
+    ],
+    "ch": [
+     19,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-29",
+   "adv": "América de Cali",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     3
+    ],
+    "ch": [
+     12,
+     17
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-13",
+   "adv": "Santos",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     4,
+     8
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     13
+    ],
+    "car": [
+     6,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-08-20",
+   "adv": "Santos",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     6,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     1
+    ],
+    "ch": [
+     14,
+     7
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

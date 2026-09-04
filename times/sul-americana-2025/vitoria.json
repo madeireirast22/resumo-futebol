@@ -1,0 +1,498 @@
+{
+ "time": "Vitória",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 0.17,
+  "totalMedia": 2.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 4.5,
+  "contraMedia": 1.5,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 1.33
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 6.5,
+  "contraMedia": 5,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 7,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 5.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 15,
+  "contraMedia": 10.33,
+  "totalMedia": 25.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 16,
+   "contra": 12.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 14,
+   "contra": 8.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2.33,
+  "contraMedia": 0.83,
+  "totalMedia": 3.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 5,
+  "contraMedia": 3.17,
+  "totalMedia": 8.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 1.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 1.33,
+  "contraMedia": 1,
+  "totalMedia": 2.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 2,
+  "totalMedia": 4.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 13.33,
+  "contraMedia": 11.5,
+  "totalMedia": 24.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 17,
+   "contra": 10.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 9.67,
+   "contra": 12.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-03",
+   "adv": "Universidad Católica del Ecuador",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     6,
+     2
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     1,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-04-10",
+   "adv": "Defensa y Justicia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     12,
+     12
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-04-24",
+   "adv": "Cerro Largo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     14,
+     10
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-06",
+   "adv": "Defensa y Justicia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     10,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     20,
+     19
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-15",
+   "adv": "Cerro Largo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     15,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-29",
+   "adv": "Universidad Católica del Ecuador",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     3,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     15,
+     6
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  }
+ ]
+}

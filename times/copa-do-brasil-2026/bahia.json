@@ -1,0 +1,350 @@
+{
+ "time": "Bahia",
+ "competicao": {
+  "chave": "copa-do-brasil-2026",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2026",
+  "torneioId": 373,
+  "temporadaId": 89353,
+  "jogos": 64,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 64,
+   "media": 4.16,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 71.9,
+    "3.5": 51.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 64,
+   "media": 9.45,
+   "overs": {
+    "7.5": 64.1,
+    "8.5": 59.4,
+    "9.5": 50,
+    "10.5": 34.4
+   }
+  },
+  "chutes_ht": {
+   "jogos": 64,
+   "media": 11.88,
+   "overs": {
+    "7.5": 82.8,
+    "9.5": 76.6,
+    "11.5": 56.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 64,
+   "media": 25.72,
+   "overs": {
+    "19.5": 84.4,
+    "21.5": 79.7,
+    "23.5": 68.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 64,
+   "media": 3.7,
+   "overs": {
+    "2.5": 62.5,
+    "3.5": 46.9,
+    "4.5": 31.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 64,
+   "media": 7.84,
+   "overs": {
+    "6.5": 64.1,
+    "7.5": 53.1,
+    "8.5": 37.5
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 63,
+   "media": 1.56,
+   "overs": {
+    "0.5": 73,
+    "1.5": 44.4,
+    "2.5": 22.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 63,
+   "media": 4.76,
+   "overs": {
+    "3.5": 69.8,
+    "4.5": 52.4,
+    "5.5": 38.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 64,
+   "media": 13.72,
+   "overs": {
+    "9.5": 87.5,
+    "11.5": 65.6,
+    "13.5": 48.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 64,
+   "media": 28.11,
+   "overs": {
+    "21.5": 84.4,
+    "23.5": 73.4,
+    "25.5": 64.1
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 2.5,
+  "totalMedia": 7.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 9,
+  "contraMedia": 4.5,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 7
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 4,
+  "totalMedia": 8.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 4
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 11.5,
+  "contraMedia": 8.5,
+  "totalMedia": 20,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 8
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 2,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 6.5,
+  "contraMedia": 5,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 7,
+  "contraMedia": 6,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 12,
+  "contraMedia": 10.5,
+  "totalMedia": 22.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 12
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-22",
+   "adv": "Remo",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     12,
+     9
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-14",
+   "adv": "Remo",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     4,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     7
+    ],
+    "ch": [
+     11,
+     8
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}

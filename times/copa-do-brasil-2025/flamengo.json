@@ -1,0 +1,432 @@
+{
+ "time": "Flamengo",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 3.5,
+  "contraMedia": 1.5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 0.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 6.75,
+  "contraMedia": 3.25,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 8,
+   "contra": 2
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 11.5,
+  "contraMedia": 6,
+  "totalMedia": 17.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 20,
+  "contraMedia": 12.75,
+  "totalMedia": 32.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 19.5,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 20.5,
+   "contra": 12.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 3.75,
+  "contraMedia": 1.25,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 6.25,
+  "contraMedia": 4,
+  "totalMedia": 10.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 3.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0,
+  "contraMedia": 0.5,
+  "totalMedia": 0.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 0.75,
+  "contraMedia": 1.75,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 7,
+  "contraMedia": 6.5,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 11.25,
+  "contraMedia": 13,
+  "totalMedia": 24.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-05-01",
+   "adv": "Botafogo-PB",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     14,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     1
+    ],
+    "ch": [
+     24,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-22",
+   "adv": "Botafogo-PB",
+   "mando": "C",
+   "golsHt": [
+    3,
+    1
+   ],
+   "golsFt": [
+    4,
+    2
+   ],
+   "ht": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     11,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     18,
+     12
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-01",
+   "adv": "Atlético Mineiro",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     11,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     21,
+     14
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-06",
+   "adv": "Atlético Mineiro",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    4,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     10,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     17,
+     18
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,588 @@
+{
+ "time": "Fluminense",
+ "competicao": {
+  "chave": "libertadores-2026",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2026",
+  "torneioId": 384,
+  "temporadaId": 87760,
+  "jogos": 141,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 141,
+   "media": 4.21,
+   "overs": {
+    "1.5": 90.8,
+    "2.5": 79.4,
+    "3.5": 57.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 141,
+   "media": 8.96,
+   "overs": {
+    "7.5": 66,
+    "8.5": 52.5,
+    "9.5": 43.3,
+    "10.5": 35.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 141,
+   "media": 12.03,
+   "overs": {
+    "7.5": 88.7,
+    "9.5": 72.3,
+    "11.5": 51.8
+   }
+  },
+  "chutes_ft": {
+   "jogos": 141,
+   "media": 25.26,
+   "overs": {
+    "19.5": 83,
+    "21.5": 72.3,
+    "23.5": 55.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 141,
+   "media": 3.8,
+   "overs": {
+    "2.5": 76.6,
+    "3.5": 53.2,
+    "4.5": 32.6
+   }
+  },
+  "alvo_ft": {
+   "jogos": 141,
+   "media": 8.3,
+   "overs": {
+    "6.5": 70.2,
+    "7.5": 55.3,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 138,
+   "media": 1.75,
+   "overs": {
+    "0.5": 76.8,
+    "1.5": 55.1,
+    "2.5": 26.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 138,
+   "media": 4.7,
+   "overs": {
+    "3.5": 71.7,
+    "4.5": 47.8,
+    "5.5": 32.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 141,
+   "media": 10.82,
+   "overs": {
+    "9.5": 64.5,
+    "11.5": 41.8,
+    "13.5": 22
+   }
+  },
+  "faltas_ft": {
+   "jogos": 141,
+   "media": 22.44,
+   "overs": {
+    "21.5": 62.4,
+    "23.5": 43.3,
+    "25.5": 30.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 1.63,
+  "contraMedia": 2.13,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 1,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 2.75
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 3.75,
+  "contraMedia": 3.38,
+  "totalMedia": 7.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 6.25,
+  "contraMedia": 4.88,
+  "totalMedia": 11.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 8.5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 5.75
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 14.25,
+  "contraMedia": 10.13,
+  "totalMedia": 24.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 17.25,
+   "contra": 8.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 11.25,
+   "contra": 12
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 1.88,
+  "contraMedia": 1.5,
+  "totalMedia": 3.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 1.25
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 4.63,
+  "contraMedia": 3.25,
+  "totalMedia": 7.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.75,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 3.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 1.43,
+  "contraMedia": 0.86,
+  "totalMedia": 2.29,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 3,
+  "contraMedia": 2.57,
+  "totalMedia": 5.57,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 2.75
+  }
+ },
+ "faltas_ht": {
+  "jogos": 8,
+  "proMedia": 4.75,
+  "contraMedia": 5.38,
+  "totalMedia": 10.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 5.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 5.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 10.25,
+  "contraMedia": 12.5,
+  "totalMedia": 22.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 10,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 10.5,
+   "contra": 14
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-07",
+   "adv": "Deportivo La Guaira",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     18,
+     6
+    ],
+    "car": [
+     0,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Independiente Rivadavia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     21,
+     7
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-04-30",
+   "adv": "Bolívar",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     14
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Independiente Rivadavia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     1,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     11,
+     15
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-19",
+   "adv": "Bolívar",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     14,
+     2
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     24,
+     5
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-28",
+   "adv": "Deportivo La Guaira",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     3,
+     5
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     7,
+     10
+    ]
+   }
+  },
+  {
+   "data": "2026-08-11",
+   "adv": "Independiente Rivadavia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     17,
+     11
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-18",
+   "adv": "Independiente Rivadavia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    6,
+    5
+   ],
+   "ht": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     3,
+     5
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     10,
+     13
+    ],
+    "car": [
+     6,
+     3
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "time": "River Plate",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 10,
+  "proMedia": 2.3,
+  "contraMedia": 1.4,
+  "totalMedia": 3.7,
+  "casa": {
+   "jogos": 5,
+   "pro": 2.6,
+   "contra": 1.4
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2,
+   "contra": 1.4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 10,
+  "proMedia": 5.3,
+  "contraMedia": 2.8,
+  "totalMedia": 8.1,
+  "casa": {
+   "jogos": 5,
+   "pro": 6,
+   "contra": 2.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4.6,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 10,
+  "proMedia": 7.6,
+  "contraMedia": 4.9,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 5,
+   "pro": 8.8,
+   "contra": 4.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 6.4,
+   "contra": 5.6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 10,
+  "proMedia": 16.2,
+  "contraMedia": 9.4,
+  "totalMedia": 25.6,
+  "casa": {
+   "jogos": 5,
+   "pro": 18.6,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 13.8,
+   "contra": 10.8
+  }
+ },
+ "alvo_ht": {
+  "jogos": 10,
+  "proMedia": 2.9,
+  "contraMedia": 1.7,
+  "totalMedia": 4.6,
+  "casa": {
+   "jogos": 5,
+   "pro": 3.8,
+   "contra": 1.8
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2,
+   "contra": 1.6
+  }
+ },
+ "alvo_ft": {
+  "jogos": 10,
+  "proMedia": 5.9,
+  "contraMedia": 3.5,
+  "totalMedia": 9.4,
+  "casa": {
+   "jogos": 5,
+   "pro": 6.8,
+   "contra": 3.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 5,
+   "contra": 3.8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 9,
+  "proMedia": 0.89,
+  "contraMedia": 0.89,
+  "totalMedia": 1.78,
+  "casa": {
+   "jogos": 4,
+   "pro": 1,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 0.8,
+   "contra": 0.6
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 9,
+  "proMedia": 3.33,
+  "contraMedia": 2.89,
+  "totalMedia": 6.22,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3.8,
+   "contra": 3.2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 4,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 10,
+  "proMedia": 14.1,
+  "contraMedia": 11.4,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 5,
+   "pro": 13.2,
+   "contra": 12.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 15,
+   "contra": 10.6
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-03",
+   "adv": "Universitario de Deportes",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     8,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     10,
+     6
+    ],
+    "car": [
+     4,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2025-04-09",
+   "adv": "Barcelona SC Guayaquil",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     7,
+     0
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     17,
+     2
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-04-24",
+   "adv": "Independiente del Valle",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     4,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     16,
+     15
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-09",
+   "adv": "Barcelona SC Guayaquil",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     13,
+     10
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-16",
+   "adv": "Independiente del Valle",
+   "mando": "C",
+   "golsHt": [
+    3,
+    2
+   ],
+   "golsFt": [
+    6,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     9,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     21,
+     8
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-28",
+   "adv": "Universitario de Deportes",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     15,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     1
+    ],
+    "ch": [
+     22,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-08-15",
+   "adv": "Libertad",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     5,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     20,
+     9
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-22",
+   "adv": "Libertad",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    4,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     16,
+     17
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-09-18",
+   "adv": "Palmeiras",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     3,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     17,
+     8
+    ],
+    "car": [
+     4,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-09-25",
+   "adv": "Palmeiras",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     10,
+     14
+    ],
+    "car": [
+     8,
+     3
+    ]
+   }
+  }
+ ]
+}

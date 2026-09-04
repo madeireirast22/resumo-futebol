@@ -1,0 +1,539 @@
+{
+ "time": "Unión Española",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 1.86,
+  "contraMedia": 3,
+  "totalMedia": 4.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 5.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 3.43,
+  "contraMedia": 5,
+  "totalMedia": 8.43,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 7.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 7.14,
+  "contraMedia": 6.57,
+  "totalMedia": 13.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 8,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 10
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 13.14,
+  "contraMedia": 16.43,
+  "totalMedia": 29.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 14.25,
+   "contra": 10.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 24
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 2.29,
+  "contraMedia": 2.14,
+  "totalMedia": 4.43,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 3.67
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 4.29,
+  "contraMedia": 5.71,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.75,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 8.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.29,
+  "contraMedia": 0.71,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.14,
+  "contraMedia": 2.86,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 3.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 11.57,
+  "contraMedia": 10.43,
+  "totalMedia": 22,
+  "casa": {
+   "jogos": 4,
+   "pro": 11.5,
+   "contra": 10.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 10.67
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-05",
+   "adv": "Everton de Viña del Mar",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    5,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     11,
+     14
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-04-03",
+   "adv": "GV San José",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     12,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     5
+    ],
+    "ch": [
+     19,
+     22
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-04-10",
+   "adv": "Once Caldas",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     13,
+     11
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-23",
+   "adv": "Fluminense",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     13,
+     9
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-05-08",
+   "adv": "Once Caldas",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     2,
+     12
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     9,
+     22
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Fluminense",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     9
+    ],
+    "ch": [
+     4,
+     11
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     14
+    ],
+    "ch": [
+     7,
+     28
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-30",
+   "adv": "GV San José",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     7,
+     1
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     1
+    ],
+    "ch": [
+     20,
+     9
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

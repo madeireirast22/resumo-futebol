@@ -1,0 +1,293 @@
+{
+ "time": "Metropolitanos",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 3,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 2,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 2
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 9,
+  "contraMedia": 10,
+  "totalMedia": 19,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 10
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 3,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 4,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 19,
+  "contraMedia": 4,
+  "totalMedia": 23,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 4
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-05",
+   "adv": "Academia Puerto Cabello",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     5,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     9,
+     10
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  }
+ ]
+}

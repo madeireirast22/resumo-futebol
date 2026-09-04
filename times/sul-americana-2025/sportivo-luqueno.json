@@ -1,0 +1,539 @@
+{
+ "time": "Sportivo Luqueño",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 1.57,
+  "contraMedia": 3,
+  "totalMedia": 4.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 4.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 4.14,
+  "contraMedia": 5.86,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 8.33
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 4,
+  "contraMedia": 6.43,
+  "totalMedia": 10.43,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 4.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 9.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 10.43,
+  "contraMedia": 14.71,
+  "totalMedia": 25.14,
+  "casa": {
+   "jogos": 4,
+   "pro": 10.5,
+   "contra": 11.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 19.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 1.29,
+  "contraMedia": 2.43,
+  "totalMedia": 3.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 3.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 2.71,
+  "contraMedia": 5.14,
+  "totalMedia": 7.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 6.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.57,
+  "contraMedia": 1,
+  "totalMedia": 1.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.43,
+  "contraMedia": 2,
+  "totalMedia": 4.43,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 11.71,
+  "contraMedia": 11.86,
+  "totalMedia": 23.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 12.75,
+   "contra": 12.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 11.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-05",
+   "adv": "Sportivo Ameliano",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     8,
+     2
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-03",
+   "adv": "Grêmio",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     3,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     8,
+     10
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-09",
+   "adv": "Godoy Cruz",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     11
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     16,
+     15
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-04-24",
+   "adv": "Club Atlético Grau",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     12,
+     14
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-06",
+   "adv": "Godoy Cruz",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     8,
+     18
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Club Atlético Grau",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     12,
+     9
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-29",
+   "adv": "Grêmio",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     8
+    ],
+    "ch": [
+     1,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     13
+    ],
+    "ch": [
+     3,
+     29
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  }
+ ]
+}

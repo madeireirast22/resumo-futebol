@@ -1,0 +1,596 @@
+{
+ "time": "River Plate",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 2.38,
+  "contraMedia": 0.75,
+  "totalMedia": 3.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 1
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 4.5,
+  "contraMedia": 2.38,
+  "totalMedia": 6.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 2.25
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 6.25,
+  "contraMedia": 3.88,
+  "totalMedia": 10.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 8.5,
+   "contra": 3.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 4.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 14.5,
+  "contraMedia": 8.75,
+  "totalMedia": 23.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 19.75,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 9.25,
+   "contra": 9.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 2.38,
+  "contraMedia": 1.25,
+  "totalMedia": 3.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 1.75
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 5.5,
+  "contraMedia": 2.63,
+  "totalMedia": 8.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 6.75,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 3
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0.88,
+  "contraMedia": 1.13,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 2
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 2.5,
+  "contraMedia": 2.63,
+  "totalMedia": 5.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 4
+  }
+ },
+ "faltas_ht": {
+  "jogos": 8,
+  "proMedia": 6.63,
+  "contraMedia": 6.25,
+  "totalMedia": 12.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 6,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 6.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 13.25,
+  "contraMedia": 12.38,
+  "totalMedia": 25.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 13.5,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 13,
+   "contra": 12.75
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-09",
+   "adv": "Blooming",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     2,
+     5
+    ],
+    "car": [
+     0,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     5,
+     10
+    ],
+    "car": [
+     0,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Carabobo FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     3,
+     3
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     14,
+     4
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-01",
+   "adv": "Red Bull Bragantino",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     2,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     14,
+     12
+    ],
+    "car": [
+     4,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2026-05-08",
+   "adv": "Carabobo FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     7,
+     2
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     15,
+     7
+    ],
+    "car": [
+     6,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-21",
+   "adv": "Red Bull Bragantino",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     12,
+     14
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-28",
+   "adv": "Blooming",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     10,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     0
+    ],
+    "ch": [
+     22,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-20",
+   "adv": "Independiente Santa Fe",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     4
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-27",
+   "adv": "Independiente Santa Fe",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    8,
+    9
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     17,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     31,
+     12
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  }
+ ]
+}

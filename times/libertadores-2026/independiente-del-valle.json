@@ -1,0 +1,596 @@
+{
+ "time": "Independiente del Valle",
+ "competicao": {
+  "chave": "libertadores-2026",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2026",
+  "torneioId": 384,
+  "temporadaId": 87760,
+  "jogos": 141,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 141,
+   "media": 4.21,
+   "overs": {
+    "1.5": 90.8,
+    "2.5": 79.4,
+    "3.5": 57.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 141,
+   "media": 8.96,
+   "overs": {
+    "7.5": 66,
+    "8.5": 52.5,
+    "9.5": 43.3,
+    "10.5": 35.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 141,
+   "media": 12.03,
+   "overs": {
+    "7.5": 88.7,
+    "9.5": 72.3,
+    "11.5": 51.8
+   }
+  },
+  "chutes_ft": {
+   "jogos": 141,
+   "media": 25.26,
+   "overs": {
+    "19.5": 83,
+    "21.5": 72.3,
+    "23.5": 55.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 141,
+   "media": 3.8,
+   "overs": {
+    "2.5": 76.6,
+    "3.5": 53.2,
+    "4.5": 32.6
+   }
+  },
+  "alvo_ft": {
+   "jogos": 141,
+   "media": 8.3,
+   "overs": {
+    "6.5": 70.2,
+    "7.5": 55.3,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 138,
+   "media": 1.75,
+   "overs": {
+    "0.5": 76.8,
+    "1.5": 55.1,
+    "2.5": 26.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 138,
+   "media": 4.7,
+   "overs": {
+    "3.5": 71.7,
+    "4.5": 47.8,
+    "5.5": 32.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 141,
+   "media": 10.82,
+   "overs": {
+    "9.5": 64.5,
+    "11.5": 41.8,
+    "13.5": 22
+   }
+  },
+  "faltas_ft": {
+   "jogos": 141,
+   "media": 22.44,
+   "overs": {
+    "21.5": 62.4,
+    "23.5": 43.3,
+    "25.5": 30.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 4,
+  "contraMedia": 0.88,
+  "totalMedia": 4.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.5,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 0.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 6.5,
+  "contraMedia": 3.13,
+  "totalMedia": 9.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 7.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5.5,
+   "contra": 3.75
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 11.13,
+  "contraMedia": 5.13,
+  "totalMedia": 16.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 14,
+   "contra": 3.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 8.25,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 20.13,
+  "contraMedia": 12,
+  "totalMedia": 32.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 24.75,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 15.5,
+   "contra": 15
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 3.38,
+  "contraMedia": 2,
+  "totalMedia": 5.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 2.25
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 6.63,
+  "contraMedia": 4.38,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 4,
+   "pro": 9,
+   "contra": 3.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 5.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0.25,
+  "contraMedia": 0.75,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 1.25,
+  "contraMedia": 2.38,
+  "totalMedia": 3.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 2.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 8,
+  "proMedia": 2.88,
+  "contraMedia": 3.25,
+  "totalMedia": 6.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 6.13,
+  "contraMedia": 8.63,
+  "totalMedia": 14.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 5,
+   "contra": 8.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 8.75
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-09",
+   "adv": "Rosario Central",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     9
+    ],
+    "ch": [
+     10,
+     26
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Universidad Central",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     8,
+     0
+    ],
+    "ch": [
+     24,
+     2
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     33,
+     13
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-04-28",
+   "adv": "Libertad",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-06",
+   "adv": "Universidad Central",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     12,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     1
+    ],
+    "ch": [
+     28,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-20",
+   "adv": "Libertad",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    4,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     4
+    ],
+    "ch": [
+     21,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-27",
+   "adv": "Rosario Central",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     12,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     25,
+     6
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-08-19",
+   "adv": "Deportes Tolima",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     4,
+     10
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     10,
+     18
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-26",
+   "adv": "Deportes Tolima",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     10,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     20,
+     11
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  }
+ ]
+}

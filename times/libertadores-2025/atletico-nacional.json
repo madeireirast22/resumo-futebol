@@ -1,0 +1,580 @@
+{
+ "time": "Atlético Nacional",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 3.63,
+  "contraMedia": 2.25,
+  "totalMedia": 5.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 5.25,
+  "contraMedia": 5,
+  "totalMedia": 10.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 6,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.5,
+   "contra": 5.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 7.75,
+  "contraMedia": 4,
+  "totalMedia": 11.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 8.25,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 5.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 14,
+  "contraMedia": 10.38,
+  "totalMedia": 24.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 16,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 12,
+   "contra": 12.75
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 1.13,
+  "contraMedia": 1.38,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 3.75,
+  "contraMedia": 3.88,
+  "totalMedia": 7.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 5.25
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0.5,
+  "contraMedia": 1.38,
+  "totalMedia": 1.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 1.75
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 2.5,
+  "contraMedia": 2.25,
+  "totalMedia": 4.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 2.75
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 12.13,
+  "contraMedia": 11.25,
+  "totalMedia": 23.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 13,
+   "contra": 9.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 11.25,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-03",
+   "adv": "Nacional",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     13,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     22,
+     11
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-04-10",
+   "adv": "Internacional",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     4
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     14,
+     10
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-25",
+   "adv": "Bahia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     7
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     10
+    ],
+    "ch": [
+     10,
+     13
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-09",
+   "adv": "Internacional",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     6,
+     2
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     11,
+     10
+    ],
+    "car": [
+     4,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Bahia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     5,
+     1
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     11,
+     6
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-28",
+   "adv": "Nacional",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     0,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     6
+    ],
+    "ch": [
+     14,
+     9
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-13",
+   "adv": "São Paulo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     9,
+     4
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     20,
+     5
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-20",
+   "adv": "São Paulo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    4,
+    5
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     10,
+     19
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "time": "Jacuipense",
+ "competicao": {
+  "chave": "copa-do-brasil-2026",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2026",
+  "torneioId": 373,
+  "temporadaId": 89353,
+  "jogos": 64,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 64,
+   "media": 4.16,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 71.9,
+    "3.5": 51.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 64,
+   "media": 9.45,
+   "overs": {
+    "7.5": 64.1,
+    "8.5": 59.4,
+    "9.5": 50,
+    "10.5": 34.4
+   }
+  },
+  "chutes_ht": {
+   "jogos": 64,
+   "media": 11.88,
+   "overs": {
+    "7.5": 82.8,
+    "9.5": 76.6,
+    "11.5": 56.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 64,
+   "media": 25.72,
+   "overs": {
+    "19.5": 84.4,
+    "21.5": 79.7,
+    "23.5": 68.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 64,
+   "media": 3.7,
+   "overs": {
+    "2.5": 62.5,
+    "3.5": 46.9,
+    "4.5": 31.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 64,
+   "media": 7.84,
+   "overs": {
+    "6.5": 64.1,
+    "7.5": 53.1,
+    "8.5": 37.5
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 63,
+   "media": 1.56,
+   "overs": {
+    "0.5": 73,
+    "1.5": 44.4,
+    "2.5": 22.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 63,
+   "media": 4.76,
+   "overs": {
+    "3.5": 69.8,
+    "4.5": 52.4,
+    "5.5": 38.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 64,
+   "media": 13.72,
+   "overs": {
+    "9.5": 87.5,
+    "11.5": 65.6,
+    "13.5": 48.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 64,
+   "media": 28.11,
+   "overs": {
+    "21.5": 84.4,
+    "23.5": 73.4,
+    "25.5": 64.1
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 4,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 9.67,
+  "totalMedia": 11.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 15
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 3.33,
+  "contraMedia": 8,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 11
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 6,
+  "contraMedia": 23,
+  "totalMedia": 29,
+  "casa": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 18.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 32
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 2.33,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 5.67,
+  "totalMedia": 7.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 6
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 0.67,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 1,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 6,
+  "contraMedia": 7,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 9
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 13,
+  "contraMedia": 14.67,
+  "totalMedia": 27.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 14,
+   "contra": 14.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 15
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-19",
+   "adv": "Grêmio Novorizontino",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    5,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     10,
+     12
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-23",
+   "adv": "Palmeiras",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     4,
+     11
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     15
+    ],
+    "ch": [
+     5,
+     32
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-14",
+   "adv": "Palmeiras",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     0,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     8
+    ],
+    "ch": [
+     3,
+     25
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  }
+ ]
+}

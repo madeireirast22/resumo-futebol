@@ -1,0 +1,555 @@
+{
+ "time": "Millonarios",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 3.14,
+  "contraMedia": 3.14,
+  "totalMedia": 6.29,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 3.25
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 6.29,
+  "contraMedia": 5.57,
+  "totalMedia": 11.86,
+  "casa": {
+   "jogos": 3,
+   "pro": 9,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 6.75
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 8.57,
+  "contraMedia": 4.57,
+  "totalMedia": 13.14,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 4.25
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 17.57,
+  "contraMedia": 10.43,
+  "totalMedia": 28,
+  "casa": {
+   "jogos": 3,
+   "pro": 23,
+   "contra": 7.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 13.5,
+   "contra": 12.75
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 2.29,
+  "contraMedia": 1.71,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.75
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 5.57,
+  "contraMedia": 3.14,
+  "totalMedia": 8.71,
+  "casa": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 4.25
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.43,
+  "contraMedia": 1.29,
+  "totalMedia": 1.71,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 0.75
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.29,
+  "contraMedia": 3.14,
+  "totalMedia": 5.43,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 3.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 7,
+  "proMedia": 5.29,
+  "contraMedia": 5.86,
+  "totalMedia": 11.14,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.67,
+   "contra": 5.33
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 5.75,
+   "contra": 6.25
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 13,
+  "contraMedia": 10.43,
+  "totalMedia": 23.43,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 9.67
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 15,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-05",
+   "adv": "Atlético Nacional",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     11
+    ],
+    "ch": [
+     8,
+     17
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-04-08",
+   "adv": "O'Higgins",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     2,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     7
+    ],
+    "ch": [
+     7,
+     11
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-16",
+   "adv": "Boston River",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     3
+    ],
+    "ch": [
+     21,
+     8
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-29",
+   "adv": "São Paulo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     10,
+     8
+    ],
+    "car": [
+     0,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     5
+    ],
+    "ch": [
+     25,
+     9
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Boston River",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    4,
+    2
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     17,
+     2
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     29,
+     8
+    ],
+    "car": [
+     0,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-05-20",
+   "adv": "São Paulo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     10,
+     15
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-05-26",
+   "adv": "O'Higgins",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     11,
+     4
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     4
+    ],
+    "ch": [
+     23,
+     5
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  }
+ ]
+}

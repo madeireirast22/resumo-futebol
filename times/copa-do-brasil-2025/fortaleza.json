@@ -1,0 +1,334 @@
+{
+ "time": "Fortaleza",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 3,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 10.5,
+  "contraMedia": 5.5,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 8.5,
+  "totalMedia": 14.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 11
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 20,
+  "contraMedia": 17,
+  "totalMedia": 37,
+  "casa": {
+   "jogos": 1,
+   "pro": 18,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 22,
+   "contra": 22
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 2,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 6.5,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 1,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 2.5,
+  "totalMedia": 6.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 13,
+  "contraMedia": 11.5,
+  "totalMedia": 24.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-29",
+   "adv": "Retrô",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     5,
+     11
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     5
+    ],
+    "ch": [
+     22,
+     22
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-05-21",
+   "adv": "Retrô",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    5
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     6
+    ],
+    "ch": [
+     18,
+     12
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  }
+ ]
+}

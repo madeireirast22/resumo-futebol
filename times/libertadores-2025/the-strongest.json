@@ -1,0 +1,334 @@
+{
+ "time": "The Strongest",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 4.5,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 9,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 22,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 21
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 23
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 4.5,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 8.5,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 1,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 1.5,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 9,
+  "contraMedia": 9.5,
+  "totalMedia": 18.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 6
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-02-19",
+   "adv": "Bahia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     6,
+     11
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     13,
+     21
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-02-26",
+   "adv": "Bahia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     3,
+     23
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  }
+ ]
+}

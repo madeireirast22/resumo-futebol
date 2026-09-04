@@ -1,0 +1,621 @@
+{
+ "time": "Palestino",
+ "competicao": {
+  "chave": "sul-americana-2025",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2025",
+  "torneioId": 480,
+  "temporadaId": 70070,
+  "jogos": 156,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 156,
+   "media": 4.33,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 78.2,
+    "3.5": 61.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 156,
+   "media": 8.79,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.7,
+    "9.5": 35.9,
+    "10.5": 27.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 156,
+   "media": 11.83,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.2,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 156,
+   "media": 26.09,
+   "overs": {
+    "19.5": 87.8,
+    "21.5": 75.6,
+    "23.5": 64.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 156,
+   "media": 3.56,
+   "overs": {
+    "2.5": 67.3,
+    "3.5": 48.1,
+    "4.5": 30.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 156,
+   "media": 8.13,
+   "overs": {
+    "6.5": 68.6,
+    "7.5": 53.2,
+    "8.5": 42.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 154,
+   "media": 1.49,
+   "overs": {
+    "0.5": 77.9,
+    "1.5": 40.9,
+    "2.5": 21.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 154,
+   "media": 4.55,
+   "overs": {
+    "3.5": 67.5,
+    "4.5": 51.3,
+    "5.5": 31.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 62.5,
+    "13.5": 37.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 155,
+   "media": 23.23,
+   "overs": {
+    "21.5": 63.2,
+    "23.5": 50.3,
+    "25.5": 32.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 9,
+  "proMedia": 2.78,
+  "contraMedia": 4.56,
+  "totalMedia": 7.33,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 3.75
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2.4,
+   "contra": 5.2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 9,
+  "proMedia": 5.11,
+  "contraMedia": 8.11,
+  "totalMedia": 13.22,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.5,
+   "contra": 6.75
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4.8,
+   "contra": 9.2
+  }
+ },
+ "chutes_ht": {
+  "jogos": 9,
+  "proMedia": 4.33,
+  "contraMedia": 10.67,
+  "totalMedia": 15,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.5,
+   "contra": 8.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3.4,
+   "contra": 12.4
+  }
+ },
+ "chutes_ft": {
+  "jogos": 9,
+  "proMedia": 11.33,
+  "contraMedia": 18.22,
+  "totalMedia": 29.56,
+  "casa": {
+   "jogos": 4,
+   "pro": 15,
+   "contra": 14.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 8.4,
+   "contra": 21.2
+  }
+ },
+ "alvo_ht": {
+  "jogos": 9,
+  "proMedia": 1.67,
+  "contraMedia": 2.44,
+  "totalMedia": 4.11,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1,
+   "contra": 2.6
+  }
+ },
+ "alvo_ft": {
+  "jogos": 9,
+  "proMedia": 4.33,
+  "contraMedia": 5.22,
+  "totalMedia": 9.56,
+  "casa": {
+   "jogos": 4,
+   "pro": 6,
+   "contra": 3.75
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3,
+   "contra": 6.4
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 9,
+  "proMedia": 0.44,
+  "contraMedia": 1.22,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 0.6,
+   "contra": 1.2
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 9,
+  "proMedia": 2.33,
+  "contraMedia": 2.33,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2.4,
+   "contra": 2.2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 9,
+  "proMedia": 11.44,
+  "contraMedia": 12.22,
+  "totalMedia": 23.67,
+  "casa": {
+   "jogos": 4,
+   "pro": 10.5,
+   "contra": 11.25
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 12.2,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-05",
+   "adv": "Universidad Católica",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    6,
+    5
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     5,
+     16
+    ],
+    "car": [
+     1,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     10,
+     29
+    ],
+    "car": [
+     2,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-04-04",
+   "adv": "Mushuc Runa SC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     8,
+     0
+    ],
+    "ch": [
+     3,
+     10
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     4
+    ],
+    "ch": [
+     7,
+     20
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-04-09",
+   "adv": "Club Atlético Unión de Santa Fe",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     9
+    ],
+    "ch": [
+     12,
+     17
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-04-25",
+   "adv": "Cruzeiro",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     8
+    ],
+    "ch": [
+     12,
+     15
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-07",
+   "adv": "Club Atlético Unión de Santa Fe",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     4,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     9
+    ],
+    "ch": [
+     15,
+     14
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-05-15",
+   "adv": "Cruzeiro",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     11
+    ],
+    "ch": [
+     3,
+     15
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     16
+    ],
+    "ch": [
+     7,
+     24
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-29",
+   "adv": "Mushuc Runa SC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     4,
+     13
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     8
+    ],
+    "ch": [
+     14,
+     18
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-07-16",
+   "adv": "Bolívar",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     8
+    ],
+    "ch": [
+     2,
+     11
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     13
+    ],
+    "ch": [
+     3,
+     19
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-07-23",
+   "adv": "Bolívar",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     22,
+     8
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

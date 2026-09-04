@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-04T17:20:58.717Z",
+ "gerado": "2026-09-04T17:38:58.360Z",
  "competicoes": [
   {
    "chave": "brasileirao-a-2025",
@@ -10,7 +10,7 @@
    "temporadaId": 72034,
    "jogos": 380,
    "jogosNaFonte": null,
-   "arquivo": "json/brasileirao-a-2025.json",
+   "arquivo": "brasileirao-a-2025.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 380,
@@ -103,7 +103,89 @@
       "25.5": 64.6
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/brasileirao-a-2025/atletico-mineiro.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/brasileirao-a-2025/bahia.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/brasileirao-a-2025/botafogo.json"
+    },
+    {
+     "time": "Ceará",
+     "arquivo": "times/brasileirao-a-2025/ceara.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/brasileirao-a-2025/corinthians.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/brasileirao-a-2025/cruzeiro.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/brasileirao-a-2025/flamengo.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/brasileirao-a-2025/fluminense.json"
+    },
+    {
+     "time": "Fortaleza",
+     "arquivo": "times/brasileirao-a-2025/fortaleza.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/brasileirao-a-2025/gremio.json"
+    },
+    {
+     "time": "Internacional",
+     "arquivo": "times/brasileirao-a-2025/internacional.json"
+    },
+    {
+     "time": "Juventude",
+     "arquivo": "times/brasileirao-a-2025/juventude.json"
+    },
+    {
+     "time": "Mirassol",
+     "arquivo": "times/brasileirao-a-2025/mirassol.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/brasileirao-a-2025/palmeiras.json"
+    },
+    {
+     "time": "Red Bull Bragantino",
+     "arquivo": "times/brasileirao-a-2025/red-bull-bragantino.json"
+    },
+    {
+     "time": "Santos",
+     "arquivo": "times/brasileirao-a-2025/santos.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/brasileirao-a-2025/sao-paulo.json"
+    },
+    {
+     "time": "Sport Recife",
+     "arquivo": "times/brasileirao-a-2025/sport-recife.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/brasileirao-a-2025/vasco-da-gama.json"
+    },
+    {
+     "time": "Vitória",
+     "arquivo": "times/brasileirao-a-2025/vitoria.json"
+    }
+   ]
   },
   {
    "chave": "brasileirao-a-2026",
@@ -114,7 +196,7 @@
    "temporadaId": 87678,
    "jogos": 235,
    "jogosNaFonte": null,
-   "arquivo": "json/brasileirao-a-2026.json",
+   "arquivo": "brasileirao-a-2026.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 235,
@@ -207,7 +289,89 @@
       "25.5": 52.3
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Athletico",
+     "arquivo": "times/brasileirao-a-2026/athletico.json"
+    },
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/brasileirao-a-2026/atletico-mineiro.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/brasileirao-a-2026/bahia.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/brasileirao-a-2026/botafogo.json"
+    },
+    {
+     "time": "Chapecoense",
+     "arquivo": "times/brasileirao-a-2026/chapecoense.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/brasileirao-a-2026/corinthians.json"
+    },
+    {
+     "time": "Coritiba",
+     "arquivo": "times/brasileirao-a-2026/coritiba.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/brasileirao-a-2026/cruzeiro.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/brasileirao-a-2026/flamengo.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/brasileirao-a-2026/fluminense.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/brasileirao-a-2026/gremio.json"
+    },
+    {
+     "time": "Internacional",
+     "arquivo": "times/brasileirao-a-2026/internacional.json"
+    },
+    {
+     "time": "Mirassol",
+     "arquivo": "times/brasileirao-a-2026/mirassol.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/brasileirao-a-2026/palmeiras.json"
+    },
+    {
+     "time": "Red Bull Bragantino",
+     "arquivo": "times/brasileirao-a-2026/red-bull-bragantino.json"
+    },
+    {
+     "time": "Remo",
+     "arquivo": "times/brasileirao-a-2026/remo.json"
+    },
+    {
+     "time": "Santos",
+     "arquivo": "times/brasileirao-a-2026/santos.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/brasileirao-a-2026/sao-paulo.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/brasileirao-a-2026/vasco-da-gama.json"
+    },
+    {
+     "time": "Vitória",
+     "arquivo": "times/brasileirao-a-2026/vitoria.json"
+    }
+   ]
   },
   {
    "chave": "brasileirao-b-2025",
@@ -218,7 +382,7 @@
    "temporadaId": 72603,
    "jogos": 168,
    "jogosNaFonte": 380,
-   "arquivo": "json/brasileirao-b-2025.json",
+   "arquivo": "brasileirao-b-2025.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 168,
@@ -311,7 +475,93 @@
       "25.5": 60
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Amazonas FC",
+     "arquivo": "times/brasileirao-b-2025/amazonas-fc.json"
+    },
+    {
+     "time": "América Mineiro",
+     "arquivo": "times/brasileirao-b-2025/america-mineiro.json"
+    },
+    {
+     "time": "Athletic Club",
+     "arquivo": "times/brasileirao-b-2025/athletic-club.json"
+    },
+    {
+     "time": "Athletico",
+     "arquivo": "times/brasileirao-b-2025/athletico.json"
+    },
+    {
+     "time": "Atlético Goianiense",
+     "arquivo": "times/brasileirao-b-2025/atletico-goianiense.json"
+    },
+    {
+     "time": "Avaí",
+     "arquivo": "times/brasileirao-b-2025/avai.json"
+    },
+    {
+     "time": "Botafogo-SP",
+     "arquivo": "times/brasileirao-b-2025/botafogo-sp.json"
+    },
+    {
+     "time": "Chapecoense",
+     "arquivo": "times/brasileirao-b-2025/chapecoense.json"
+    },
+    {
+     "time": "Clube De Regatas Brasil",
+     "arquivo": "times/brasileirao-b-2025/clube-de-regatas-brasil.json"
+    },
+    {
+     "time": "Coritiba",
+     "arquivo": "times/brasileirao-b-2025/coritiba.json"
+    },
+    {
+     "time": "Criciúma",
+     "arquivo": "times/brasileirao-b-2025/criciuma.json"
+    },
+    {
+     "time": "Cuiabá",
+     "arquivo": "times/brasileirao-b-2025/cuiaba.json"
+    },
+    {
+     "time": "Ferroviária",
+     "arquivo": "times/brasileirao-b-2025/ferroviaria.json"
+    },
+    {
+     "time": "Goiás",
+     "arquivo": "times/brasileirao-b-2025/goias.json"
+    },
+    {
+     "time": "Grêmio Novorizontino",
+     "arquivo": "times/brasileirao-b-2025/gremio-novorizontino.json"
+    },
+    {
+     "time": "Operário-PR",
+     "arquivo": "times/brasileirao-b-2025/operario-pr.json"
+    },
+    {
+     "time": "Paysandu SC",
+     "arquivo": "times/brasileirao-b-2025/paysandu-sc.json"
+    },
+    {
+     "time": "Remo",
+     "arquivo": "times/brasileirao-b-2025/remo.json"
+    },
+    {
+     "time": "Vila Nova FC",
+     "arquivo": "times/brasileirao-b-2025/vila-nova-fc.json"
+    },
+    {
+     "time": "Vila Nova FC Mirador",
+     "arquivo": "times/brasileirao-b-2025/vila-nova-fc-mirador.json"
+    },
+    {
+     "time": "Volta Redonda",
+     "arquivo": "times/brasileirao-b-2025/volta-redonda.json"
+    }
+   ]
   },
   {
    "chave": "brasileirao-b-2026",
@@ -322,7 +572,7 @@
    "temporadaId": 89840,
    "jogos": 238,
    "jogosNaFonte": null,
-   "arquivo": "json/brasileirao-b-2026.json",
+   "arquivo": "brasileirao-b-2026.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 238,
@@ -415,7 +665,89 @@
       "25.5": 73.1
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "América Mineiro",
+     "arquivo": "times/brasileirao-b-2026/america-mineiro.json"
+    },
+    {
+     "time": "Athletic Club",
+     "arquivo": "times/brasileirao-b-2026/athletic-club.json"
+    },
+    {
+     "time": "Atlético Goianiense",
+     "arquivo": "times/brasileirao-b-2026/atletico-goianiense.json"
+    },
+    {
+     "time": "Avaí",
+     "arquivo": "times/brasileirao-b-2026/avai.json"
+    },
+    {
+     "time": "Botafogo-SP",
+     "arquivo": "times/brasileirao-b-2026/botafogo-sp.json"
+    },
+    {
+     "time": "Ceará",
+     "arquivo": "times/brasileirao-b-2026/ceara.json"
+    },
+    {
+     "time": "Clube De Regatas Brasil",
+     "arquivo": "times/brasileirao-b-2026/clube-de-regatas-brasil.json"
+    },
+    {
+     "time": "Criciúma",
+     "arquivo": "times/brasileirao-b-2026/criciuma.json"
+    },
+    {
+     "time": "Cuiabá",
+     "arquivo": "times/brasileirao-b-2026/cuiaba.json"
+    },
+    {
+     "time": "Fortaleza",
+     "arquivo": "times/brasileirao-b-2026/fortaleza.json"
+    },
+    {
+     "time": "Goiás",
+     "arquivo": "times/brasileirao-b-2026/goias.json"
+    },
+    {
+     "time": "Grêmio Novorizontino",
+     "arquivo": "times/brasileirao-b-2026/gremio-novorizontino.json"
+    },
+    {
+     "time": "Juventude",
+     "arquivo": "times/brasileirao-b-2026/juventude.json"
+    },
+    {
+     "time": "Londrina",
+     "arquivo": "times/brasileirao-b-2026/londrina.json"
+    },
+    {
+     "time": "Náutico",
+     "arquivo": "times/brasileirao-b-2026/nautico.json"
+    },
+    {
+     "time": "Operário-PR",
+     "arquivo": "times/brasileirao-b-2026/operario-pr.json"
+    },
+    {
+     "time": "Ponte Preta",
+     "arquivo": "times/brasileirao-b-2026/ponte-preta.json"
+    },
+    {
+     "time": "São Bernardo",
+     "arquivo": "times/brasileirao-b-2026/sao-bernardo.json"
+    },
+    {
+     "time": "Sport Recife",
+     "arquivo": "times/brasileirao-b-2026/sport-recife.json"
+    },
+    {
+     "time": "Vila Nova FC",
+     "arquivo": "times/brasileirao-b-2026/vila-nova-fc.json"
+    }
+   ]
   },
   {
    "chave": "copa-do-brasil-2025",
@@ -426,7 +758,7 @@
    "temporadaId": 71944,
    "jogos": 72,
    "jogosNaFonte": null,
-   "arquivo": "json/copa-do-brasil-2025.json",
+   "arquivo": "copa-do-brasil-2025.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 72,
@@ -519,7 +851,177 @@
       "25.5": 51.4
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "AA Aparecidense",
+     "arquivo": "times/copa-do-brasil-2025/aa-aparecidense.json"
+    },
+    {
+     "time": "Águia de Marabá FC",
+     "arquivo": "times/copa-do-brasil-2025/aguia-de-maraba-fc.json"
+    },
+    {
+     "time": "Athletic Club",
+     "arquivo": "times/copa-do-brasil-2025/athletic-club.json"
+    },
+    {
+     "time": "Athletico",
+     "arquivo": "times/copa-do-brasil-2025/athletico.json"
+    },
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/copa-do-brasil-2025/atletico-mineiro.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/copa-do-brasil-2025/bahia.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/copa-do-brasil-2025/botafogo.json"
+    },
+    {
+     "time": "Botafogo-PB",
+     "arquivo": "times/copa-do-brasil-2025/botafogo-pb.json"
+    },
+    {
+     "time": "Brusque",
+     "arquivo": "times/copa-do-brasil-2025/brusque.json"
+    },
+    {
+     "time": "Capital CF",
+     "arquivo": "times/copa-do-brasil-2025/capital-cf.json"
+    },
+    {
+     "time": "Caxias",
+     "arquivo": "times/copa-do-brasil-2025/caxias.json"
+    },
+    {
+     "time": "Ceará",
+     "arquivo": "times/copa-do-brasil-2025/ceara.json"
+    },
+    {
+     "time": "Clube De Regatas Brasil",
+     "arquivo": "times/copa-do-brasil-2025/clube-de-regatas-brasil.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/copa-do-brasil-2025/corinthians.json"
+    },
+    {
+     "time": "Criciúma",
+     "arquivo": "times/copa-do-brasil-2025/criciuma.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/copa-do-brasil-2025/cruzeiro.json"
+    },
+    {
+     "time": "CSA",
+     "arquivo": "times/copa-do-brasil-2025/csa.json"
+    },
+    {
+     "time": "EC São José",
+     "arquivo": "times/copa-do-brasil-2025/ec-sao-jose.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/copa-do-brasil-2025/flamengo.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/copa-do-brasil-2025/fluminense.json"
+    },
+    {
+     "time": "Fortaleza",
+     "arquivo": "times/copa-do-brasil-2025/fortaleza.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/copa-do-brasil-2025/gremio.json"
+    },
+    {
+     "time": "Grêmio Novorizontino",
+     "arquivo": "times/copa-do-brasil-2025/gremio-novorizontino.json"
+    },
+    {
+     "time": "Internacional",
+     "arquivo": "times/copa-do-brasil-2025/internacional.json"
+    },
+    {
+     "time": "Manaus",
+     "arquivo": "times/copa-do-brasil-2025/manaus.json"
+    },
+    {
+     "time": "Maracanã",
+     "arquivo": "times/copa-do-brasil-2025/maracana.json"
+    },
+    {
+     "time": "Maringá FC",
+     "arquivo": "times/copa-do-brasil-2025/maringa-fc.json"
+    },
+    {
+     "time": "Náutico",
+     "arquivo": "times/copa-do-brasil-2025/nautico.json"
+    },
+    {
+     "time": "Nova Iguaçu",
+     "arquivo": "times/copa-do-brasil-2025/nova-iguacu.json"
+    },
+    {
+     "time": "Operário-PR",
+     "arquivo": "times/copa-do-brasil-2025/operario-pr.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/copa-do-brasil-2025/palmeiras.json"
+    },
+    {
+     "time": "Paysandu SC",
+     "arquivo": "times/copa-do-brasil-2025/paysandu-sc.json"
+    },
+    {
+     "time": "Red Bull Bragantino",
+     "arquivo": "times/copa-do-brasil-2025/red-bull-bragantino.json"
+    },
+    {
+     "time": "Retrô",
+     "arquivo": "times/copa-do-brasil-2025/retro.json"
+    },
+    {
+     "time": "Santos",
+     "arquivo": "times/copa-do-brasil-2025/santos.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/copa-do-brasil-2025/sao-paulo.json"
+    },
+    {
+     "time": "São Raimundo-RR",
+     "arquivo": "times/copa-do-brasil-2025/sao-raimundo-rr.json"
+    },
+    {
+     "time": "Sousa EC",
+     "arquivo": "times/copa-do-brasil-2025/sousa-ec.json"
+    },
+    {
+     "time": "Tocantinópolis",
+     "arquivo": "times/copa-do-brasil-2025/tocantinopolis.json"
+    },
+    {
+     "time": "União Rondonópolis",
+     "arquivo": "times/copa-do-brasil-2025/uniao-rondonopolis.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/copa-do-brasil-2025/vasco-da-gama.json"
+    },
+    {
+     "time": "Vila Nova FC",
+     "arquivo": "times/copa-do-brasil-2025/vila-nova-fc.json"
+    }
+   ]
   },
   {
    "chave": "copa-do-brasil-2026",
@@ -530,7 +1032,7 @@
    "temporadaId": 89353,
    "jogos": 64,
    "jogosNaFonte": null,
-   "arquivo": "json/copa-do-brasil-2026.json",
+   "arquivo": "copa-do-brasil-2026.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 64,
@@ -623,7 +1125,185 @@
       "25.5": 64.1
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Águia de Marabá FC",
+     "arquivo": "times/copa-do-brasil-2026/aguia-de-maraba-fc.json"
+    },
+    {
+     "time": "Athletic Club",
+     "arquivo": "times/copa-do-brasil-2026/athletic-club.json"
+    },
+    {
+     "time": "Athletico",
+     "arquivo": "times/copa-do-brasil-2026/athletico.json"
+    },
+    {
+     "time": "Atlético Goianiense",
+     "arquivo": "times/copa-do-brasil-2026/atletico-goianiense.json"
+    },
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/copa-do-brasil-2026/atletico-mineiro.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/copa-do-brasil-2026/bahia.json"
+    },
+    {
+     "time": "Barra FC",
+     "arquivo": "times/copa-do-brasil-2026/barra-fc.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/copa-do-brasil-2026/botafogo.json"
+    },
+    {
+     "time": "Ceará",
+     "arquivo": "times/copa-do-brasil-2026/ceara.json"
+    },
+    {
+     "time": "Chapecoense",
+     "arquivo": "times/copa-do-brasil-2026/chapecoense.json"
+    },
+    {
+     "time": "Clube De Regatas Brasil",
+     "arquivo": "times/copa-do-brasil-2026/clube-de-regatas-brasil.json"
+    },
+    {
+     "time": "Confiança",
+     "arquivo": "times/copa-do-brasil-2026/confianca.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/copa-do-brasil-2026/corinthians.json"
+    },
+    {
+     "time": "Coritiba",
+     "arquivo": "times/copa-do-brasil-2026/coritiba.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/copa-do-brasil-2026/cruzeiro.json"
+    },
+    {
+     "time": "Figueirense",
+     "arquivo": "times/copa-do-brasil-2026/figueirense.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/copa-do-brasil-2026/flamengo.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/copa-do-brasil-2026/fluminense.json"
+    },
+    {
+     "time": "Fortaleza",
+     "arquivo": "times/copa-do-brasil-2026/fortaleza.json"
+    },
+    {
+     "time": "Goiás",
+     "arquivo": "times/copa-do-brasil-2026/goias.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/copa-do-brasil-2026/gremio.json"
+    },
+    {
+     "time": "Grêmio Novorizontino",
+     "arquivo": "times/copa-do-brasil-2026/gremio-novorizontino.json"
+    },
+    {
+     "time": "Internacional",
+     "arquivo": "times/copa-do-brasil-2026/internacional.json"
+    },
+    {
+     "time": "Jacuipense",
+     "arquivo": "times/copa-do-brasil-2026/jacuipense.json"
+    },
+    {
+     "time": "Juventude",
+     "arquivo": "times/copa-do-brasil-2026/juventude.json"
+    },
+    {
+     "time": "Londrina",
+     "arquivo": "times/copa-do-brasil-2026/londrina.json"
+    },
+    {
+     "time": "Maringá FC",
+     "arquivo": "times/copa-do-brasil-2026/maringa-fc.json"
+    },
+    {
+     "time": "Mirassol",
+     "arquivo": "times/copa-do-brasil-2026/mirassol.json"
+    },
+    {
+     "time": "Nova Iguaçu",
+     "arquivo": "times/copa-do-brasil-2026/nova-iguacu.json"
+    },
+    {
+     "time": "Operário-PR",
+     "arquivo": "times/copa-do-brasil-2026/operario-pr.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/copa-do-brasil-2026/palmeiras.json"
+    },
+    {
+     "time": "Paysandu SC",
+     "arquivo": "times/copa-do-brasil-2026/paysandu-sc.json"
+    },
+    {
+     "time": "Ponte Preta",
+     "arquivo": "times/copa-do-brasil-2026/ponte-preta.json"
+    },
+    {
+     "time": "Portuguesa",
+     "arquivo": "times/copa-do-brasil-2026/portuguesa.json"
+    },
+    {
+     "time": "Red Bull Bragantino",
+     "arquivo": "times/copa-do-brasil-2026/red-bull-bragantino.json"
+    },
+    {
+     "time": "Remo",
+     "arquivo": "times/copa-do-brasil-2026/remo.json"
+    },
+    {
+     "time": "Santos",
+     "arquivo": "times/copa-do-brasil-2026/santos.json"
+    },
+    {
+     "time": "São Bernardo",
+     "arquivo": "times/copa-do-brasil-2026/sao-bernardo.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/copa-do-brasil-2026/sao-paulo.json"
+    },
+    {
+     "time": "Sport Recife",
+     "arquivo": "times/copa-do-brasil-2026/sport-recife.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/copa-do-brasil-2026/vasco-da-gama.json"
+    },
+    {
+     "time": "Vila Nova FC",
+     "arquivo": "times/copa-do-brasil-2026/vila-nova-fc.json"
+    },
+    {
+     "time": "Vitória",
+     "arquivo": "times/copa-do-brasil-2026/vitoria.json"
+    },
+    {
+     "time": "Volta Redonda",
+     "arquivo": "times/copa-do-brasil-2026/volta-redonda.json"
+    }
+   ]
   },
   {
    "chave": "libertadores-2025",
@@ -634,7 +1314,7 @@
    "temporadaId": 70083,
    "jogos": 154,
    "jogosNaFonte": null,
-   "arquivo": "json/libertadores-2025.json",
+   "arquivo": "libertadores-2025.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 154,
@@ -727,7 +1407,197 @@
       "25.5": 31.2
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Alianza Lima",
+     "arquivo": "times/libertadores-2025/alianza-lima.json"
+    },
+    {
+     "time": "Atlético Bucaramanga",
+     "arquivo": "times/libertadores-2025/atletico-bucaramanga.json"
+    },
+    {
+     "time": "Atlético Nacional",
+     "arquivo": "times/libertadores-2025/atletico-nacional.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/libertadores-2025/bahia.json"
+    },
+    {
+     "time": "Barcelona SC Guayaquil",
+     "arquivo": "times/libertadores-2025/barcelona-sc-guayaquil.json"
+    },
+    {
+     "time": "Blooming",
+     "arquivo": "times/libertadores-2025/blooming.json"
+    },
+    {
+     "time": "Boca Juniors",
+     "arquivo": "times/libertadores-2025/boca-juniors.json"
+    },
+    {
+     "time": "Bolívar",
+     "arquivo": "times/libertadores-2025/bolivar.json"
+    },
+    {
+     "time": "Boston River",
+     "arquivo": "times/libertadores-2025/boston-river.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/libertadores-2025/botafogo.json"
+    },
+    {
+     "time": "CA Talleres",
+     "arquivo": "times/libertadores-2025/ca-talleres.json"
+    },
+    {
+     "time": "Carabobo FC",
+     "arquivo": "times/libertadores-2025/carabobo-fc.json"
+    },
+    {
+     "time": "CD San Antonio",
+     "arquivo": "times/libertadores-2025/cd-san-antonio.json"
+    },
+    {
+     "time": "Central Córdoba",
+     "arquivo": "times/libertadores-2025/central-cordoba.json"
+    },
+    {
+     "time": "Cerro Porteño",
+     "arquivo": "times/libertadores-2025/cerro-porteno.json"
+    },
+    {
+     "time": "Club Atlético Peñarol",
+     "arquivo": "times/libertadores-2025/club-atletico-penarol.json"
+    },
+    {
+     "time": "Club Sporting Cristal",
+     "arquivo": "times/libertadores-2025/club-sporting-cristal.json"
+    },
+    {
+     "time": "Colo-Colo",
+     "arquivo": "times/libertadores-2025/colo-colo.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/libertadores-2025/corinthians.json"
+    },
+    {
+     "time": "Defensor Sporting",
+     "arquivo": "times/libertadores-2025/defensor-sporting.json"
+    },
+    {
+     "time": "Deportes Iquique",
+     "arquivo": "times/libertadores-2025/deportes-iquique.json"
+    },
+    {
+     "time": "Deportes Tolima",
+     "arquivo": "times/libertadores-2025/deportes-tolima.json"
+    },
+    {
+     "time": "Deportivo Táchira",
+     "arquivo": "times/libertadores-2025/deportivo-tachira.json"
+    },
+    {
+     "time": "El Nacional",
+     "arquivo": "times/libertadores-2025/el-nacional.json"
+    },
+    {
+     "time": "Estudiantes de La Plata",
+     "arquivo": "times/libertadores-2025/estudiantes-de-la-plata.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/libertadores-2025/flamengo.json"
+    },
+    {
+     "time": "Fortaleza",
+     "arquivo": "times/libertadores-2025/fortaleza.json"
+    },
+    {
+     "time": "Independiente del Valle",
+     "arquivo": "times/libertadores-2025/independiente-del-valle.json"
+    },
+    {
+     "time": "Independiente Santa Fe",
+     "arquivo": "times/libertadores-2025/independiente-santa-fe.json"
+    },
+    {
+     "time": "Internacional",
+     "arquivo": "times/libertadores-2025/internacional.json"
+    },
+    {
+     "time": "LDU",
+     "arquivo": "times/libertadores-2025/ldu.json"
+    },
+    {
+     "time": "Libertad",
+     "arquivo": "times/libertadores-2025/libertad.json"
+    },
+    {
+     "time": "Melgar",
+     "arquivo": "times/libertadores-2025/melgar.json"
+    },
+    {
+     "time": "Monagas",
+     "arquivo": "times/libertadores-2025/monagas.json"
+    },
+    {
+     "time": "Nacional",
+     "arquivo": "times/libertadores-2025/nacional.json"
+    },
+    {
+     "time": "Nacional Asunción",
+     "arquivo": "times/libertadores-2025/nacional-asuncion.json"
+    },
+    {
+     "time": "Ñublense",
+     "arquivo": "times/libertadores-2025/nublense.json"
+    },
+    {
+     "time": "Olimpia",
+     "arquivo": "times/libertadores-2025/olimpia.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/libertadores-2025/palmeiras.json"
+    },
+    {
+     "time": "Racing Club",
+     "arquivo": "times/libertadores-2025/racing-club.json"
+    },
+    {
+     "time": "River Plate",
+     "arquivo": "times/libertadores-2025/river-plate.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/libertadores-2025/sao-paulo.json"
+    },
+    {
+     "time": "The Strongest",
+     "arquivo": "times/libertadores-2025/the-strongest.json"
+    },
+    {
+     "time": "Universidad Central",
+     "arquivo": "times/libertadores-2025/universidad-central.json"
+    },
+    {
+     "time": "Universidad de Chile",
+     "arquivo": "times/libertadores-2025/universidad-de-chile.json"
+    },
+    {
+     "time": "Universitario de Deportes",
+     "arquivo": "times/libertadores-2025/universitario-de-deportes.json"
+    },
+    {
+     "time": "Vélez Sarsfield",
+     "arquivo": "times/libertadores-2025/velez-sarsfield.json"
+    }
+   ]
   },
   {
    "chave": "libertadores-2026",
@@ -738,7 +1608,7 @@
    "temporadaId": 87760,
    "jogos": 141,
    "jogosNaFonte": null,
-   "arquivo": "json/libertadores-2026.json",
+   "arquivo": "libertadores-2026.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 141,
@@ -831,7 +1701,197 @@
       "25.5": 30.5
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Alianza Lima",
+     "arquivo": "times/libertadores-2026/alianza-lima.json"
+    },
+    {
+     "time": "Argentinos Juniors",
+     "arquivo": "times/libertadores-2026/argentinos-juniors.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/libertadores-2026/bahia.json"
+    },
+    {
+     "time": "Barcelona SC Guayaquil",
+     "arquivo": "times/libertadores-2026/barcelona-sc-guayaquil.json"
+    },
+    {
+     "time": "Boca Juniors",
+     "arquivo": "times/libertadores-2026/boca-juniors.json"
+    },
+    {
+     "time": "Bolívar",
+     "arquivo": "times/libertadores-2026/bolivar.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/libertadores-2026/botafogo.json"
+    },
+    {
+     "time": "CA Lanús",
+     "arquivo": "times/libertadores-2026/ca-lanus.json"
+    },
+    {
+     "time": "Carabobo FC",
+     "arquivo": "times/libertadores-2026/carabobo-fc.json"
+    },
+    {
+     "time": "Cerro Porteño",
+     "arquivo": "times/libertadores-2026/cerro-porteno.json"
+    },
+    {
+     "time": "Club Always Ready",
+     "arquivo": "times/libertadores-2026/club-always-ready.json"
+    },
+    {
+     "time": "Club Atlético Peñarol",
+     "arquivo": "times/libertadores-2026/club-atletico-penarol.json"
+    },
+    {
+     "time": "Club Atlético Platense",
+     "arquivo": "times/libertadores-2026/club-atletico-platense.json"
+    },
+    {
+     "time": "Club Sporting Cristal",
+     "arquivo": "times/libertadores-2026/club-sporting-cristal.json"
+    },
+    {
+     "time": "Coquimbo Unido",
+     "arquivo": "times/libertadores-2026/coquimbo-unido.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/libertadores-2026/corinthians.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/libertadores-2026/cruzeiro.json"
+    },
+    {
+     "time": "CS 2 de Mayo",
+     "arquivo": "times/libertadores-2026/cs-2-de-mayo.json"
+    },
+    {
+     "time": "Cusco FC",
+     "arquivo": "times/libertadores-2026/cusco-fc.json"
+    },
+    {
+     "time": "Deportes Tolima",
+     "arquivo": "times/libertadores-2026/deportes-tolima.json"
+    },
+    {
+     "time": "Deportivo La Guaira",
+     "arquivo": "times/libertadores-2026/deportivo-la-guaira.json"
+    },
+    {
+     "time": "Deportivo Táchira",
+     "arquivo": "times/libertadores-2026/deportivo-tachira.json"
+    },
+    {
+     "time": "Estudiantes de La Plata",
+     "arquivo": "times/libertadores-2026/estudiantes-de-la-plata.json"
+    },
+    {
+     "time": "Flamengo",
+     "arquivo": "times/libertadores-2026/flamengo.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/libertadores-2026/fluminense.json"
+    },
+    {
+     "time": "Guaraní",
+     "arquivo": "times/libertadores-2026/guarani.json"
+    },
+    {
+     "time": "Huachipato",
+     "arquivo": "times/libertadores-2026/huachipato.json"
+    },
+    {
+     "time": "Independiente del Valle",
+     "arquivo": "times/libertadores-2026/independiente-del-valle.json"
+    },
+    {
+     "time": "Independiente Medellín",
+     "arquivo": "times/libertadores-2026/independiente-medellin.json"
+    },
+    {
+     "time": "Independiente Rivadavia",
+     "arquivo": "times/libertadores-2026/independiente-rivadavia.json"
+    },
+    {
+     "time": "Independiente Santa Fe",
+     "arquivo": "times/libertadores-2026/independiente-santa-fe.json"
+    },
+    {
+     "time": "Junior Barranquilla",
+     "arquivo": "times/libertadores-2026/junior-barranquilla.json"
+    },
+    {
+     "time": "Juventud de Las Piedras",
+     "arquivo": "times/libertadores-2026/juventud-de-las-piedras.json"
+    },
+    {
+     "time": "LDU",
+     "arquivo": "times/libertadores-2026/ldu.json"
+    },
+    {
+     "time": "Libertad",
+     "arquivo": "times/libertadores-2026/libertad.json"
+    },
+    {
+     "time": "Liverpool UY",
+     "arquivo": "times/libertadores-2026/liverpool-uy.json"
+    },
+    {
+     "time": "Mirassol",
+     "arquivo": "times/libertadores-2026/mirassol.json"
+    },
+    {
+     "time": "Nacional",
+     "arquivo": "times/libertadores-2026/nacional.json"
+    },
+    {
+     "time": "Nacional Potosí",
+     "arquivo": "times/libertadores-2026/nacional-potosi.json"
+    },
+    {
+     "time": "O'Higgins",
+     "arquivo": "times/libertadores-2026/o-higgins.json"
+    },
+    {
+     "time": "Palmeiras",
+     "arquivo": "times/libertadores-2026/palmeiras.json"
+    },
+    {
+     "time": "Rosario Central",
+     "arquivo": "times/libertadores-2026/rosario-central.json"
+    },
+    {
+     "time": "The Strongest",
+     "arquivo": "times/libertadores-2026/the-strongest.json"
+    },
+    {
+     "time": "Universidad Católica",
+     "arquivo": "times/libertadores-2026/universidad-catolica.json"
+    },
+    {
+     "time": "Universidad Católica del Ecuador",
+     "arquivo": "times/libertadores-2026/universidad-catolica-del-ecuador.json"
+    },
+    {
+     "time": "Universidad Central",
+     "arquivo": "times/libertadores-2026/universidad-central.json"
+    },
+    {
+     "time": "Universitario de Deportes",
+     "arquivo": "times/libertadores-2026/universitario-de-deportes.json"
+    }
+   ]
   },
   {
    "chave": "sul-americana-2025",
@@ -842,7 +1902,7 @@
    "temporadaId": 70070,
    "jogos": 156,
    "jogosNaFonte": null,
-   "arquivo": "json/sul-americana-2025.json",
+   "arquivo": "sul-americana-2025.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 156,
@@ -935,7 +1995,233 @@
       "25.5": 32.9
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Academia Puerto Cabello",
+     "arquivo": "times/sul-americana-2025/academia-puerto-cabello.json"
+    },
+    {
+     "time": "Alianza Lima",
+     "arquivo": "times/sul-americana-2025/alianza-lima.json"
+    },
+    {
+     "time": "América de Cali",
+     "arquivo": "times/sul-americana-2025/america-de-cali.json"
+    },
+    {
+     "time": "Asociación Deportiva Tarma",
+     "arquivo": "times/sul-americana-2025/asociacion-deportiva-tarma.json"
+    },
+    {
+     "time": "Atlético Bucaramanga",
+     "arquivo": "times/sul-americana-2025/atletico-bucaramanga.json"
+    },
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/sul-americana-2025/atletico-mineiro.json"
+    },
+    {
+     "time": "Aucas",
+     "arquivo": "times/sul-americana-2025/aucas.json"
+    },
+    {
+     "time": "Bahia",
+     "arquivo": "times/sul-americana-2025/bahia.json"
+    },
+    {
+     "time": "Bolívar",
+     "arquivo": "times/sul-americana-2025/bolivar.json"
+    },
+    {
+     "time": "Boston River",
+     "arquivo": "times/sul-americana-2025/boston-river.json"
+    },
+    {
+     "time": "CA Independiente",
+     "arquivo": "times/sul-americana-2025/ca-independiente.json"
+    },
+    {
+     "time": "CA Lanús",
+     "arquivo": "times/sul-americana-2025/ca-lanus.json"
+    },
+    {
+     "time": "Caracas F.C.",
+     "arquivo": "times/sul-americana-2025/caracas-f-c.json"
+    },
+    {
+     "time": "CD San Antonio",
+     "arquivo": "times/sul-americana-2025/cd-san-antonio.json"
+    },
+    {
+     "time": "Central Córdoba",
+     "arquivo": "times/sul-americana-2025/central-cordoba.json"
+    },
+    {
+     "time": "Cerro Largo",
+     "arquivo": "times/sul-americana-2025/cerro-largo.json"
+    },
+    {
+     "time": "Cienciano",
+     "arquivo": "times/sul-americana-2025/cienciano.json"
+    },
+    {
+     "time": "Club Atlético Grau",
+     "arquivo": "times/sul-americana-2025/club-atletico-grau.json"
+    },
+    {
+     "time": "Club Atlético Unión de Santa Fe",
+     "arquivo": "times/sul-americana-2025/club-atletico-union-de-santa-fe.json"
+    },
+    {
+     "time": "Club Aurora",
+     "arquivo": "times/sul-americana-2025/club-aurora.json"
+    },
+    {
+     "time": "Club FC Universitario",
+     "arquivo": "times/sul-americana-2025/club-fc-universitario.json"
+    },
+    {
+     "time": "Corinthians",
+     "arquivo": "times/sul-americana-2025/corinthians.json"
+    },
+    {
+     "time": "Cruzeiro",
+     "arquivo": "times/sul-americana-2025/cruzeiro.json"
+    },
+    {
+     "time": "CS 2 de Mayo",
+     "arquivo": "times/sul-americana-2025/cs-2-de-mayo.json"
+    },
+    {
+     "time": "Cusco FC",
+     "arquivo": "times/sul-americana-2025/cusco-fc.json"
+    },
+    {
+     "time": "Danubio",
+     "arquivo": "times/sul-americana-2025/danubio.json"
+    },
+    {
+     "time": "Defensa y Justicia",
+     "arquivo": "times/sul-americana-2025/defensa-y-justicia.json"
+    },
+    {
+     "time": "Deportes Iquique",
+     "arquivo": "times/sul-americana-2025/deportes-iquique.json"
+    },
+    {
+     "time": "Deportivo La Guaira",
+     "arquivo": "times/sul-americana-2025/deportivo-la-guaira.json"
+    },
+    {
+     "time": "Everton de Viña del Mar",
+     "arquivo": "times/sul-americana-2025/everton-de-vina-del-mar.json"
+    },
+    {
+     "time": "Fluminense",
+     "arquivo": "times/sul-americana-2025/fluminense.json"
+    },
+    {
+     "time": "Godoy Cruz",
+     "arquivo": "times/sul-americana-2025/godoy-cruz.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/sul-americana-2025/gremio.json"
+    },
+    {
+     "time": "Guaraní",
+     "arquivo": "times/sul-americana-2025/guarani.json"
+    },
+    {
+     "time": "GV San José",
+     "arquivo": "times/sul-americana-2025/gv-san-jose.json"
+    },
+    {
+     "time": "Huracán",
+     "arquivo": "times/sul-americana-2025/huracan.json"
+    },
+    {
+     "time": "Independiente del Valle",
+     "arquivo": "times/sul-americana-2025/independiente-del-valle.json"
+    },
+    {
+     "time": "Junior Barranquilla",
+     "arquivo": "times/sul-americana-2025/junior-barranquilla.json"
+    },
+    {
+     "time": "Melgar",
+     "arquivo": "times/sul-americana-2025/melgar.json"
+    },
+    {
+     "time": "Metropolitanos",
+     "arquivo": "times/sul-americana-2025/metropolitanos.json"
+    },
+    {
+     "time": "Millonarios",
+     "arquivo": "times/sul-americana-2025/millonarios.json"
+    },
+    {
+     "time": "Montevideo Wanderers",
+     "arquivo": "times/sul-americana-2025/montevideo-wanderers.json"
+    },
+    {
+     "time": "Mushuc Runa SC",
+     "arquivo": "times/sul-americana-2025/mushuc-runa-sc.json"
+    },
+    {
+     "time": "Nacional Potosí",
+     "arquivo": "times/sul-americana-2025/nacional-potosi.json"
+    },
+    {
+     "time": "Once Caldas",
+     "arquivo": "times/sul-americana-2025/once-caldas.json"
+    },
+    {
+     "time": "Orense SC",
+     "arquivo": "times/sul-americana-2025/orense-sc.json"
+    },
+    {
+     "time": "Palestino",
+     "arquivo": "times/sul-americana-2025/palestino.json"
+    },
+    {
+     "time": "Racing de Montevideo",
+     "arquivo": "times/sul-americana-2025/racing-de-montevideo.json"
+    },
+    {
+     "time": "Sportivo Ameliano",
+     "arquivo": "times/sul-americana-2025/sportivo-ameliano.json"
+    },
+    {
+     "time": "Sportivo Luqueño",
+     "arquivo": "times/sul-americana-2025/sportivo-luqueno.json"
+    },
+    {
+     "time": "Unión Española",
+     "arquivo": "times/sul-americana-2025/union-espanola.json"
+    },
+    {
+     "time": "Universidad Católica",
+     "arquivo": "times/sul-americana-2025/universidad-catolica.json"
+    },
+    {
+     "time": "Universidad Católica del Ecuador",
+     "arquivo": "times/sul-americana-2025/universidad-catolica-del-ecuador.json"
+    },
+    {
+     "time": "Universidad de Chile",
+     "arquivo": "times/sul-americana-2025/universidad-de-chile.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/sul-americana-2025/vasco-da-gama.json"
+    },
+    {
+     "time": "Vitória",
+     "arquivo": "times/sul-americana-2025/vitoria.json"
+    }
+   ]
   },
   {
    "chave": "sul-americana-2026",
@@ -946,7 +2232,7 @@
    "temporadaId": 87770,
    "jogos": 144,
    "jogosNaFonte": null,
-   "arquivo": "json/sul-americana-2026.json",
+   "arquivo": "sul-americana-2026.json",
    "metricas": {
     "escanteios_ht": {
      "jogos": 144,
@@ -1039,7 +2325,233 @@
       "25.5": 31.3
      }
     }
-   }
+   },
+   "times": [
+    {
+     "time": "Academia Puerto Cabello",
+     "arquivo": "times/sul-americana-2026/academia-puerto-cabello.json"
+    },
+    {
+     "time": "Alianza Atlético de Sullana",
+     "arquivo": "times/sul-americana-2026/alianza-atletico-de-sullana.json"
+    },
+    {
+     "time": "América de Cali",
+     "arquivo": "times/sul-americana-2026/america-de-cali.json"
+    },
+    {
+     "time": "Atlético Bucaramanga",
+     "arquivo": "times/sul-americana-2026/atletico-bucaramanga.json"
+    },
+    {
+     "time": "Atlético Mineiro",
+     "arquivo": "times/sul-americana-2026/atletico-mineiro.json"
+    },
+    {
+     "time": "Atlético Nacional",
+     "arquivo": "times/sul-americana-2026/atletico-nacional.json"
+    },
+    {
+     "time": "Audax Italiano",
+     "arquivo": "times/sul-americana-2026/audax-italiano.json"
+    },
+    {
+     "time": "Barracas Central",
+     "arquivo": "times/sul-americana-2026/barracas-central.json"
+    },
+    {
+     "time": "Blooming",
+     "arquivo": "times/sul-americana-2026/blooming.json"
+    },
+    {
+     "time": "Boca Juniors",
+     "arquivo": "times/sul-americana-2026/boca-juniors.json"
+    },
+    {
+     "time": "Bolívar",
+     "arquivo": "times/sul-americana-2026/bolivar.json"
+    },
+    {
+     "time": "Boston River",
+     "arquivo": "times/sul-americana-2026/boston-river.json"
+    },
+    {
+     "time": "Botafogo",
+     "arquivo": "times/sul-americana-2026/botafogo.json"
+    },
+    {
+     "time": "CA Lanús",
+     "arquivo": "times/sul-americana-2026/ca-lanus.json"
+    },
+    {
+     "time": "Carabobo FC",
+     "arquivo": "times/sul-americana-2026/carabobo-fc.json"
+    },
+    {
+     "time": "Caracas F.C.",
+     "arquivo": "times/sul-americana-2026/caracas-f-c.json"
+    },
+    {
+     "time": "CD San Antonio",
+     "arquivo": "times/sul-americana-2026/cd-san-antonio.json"
+    },
+    {
+     "time": "Cienciano",
+     "arquivo": "times/sul-americana-2026/cienciano.json"
+    },
+    {
+     "time": "Club Independiente Petrolero",
+     "arquivo": "times/sul-americana-2026/club-independiente-petrolero.json"
+    },
+    {
+     "time": "Club Sporting Cristal",
+     "arquivo": "times/sul-americana-2026/club-sporting-cristal.json"
+    },
+    {
+     "time": "Cobresal",
+     "arquivo": "times/sul-americana-2026/cobresal.json"
+    },
+    {
+     "time": "Defensor Sporting",
+     "arquivo": "times/sul-americana-2026/defensor-sporting.json"
+    },
+    {
+     "time": "Deportivo Cuenca",
+     "arquivo": "times/sul-americana-2026/deportivo-cuenca.json"
+    },
+    {
+     "time": "Deportivo Garcilaso",
+     "arquivo": "times/sul-americana-2026/deportivo-garcilaso.json"
+    },
+    {
+     "time": "Deportivo Riestra",
+     "arquivo": "times/sul-americana-2026/deportivo-riestra.json"
+    },
+    {
+     "time": "Grêmio",
+     "arquivo": "times/sul-americana-2026/gremio.json"
+    },
+    {
+     "time": "Guabirá",
+     "arquivo": "times/sul-americana-2026/guabira.json"
+    },
+    {
+     "time": "Independiente Medellín",
+     "arquivo": "times/sul-americana-2026/independiente-medellin.json"
+    },
+    {
+     "time": "Independiente Santa Fe",
+     "arquivo": "times/sul-americana-2026/independiente-santa-fe.json"
+    },
+    {
+     "time": "Juventud de Las Piedras",
+     "arquivo": "times/sul-americana-2026/juventud-de-las-piedras.json"
+    },
+    {
+     "time": "Libertad FC",
+     "arquivo": "times/sul-americana-2026/libertad-fc.json"
+    },
+    {
+     "time": "Macará",
+     "arquivo": "times/sul-americana-2026/macara.json"
+    },
+    {
+     "time": "Melgar",
+     "arquivo": "times/sul-americana-2026/melgar.json"
+    },
+    {
+     "time": "Metropolitanos",
+     "arquivo": "times/sul-americana-2026/metropolitanos.json"
+    },
+    {
+     "time": "Millonarios",
+     "arquivo": "times/sul-americana-2026/millonarios.json"
+    },
+    {
+     "time": "Monagas",
+     "arquivo": "times/sul-americana-2026/monagas.json"
+    },
+    {
+     "time": "Montevideo City Torque",
+     "arquivo": "times/sul-americana-2026/montevideo-city-torque.json"
+    },
+    {
+     "time": "Nacional",
+     "arquivo": "times/sul-americana-2026/nacional.json"
+    },
+    {
+     "time": "Nacional Asunción",
+     "arquivo": "times/sul-americana-2026/nacional-asuncion.json"
+    },
+    {
+     "time": "O'Higgins",
+     "arquivo": "times/sul-americana-2026/o-higgins.json"
+    },
+    {
+     "time": "Olimpia",
+     "arquivo": "times/sul-americana-2026/olimpia.json"
+    },
+    {
+     "time": "Orense SC",
+     "arquivo": "times/sul-americana-2026/orense-sc.json"
+    },
+    {
+     "time": "Palestino",
+     "arquivo": "times/sul-americana-2026/palestino.json"
+    },
+    {
+     "time": "Racing Club",
+     "arquivo": "times/sul-americana-2026/racing-club.json"
+    },
+    {
+     "time": "Racing de Montevideo",
+     "arquivo": "times/sul-americana-2026/racing-de-montevideo.json"
+    },
+    {
+     "time": "Recoleta FC",
+     "arquivo": "times/sul-americana-2026/recoleta-fc.json"
+    },
+    {
+     "time": "Red Bull Bragantino",
+     "arquivo": "times/sul-americana-2026/red-bull-bragantino.json"
+    },
+    {
+     "time": "River Plate",
+     "arquivo": "times/sul-americana-2026/river-plate.json"
+    },
+    {
+     "time": "San Lorenzo",
+     "arquivo": "times/sul-americana-2026/san-lorenzo.json"
+    },
+    {
+     "time": "Santos",
+     "arquivo": "times/sul-americana-2026/santos.json"
+    },
+    {
+     "time": "São Paulo",
+     "arquivo": "times/sul-americana-2026/sao-paulo.json"
+    },
+    {
+     "time": "Sportivo Trinidense",
+     "arquivo": "times/sul-americana-2026/sportivo-trinidense.json"
+    },
+    {
+     "time": "Tigre",
+     "arquivo": "times/sul-americana-2026/tigre.json"
+    },
+    {
+     "time": "Universidad Central",
+     "arquivo": "times/sul-americana-2026/universidad-central.json"
+    },
+    {
+     "time": "Universidad de Chile",
+     "arquivo": "times/sul-americana-2026/universidad-de-chile.json"
+    },
+    {
+     "time": "Vasco da Gama",
+     "arquivo": "times/sul-americana-2026/vasco-da-gama.json"
+    }
+   ]
   }
  ]
 }

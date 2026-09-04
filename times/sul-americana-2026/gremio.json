@@ -1,0 +1,596 @@
+{
+ "time": "Grêmio",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 2.75,
+  "contraMedia": 2.63,
+  "totalMedia": 5.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 3.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 5,
+  "contraMedia": 4.88,
+  "totalMedia": 9.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 5.25
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 7.13,
+  "contraMedia": 6.25,
+  "totalMedia": 13.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 8.25,
+   "contra": 4.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 6,
+   "contra": 7.75
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 15.13,
+  "contraMedia": 14.25,
+  "totalMedia": 29.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 19.75,
+   "contra": 12.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 10.5,
+   "contra": 15.75
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 2.13,
+  "contraMedia": 1.63,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 5.38,
+  "contraMedia": 4.38,
+  "totalMedia": 9.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.5,
+   "contra": 4.25
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0.63,
+  "contraMedia": 0.75,
+  "totalMedia": 1.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1,
+   "contra": 0.75
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 2.63,
+  "contraMedia": 2,
+  "totalMedia": 4.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 3,
+   "contra": 2.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.75
+  }
+ },
+ "faltas_ht": {
+  "jogos": 8,
+  "proMedia": 3.5,
+  "contraMedia": 8,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.25,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 8
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 10.38,
+  "contraMedia": 14.88,
+  "totalMedia": 25.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 13.25,
+   "contra": 12.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.5,
+   "contra": 17.25
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-09",
+   "adv": "Montevideo City Torque",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     7,
+     8
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-14",
+   "adv": "Deportivo Riestra",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     7,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     2
+    ],
+    "ch": [
+     17,
+     3
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-30",
+   "adv": "Palestino",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     10,
+     10
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-05",
+   "adv": "Deportivo Riestra",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     12,
+     14
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-21",
+   "adv": "Palestino",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     7,
+     4
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     10
+    ],
+    "ch": [
+     11,
+     17
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-05-26",
+   "adv": "Montevideo City Torque",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     20,
+     12
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-23",
+   "adv": "Bolívar",
+   "mando": "F",
+   "golsHt": [
+    2,
+    2
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     10,
+     12
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     13,
+     31
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-07-30",
+   "adv": "Bolívar",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     7,
+     0
+    ],
+    "ch": [
+     14,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     1
+    ],
+    "ch": [
+     31,
+     19
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "time": "Racing Club",
+ "competicao": {
+  "chave": "sul-americana-2026",
+  "nome": "CONMEBOL Sul-Americana",
+  "apelido": "sul-americana",
+  "ano": "2026",
+  "torneioId": 480,
+  "temporadaId": 87770,
+  "jogos": 144,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 144,
+   "media": 4.7,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 83.3,
+    "3.5": 68.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 144,
+   "media": 9.08,
+   "overs": {
+    "7.5": 70.1,
+    "8.5": 57.6,
+    "9.5": 43.1,
+    "10.5": 32.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 144,
+   "media": 12.28,
+   "overs": {
+    "7.5": 91,
+    "9.5": 75.7,
+    "11.5": 51.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 144,
+   "media": 26.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 75,
+    "23.5": 63.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 144,
+   "media": 3.74,
+   "overs": {
+    "2.5": 70.1,
+    "3.5": 47.9,
+    "4.5": 29.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 144,
+   "media": 8.24,
+   "overs": {
+    "6.5": 63.9,
+    "7.5": 45.8,
+    "8.5": 36.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.56,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 46.5,
+    "2.5": 24.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 142,
+   "media": 4.76,
+   "overs": {
+    "3.5": 71.1,
+    "4.5": 48.6,
+    "5.5": 35.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 144,
+   "media": 10.45,
+   "overs": {
+    "9.5": 61.8,
+    "11.5": 39.6,
+    "13.5": 16
+   }
+  },
+  "faltas_ft": {
+   "jogos": 144,
+   "media": 22.56,
+   "overs": {
+    "21.5": 53.5,
+    "23.5": 41.7,
+    "25.5": 31.3
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 4,
+  "contraMedia": 2.17,
+  "totalMedia": 6.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 6.5,
+  "contraMedia": 3.5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 3,
+   "pro": 7.33,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 3.33
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 8.33,
+  "contraMedia": 4.83,
+  "totalMedia": 13.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 8.33,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 8.33,
+   "contra": 5.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 16.83,
+  "contraMedia": 10.5,
+  "totalMedia": 27.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 16.67,
+   "contra": 10.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 17,
+   "contra": 10.67
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2.5,
+  "contraMedia": 1.33,
+  "totalMedia": 3.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1.67
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 5.5,
+  "contraMedia": 3.5,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 3.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 3.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 0.67,
+  "contraMedia": 1,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2.17,
+  "contraMedia": 2,
+  "totalMedia": 4.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 5.17,
+  "contraMedia": 4.5,
+  "totalMedia": 9.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 4.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 12.33,
+  "contraMedia": 9.67,
+  "totalMedia": 22,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.67,
+   "contra": 9.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-07",
+   "adv": "Club Independiente Petrolero",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     14,
+     13
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-15",
+   "adv": "Botafogo",
+   "mando": "C",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     8,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     5
+    ],
+    "ch": [
+     17,
+     11
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-04-29",
+   "adv": "Caracas F.C.",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     15,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     24,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-07",
+   "adv": "Botafogo",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     5,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     13,
+     12
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-22",
+   "adv": "Caracas F.C.",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     19,
+     12
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-27",
+   "adv": "Club Independiente Petrolero",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     9,
+     2
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "time": "Junior Barranquilla",
+ "competicao": {
+  "chave": "libertadores-2026",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2026",
+  "torneioId": 384,
+  "temporadaId": 87760,
+  "jogos": 141,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 141,
+   "media": 4.21,
+   "overs": {
+    "1.5": 90.8,
+    "2.5": 79.4,
+    "3.5": 57.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 141,
+   "media": 8.96,
+   "overs": {
+    "7.5": 66,
+    "8.5": 52.5,
+    "9.5": 43.3,
+    "10.5": 35.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 141,
+   "media": 12.03,
+   "overs": {
+    "7.5": 88.7,
+    "9.5": 72.3,
+    "11.5": 51.8
+   }
+  },
+  "chutes_ft": {
+   "jogos": 141,
+   "media": 25.26,
+   "overs": {
+    "19.5": 83,
+    "21.5": 72.3,
+    "23.5": 55.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 141,
+   "media": 3.8,
+   "overs": {
+    "2.5": 76.6,
+    "3.5": 53.2,
+    "4.5": 32.6
+   }
+  },
+  "alvo_ft": {
+   "jogos": 141,
+   "media": 8.3,
+   "overs": {
+    "6.5": 70.2,
+    "7.5": 55.3,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 138,
+   "media": 1.75,
+   "overs": {
+    "0.5": 76.8,
+    "1.5": 55.1,
+    "2.5": 26.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 138,
+   "media": 4.7,
+   "overs": {
+    "3.5": 71.7,
+    "4.5": 47.8,
+    "5.5": 32.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 141,
+   "media": 10.82,
+   "overs": {
+    "9.5": 64.5,
+    "11.5": 41.8,
+    "13.5": 22
+   }
+  },
+  "faltas_ft": {
+   "jogos": 141,
+   "media": 22.44,
+   "overs": {
+    "21.5": 62.4,
+    "23.5": 43.3,
+    "25.5": 30.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 1.67,
+  "contraMedia": 2.67,
+  "totalMedia": 4.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.67
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 4.83,
+  "contraMedia": 5.17,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 6.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 6.67,
+  "contraMedia": 8.5,
+  "totalMedia": 15.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 7.33,
+   "contra": 9.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 7.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 13.33,
+  "contraMedia": 16.33,
+  "totalMedia": 29.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.67,
+   "contra": 17.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 13,
+   "contra": 15
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.67
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 3,
+  "contraMedia": 4.83,
+  "totalMedia": 7.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 5.33
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 0.83,
+  "contraMedia": 0.83,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 2,
+  "contraMedia": 1.67,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 7,
+  "contraMedia": 4.33,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 7.67,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.33
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 12.5,
+  "contraMedia": 9.17,
+  "totalMedia": 21.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 14.33,
+   "contra": 9.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10.67,
+   "contra": 8.67
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-09",
+   "adv": "Palmeiras",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     11
+    ],
+    "ch": [
+     9,
+     22
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-14",
+   "adv": "Cerro Porteño",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     4,
+     4
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-04-29",
+   "adv": "Club Sporting Cristal",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     7,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     13,
+     17
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-08",
+   "adv": "Cerro Porteño",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     16,
+     12
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-21",
+   "adv": "Club Sporting Cristal",
+   "mando": "C",
+   "golsHt": [
+    3,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     9,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     16,
+     19
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-28",
+   "adv": "Palmeiras",
+   "mando": "F",
+   "golsHt": [
+    1,
+    3
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     7,
+     10
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     0
+    ],
+    "ch": [
+     17,
+     17
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  }
+ ]
+}

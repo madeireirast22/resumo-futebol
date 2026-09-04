@@ -1,0 +1,416 @@
+{
+ "time": "Melgar",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 2.25,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 2.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 5.5,
+  "contraMedia": 2.5,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 2,
+   "pro": 8.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 2.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 5.25,
+  "contraMedia": 6.75,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 6.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 9.75,
+  "contraMedia": 12.75,
+  "totalMedia": 22.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 14.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.75,
+  "contraMedia": 2.25,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 3.5,
+  "contraMedia": 3.75,
+  "totalMedia": 7.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.75,
+  "contraMedia": 0.5,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 3,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 10,
+  "contraMedia": 10.75,
+  "totalMedia": 20.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 10.5,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-02-21",
+   "adv": "Deportes Tolima",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     8,
+     14
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-02-28",
+   "adv": "Deportes Tolima",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     5,
+     7
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     9,
+     13
+    ],
+    "car": [
+     6,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-03-05",
+   "adv": "Cerro Porteño",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     17,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-03-12",
+   "adv": "Cerro Porteño",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     2,
+     9
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     5,
+     15
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  }
+ ]
+}

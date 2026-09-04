@@ -1,0 +1,662 @@
+{
+ "time": "Cerro Porteño",
+ "competicao": {
+  "chave": "libertadores-2025",
+  "nome": "CONMEBOL Libertadores",
+  "apelido": "libertadores",
+  "ano": "2025",
+  "torneioId": 384,
+  "temporadaId": 70083,
+  "jogos": 154,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 154,
+   "media": 4.29,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 80.5,
+    "3.5": 64.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 154,
+   "media": 9.13,
+   "overs": {
+    "7.5": 68.2,
+    "8.5": 57.1,
+    "9.5": 46.8,
+    "10.5": 30.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 154,
+   "media": 12.63,
+   "overs": {
+    "7.5": 88.3,
+    "9.5": 79.2,
+    "11.5": 61.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 154,
+   "media": 26.17,
+   "overs": {
+    "19.5": 89,
+    "21.5": 79.2,
+    "23.5": 64.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 154,
+   "media": 4.05,
+   "overs": {
+    "2.5": 77.9,
+    "3.5": 58.4,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 154,
+   "media": 8.66,
+   "overs": {
+    "6.5": 72.1,
+    "7.5": 64.3,
+    "8.5": 53.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 150,
+   "media": 1.84,
+   "overs": {
+    "0.5": 84.7,
+    "1.5": 62,
+    "2.5": 27.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 150,
+   "media": 4.99,
+   "overs": {
+    "3.5": 72,
+    "4.5": 51.3,
+    "5.5": 36.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 8,
+   "media": 11.13,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 154,
+   "media": 22.95,
+   "overs": {
+    "21.5": 56.5,
+    "23.5": 39,
+    "25.5": 31.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 12,
+  "proMedia": 2.17,
+  "contraMedia": 1.83,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 6,
+   "pro": 2.17,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 2.17,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 12,
+  "proMedia": 4.58,
+  "contraMedia": 5.25,
+  "totalMedia": 9.83,
+  "casa": {
+   "jogos": 6,
+   "pro": 4.67,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 4.5,
+   "contra": 6.17
+  }
+ },
+ "chutes_ht": {
+  "jogos": 12,
+  "proMedia": 7.17,
+  "contraMedia": 6.33,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 6,
+   "pro": 9,
+   "contra": 5.33
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 5.33,
+   "contra": 7.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 12,
+  "proMedia": 14.58,
+  "contraMedia": 13,
+  "totalMedia": 27.58,
+  "casa": {
+   "jogos": 6,
+   "pro": 18.17,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 11,
+   "contra": 16
+  }
+ },
+ "alvo_ht": {
+  "jogos": 12,
+  "proMedia": 2.58,
+  "contraMedia": 1.75,
+  "totalMedia": 4.33,
+  "casa": {
+   "jogos": 6,
+   "pro": 3.5,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 1.67,
+   "contra": 1.83
+  }
+ },
+ "alvo_ft": {
+  "jogos": 12,
+  "proMedia": 5.25,
+  "contraMedia": 4.42,
+  "totalMedia": 9.67,
+  "casa": {
+   "jogos": 6,
+   "pro": 6.5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 4,
+   "contra": 4.83
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 12,
+  "proMedia": 0.83,
+  "contraMedia": 1.08,
+  "totalMedia": 1.92,
+  "casa": {
+   "jogos": 6,
+   "pro": 0.83,
+   "contra": 0.83
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 0.83,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 12,
+  "proMedia": 2.33,
+  "contraMedia": 2.42,
+  "totalMedia": 4.75,
+  "casa": {
+   "jogos": 6,
+   "pro": 2.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 2.33,
+   "contra": 2.83
+  }
+ },
+ "faltas_ft": {
+  "jogos": 12,
+  "proMedia": 10.75,
+  "contraMedia": 11,
+  "totalMedia": 21.75,
+  "casa": {
+   "jogos": 6,
+   "pro": 10.17,
+   "contra": 9.67
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 11.33,
+   "contra": 12.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-05",
+   "adv": "Melgar",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     10
+    ],
+    "ch": [
+     9,
+     17
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-03-12",
+   "adv": "Melgar",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    4,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     15,
+     5
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-04-01",
+   "adv": "Bolívar",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    4,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     9,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     19,
+     10
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-04-10",
+   "adv": "Palmeiras",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     8
+    ],
+    "ch": [
+     10,
+     19
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-04-25",
+   "adv": "Club Sporting Cristal",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     10,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     25,
+     13
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-08",
+   "adv": "Palmeiras",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     10,
+     4
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     5
+    ],
+    "ch": [
+     17,
+     9
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-05-14",
+   "adv": "Club Sporting Cristal",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     9
+    ],
+    "ch": [
+     13,
+     17
+    ],
+    "car": [
+     3,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2025-05-29",
+   "adv": "Bolívar",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     2,
+     16
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     11,
+     26
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-08-13",
+   "adv": "Estudiantes de La Plata",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     9,
+     14
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-20",
+   "adv": "Estudiantes de La Plata",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     1,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     7,
+     10
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  }
+ ]
+}

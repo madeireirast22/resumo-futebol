@@ -1,0 +1,334 @@
+{
+ "time": "Náutico",
+ "competicao": {
+  "chave": "copa-do-brasil-2025",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2025",
+  "torneioId": 373,
+  "temporadaId": 71944,
+  "jogos": 72,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 72,
+   "media": 5.25,
+   "overs": {
+    "1.5": 97.2,
+    "2.5": 81.9,
+    "3.5": 75
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 72,
+   "media": 11,
+   "overs": {
+    "7.5": 76.4,
+    "8.5": 69.4,
+    "9.5": 63.9,
+    "10.5": 56.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 72,
+   "media": 12.88,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 77.8,
+    "11.5": 55.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 72,
+   "media": 26.86,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 77.8,
+    "23.5": 68.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 72,
+   "media": 4.07,
+   "overs": {
+    "2.5": 77.8,
+    "3.5": 58.3,
+    "4.5": 41.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 72,
+   "media": 8.96,
+   "overs": {
+    "6.5": 75,
+    "7.5": 63.9,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 70,
+   "media": 1.8,
+   "overs": {
+    "0.5": 78.6,
+    "1.5": 52.9,
+    "2.5": 34.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 71,
+   "media": 4.63,
+   "overs": {
+    "3.5": 66.2,
+    "4.5": 49.3,
+    "5.5": 32.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 10,
+   "media": 12.6,
+   "overs": {
+    "9.5": 90,
+    "11.5": 60,
+    "13.5": 50
+   }
+  },
+  "faltas_ft": {
+   "jogos": 72,
+   "media": 26.11,
+   "overs": {
+    "21.5": 80.6,
+    "23.5": 66.7,
+    "25.5": 51.4
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 6.5,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 7
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 5.5,
+  "contraMedia": 8.5,
+  "totalMedia": 14,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 11
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 7.5,
+  "contraMedia": 9.5,
+  "totalMedia": 17,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 12.5,
+  "contraMedia": 15.5,
+  "totalMedia": 28,
+  "casa": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 17
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 3.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 6,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 6
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0,
+  "totalMedia": 0.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 1.5,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 13.5,
+  "contraMedia": 14.5,
+  "totalMedia": 28,
+  "casa": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-04-30",
+   "adv": "São Paulo",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     11
+    ],
+    "ch": [
+     9,
+     17
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-05-21",
+   "adv": "São Paulo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     6
+    ],
+    "ch": [
+     8,
+     10
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     16,
+     14
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

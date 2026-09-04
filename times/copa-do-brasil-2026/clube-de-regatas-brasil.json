@@ -1,0 +1,391 @@
+{
+ "time": "Clube De Regatas Brasil",
+ "competicao": {
+  "chave": "copa-do-brasil-2026",
+  "nome": "Copa do Brasil",
+  "apelido": "copa-do-brasil",
+  "ano": "2026",
+  "torneioId": 373,
+  "temporadaId": 89353,
+  "jogos": 64,
+  "jogosNaFonte": null
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 64,
+   "media": 4.16,
+   "overs": {
+    "1.5": 89.1,
+    "2.5": 71.9,
+    "3.5": 51.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 64,
+   "media": 9.45,
+   "overs": {
+    "7.5": 64.1,
+    "8.5": 59.4,
+    "9.5": 50,
+    "10.5": 34.4
+   }
+  },
+  "chutes_ht": {
+   "jogos": 64,
+   "media": 11.88,
+   "overs": {
+    "7.5": 82.8,
+    "9.5": 76.6,
+    "11.5": 56.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 64,
+   "media": 25.72,
+   "overs": {
+    "19.5": 84.4,
+    "21.5": 79.7,
+    "23.5": 68.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 64,
+   "media": 3.7,
+   "overs": {
+    "2.5": 62.5,
+    "3.5": 46.9,
+    "4.5": 31.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 64,
+   "media": 7.84,
+   "overs": {
+    "6.5": 64.1,
+    "7.5": 53.1,
+    "8.5": 37.5
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 63,
+   "media": 1.56,
+   "overs": {
+    "0.5": 73,
+    "1.5": 44.4,
+    "2.5": 22.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 63,
+   "media": 4.76,
+   "overs": {
+    "3.5": 69.8,
+    "4.5": 52.4,
+    "5.5": 38.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 64,
+   "media": 13.72,
+   "overs": {
+    "9.5": 87.5,
+    "11.5": 65.6,
+    "13.5": 48.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 64,
+   "media": 28.11,
+   "overs": {
+    "21.5": 84.4,
+    "23.5": 73.4,
+    "25.5": 64.1
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 4.67,
+  "contraMedia": 2.33,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 7.33,
+  "contraMedia": 7,
+  "totalMedia": 14.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 8.5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 9
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 10.67,
+  "contraMedia": 5.33,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 17.67,
+  "contraMedia": 11.33,
+  "totalMedia": 29,
+  "casa": {
+   "jogos": 2,
+   "pro": 21.5,
+   "contra": 11.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 11
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 2.33,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 4.67,
+  "contraMedia": 3,
+  "totalMedia": 7.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 1.33,
+  "totalMedia": 2.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2.67,
+  "contraMedia": 2.33,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 7,
+  "contraMedia": 4.67,
+  "totalMedia": 11.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 15.67,
+  "contraMedia": 12.33,
+  "totalMedia": 28,
+  "casa": {
+   "jogos": 2,
+   "pro": 16.5,
+   "contra": 13.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-19",
+   "adv": "Figueirense",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     10,
+     1
+    ],
+    "ch": [
+     18,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     14,
+     4
+    ],
+    "ch": [
+     28,
+     6
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-22",
+   "adv": "Fortaleza",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     9
+    ],
+    "ch": [
+     10,
+     11
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-14",
+   "adv": "Fortaleza",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     8,
+     8
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     15,
+     17
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}
