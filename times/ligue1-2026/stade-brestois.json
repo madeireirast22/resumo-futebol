@@ -1,0 +1,391 @@
+{
+ "time": "Stade Brestois",
+ "competicao": {
+  "chave": "ligue1-2026",
+  "nome": "Ligue 1 (FRA)",
+  "apelido": "ligue1",
+  "ano": "2026",
+  "torneioId": 34,
+  "temporadaId": 96127,
+  "jogos": 24,
+  "jogosNaFonte": 24
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 24,
+   "media": 4.71,
+   "overs": {
+    "1.5": 87.5,
+    "2.5": 75,
+    "3.5": 62.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 24,
+   "media": 9.75,
+   "overs": {
+    "7.5": 75,
+    "8.5": 62.5,
+    "9.5": 54.2,
+    "10.5": 41.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 24,
+   "media": 13.21,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 91.7,
+    "11.5": 66.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 24,
+   "media": 27.96,
+   "overs": {
+    "19.5": 87.5,
+    "21.5": 87.5,
+    "23.5": 83.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 24,
+   "media": 4.54,
+   "overs": {
+    "2.5": 83.3,
+    "3.5": 66.7,
+    "4.5": 45.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 24,
+   "media": 9.54,
+   "overs": {
+    "6.5": 83.3,
+    "7.5": 79.2,
+    "8.5": 62.5
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 23,
+   "media": 1.09,
+   "overs": {
+    "0.5": 73.9,
+    "1.5": 26.1,
+    "2.5": 8.7
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 23,
+   "media": 3.26,
+   "overs": {
+    "3.5": 52.2,
+    "4.5": 21.7,
+    "5.5": 0
+   }
+  },
+  "faltas_ht": {
+   "jogos": 24,
+   "media": 10.79,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 41.7,
+    "13.5": 16.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 24,
+   "media": 22.83,
+   "overs": {
+    "21.5": 58.3,
+    "23.5": 41.7,
+    "25.5": 25
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 1,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 7.33,
+  "contraMedia": 2.67,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 9,
+  "contraMedia": 6.33,
+  "totalMedia": 15.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 24,
+  "contraMedia": 10.67,
+  "totalMedia": 34.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 27,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 22.5,
+   "contra": 13
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 3,
+  "contraMedia": 2,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 2.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 7.67,
+  "contraMedia": 3.67,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 8,
+   "contra": 4.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 0.67,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 1.67,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 7.67,
+  "contraMedia": 8.67,
+  "totalMedia": 16.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 7.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 16.33,
+  "contraMedia": 15.67,
+  "totalMedia": 32,
+  "casa": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 18
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 15,
+   "contra": 14.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-22",
+   "adv": "Le Mans",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     11,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     1
+    ],
+    "ch": [
+     26,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Toulouse",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     27,
+     6
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-09-05",
+   "adv": "Le Havre",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     8,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     5
+    ],
+    "ch": [
+     19,
+     18
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

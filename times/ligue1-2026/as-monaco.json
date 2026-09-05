@@ -1,0 +1,391 @@
+{
+ "time": "AS Monaco",
+ "competicao": {
+  "chave": "ligue1-2026",
+  "nome": "Ligue 1 (FRA)",
+  "apelido": "ligue1",
+  "ano": "2026",
+  "torneioId": 34,
+  "temporadaId": 96127,
+  "jogos": 24,
+  "jogosNaFonte": 24
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 24,
+   "media": 4.71,
+   "overs": {
+    "1.5": 87.5,
+    "2.5": 75,
+    "3.5": 62.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 24,
+   "media": 9.75,
+   "overs": {
+    "7.5": 75,
+    "8.5": 62.5,
+    "9.5": 54.2,
+    "10.5": 41.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 24,
+   "media": 13.21,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 91.7,
+    "11.5": 66.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 24,
+   "media": 27.96,
+   "overs": {
+    "19.5": 87.5,
+    "21.5": 87.5,
+    "23.5": 83.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 24,
+   "media": 4.54,
+   "overs": {
+    "2.5": 83.3,
+    "3.5": 66.7,
+    "4.5": 45.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 24,
+   "media": 9.54,
+   "overs": {
+    "6.5": 83.3,
+    "7.5": 79.2,
+    "8.5": 62.5
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 23,
+   "media": 1.09,
+   "overs": {
+    "0.5": 73.9,
+    "1.5": 26.1,
+    "2.5": 8.7
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 23,
+   "media": 3.26,
+   "overs": {
+    "3.5": 52.2,
+    "4.5": 21.7,
+    "5.5": 0
+   }
+  },
+  "faltas_ht": {
+   "jogos": 24,
+   "media": 10.79,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 41.7,
+    "13.5": 16.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 24,
+   "media": 22.83,
+   "overs": {
+    "21.5": 58.3,
+    "23.5": 41.7,
+    "25.5": 25
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 1.33,
+  "totalMedia": 2.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 3,
+  "contraMedia": 6.67,
+  "totalMedia": 9.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 6.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 6.67,
+  "contraMedia": 6,
+  "totalMedia": 12.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 7.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 10,
+  "contraMedia": 16.67,
+  "totalMedia": 26.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 18.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 2,
+  "totalMedia": 4.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 4.67,
+  "contraMedia": 5.33,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 0.67,
+  "contraMedia": 1,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 1.33,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 6,
+  "contraMedia": 7,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 10.67,
+  "contraMedia": 10.67,
+  "totalMedia": 21.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-23",
+   "adv": "Le Havre",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     11,
+     4
+    ],
+    "car": [
+     0,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     15,
+     14
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Olympique de Marseille",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     11,
+     13
+    ],
+    "car": [
+     4,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-09-04",
+   "adv": "Paris Saint-Germain",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     1,
+     11
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     6
+    ],
+    "ch": [
+     4,
+     23
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

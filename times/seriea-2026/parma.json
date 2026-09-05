@@ -1,0 +1,350 @@
+{
+ "time": "Parma",
+ "competicao": {
+  "chave": "seriea-2026",
+  "nome": "Serie A (ITA)",
+  "apelido": "seriea",
+  "ano": "2026",
+  "torneioId": 23,
+  "temporadaId": 95836,
+  "jogos": 24,
+  "jogosNaFonte": 24
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 24,
+   "media": 4.13,
+   "overs": {
+    "1.5": 91.7,
+    "2.5": 66.7,
+    "3.5": 58.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 24,
+   "media": 8.88,
+   "overs": {
+    "7.5": 58.3,
+    "8.5": 45.8,
+    "9.5": 37.5,
+    "10.5": 33.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 24,
+   "media": 13.38,
+   "overs": {
+    "7.5": 95.8,
+    "9.5": 83.3,
+    "11.5": 54.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 24,
+   "media": 29.58,
+   "overs": {
+    "19.5": 100,
+    "21.5": 91.7,
+    "23.5": 79.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 24,
+   "media": 4.38,
+   "overs": {
+    "2.5": 75,
+    "3.5": 54.2,
+    "4.5": 50
+   }
+  },
+  "alvo_ft": {
+   "jogos": 24,
+   "media": 9.08,
+   "overs": {
+    "6.5": 83.3,
+    "7.5": 66.7,
+    "8.5": 54.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 22,
+   "media": 1.27,
+   "overs": {
+    "0.5": 77.3,
+    "1.5": 27.3,
+    "2.5": 9.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 22,
+   "media": 3.18,
+   "overs": {
+    "3.5": 40.9,
+    "4.5": 13.6,
+    "5.5": 9.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 24,
+   "media": 10.54,
+   "overs": {
+    "9.5": 58.3,
+    "11.5": 29.2,
+    "13.5": 16.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 24,
+   "media": 22.17,
+   "overs": {
+    "21.5": 45.8,
+    "23.5": 33.3,
+    "25.5": 25
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 2.5,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 6,
+  "totalMedia": 8.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 10
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 7,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 8.5,
+  "contraMedia": 17.5,
+  "totalMedia": 26,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 21
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 1,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 5.5,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 6
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0,
+  "contraMedia": 1,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 2,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 10,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 11
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 9,
+  "contraMedia": 21.5,
+  "totalMedia": 30.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 20
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 23
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-22",
+   "adv": "Cagliari",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     13,
+     14
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Juventus",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     1,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     10
+    ],
+    "ch": [
+     4,
+     21
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  }
+ ]
+}

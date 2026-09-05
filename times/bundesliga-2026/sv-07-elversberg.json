@@ -1,0 +1,350 @@
+{
+ "time": "SV 07 Elversberg",
+ "competicao": {
+  "chave": "bundesliga-2026",
+  "nome": "Bundesliga (ALE)",
+  "apelido": "bundesliga",
+  "ano": "2026",
+  "torneioId": 35,
+  "temporadaId": 97464,
+  "jogos": 16,
+  "jogosNaFonte": 16
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 16,
+   "media": 5.06,
+   "overs": {
+    "1.5": 100,
+    "2.5": 87.5,
+    "3.5": 81.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 16,
+   "media": 11.44,
+   "overs": {
+    "7.5": 81.3,
+    "8.5": 81.3,
+    "9.5": 68.8,
+    "10.5": 68.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 16,
+   "media": 13.31,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 93.8,
+    "11.5": 81.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 16,
+   "media": 31.5,
+   "overs": {
+    "19.5": 93.8,
+    "21.5": 93.8,
+    "23.5": 93.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 16,
+   "media": 4.19,
+   "overs": {
+    "2.5": 81.3,
+    "3.5": 56.3,
+    "4.5": 43.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 16,
+   "media": 11,
+   "overs": {
+    "6.5": 87.5,
+    "7.5": 87.5,
+    "8.5": 75
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 16,
+   "media": 1.13,
+   "overs": {
+    "0.5": 75,
+    "1.5": 31.3,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 16,
+   "media": 3.5,
+   "overs": {
+    "3.5": 56.3,
+    "4.5": 25,
+    "5.5": 18.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 16,
+   "media": 10.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 31.3,
+    "13.5": 18.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 16,
+   "media": 22.75,
+   "overs": {
+    "21.5": 56.3,
+    "23.5": 43.8,
+    "25.5": 37.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 2.5,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 8,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 13
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 8.5,
+  "totalMedia": 14.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 12
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 12.5,
+  "contraMedia": 23,
+  "totalMedia": 35.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 21
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 25
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 1,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 6
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 7.5,
+  "contraMedia": 6,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 13.5,
+  "contraMedia": 16.5,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 1,
+   "pro": 18,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 18
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-29",
+   "adv": "Bayer 04 Leverkusen",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     11,
+     21
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-09-05",
+   "adv": "Borussia M'gladbach",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    4,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     3,
+     12
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     13
+    ],
+    "ch": [
+     14,
+     25
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  }
+ ]
+}

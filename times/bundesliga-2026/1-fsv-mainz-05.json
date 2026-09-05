@@ -1,0 +1,309 @@
+{
+ "time": "1. FSV Mainz 05",
+ "competicao": {
+  "chave": "bundesliga-2026",
+  "nome": "Bundesliga (ALE)",
+  "apelido": "bundesliga",
+  "ano": "2026",
+  "torneioId": 35,
+  "temporadaId": 97464,
+  "jogos": 16,
+  "jogosNaFonte": 16
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 16,
+   "media": 5.06,
+   "overs": {
+    "1.5": 100,
+    "2.5": 87.5,
+    "3.5": 81.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 16,
+   "media": 11.44,
+   "overs": {
+    "7.5": 81.3,
+    "8.5": 81.3,
+    "9.5": 68.8,
+    "10.5": 68.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 16,
+   "media": 13.31,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 93.8,
+    "11.5": 81.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 16,
+   "media": 31.5,
+   "overs": {
+    "19.5": 93.8,
+    "21.5": 93.8,
+    "23.5": 93.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 16,
+   "media": 4.19,
+   "overs": {
+    "2.5": 81.3,
+    "3.5": 56.3,
+    "4.5": 43.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 16,
+   "media": 11,
+   "overs": {
+    "6.5": 87.5,
+    "7.5": 87.5,
+    "8.5": 75
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 16,
+   "media": 1.13,
+   "overs": {
+    "0.5": 75,
+    "1.5": 31.3,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 16,
+   "media": 3.5,
+   "overs": {
+    "3.5": 56.3,
+    "4.5": 25,
+    "5.5": 18.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 16,
+   "media": 10.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 31.3,
+    "13.5": 18.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 16,
+   "media": 22.75,
+   "overs": {
+    "21.5": 56.3,
+    "23.5": 43.8,
+    "25.5": 37.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 2,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 11,
+  "contraMedia": 2,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 10,
+  "contraMedia": 6,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 21,
+  "contraMedia": 10,
+  "totalMedia": 31,
+  "casa": {
+   "jogos": 1,
+   "pro": 21,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 0,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 1,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 4,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 8,
+  "contraMedia": 10,
+  "totalMedia": 18,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-29",
+   "adv": "SC Paderborn 07",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     10,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     2
+    ],
+    "ch": [
+     21,
+     10
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "time": "Real Salt Lake",
+ "competicao": {
+  "chave": "mls-2026",
+  "nome": "MLS (EUA)",
+  "apelido": "mls",
+  "ano": "2026",
+  "torneioId": 242,
+  "temporadaId": 86668,
+  "jogos": 330,
+  "jogosNaFonte": 330
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 330,
+   "media": 4.58,
+   "overs": {
+    "1.5": 92.4,
+    "2.5": 81.2,
+    "3.5": 66.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 330,
+   "media": 9.96,
+   "overs": {
+    "7.5": 73.3,
+    "8.5": 64.5,
+    "9.5": 52.1,
+    "10.5": 42.1
+   }
+  },
+  "chutes_ht": {
+   "jogos": 330,
+   "media": 11.75,
+   "overs": {
+    "7.5": 88.5,
+    "9.5": 69.7,
+    "11.5": 51.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 330,
+   "media": 25.89,
+   "overs": {
+    "19.5": 84.2,
+    "21.5": 73.3,
+    "23.5": 62.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 330,
+   "media": 4.31,
+   "overs": {
+    "2.5": 80.3,
+    "3.5": 60,
+    "4.5": 43
+   }
+  },
+  "alvo_ft": {
+   "jogos": 330,
+   "media": 9.56,
+   "overs": {
+    "6.5": 80.3,
+    "7.5": 71.5,
+    "8.5": 58.8
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 324,
+   "media": 1.46,
+   "overs": {
+    "0.5": 76.2,
+    "1.5": 44.8,
+    "2.5": 17.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 324,
+   "media": 4.21,
+   "overs": {
+    "3.5": 60.2,
+    "4.5": 43.2,
+    "5.5": 25.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 330,
+   "media": 11.35,
+   "overs": {
+    "9.5": 68.2,
+    "11.5": 47.3,
+    "13.5": 26.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 330,
+   "media": 23.86,
+   "overs": {
+    "21.5": 64.8,
+    "23.5": 51.2,
+    "25.5": 35.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 21,
+  "proMedia": 1.9,
+  "contraMedia": 2.76,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 10,
+   "pro": 1.9,
+   "contra": 2.4
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 1.91,
+   "contra": 3.09
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 21,
+  "proMedia": 4.67,
+  "contraMedia": 6,
+  "totalMedia": 10.67,
+  "casa": {
+   "jogos": 10,
+   "pro": 4.7,
+   "contra": 4.9
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 4.64,
+   "contra": 7
+  }
+ },
+ "chutes_ht": {
+  "jogos": 21,
+  "proMedia": 6.33,
+  "contraMedia": 6.48,
+  "totalMedia": 12.81,
+  "casa": {
+   "jogos": 10,
+   "pro": 7.8,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 5,
+   "contra": 6.91
+  }
+ },
+ "chutes_ft": {
+  "jogos": 21,
+  "proMedia": 14,
+  "contraMedia": 13.33,
+  "totalMedia": 27.33,
+  "casa": {
+   "jogos": 10,
+   "pro": 16.5,
+   "contra": 11.9
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 11.73,
+   "contra": 14.64
+  }
+ },
+ "alvo_ht": {
+  "jogos": 21,
+  "proMedia": 2.57,
+  "contraMedia": 2.1,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 10,
+   "pro": 3.8,
+   "contra": 2.2
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 1.45,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 21,
+  "proMedia": 5.29,
+  "contraMedia": 4.33,
+  "totalMedia": 9.62,
+  "casa": {
+   "jogos": 10,
+   "pro": 7.2,
+   "contra": 4.3
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 3.55,
+   "contra": 4.36
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 20,
+  "proMedia": 0.9,
+  "contraMedia": 0.95,
+  "totalMedia": 1.85,
+  "casa": {
+   "jogos": 10,
+   "pro": 0.5,
+   "contra": 0.9
+  },
+  "fora": {
+   "jogos": 10,
+   "pro": 1.3,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 20,
+  "proMedia": 2.35,
+  "contraMedia": 2.05,
+  "totalMedia": 4.4,
+  "casa": {
+   "jogos": 10,
+   "pro": 1.8,
+   "contra": 1.9
+  },
+  "fora": {
+   "jogos": 10,
+   "pro": 2.9,
+   "contra": 2.2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 21,
+  "proMedia": 5.9,
+  "contraMedia": 5.24,
+  "totalMedia": 11.14,
+  "casa": {
+   "jogos": 10,
+   "pro": 6.4,
+   "contra": 5.1
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 5.45,
+   "contra": 5.36
+  }
+ },
+ "faltas_ft": {
+  "jogos": 21,
+  "proMedia": 12.19,
+  "contraMedia": 11.38,
+  "totalMedia": 23.57,
+  "casa": {
+   "jogos": 10,
+   "pro": 12.2,
+   "contra": 10.6
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 12.18,
+   "contra": 12.09
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-05-14",
+   "adv": "Houston Dynamo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     4,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     9,
+     15
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-17",
+   "adv": "Colorado Rapids",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     17,
+     8
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-23",
+   "adv": "Minnesota United",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-07-23",
+   "adv": "Los Angeles FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     10,
+     6
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     7
+    ],
+    "ch": [
+     28,
+     12
+    ]
+   }
+  },
+  {
+   "data": "2026-07-26",
+   "adv": "Portland Timbers",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     14
+    ],
+    "ch": [
+     6,
+     22
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-02",
+   "adv": "St.Louis City",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     0,
+     7
+    ],
+    "car": [
+     3,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     9
+    ],
+    "ch": [
+     9,
+     20
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-16",
+   "adv": "Minnesota United",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     10
+    ],
+    "ch": [
+     13,
+     15
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-20",
+   "adv": "FC Dallas",
+   "mando": "C",
+   "golsHt": [
+    1,
+    3
+   ],
+   "golsFt": [
+    3,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     14,
+     13
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-22",
+   "adv": "Orlando City SC",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     3,
+     0
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Colorado Rapids",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     2,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     4,
+     14
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  }
+ ]
+}

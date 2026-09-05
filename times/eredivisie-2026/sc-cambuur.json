@@ -1,0 +1,424 @@
+{
+ "time": "SC Cambuur",
+ "competicao": {
+  "chave": "eredivisie-2026",
+  "nome": "Eredivisie (HOL)",
+  "apelido": "eredivisie",
+  "ano": "2026",
+  "torneioId": 37,
+  "temporadaId": 96143,
+  "jogos": 37,
+  "jogosNaFonte": 37
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 37,
+   "media": 4.81,
+   "overs": {
+    "1.5": 89.2,
+    "2.5": 78.4,
+    "3.5": 59.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 37,
+   "media": 10.76,
+   "overs": {
+    "7.5": 83.8,
+    "8.5": 73,
+    "9.5": 59.5,
+    "10.5": 56.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 37,
+   "media": 13.38,
+   "overs": {
+    "7.5": 94.6,
+    "9.5": 83.8,
+    "11.5": 70.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 37,
+   "media": 29.95,
+   "overs": {
+    "19.5": 97.3,
+    "21.5": 97.3,
+    "23.5": 86.5
+   }
+  },
+  "alvo_ht": {
+   "jogos": 37,
+   "media": 4.84,
+   "overs": {
+    "2.5": 86.5,
+    "3.5": 75.7,
+    "4.5": 59.5
+   }
+  },
+  "alvo_ft": {
+   "jogos": 37,
+   "media": 10.73,
+   "overs": {
+    "6.5": 91.9,
+    "7.5": 81.1,
+    "8.5": 70.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 30,
+   "media": 0.77,
+   "overs": {
+    "0.5": 50,
+    "1.5": 23.3,
+    "2.5": 3.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 30,
+   "media": 3.07,
+   "overs": {
+    "3.5": 30,
+    "4.5": 13.3,
+    "5.5": 13.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 37,
+   "media": 9.89,
+   "overs": {
+    "9.5": 54.1,
+    "11.5": 32.4,
+    "13.5": 10.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 37,
+   "media": 20.86,
+   "overs": {
+    "21.5": 45.9,
+    "23.5": 29.7,
+    "25.5": 18.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 2.75,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 4.25,
+  "contraMedia": 6.5,
+  "totalMedia": 10.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 6.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 3.75,
+  "contraMedia": 9.5,
+  "totalMedia": 13.25,
+  "casa": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 9.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 10
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 12.5,
+  "contraMedia": 17.5,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 17.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 17
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 4.25,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4,
+  "contraMedia": 8,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 8.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 0.33,
+  "totalMedia": 0.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 0.67,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 4.75,
+  "contraMedia": 5.5,
+  "totalMedia": 10.25,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 5.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 8.75,
+  "contraMedia": 12,
+  "totalMedia": 20.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 8.67,
+   "contra": 12.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-07",
+   "adv": "Excelsior",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     4,
+     8
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     8
+    ],
+    "ch": [
+     11,
+     18
+    ]
+   }
+  },
+  {
+   "data": "2026-08-15",
+   "adv": "Fortuna Sittard",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     19,
+     17
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-08-23",
+   "adv": "Feyenoord",
+   "mando": "C",
+   "golsHt": [
+    0,
+    4
+   ],
+   "golsFt": [
+    2,
+    5
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     10,
+     14
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "FC Twente",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     2,
+     11
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     9
+    ],
+    "ch": [
+     10,
+     21
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

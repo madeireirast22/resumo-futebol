@@ -1,0 +1,350 @@
+{
+ "time": "Arsenal",
+ "competicao": {
+  "chave": "premier-2026",
+  "nome": "Premier League (ING)",
+  "apelido": "premier",
+  "ano": "2026",
+  "torneioId": 17,
+  "temporadaId": 96668,
+  "jogos": 28,
+  "jogosNaFonte": 28
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 28,
+   "media": 4.89,
+   "overs": {
+    "1.5": 100,
+    "2.5": 85.7,
+    "3.5": 78.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 28,
+   "media": 9.07,
+   "overs": {
+    "7.5": 64.3,
+    "8.5": 42.9,
+    "9.5": 39.3,
+    "10.5": 28.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 28,
+   "media": 12.89,
+   "overs": {
+    "7.5": 92.9,
+    "9.5": 82.1,
+    "11.5": 71.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 28,
+   "media": 27.21,
+   "overs": {
+    "19.5": 89.3,
+    "21.5": 85.7,
+    "23.5": 75
+   }
+  },
+  "alvo_ht": {
+   "jogos": 28,
+   "media": 4.25,
+   "overs": {
+    "2.5": 78.6,
+    "3.5": 64.3,
+    "4.5": 35.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 28,
+   "media": 8.29,
+   "overs": {
+    "6.5": 75,
+    "7.5": 50,
+    "8.5": 46.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 27,
+   "media": 1.56,
+   "overs": {
+    "0.5": 96.3,
+    "1.5": 44.4,
+    "2.5": 7.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 27,
+   "media": 3.85,
+   "overs": {
+    "3.5": 55.6,
+    "4.5": 33.3,
+    "5.5": 11.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 28,
+   "media": 11.71,
+   "overs": {
+    "9.5": 75,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 28,
+   "media": 23.43,
+   "overs": {
+    "21.5": 60.7,
+    "23.5": 42.9,
+    "25.5": 28.6
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 1,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 2,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 7,
+  "contraMedia": 2.5,
+  "totalMedia": 9.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 13.5,
+  "contraMedia": 5.5,
+  "totalMedia": 19,
+  "casa": {
+   "jogos": 1,
+   "pro": 20,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 7
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 0,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 0.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 7,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 15,
+  "totalMedia": 23,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 17
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-21",
+   "adv": "Coventry City",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     10,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     2
+    ],
+    "ch": [
+     20,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-31",
+   "adv": "Aston Villa",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  }
+ ]
+}

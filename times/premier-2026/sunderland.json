@@ -1,0 +1,391 @@
+{
+ "time": "Sunderland",
+ "competicao": {
+  "chave": "premier-2026",
+  "nome": "Premier League (ING)",
+  "apelido": "premier",
+  "ano": "2026",
+  "torneioId": 17,
+  "temporadaId": 96668,
+  "jogos": 28,
+  "jogosNaFonte": 28
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 28,
+   "media": 4.89,
+   "overs": {
+    "1.5": 100,
+    "2.5": 85.7,
+    "3.5": 78.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 28,
+   "media": 9.07,
+   "overs": {
+    "7.5": 64.3,
+    "8.5": 42.9,
+    "9.5": 39.3,
+    "10.5": 28.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 28,
+   "media": 12.89,
+   "overs": {
+    "7.5": 92.9,
+    "9.5": 82.1,
+    "11.5": 71.4
+   }
+  },
+  "chutes_ft": {
+   "jogos": 28,
+   "media": 27.21,
+   "overs": {
+    "19.5": 89.3,
+    "21.5": 85.7,
+    "23.5": 75
+   }
+  },
+  "alvo_ht": {
+   "jogos": 28,
+   "media": 4.25,
+   "overs": {
+    "2.5": 78.6,
+    "3.5": 64.3,
+    "4.5": 35.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 28,
+   "media": 8.29,
+   "overs": {
+    "6.5": 75,
+    "7.5": 50,
+    "8.5": 46.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 27,
+   "media": 1.56,
+   "overs": {
+    "0.5": 96.3,
+    "1.5": 44.4,
+    "2.5": 7.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 27,
+   "media": 3.85,
+   "overs": {
+    "3.5": 55.6,
+    "4.5": 33.3,
+    "5.5": 11.1
+   }
+  },
+  "faltas_ht": {
+   "jogos": 28,
+   "media": 11.71,
+   "overs": {
+    "9.5": 75,
+    "11.5": 50,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 28,
+   "media": 23.43,
+   "overs": {
+    "21.5": 60.7,
+    "23.5": 42.9,
+    "25.5": 28.6
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 3.33,
+  "contraMedia": 1.33,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 1.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 3.67,
+  "contraMedia": 3.67,
+  "totalMedia": 7.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 3.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 4,
+  "totalMedia": 9.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 12.33,
+  "contraMedia": 11,
+  "totalMedia": 23.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12.5,
+   "contra": 11
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 0.67,
+  "totalMedia": 2.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 4.33,
+  "contraMedia": 1.67,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 2.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 0.67,
+  "contraMedia": 0.67,
+  "totalMedia": 1.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 1.67,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1.5
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 5,
+  "contraMedia": 8,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 8
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 11,
+  "contraMedia": 15.33,
+  "totalMedia": 26.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 15.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-22",
+   "adv": "Ipswich Town",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     11,
+     10
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Fulham",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     4,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     12,
+     11
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-09-05",
+   "adv": "Brentford",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     14,
+     12
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  }
+ ]
+}

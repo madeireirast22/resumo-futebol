@@ -1,0 +1,432 @@
+{
+ "time": "Real Sociedad",
+ "competicao": {
+  "chave": "laliga-2026",
+  "nome": "LaLiga (ESP)",
+  "apelido": "laliga",
+  "ano": "2026",
+  "torneioId": 8,
+  "temporadaId": 97268,
+  "jogos": 35,
+  "jogosNaFonte": 35
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 35,
+   "media": 5.29,
+   "overs": {
+    "1.5": 91.4,
+    "2.5": 85.7,
+    "3.5": 68.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 35,
+   "media": 10.4,
+   "overs": {
+    "7.5": 80,
+    "8.5": 62.9,
+    "9.5": 60,
+    "10.5": 51.4
+   }
+  },
+  "chutes_ht": {
+   "jogos": 35,
+   "media": 11.8,
+   "overs": {
+    "7.5": 82.9,
+    "9.5": 71.4,
+    "11.5": 48.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 35,
+   "media": 25.49,
+   "overs": {
+    "19.5": 80,
+    "21.5": 71.4,
+    "23.5": 60
+   }
+  },
+  "alvo_ht": {
+   "jogos": 35,
+   "media": 4.2,
+   "overs": {
+    "2.5": 71.4,
+    "3.5": 54.3,
+    "4.5": 37.1
+   }
+  },
+  "alvo_ft": {
+   "jogos": 35,
+   "media": 9.17,
+   "overs": {
+    "6.5": 80,
+    "7.5": 68.6,
+    "8.5": 57.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 35,
+   "media": 1.37,
+   "overs": {
+    "0.5": 77.1,
+    "1.5": 37.1,
+    "2.5": 17.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 35,
+   "media": 4.29,
+   "overs": {
+    "3.5": 60,
+    "4.5": 45.7,
+    "5.5": 28.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 35,
+   "media": 11.83,
+   "overs": {
+    "9.5": 71.4,
+    "11.5": 57.1,
+    "13.5": 28.6
+   }
+  },
+  "faltas_ft": {
+   "jogos": 35,
+   "media": 25.26,
+   "overs": {
+    "21.5": 71.4,
+    "23.5": 65.7,
+    "25.5": 48.6
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 4.25,
+  "contraMedia": 0.75,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 7.5,
+  "contraMedia": 3.5,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 2,
+   "pro": 9,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 5.5,
+  "contraMedia": 4.25,
+  "totalMedia": 9.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 5.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 13.25,
+  "contraMedia": 14,
+  "totalMedia": 27.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 17,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 19
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 1.75,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 5.25,
+  "contraMedia": 5.75,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 9
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 0.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 3.25,
+  "totalMedia": 5.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 5.5,
+  "contraMedia": 6,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 5.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 13.5,
+  "contraMedia": 11,
+  "totalMedia": 24.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 17,
+   "contra": 12.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 10,
+   "contra": 9.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-21",
+   "adv": "Real Betis",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     2,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     9,
+     18
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-26",
+   "adv": "Real Madrid",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     5,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     4
+    ],
+    "ch": [
+     10,
+     20
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Espanyol",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     7,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     18,
+     11
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-09-03",
+   "adv": "Celta Vigo",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     3
+    ],
+    "ch": [
+     16,
+     7
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  }
+ ]
+}

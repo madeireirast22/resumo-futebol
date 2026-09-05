@@ -1,0 +1,350 @@
+{
+ "time": "TSG Hoffenheim",
+ "competicao": {
+  "chave": "bundesliga-2026",
+  "nome": "Bundesliga (ALE)",
+  "apelido": "bundesliga",
+  "ano": "2026",
+  "torneioId": 35,
+  "temporadaId": 97464,
+  "jogos": 16,
+  "jogosNaFonte": 16
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 16,
+   "media": 5.06,
+   "overs": {
+    "1.5": 100,
+    "2.5": 87.5,
+    "3.5": 81.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 16,
+   "media": 11.44,
+   "overs": {
+    "7.5": 81.3,
+    "8.5": 81.3,
+    "9.5": 68.8,
+    "10.5": 68.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 16,
+   "media": 13.31,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 93.8,
+    "11.5": 81.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 16,
+   "media": 31.5,
+   "overs": {
+    "19.5": 93.8,
+    "21.5": 93.8,
+    "23.5": 93.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 16,
+   "media": 4.19,
+   "overs": {
+    "2.5": 81.3,
+    "3.5": 56.3,
+    "4.5": 43.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 16,
+   "media": 11,
+   "overs": {
+    "6.5": 87.5,
+    "7.5": 87.5,
+    "8.5": 75
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 16,
+   "media": 1.13,
+   "overs": {
+    "0.5": 75,
+    "1.5": 31.3,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 16,
+   "media": 3.5,
+   "overs": {
+    "3.5": 56.3,
+    "4.5": 25,
+    "5.5": 18.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 16,
+   "media": 10.5,
+   "overs": {
+    "9.5": 62.5,
+    "11.5": 31.3,
+    "13.5": 18.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 16,
+   "media": 22.75,
+   "overs": {
+    "21.5": 56.3,
+    "23.5": 43.8,
+    "25.5": 37.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 2,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 8.5,
+  "contraMedia": 4.5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 7.5,
+  "contraMedia": 5.5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 16.5,
+  "contraMedia": 14.5,
+  "totalMedia": 31,
+  "casa": {
+   "jogos": 1,
+   "pro": 18,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 18
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 1.5,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 6
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 7.5,
+  "contraMedia": 5,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 8
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 13.5,
+  "contraMedia": 9,
+  "totalMedia": 22.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-29",
+   "adv": "1. FC Köln",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     15,
+     18
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-09-05",
+   "adv": "Borussia Dortmund",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     9,
+     4
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     3
+    ],
+    "ch": [
+     18,
+     11
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}
