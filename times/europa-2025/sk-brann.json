@@ -1,0 +1,678 @@
+{
+ "time": "SK Brann",
+ "competicao": {
+  "chave": "europa-2025",
+  "nome": "UEFA Europa League",
+  "apelido": "europa",
+  "ano": "2025",
+  "torneioId": 679,
+  "temporadaId": 76984,
+  "jogos": 189,
+  "jogosNaFonte": 271
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 189,
+   "media": 4.31,
+   "overs": {
+    "1.5": 92.1,
+    "2.5": 76.7,
+    "3.5": 60.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 189,
+   "media": 9.17,
+   "overs": {
+    "7.5": 66.1,
+    "8.5": 54.5,
+    "9.5": 44.4,
+    "10.5": 32.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 189,
+   "media": 11.84,
+   "overs": {
+    "7.5": 88.9,
+    "9.5": 71.4,
+    "11.5": 48.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 189,
+   "media": 25.16,
+   "overs": {
+    "19.5": 82,
+    "21.5": 71.4,
+    "23.5": 60.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 189,
+   "media": 4.35,
+   "overs": {
+    "2.5": 79.4,
+    "3.5": 62.4,
+    "4.5": 39.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 189,
+   "media": 9.07,
+   "overs": {
+    "6.5": 77.2,
+    "7.5": 69.8,
+    "8.5": 56.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 187,
+   "media": 1.29,
+   "overs": {
+    "0.5": 73.8,
+    "1.5": 36.4,
+    "2.5": 13.9
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 187,
+   "media": 4.16,
+   "overs": {
+    "3.5": 60.4,
+    "4.5": 39.6,
+    "5.5": 26.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 153,
+   "media": 11.74,
+   "overs": {
+    "9.5": 73.2,
+    "11.5": 51,
+    "13.5": 28.1
+   }
+  },
+  "faltas_ft": {
+   "jogos": 189,
+   "media": 25.18,
+   "overs": {
+    "21.5": 74.6,
+    "23.5": 60.3,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 10,
+  "proMedia": 2.1,
+  "contraMedia": 2.8,
+  "totalMedia": 4.9,
+  "casa": {
+   "jogos": 5,
+   "pro": 2.6,
+   "contra": 2.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1.6,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 10,
+  "proMedia": 4.6,
+  "contraMedia": 6.9,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 5,
+   "pro": 5.2,
+   "contra": 5.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4,
+   "contra": 8.6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 10,
+  "proMedia": 5.8,
+  "contraMedia": 5.9,
+  "totalMedia": 11.7,
+  "casa": {
+   "jogos": 5,
+   "pro": 6.6,
+   "contra": 5.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 5,
+   "contra": 6.6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 10,
+  "proMedia": 11.1,
+  "contraMedia": 13.8,
+  "totalMedia": 24.9,
+  "casa": {
+   "jogos": 5,
+   "pro": 11.4,
+   "contra": 11.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 10.8,
+   "contra": 16
+  }
+ },
+ "alvo_ht": {
+  "jogos": 10,
+  "proMedia": 2,
+  "contraMedia": 2,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 5,
+   "pro": 3,
+   "contra": 2.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1,
+   "contra": 1.4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 10,
+  "proMedia": 4,
+  "contraMedia": 4.9,
+  "totalMedia": 8.9,
+  "casa": {
+   "jogos": 5,
+   "pro": 4.6,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 3.4,
+   "contra": 4.8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 10,
+  "proMedia": 0.4,
+  "contraMedia": 0.7,
+  "totalMedia": 1.1,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.2,
+   "contra": 0.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 0.6,
+   "contra": 0.8
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 10,
+  "proMedia": 1,
+  "contraMedia": 1.9,
+  "totalMedia": 2.9,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.8,
+   "contra": 1.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1.2,
+   "contra": 2.2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 8,
+  "proMedia": 4.38,
+  "contraMedia": 6.25,
+  "totalMedia": 10.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 4,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 4.75,
+   "contra": 6.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 10,
+  "proMedia": 10.5,
+  "contraMedia": 12.9,
+  "totalMedia": 23.4,
+  "casa": {
+   "jogos": 5,
+   "pro": 11.4,
+   "contra": 13.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 9.6,
+   "contra": 12.2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-09-25",
+   "adv": "Lille",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     11
+    ],
+    "ch": [
+     12,
+     17
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-10-02",
+   "adv": "FC Utrecht",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     11,
+     6
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-23",
+   "adv": "Rangers",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     13,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-11-06",
+   "adv": "Bologna",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     11
+    ],
+    "ch": [
+     9,
+     16
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-11-27",
+   "adv": "PAOK",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     6
+    ],
+    "ch": [
+     9,
+     16
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-12-11",
+   "adv": "Fenerbahçe",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     3,
+     11
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     10
+    ],
+    "ch": [
+     6,
+     20
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-01-22",
+   "adv": "FC Midtjylland",
+   "mando": "C",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    3,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     10,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     4
+    ],
+    "ch": [
+     23,
+     10
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-01-29",
+   "adv": "SK Sturm Graz",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     5,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     17,
+     15
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-02-19",
+   "adv": "Bologna",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     4
+    ],
+    "ch": [
+     4,
+     13
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-02-26",
+   "adv": "Bologna",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     7,
+     3
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     13
+    ],
+    "ch": [
+     7,
+     16
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  }
+ ]
+}

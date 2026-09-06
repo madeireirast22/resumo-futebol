@@ -1,0 +1,350 @@
+{
+ "time": "Feyenoord",
+ "competicao": {
+  "chave": "champions-2025",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2025",
+  "torneioId": 7,
+  "temporadaId": 76953,
+  "jogos": 226,
+  "jogosNaFonte": 281
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 226,
+   "media": 4.52,
+   "overs": {
+    "1.5": 90.7,
+    "2.5": 80.1,
+    "3.5": 62.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 226,
+   "media": 9.48,
+   "overs": {
+    "7.5": 69.9,
+    "8.5": 59.3,
+    "9.5": 45.6,
+    "10.5": 37.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 226,
+   "media": 12.61,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 78.8,
+    "11.5": 57.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 226,
+   "media": 27.15,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 80.1,
+    "23.5": 67.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 226,
+   "media": 4.58,
+   "overs": {
+    "2.5": 81,
+    "3.5": 62.8,
+    "4.5": 48.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 226,
+   "media": 10.17,
+   "overs": {
+    "6.5": 85,
+    "7.5": 76.5,
+    "8.5": 67.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 217,
+   "media": 1.26,
+   "overs": {
+    "0.5": 68.7,
+    "1.5": 36.9,
+    "2.5": 15.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 217,
+   "media": 3.73,
+   "overs": {
+    "3.5": 48.8,
+    "4.5": 33.6,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 157,
+   "media": 10.46,
+   "overs": {
+    "9.5": 61.1,
+    "11.5": 39.5,
+    "13.5": 17.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 226,
+   "media": 22.76,
+   "overs": {
+    "21.5": 57.1,
+    "23.5": 42.9,
+    "25.5": 32.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 2.5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 7.5,
+  "contraMedia": 5.5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 14.5,
+  "contraMedia": 11,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 14
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 2.5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 5,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 8
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 1,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 8,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 15,
+  "contraMedia": 16.5,
+  "totalMedia": 31.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 18
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-08-06",
+   "adv": "Fenerbahçe",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     9,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     13,
+     8
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-08-12",
+   "adv": "Fenerbahçe",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    2,
+    5
+   ],
+   "ht": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     6,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     16,
+     14
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

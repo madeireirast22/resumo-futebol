@@ -1,0 +1,334 @@
+{
+ "time": "Basel",
+ "competicao": {
+  "chave": "champions-2025",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2025",
+  "torneioId": 7,
+  "temporadaId": 76953,
+  "jogos": 226,
+  "jogosNaFonte": 281
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 226,
+   "media": 4.52,
+   "overs": {
+    "1.5": 90.7,
+    "2.5": 80.1,
+    "3.5": 62.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 226,
+   "media": 9.48,
+   "overs": {
+    "7.5": 69.9,
+    "8.5": 59.3,
+    "9.5": 45.6,
+    "10.5": 37.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 226,
+   "media": 12.61,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 78.8,
+    "11.5": 57.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 226,
+   "media": 27.15,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 80.1,
+    "23.5": 67.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 226,
+   "media": 4.58,
+   "overs": {
+    "2.5": 81,
+    "3.5": 62.8,
+    "4.5": 48.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 226,
+   "media": 10.17,
+   "overs": {
+    "6.5": 85,
+    "7.5": 76.5,
+    "8.5": 67.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 217,
+   "media": 1.26,
+   "overs": {
+    "0.5": 68.7,
+    "1.5": 36.9,
+    "2.5": 15.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 217,
+   "media": 3.73,
+   "overs": {
+    "3.5": 48.8,
+    "4.5": 33.6,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 157,
+   "media": 10.46,
+   "overs": {
+    "9.5": 61.1,
+    "11.5": 39.5,
+    "13.5": 17.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 226,
+   "media": 22.76,
+   "overs": {
+    "21.5": 57.1,
+    "23.5": 42.9,
+    "25.5": 32.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 1.5,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 3,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 6.5,
+  "contraMedia": 5.5,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 15.5,
+  "contraMedia": 11,
+  "totalMedia": 26.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 20,
+   "contra": 11
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 2.5,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 5.5,
+  "contraMedia": 5.5,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 0.5,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 2,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 13,
+  "contraMedia": 18.5,
+  "totalMedia": 31.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 25
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-08-20",
+   "adv": "FC København",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     11,
+     11
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-08-27",
+   "adv": "FC København",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     20,
+     11
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  }
+ ]
+}

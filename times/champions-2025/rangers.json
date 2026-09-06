@@ -1,0 +1,457 @@
+{
+ "time": "Rangers",
+ "competicao": {
+  "chave": "champions-2025",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2025",
+  "torneioId": 7,
+  "temporadaId": 76953,
+  "jogos": 226,
+  "jogosNaFonte": 281
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 226,
+   "media": 4.52,
+   "overs": {
+    "1.5": 90.7,
+    "2.5": 80.1,
+    "3.5": 62.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 226,
+   "media": 9.48,
+   "overs": {
+    "7.5": 69.9,
+    "8.5": 59.3,
+    "9.5": 45.6,
+    "10.5": 37.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 226,
+   "media": 12.61,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 78.8,
+    "11.5": 57.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 226,
+   "media": 27.15,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 80.1,
+    "23.5": 67.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 226,
+   "media": 4.58,
+   "overs": {
+    "2.5": 81,
+    "3.5": 62.8,
+    "4.5": 48.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 226,
+   "media": 10.17,
+   "overs": {
+    "6.5": 85,
+    "7.5": 76.5,
+    "8.5": 67.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 217,
+   "media": 1.26,
+   "overs": {
+    "0.5": 68.7,
+    "1.5": 36.9,
+    "2.5": 15.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 217,
+   "media": 3.73,
+   "overs": {
+    "3.5": 48.8,
+    "4.5": 33.6,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 157,
+   "media": 10.46,
+   "overs": {
+    "9.5": 61.1,
+    "11.5": 39.5,
+    "13.5": 17.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 226,
+   "media": 22.76,
+   "overs": {
+    "21.5": 57.1,
+    "23.5": 42.9,
+    "25.5": 32.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 5,
+  "proMedia": 2.2,
+  "contraMedia": 5.6,
+  "totalMedia": 7.8,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 4.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 6.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 5,
+  "proMedia": 4.2,
+  "contraMedia": 8,
+  "totalMedia": 12.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 7.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 8.33
+  }
+ },
+ "chutes_ht": {
+  "jogos": 5,
+  "proMedia": 4.4,
+  "contraMedia": 11.2,
+  "totalMedia": 15.6,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 14
+  }
+ },
+ "chutes_ft": {
+  "jogos": 5,
+  "proMedia": 10.6,
+  "contraMedia": 20.6,
+  "totalMedia": 31.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 15.5,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 7.33,
+   "contra": 26.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 5,
+  "proMedia": 0.4,
+  "contraMedia": 5,
+  "totalMedia": 5.4,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 6.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 5,
+  "proMedia": 2.4,
+  "contraMedia": 8.6,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 10.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 1,
+  "contraMedia": 0.2,
+  "totalMedia": 1.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 0.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 2,
+  "contraMedia": 1.2,
+  "totalMedia": 3.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 5,
+  "proMedia": 10.2,
+  "contraMedia": 10.2,
+  "totalMedia": 20.4,
+  "casa": {
+   "jogos": 2,
+   "pro": 10.5,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 10,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-07-22",
+   "adv": "Panathinaikos FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     16,
+     14
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-07-30",
+   "adv": "Panathinaikos FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     5,
+     11
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     9
+    ],
+    "ch": [
+     10,
+     20
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-12",
+   "adv": "FC Viktoria Plzeň",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     4,
+     12
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     9,
+     27
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-19",
+   "adv": "Club Brugge KV",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     9
+    ],
+    "ch": [
+     15,
+     10
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-08-27",
+   "adv": "Club Brugge KV",
+   "mando": "F",
+   "golsHt": [
+    0,
+    5
+   ],
+   "golsFt": [
+    0,
+    6
+   ],
+   "ht": {
+    "esc": [
+     1,
+     8
+    ],
+    "ch": [
+     2,
+     19
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     10
+    ],
+    "ch": [
+     3,
+     32
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,678 @@
+{
+ "time": "FC Kairat Almaty",
+ "competicao": {
+  "chave": "champions-2025",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2025",
+  "torneioId": 7,
+  "temporadaId": 76953,
+  "jogos": 226,
+  "jogosNaFonte": 281
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 226,
+   "media": 4.52,
+   "overs": {
+    "1.5": 90.7,
+    "2.5": 80.1,
+    "3.5": 62.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 226,
+   "media": 9.48,
+   "overs": {
+    "7.5": 69.9,
+    "8.5": 59.3,
+    "9.5": 45.6,
+    "10.5": 37.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 226,
+   "media": 12.61,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 78.8,
+    "11.5": 57.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 226,
+   "media": 27.15,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 80.1,
+    "23.5": 67.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 226,
+   "media": 4.58,
+   "overs": {
+    "2.5": 81,
+    "3.5": 62.8,
+    "4.5": 48.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 226,
+   "media": 10.17,
+   "overs": {
+    "6.5": 85,
+    "7.5": 76.5,
+    "8.5": 67.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 217,
+   "media": 1.26,
+   "overs": {
+    "0.5": 68.7,
+    "1.5": 36.9,
+    "2.5": 15.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 217,
+   "media": 3.73,
+   "overs": {
+    "3.5": 48.8,
+    "4.5": 33.6,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 157,
+   "media": 10.46,
+   "overs": {
+    "9.5": 61.1,
+    "11.5": 39.5,
+    "13.5": 17.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 226,
+   "media": 22.76,
+   "overs": {
+    "21.5": 57.1,
+    "23.5": 42.9,
+    "25.5": 32.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 11,
+  "proMedia": 1.09,
+  "contraMedia": 3.91,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 5,
+   "pro": 1,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 1.17,
+   "contra": 4.67
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 11,
+  "proMedia": 2.73,
+  "contraMedia": 7.45,
+  "totalMedia": 10.18,
+  "casa": {
+   "jogos": 5,
+   "pro": 3.2,
+   "contra": 5.6
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 2.33,
+   "contra": 9
+  }
+ },
+ "chutes_ht": {
+  "jogos": 11,
+  "proMedia": 4.09,
+  "contraMedia": 8.36,
+  "totalMedia": 12.45,
+  "casa": {
+   "jogos": 5,
+   "pro": 4,
+   "contra": 6.6
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 4.17,
+   "contra": 9.83
+  }
+ },
+ "chutes_ft": {
+  "jogos": 11,
+  "proMedia": 10.27,
+  "contraMedia": 17.36,
+  "totalMedia": 27.64,
+  "casa": {
+   "jogos": 5,
+   "pro": 11.6,
+   "contra": 15.4
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 9.17,
+   "contra": 19
+  }
+ },
+ "alvo_ht": {
+  "jogos": 11,
+  "proMedia": 0.64,
+  "contraMedia": 2.91,
+  "totalMedia": 3.55,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.4,
+   "contra": 2.4
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 0.83,
+   "contra": 3.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 11,
+  "proMedia": 2.91,
+  "contraMedia": 7.18,
+  "totalMedia": 10.09,
+  "casa": {
+   "jogos": 5,
+   "pro": 2.6,
+   "contra": 7.4
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 3.17,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 11,
+  "proMedia": 0.55,
+  "contraMedia": 0.64,
+  "totalMedia": 1.18,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.4,
+   "contra": 0.4
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 0.67,
+   "contra": 0.83
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 11,
+  "proMedia": 2.09,
+  "contraMedia": 1.91,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.6,
+   "contra": 0.8
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 2.5,
+   "contra": 2.83
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 4.67,
+  "contraMedia": 6.83,
+  "totalMedia": 11.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 6.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 7.33
+  }
+ },
+ "faltas_ft": {
+  "jogos": 11,
+  "proMedia": 11.73,
+  "contraMedia": 14.55,
+  "totalMedia": 26.27,
+  "casa": {
+   "jogos": 5,
+   "pro": 10,
+   "contra": 12.6
+  },
+  "fora": {
+   "jogos": 6,
+   "pro": 13.17,
+   "contra": 16.17
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-08-20",
+   "adv": "Celtic",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     5,
+     3
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     15
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-26",
+   "adv": "Celtic",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     2,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     12,
+     11
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-09-18",
+   "adv": "Sporting CP",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     4,
+     14
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     9,
+     21
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-09-30",
+   "adv": "Real Madrid",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    5
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     11,
+     20
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-10-21",
+   "adv": "Pafos FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     10,
+     4
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     22,
+     9
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-11-05",
+   "adv": "Inter",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     5,
+     12
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     9
+    ],
+    "ch": [
+     7,
+     23
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-11-26",
+   "adv": "FC København",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     5,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     13,
+     18
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-12-09",
+   "adv": "Olympiacos FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     6
+    ],
+    "ch": [
+     0,
+     8
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     8
+    ],
+    "ch": [
+     5,
+     20
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-01-20",
+   "adv": "Club Brugge KV",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     3,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     8,
+     17
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-01-28",
+   "adv": "Arsenal",
+   "mando": "F",
+   "golsHt": [
+    1,
+    3
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     1,
+     12
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     11
+    ],
+    "ch": [
+     4,
+     25
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,596 @@
+{
+ "time": "FC Utrecht",
+ "competicao": {
+  "chave": "europa-2025",
+  "nome": "UEFA Europa League",
+  "apelido": "europa",
+  "ano": "2025",
+  "torneioId": 679,
+  "temporadaId": 76984,
+  "jogos": 189,
+  "jogosNaFonte": 271
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 189,
+   "media": 4.31,
+   "overs": {
+    "1.5": 92.1,
+    "2.5": 76.7,
+    "3.5": 60.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 189,
+   "media": 9.17,
+   "overs": {
+    "7.5": 66.1,
+    "8.5": 54.5,
+    "9.5": 44.4,
+    "10.5": 32.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 189,
+   "media": 11.84,
+   "overs": {
+    "7.5": 88.9,
+    "9.5": 71.4,
+    "11.5": 48.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 189,
+   "media": 25.16,
+   "overs": {
+    "19.5": 82,
+    "21.5": 71.4,
+    "23.5": 60.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 189,
+   "media": 4.35,
+   "overs": {
+    "2.5": 79.4,
+    "3.5": 62.4,
+    "4.5": 39.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 189,
+   "media": 9.07,
+   "overs": {
+    "6.5": 77.2,
+    "7.5": 69.8,
+    "8.5": 56.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 187,
+   "media": 1.29,
+   "overs": {
+    "0.5": 73.8,
+    "1.5": 36.4,
+    "2.5": 13.9
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 187,
+   "media": 4.16,
+   "overs": {
+    "3.5": 60.4,
+    "4.5": 39.6,
+    "5.5": 26.2
+   }
+  },
+  "faltas_ht": {
+   "jogos": 153,
+   "media": 11.74,
+   "overs": {
+    "9.5": 73.2,
+    "11.5": 51,
+    "13.5": 28.1
+   }
+  },
+  "faltas_ft": {
+   "jogos": 189,
+   "media": 25.18,
+   "overs": {
+    "21.5": 74.6,
+    "23.5": 60.3,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 1.88,
+  "contraMedia": 2,
+  "totalMedia": 3.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2.25
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 3.75,
+  "contraMedia": 5.13,
+  "totalMedia": 8.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 5.25
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 4.13,
+  "contraMedia": 7.13,
+  "totalMedia": 11.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.75,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 7.75
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 9.75,
+  "contraMedia": 14.38,
+  "totalMedia": 24.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 12.25,
+   "contra": 15.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 7.25,
+   "contra": 13.25
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 1.63,
+  "contraMedia": 2.75,
+  "totalMedia": 4.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 3.13,
+  "contraMedia": 6.25,
+  "totalMedia": 9.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.75,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2.5,
+   "contra": 5.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0,
+  "contraMedia": 0.5,
+  "totalMedia": 0.5,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 1.5,
+  "contraMedia": 2.13,
+  "totalMedia": 3.63,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 1.25
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 4.67,
+  "contraMedia": 5.5,
+  "totalMedia": 10.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 5.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 5.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 12.5,
+  "contraMedia": 13,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 4,
+   "pro": 15,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 10,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-09-25",
+   "adv": "Olympique Lyonnais",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     11,
+     12
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-10-02",
+   "adv": "SK Brann",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     6,
+     11
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-23",
+   "adv": "SC Freiburg",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     1,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     11,
+     14
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-11-06",
+   "adv": "FC Porto",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     11,
+     19
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-11-27",
+   "adv": "Real Betis",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     6,
+     18
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-12-11",
+   "adv": "Nottingham Forest",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     10,
+     19
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-01-22",
+   "adv": "KRC Genk",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     17,
+     12
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-01-29",
+   "adv": "Celtic",
+   "mando": "F",
+   "golsHt": [
+    1,
+    3
+   ],
+   "golsFt": [
+    2,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     3,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     9
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

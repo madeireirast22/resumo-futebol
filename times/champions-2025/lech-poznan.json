@@ -1,0 +1,293 @@
+{
+ "time": "Lech Poznań",
+ "competicao": {
+  "chave": "champions-2025",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2025",
+  "torneioId": 7,
+  "temporadaId": 76953,
+  "jogos": 226,
+  "jogosNaFonte": 281
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 226,
+   "media": 4.52,
+   "overs": {
+    "1.5": 90.7,
+    "2.5": 80.1,
+    "3.5": 62.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 226,
+   "media": 9.48,
+   "overs": {
+    "7.5": 69.9,
+    "8.5": 59.3,
+    "9.5": 45.6,
+    "10.5": 37.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 226,
+   "media": 12.61,
+   "overs": {
+    "7.5": 93.8,
+    "9.5": 78.8,
+    "11.5": 57.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 226,
+   "media": 27.15,
+   "overs": {
+    "19.5": 88.9,
+    "21.5": 80.1,
+    "23.5": 67.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 226,
+   "media": 4.58,
+   "overs": {
+    "2.5": 81,
+    "3.5": 62.8,
+    "4.5": 48.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 226,
+   "media": 10.17,
+   "overs": {
+    "6.5": 85,
+    "7.5": 76.5,
+    "8.5": 67.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 217,
+   "media": 1.26,
+   "overs": {
+    "0.5": 68.7,
+    "1.5": 36.9,
+    "2.5": 15.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 217,
+   "media": 3.73,
+   "overs": {
+    "3.5": 48.8,
+    "4.5": 33.6,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 157,
+   "media": 10.46,
+   "overs": {
+    "9.5": 61.1,
+    "11.5": 39.5,
+    "13.5": 17.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 226,
+   "media": 22.76,
+   "overs": {
+    "21.5": 57.1,
+    "23.5": 42.9,
+    "25.5": 32.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 2,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 4,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 11,
+  "contraMedia": 12,
+  "totalMedia": 23,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 4,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 6,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 13,
+  "contraMedia": 11,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-08-06",
+   "adv": "FK Crvena Zvezda",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     5,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     11,
+     12
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}
