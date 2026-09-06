@@ -105,6 +105,27 @@
     "23.5": 43.3,
     "25.5": 30.5
    }
+  },
+  "gols_ht": {
+   "jogos": 141,
+   "media": 0.84,
+   "overs": {
+    "0.5": 55.3,
+    "1.5": 19.9,
+    "2.5": 7.1
+   },
+   "ambasMarcam": 12.8
+  },
+  "gols_ft": {
+   "jogos": 141,
+   "media": 2.7,
+   "overs": {
+    "1.5": 67.4,
+    "2.5": 39,
+    "3.5": 21.3,
+    "4.5": 13.5
+   },
+   "ambasMarcam": 47.5
   }
  },
  "escanteios_ht": {
@@ -265,6 +286,38 @@
    "jogos": 4,
    "pro": 8.5,
    "contra": 15
+  }
+ },
+ "gols_ht": {
+  "jogos": 8,
+  "proMedia": 0.38,
+  "contraMedia": 0.38,
+  "totalMedia": 0.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 0.75
+  }
+ },
+ "gols_ft": {
+  "jogos": 8,
+  "proMedia": 1.5,
+  "contraMedia": 1.25,
+  "totalMedia": 2.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 2.25
   }
  },
  "ultimos": [
