@@ -1,0 +1,309 @@
+{
+ "time": "Royale Union Saint-Gilloise",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 4,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 10,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 10
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 8,
+  "contraMedia": 3,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 3
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 19,
+  "contraMedia": 23,
+  "totalMedia": 42,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 23
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 0,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 9,
+  "totalMedia": 14,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 9
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 1,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 4,
+  "contraMedia": 2,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 4,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 10,
+  "contraMedia": 11,
+  "totalMedia": 21,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 11
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-11",
+   "adv": "Bodø/Glimt",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     10
+    ],
+    "ch": [
+     19,
+     23
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}

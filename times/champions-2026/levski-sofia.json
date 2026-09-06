@@ -1,0 +1,383 @@
+{
+ "time": "Levski Sofia",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 2,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 2.67,
+  "contraMedia": 5.67,
+  "totalMedia": 8.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 7.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 5.33,
+  "contraMedia": 6.33,
+  "totalMedia": 11.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 7.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 11.67,
+  "contraMedia": 17,
+  "totalMedia": 28.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 10,
+   "contra": 19.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 2.67,
+  "contraMedia": 5,
+  "totalMedia": 7.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 3,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 4,
+  "contraMedia": 6.67,
+  "totalMedia": 10.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 6.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 10.33,
+  "contraMedia": 14.33,
+  "totalMedia": 24.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 17
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 13
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-11",
+   "adv": "FC Kairat Almaty",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     9
+    ],
+    "ch": [
+     9,
+     21
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-18",
+   "adv": "AEK Athens",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     7,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     15,
+     12
+    ]
+   }
+  },
+  {
+   "data": "2026-08-26",
+   "adv": "AEK Athens",
+   "mando": "F",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     4,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     11,
+     18
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  }
+ ]
+}

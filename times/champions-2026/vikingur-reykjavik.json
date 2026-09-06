@@ -1,0 +1,350 @@
+{
+ "time": "Víkingur Reykjavík",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 3,
+  "totalMedia": 7.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 7,
+  "contraMedia": 6,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 15.5,
+  "contraMedia": 8.5,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 1,
+   "pro": 21,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 12
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2,
+  "contraMedia": 0.5,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 1,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 1.5,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 4,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 6
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 3,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 9,
+  "contraMedia": 9,
+  "totalMedia": 18,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 9
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-07-07",
+   "adv": "ETO FC Győr",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     21,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-14",
+   "adv": "ETO FC Győr",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     10,
+     12
+    ],
+    "car": [
+     2,
+     6
+    ]
+   }
+  }
+ ]
+}

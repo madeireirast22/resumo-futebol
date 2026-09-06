@@ -1,0 +1,309 @@
+{
+ "time": "FC Kairat Almaty",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 1,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 9,
+  "contraMedia": 4,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 6,
+  "contraMedia": 5,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 21,
+  "contraMedia": 9,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 1,
+   "pro": 21,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 7,
+  "contraMedia": 2,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 4,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 6,
+  "contraMedia": 4,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 10,
+  "contraMedia": 14,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-11",
+   "adv": "Levski Sofia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     4
+    ],
+    "ch": [
+     21,
+     9
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  }
+ ]
+}

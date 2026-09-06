@@ -1,0 +1,432 @@
+{
+ "time": "NEC Nijmegen",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 3.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 3.5,
+  "contraMedia": 3.75,
+  "totalMedia": 7.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 4.25,
+  "contraMedia": 6.25,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 9.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 13.75,
+  "contraMedia": 12.5,
+  "totalMedia": 26.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 19.5,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 8,
+   "contra": 16
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 3.75,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 5.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4.75,
+  "contraMedia": 5,
+  "totalMedia": 9.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 1.75,
+  "contraMedia": 1.75,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 6.75,
+  "contraMedia": 6,
+  "totalMedia": 12.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 8,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 6.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 12.5,
+  "contraMedia": 13,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 15.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 10.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-04",
+   "adv": "Olympiacos FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     13,
+     11
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-11",
+   "adv": "Olympiacos FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     2,
+     1
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     17,
+     10
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-08-19",
+   "adv": "Bodø/Glimt",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     22,
+     8
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-25",
+   "adv": "Bodø/Glimt",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     0,
+     12
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     3,
+     21
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-06T01:54:56.220Z",
+ "gerado": "2026-09-06T02:14:16.243Z",
  "competicoes": [
   {
    "chave": "brasileirao-a-2025",
@@ -42,7 +42,7 @@
    "ano": "2026",
    "torneioId": 325,
    "temporadaId": 87678,
-   "jogos": 248,
+   "jogos": 249,
    "jogosNaFonte": 245,
    "arquivo": "brasileirao-a-2026.json",
    "pastaDosTimes": "times/brasileirao-a-2026/",
@@ -271,6 +271,46 @@
     "SSC Napoli": "ssc-napoli",
     "Tottenham Hotspur": "tottenham-hotspur",
     "Villarreal": "villarreal"
+   }
+  },
+  {
+   "chave": "champions-2026",
+   "nome": "UEFA Champions League",
+   "apelido": "champions",
+   "ano": "2026",
+   "torneioId": 7,
+   "temporadaId": 96518,
+   "jogos": 34,
+   "jogosNaFonte": 90,
+   "arquivo": "champions-2026.json",
+   "pastaDosTimes": "times/champions-2026/",
+   "times": {
+    "AC Sparta Praha": "ac-sparta-praha",
+    "AEK Athens": "aek-athens",
+    "AGF": "agf",
+    "Bodø/Glimt": "bod-glimt",
+    "Celtic": "celtic",
+    "ETO FC Győr": "eto-fc-gyor",
+    "FC Kairat Almaty": "fc-kairat-almaty",
+    "FC Thun": "fc-thun",
+    "Fenerbahçe": "fenerbahce",
+    "GNK Dinamo Zagreb": "gnk-dinamo-zagreb",
+    "Górnik Zabrze": "gornik-zabrze",
+    "Hapoel Be'er Sheva": "hapoel-be-er-sheva",
+    "Heart of Midlothian": "heart-of-midlothian",
+    "LASK": "lask",
+    "Lech Poznań": "lech-poznan",
+    "Levski Sofia": "levski-sofia",
+    "NEC Nijmegen": "nec-nijmegen",
+    "NK Celje": "nk-celje",
+    "Olympiacos FC": "olympiacos-fc",
+    "Olympique Lyonnais": "olympique-lyonnais",
+    "Royale Union Saint-Gilloise": "royale-union-saint-gilloise",
+    "Sabah FK": "sabah-fk",
+    "ŠK Slovan Bratislava": "sk-slovan-bratislava",
+    "SK Sturm Graz": "sk-sturm-graz",
+    "Viking FK": "viking-fk",
+    "Víkingur Reykjavík": "vikingur-reykjavik"
    }
   },
   {
@@ -815,7 +855,7 @@
    "ano": "2026",
    "torneioId": 242,
    "temporadaId": 86668,
-   "jogos": 330,
+   "jogos": 335,
    "jogosNaFonte": 330,
    "arquivo": "mls-2026.json",
    "pastaDosTimes": "times/mls-2026/",
@@ -1133,7 +1173,7 @@
   {
    "competicao": "brasileirao-a-2026",
    "arquivo": "scout-brasileirao-a-2026.json",
-   "jogadores": 444
+   "jogadores": 457
   }
  ]
 }

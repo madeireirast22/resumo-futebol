@@ -1,0 +1,350 @@
+{
+ "time": "Olympiacos FC",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 2.5,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 4,
+  "contraMedia": 4,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 10.5,
+  "contraMedia": 15,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 17
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 1.5,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 5.5,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 7
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 7,
+  "contraMedia": 7,
+  "totalMedia": 14,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 9
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 15,
+  "contraMedia": 16.5,
+  "totalMedia": 31.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 17
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-04",
+   "adv": "NEC Nijmegen",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     11,
+     13
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-11",
+   "adv": "NEC Nijmegen",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     1,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     10,
+     17
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  }
+ ]
+}

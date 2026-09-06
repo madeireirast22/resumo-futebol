@@ -1,0 +1,350 @@
+{
+ "time": "NK Celje",
+ "competicao": {
+  "chave": "champions-2026",
+  "nome": "UEFA Champions League",
+  "apelido": "champions",
+  "ano": "2026",
+  "torneioId": 7,
+  "temporadaId": 96518,
+  "jogos": 34,
+  "jogosNaFonte": 90
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 34,
+   "media": 4.35,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 82.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 34,
+   "media": 10.21,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 64.7,
+    "9.5": 55.9,
+    "10.5": 52.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 34,
+   "media": 12.94,
+   "overs": {
+    "7.5": 94.1,
+    "9.5": 91.2,
+    "11.5": 64.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 34,
+   "media": 30.53,
+   "overs": {
+    "19.5": 97.1,
+    "21.5": 94.1,
+    "23.5": 85.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 34,
+   "media": 4.41,
+   "overs": {
+    "2.5": 82.4,
+    "3.5": 70.6,
+    "4.5": 52.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 34,
+   "media": 10.29,
+   "overs": {
+    "6.5": 91.2,
+    "7.5": 76.5,
+    "8.5": 70.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 32,
+   "media": 1.03,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 25,
+    "2.5": 6.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 32,
+   "media": 4.16,
+   "overs": {
+    "3.5": 46.9,
+    "4.5": 37.5,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 33,
+   "media": 11.73,
+   "overs": {
+    "9.5": 84.8,
+    "11.5": 45.5,
+    "13.5": 21.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 33,
+   "media": 25.42,
+   "overs": {
+    "21.5": 75.8,
+    "23.5": 66.7,
+    "25.5": 45.5
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 2,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 6,
+  "totalMedia": 8.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 6,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 14,
+  "contraMedia": 16,
+  "totalMedia": 30,
+  "casa": {
+   "jogos": 1,
+   "pro": 20,
+   "contra": 17
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 15
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 3,
+  "contraMedia": 1,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 5.5,
+  "contraMedia": 5,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 1.5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 5.5,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 14,
+  "contraMedia": 12,
+  "totalMedia": 26,
+  "casa": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 12
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-19",
+   "adv": "ŠK Slovan Bratislava",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     2,
+     9
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     8,
+     15
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-26",
+   "adv": "ŠK Slovan Bratislava",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     8
+    ],
+    "ch": [
+     20,
+     17
+    ],
+    "car": [
+     5,
+     1
+    ]
+   }
+  }
+ ]
+}
