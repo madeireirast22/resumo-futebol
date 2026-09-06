@@ -1,0 +1,678 @@
+{
+ "time": "Philadelphia Union",
+ "competicao": {
+  "chave": "mls-2025",
+  "nome": "MLS (EUA)",
+  "apelido": "mls",
+  "ano": "2025",
+  "torneioId": 242,
+  "temporadaId": 70158,
+  "jogos": 540,
+  "jogosNaFonte": 540
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 540,
+   "media": 4.49,
+   "overs": {
+    "1.5": 93,
+    "2.5": 81.9,
+    "3.5": 64.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 540,
+   "media": 9.65,
+   "overs": {
+    "7.5": 71.9,
+    "8.5": 60.2,
+    "9.5": 48.5,
+    "10.5": 37.4
+   }
+  },
+  "chutes_ht": {
+   "jogos": 540,
+   "media": 11.59,
+   "overs": {
+    "7.5": 86.5,
+    "9.5": 71.7,
+    "11.5": 48.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 540,
+   "media": 25.48,
+   "overs": {
+    "19.5": 85.7,
+    "21.5": 73.7,
+    "23.5": 58.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 540,
+   "media": 4.18,
+   "overs": {
+    "2.5": 78.1,
+    "3.5": 58.7,
+    "4.5": 40.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 540,
+   "media": 9.31,
+   "overs": {
+    "6.5": 79.3,
+    "7.5": 68.3,
+    "8.5": 58.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 526,
+   "media": 1.47,
+   "overs": {
+    "0.5": 76.6,
+    "1.5": 45.6,
+    "2.5": 18.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 526,
+   "media": 4.38,
+   "overs": {
+    "3.5": 65.8,
+    "4.5": 46,
+    "5.5": 24.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 53,
+   "media": 12.49,
+   "overs": {
+    "9.5": 79.2,
+    "11.5": 56.6,
+    "13.5": 34
+   }
+  },
+  "faltas_ft": {
+   "jogos": 540,
+   "media": 24.28,
+   "overs": {
+    "21.5": 69.6,
+    "23.5": 54.3,
+    "25.5": 38
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 37,
+  "proMedia": 2.7,
+  "contraMedia": 1.81,
+  "totalMedia": 4.51,
+  "casa": {
+   "jogos": 19,
+   "pro": 3.11,
+   "contra": 1.79
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 2.28,
+   "contra": 1.83
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 37,
+  "proMedia": 6.16,
+  "contraMedia": 4.05,
+  "totalMedia": 10.22,
+  "casa": {
+   "jogos": 19,
+   "pro": 7.11,
+   "contra": 3.95
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 5.17,
+   "contra": 4.17
+  }
+ },
+ "chutes_ht": {
+  "jogos": 37,
+  "proMedia": 7.3,
+  "contraMedia": 4.78,
+  "totalMedia": 12.08,
+  "casa": {
+   "jogos": 19,
+   "pro": 8.16,
+   "contra": 3.63
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 6.39,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 37,
+  "proMedia": 15.41,
+  "contraMedia": 9.84,
+  "totalMedia": 25.24,
+  "casa": {
+   "jogos": 19,
+   "pro": 17,
+   "contra": 8.26
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 13.72,
+   "contra": 11.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 37,
+  "proMedia": 2.35,
+  "contraMedia": 1.35,
+  "totalMedia": 3.7,
+  "casa": {
+   "jogos": 19,
+   "pro": 3.05,
+   "contra": 1.11
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 1.61,
+   "contra": 1.61
+  }
+ },
+ "alvo_ft": {
+  "jogos": 37,
+  "proMedia": 4.95,
+  "contraMedia": 3.24,
+  "totalMedia": 8.19,
+  "casa": {
+   "jogos": 19,
+   "pro": 6.11,
+   "contra": 2.84
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 3.72,
+   "contra": 3.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 37,
+  "proMedia": 0.92,
+  "contraMedia": 0.76,
+  "totalMedia": 1.68,
+  "casa": {
+   "jogos": 19,
+   "pro": 0.84,
+   "contra": 0.74
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 1,
+   "contra": 0.78
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 37,
+  "proMedia": 2.59,
+  "contraMedia": 2.46,
+  "totalMedia": 5.05,
+  "casa": {
+   "jogos": 19,
+   "pro": 2.32,
+   "contra": 2.63
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 2.89,
+   "contra": 2.28
+  }
+ },
+ "faltas_ht": {
+  "jogos": 5,
+  "proMedia": 6.6,
+  "contraMedia": 5,
+  "totalMedia": 11.6,
+  "casa": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.67,
+   "contra": 4.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 37,
+  "proMedia": 14.3,
+  "contraMedia": 12.57,
+  "totalMedia": 26.86,
+  "casa": {
+   "jogos": 19,
+   "pro": 12.89,
+   "contra": 11.37
+  },
+  "fora": {
+   "jogos": 18,
+   "pro": 15.78,
+   "contra": 13.83
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-08-23",
+   "adv": "Chicago Fire",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     10,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     23,
+     7
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-08-30",
+   "adv": "FC Cincinnati",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     14,
+     13
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-09-14",
+   "adv": "Vancouver Whitecaps",
+   "mando": "F",
+   "golsHt": [
+    0,
+    4
+   ],
+   "golsFt": [
+    0,
+    7
+   ],
+   "ht": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     3,
+     10
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     9
+    ],
+    "ch": [
+     10,
+     19
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-09-20",
+   "adv": "New England Revolution",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     6,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     16,
+     8
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-09-27",
+   "adv": "DC United",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    6,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     8,
+     8
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     14,
+     18
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-04",
+   "adv": "New York City FC",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     7,
+     2
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     5
+    ],
+    "ch": [
+     15,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-10-18",
+   "adv": "Charlotte FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     7,
+     5
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     4
+    ],
+    "ch": [
+     23,
+     8
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-10-26",
+   "adv": "Chicago Fire",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    6,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     8,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     18,
+     13
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-11-01",
+   "adv": "Chicago Fire",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-11-24",
+   "adv": "New York City FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     18,
+     5
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,350 @@
+{
+ "time": "FC Den Bosch",
+ "competicao": {
+  "chave": "eredivisie-2025",
+  "nome": "Eredivisie (HOL)",
+  "apelido": "eredivisie",
+  "ano": "2025",
+  "torneioId": 37,
+  "temporadaId": 77012,
+  "jogos": 321,
+  "jogosNaFonte": 321
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 321,
+   "media": 4.99,
+   "overs": {
+    "1.5": 96.3,
+    "2.5": 87.9,
+    "3.5": 73.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 321,
+   "media": 10.42,
+   "overs": {
+    "7.5": 79.1,
+    "8.5": 70.7,
+    "9.5": 57,
+    "10.5": 46.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 321,
+   "media": 12.5,
+   "overs": {
+    "7.5": 91.9,
+    "9.5": 79.8,
+    "11.5": 61.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 321,
+   "media": 28.21,
+   "overs": {
+    "19.5": 95.6,
+    "21.5": 89.1,
+    "23.5": 78.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 321,
+   "media": 4.65,
+   "overs": {
+    "2.5": 85.4,
+    "3.5": 69.2,
+    "4.5": 47
+   }
+  },
+  "alvo_ft": {
+   "jogos": 321,
+   "media": 10.33,
+   "overs": {
+    "6.5": 88.2,
+    "7.5": 81.6,
+    "8.5": 70.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 303,
+   "media": 1.13,
+   "overs": {
+    "0.5": 70.3,
+    "1.5": 28.1,
+    "2.5": 11.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 304,
+   "media": 3.44,
+   "overs": {
+    "3.5": 42.4,
+    "4.5": 24.3,
+    "5.5": 13.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 252,
+   "media": 10.08,
+   "overs": {
+    "9.5": 50.8,
+    "11.5": 34.5,
+    "13.5": 15.9
+   }
+  },
+  "faltas_ft": {
+   "jogos": 321,
+   "media": 21.75,
+   "overs": {
+    "21.5": 50.2,
+    "23.5": 35.2,
+    "25.5": 23.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 2.5,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 5,
+  "contraMedia": 7,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 6,
+  "contraMedia": 6,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 3
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 13.5,
+  "contraMedia": 22,
+  "totalMedia": 35.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 28
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 16
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 2.5,
+  "contraMedia": 3,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 4.5,
+  "contraMedia": 10,
+  "totalMedia": 14.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 9
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 1.5,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 3.5,
+  "contraMedia": 5.5,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 8.5,
+  "totalMedia": 16.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 6
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-29",
+   "adv": "Almere City FC",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     15,
+     28
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-02",
+   "adv": "Almere City FC",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     5,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     12,
+     16
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  }
+ ]
+}

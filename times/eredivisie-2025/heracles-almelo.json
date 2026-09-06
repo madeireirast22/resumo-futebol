@@ -1,0 +1,678 @@
+{
+ "time": "Heracles Almelo",
+ "competicao": {
+  "chave": "eredivisie-2025",
+  "nome": "Eredivisie (HOL)",
+  "apelido": "eredivisie",
+  "ano": "2025",
+  "torneioId": 37,
+  "temporadaId": 77012,
+  "jogos": 321,
+  "jogosNaFonte": 321
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 321,
+   "media": 4.99,
+   "overs": {
+    "1.5": 96.3,
+    "2.5": 87.9,
+    "3.5": 73.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 321,
+   "media": 10.42,
+   "overs": {
+    "7.5": 79.1,
+    "8.5": 70.7,
+    "9.5": 57,
+    "10.5": 46.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 321,
+   "media": 12.5,
+   "overs": {
+    "7.5": 91.9,
+    "9.5": 79.8,
+    "11.5": 61.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 321,
+   "media": 28.21,
+   "overs": {
+    "19.5": 95.6,
+    "21.5": 89.1,
+    "23.5": 78.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 321,
+   "media": 4.65,
+   "overs": {
+    "2.5": 85.4,
+    "3.5": 69.2,
+    "4.5": 47
+   }
+  },
+  "alvo_ft": {
+   "jogos": 321,
+   "media": 10.33,
+   "overs": {
+    "6.5": 88.2,
+    "7.5": 81.6,
+    "8.5": 70.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 303,
+   "media": 1.13,
+   "overs": {
+    "0.5": 70.3,
+    "1.5": 28.1,
+    "2.5": 11.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 304,
+   "media": 3.44,
+   "overs": {
+    "3.5": 42.4,
+    "4.5": 24.3,
+    "5.5": 13.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 252,
+   "media": 10.08,
+   "overs": {
+    "9.5": 50.8,
+    "11.5": 34.5,
+    "13.5": 15.9
+   }
+  },
+  "faltas_ft": {
+   "jogos": 321,
+   "media": 21.75,
+   "overs": {
+    "21.5": 50.2,
+    "23.5": 35.2,
+    "25.5": 23.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 34,
+  "proMedia": 2.24,
+  "contraMedia": 3.15,
+  "totalMedia": 5.38,
+  "casa": {
+   "jogos": 17,
+   "pro": 2.29,
+   "contra": 3.06
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.18,
+   "contra": 3.24
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 34,
+  "proMedia": 4.5,
+  "contraMedia": 6,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 17,
+   "pro": 4.82,
+   "contra": 5.29
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 4.18,
+   "contra": 6.71
+  }
+ },
+ "chutes_ht": {
+  "jogos": 34,
+  "proMedia": 4.59,
+  "contraMedia": 8.03,
+  "totalMedia": 12.62,
+  "casa": {
+   "jogos": 17,
+   "pro": 5.41,
+   "contra": 7.88
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 3.76,
+   "contra": 8.18
+  }
+ },
+ "chutes_ft": {
+  "jogos": 34,
+  "proMedia": 11.09,
+  "contraMedia": 16.71,
+  "totalMedia": 27.79,
+  "casa": {
+   "jogos": 17,
+   "pro": 13.53,
+   "contra": 16.18
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 8.65,
+   "contra": 17.24
+  }
+ },
+ "alvo_ht": {
+  "jogos": 34,
+  "proMedia": 1.56,
+  "contraMedia": 3.06,
+  "totalMedia": 4.62,
+  "casa": {
+   "jogos": 17,
+   "pro": 2.06,
+   "contra": 2.94
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 1.06,
+   "contra": 3.18
+  }
+ },
+ "alvo_ft": {
+  "jogos": 34,
+  "proMedia": 3.65,
+  "contraMedia": 6.79,
+  "totalMedia": 10.44,
+  "casa": {
+   "jogos": 17,
+   "pro": 4.65,
+   "contra": 6.53
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.65,
+   "contra": 7.06
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 34,
+  "proMedia": 0.71,
+  "contraMedia": 0.71,
+  "totalMedia": 1.41,
+  "casa": {
+   "jogos": 17,
+   "pro": 0.35,
+   "contra": 0.88
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 1.06,
+   "contra": 0.53
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 34,
+  "proMedia": 2.06,
+  "contraMedia": 1.53,
+  "totalMedia": 3.59,
+  "casa": {
+   "jogos": 17,
+   "pro": 1.41,
+   "contra": 2.06
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.71,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 26,
+  "proMedia": 6.77,
+  "contraMedia": 5.92,
+  "totalMedia": 12.69,
+  "casa": {
+   "jogos": 14,
+   "pro": 5.93,
+   "contra": 6.07
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 7.75,
+   "contra": 5.75
+  }
+ },
+ "faltas_ft": {
+  "jogos": 34,
+  "proMedia": 13.47,
+  "contraMedia": 11.29,
+  "totalMedia": 24.76,
+  "casa": {
+   "jogos": 17,
+   "pro": 12.53,
+   "contra": 11.71
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 14.41,
+   "contra": 10.88
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-02-28",
+   "adv": "PSV Eindhoven",
+   "mando": "C",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     4,
+     13
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     15,
+     24
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-03-06",
+   "adv": "FC Utrecht",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     8
+    ],
+    "ch": [
+     4,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     12
+    ],
+    "ch": [
+     10,
+     16
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-03-15",
+   "adv": "AZ Alkmaar",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     2,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     6,
+     14
+    ],
+    "car": [
+     4,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-03-20",
+   "adv": "Excelsior",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     13,
+     15
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-05",
+   "adv": "SC Heerenveen",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    1,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     2,
+     14
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     8
+    ],
+    "ch": [
+     7,
+     24
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-04-11",
+   "adv": "AFC Ajax",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     2,
+     12
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     14,
+     18
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-26",
+   "adv": "FC Volendam",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     4,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     9
+    ],
+    "ch": [
+     14,
+     18
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-03",
+   "adv": "PEC Zwolle",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     14,
+     9
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-05-10",
+   "adv": "SC Telstar",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     2,
+     4
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     7,
+     12
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-17",
+   "adv": "FC Groningen",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     5
+    ],
+    "ch": [
+     11,
+     16
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

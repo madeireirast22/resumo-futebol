@@ -1,0 +1,662 @@
+{
+ "time": "Borussia Dortmund",
+ "competicao": {
+  "chave": "bundesliga-2025",
+  "nome": "Bundesliga (ALE)",
+  "apelido": "bundesliga",
+  "ano": "2025",
+  "torneioId": 35,
+  "temporadaId": 77333,
+  "jogos": 308,
+  "jogosNaFonte": 308
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 308,
+   "media": 4.42,
+   "overs": {
+    "1.5": 92.2,
+    "2.5": 79.9,
+    "3.5": 62.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 308,
+   "media": 9.78,
+   "overs": {
+    "7.5": 73.1,
+    "8.5": 61.4,
+    "9.5": 52.3,
+    "10.5": 38.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 308,
+   "media": 11.87,
+   "overs": {
+    "7.5": 89.3,
+    "9.5": 73.1,
+    "11.5": 53.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 308,
+   "media": 26.55,
+   "overs": {
+    "19.5": 86.7,
+    "21.5": 80.8,
+    "23.5": 70.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 308,
+   "media": 4.26,
+   "overs": {
+    "2.5": 80.5,
+    "3.5": 60.7,
+    "4.5": 44.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 308,
+   "media": 9.56,
+   "overs": {
+    "6.5": 81.8,
+    "7.5": 70.8,
+    "8.5": 58.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 297,
+   "media": 1.22,
+   "overs": {
+    "0.5": 73.1,
+    "1.5": 36,
+    "2.5": 10.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 299,
+   "media": 3.93,
+   "overs": {
+    "3.5": 53.8,
+    "4.5": 35.1,
+    "5.5": 18.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 254,
+   "media": 9.54,
+   "overs": {
+    "9.5": 46.9,
+    "11.5": 25.2,
+    "13.5": 10.6
+   }
+  },
+  "faltas_ft": {
+   "jogos": 308,
+   "media": 20.88,
+   "overs": {
+    "21.5": 45.1,
+    "23.5": 31.2,
+    "25.5": 19.2
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 34,
+  "proMedia": 2.26,
+  "contraMedia": 1.76,
+  "totalMedia": 4.03,
+  "casa": {
+   "jogos": 17,
+   "pro": 2.94,
+   "contra": 1.12
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 1.59,
+   "contra": 2.41
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 34,
+  "proMedia": 5.32,
+  "contraMedia": 4.21,
+  "totalMedia": 9.53,
+  "casa": {
+   "jogos": 17,
+   "pro": 7.24,
+   "contra": 3.41
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 3.41,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 34,
+  "proMedia": 6.38,
+  "contraMedia": 4.85,
+  "totalMedia": 11.24,
+  "casa": {
+   "jogos": 17,
+   "pro": 6.94,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 5.82,
+   "contra": 5.71
+  }
+ },
+ "chutes_ft": {
+  "jogos": 34,
+  "proMedia": 13.06,
+  "contraMedia": 10.65,
+  "totalMedia": 23.71,
+  "casa": {
+   "jogos": 17,
+   "pro": 14.76,
+   "contra": 9.47
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 11.35,
+   "contra": 11.82
+  }
+ },
+ "alvo_ht": {
+  "jogos": 34,
+  "proMedia": 2.26,
+  "contraMedia": 1.35,
+  "totalMedia": 3.62,
+  "casa": {
+   "jogos": 17,
+   "pro": 2.24,
+   "contra": 1.18
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.29,
+   "contra": 1.53
+  }
+ },
+ "alvo_ft": {
+  "jogos": 34,
+  "proMedia": 4.79,
+  "contraMedia": 3.53,
+  "totalMedia": 8.32,
+  "casa": {
+   "jogos": 17,
+   "pro": 5.41,
+   "contra": 3.35
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 4.18,
+   "contra": 3.71
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 31,
+  "proMedia": 0.77,
+  "contraMedia": 0.61,
+  "totalMedia": 1.39,
+  "casa": {
+   "jogos": 15,
+   "pro": 0.73,
+   "contra": 0.53
+  },
+  "fora": {
+   "jogos": 16,
+   "pro": 0.81,
+   "contra": 0.69
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 31,
+  "proMedia": 2.03,
+  "contraMedia": 1.61,
+  "totalMedia": 3.65,
+  "casa": {
+   "jogos": 15,
+   "pro": 1.8,
+   "contra": 1.13
+  },
+  "fora": {
+   "jogos": 16,
+   "pro": 2.25,
+   "contra": 2.06
+  }
+ },
+ "faltas_ht": {
+  "jogos": 28,
+  "proMedia": 5.61,
+  "contraMedia": 5.21,
+  "totalMedia": 10.82,
+  "casa": {
+   "jogos": 14,
+   "pro": 6.14,
+   "contra": 4.64
+  },
+  "fora": {
+   "jogos": 14,
+   "pro": 5.07,
+   "contra": 5.79
+  }
+ },
+ "faltas_ft": {
+  "jogos": 34,
+  "proMedia": 11.71,
+  "contraMedia": 10.15,
+  "totalMedia": 21.85,
+  "casa": {
+   "jogos": 17,
+   "pro": 11.53,
+   "contra": 9.06
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 11.88,
+   "contra": 11.24
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-07",
+   "adv": "1. FC Köln",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     6,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     9
+    ],
+    "ch": [
+     13,
+     14
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-03-14",
+   "adv": "FC Augsburg",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     8,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     2
+    ],
+    "ch": [
+     16,
+     7
+    ]
+   }
+  },
+  {
+   "data": "2026-03-21",
+   "adv": "Hamburger SV",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     9,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     3
+    ],
+    "ch": [
+     24,
+     4
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-04-04",
+   "adv": "VfB Stuttgart",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     2,
+     8
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     5,
+     13
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-11",
+   "adv": "Bayer 04 Leverkusen",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     7,
+     6
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     5
+    ],
+    "ch": [
+     14,
+     11
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-04-18",
+   "adv": "TSG Hoffenheim",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     2,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     8,
+     13
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-26",
+   "adv": "SC Freiburg",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     12,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     17,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-03",
+   "adv": "Borussia M'gladbach",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     1,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     6,
+     12
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-08",
+   "adv": "Eintracht Frankfurt",
+   "mando": "C",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     12,
+     9
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-16",
+   "adv": "SV Werder Bremen",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     8,
+     5
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     17,
+     9
+    ]
+   }
+  }
+ ]
+}

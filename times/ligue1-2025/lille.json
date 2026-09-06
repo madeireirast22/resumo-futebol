@@ -1,0 +1,678 @@
+{
+ "time": "Lille",
+ "competicao": {
+  "chave": "ligue1-2025",
+  "nome": "Ligue 1 (FRA)",
+  "apelido": "ligue1",
+  "ano": "2025",
+  "torneioId": 34,
+  "temporadaId": 77356,
+  "jogos": 309,
+  "jogosNaFonte": 309
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 309,
+   "media": 4.47,
+   "overs": {
+    "1.5": 91.6,
+    "2.5": 78.6,
+    "3.5": 60.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 309,
+   "media": 9.61,
+   "overs": {
+    "7.5": 69.3,
+    "8.5": 59.2,
+    "9.5": 48.5,
+    "10.5": 36.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 309,
+   "media": 11.17,
+   "overs": {
+    "7.5": 85.1,
+    "9.5": 67.6,
+    "11.5": 42.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 309,
+   "media": 24.84,
+   "overs": {
+    "19.5": 82.2,
+    "21.5": 72.8,
+    "23.5": 58.9
+   }
+  },
+  "alvo_ht": {
+   "jogos": 308,
+   "media": 3.99,
+   "overs": {
+    "2.5": 77.3,
+    "3.5": 58.8,
+    "4.5": 34.4
+   }
+  },
+  "alvo_ft": {
+   "jogos": 308,
+   "media": 8.66,
+   "overs": {
+    "6.5": 73.1,
+    "7.5": 63.6,
+    "8.5": 52.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 301,
+   "media": 1.38,
+   "overs": {
+    "0.5": 76.7,
+    "1.5": 41.2,
+    "2.5": 15
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 302,
+   "media": 3.87,
+   "overs": {
+    "3.5": 56.3,
+    "4.5": 32.5,
+    "5.5": 16.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 256,
+   "media": 11.45,
+   "overs": {
+    "9.5": 70.3,
+    "11.5": 48,
+    "13.5": 25.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 309,
+   "media": 24.1,
+   "overs": {
+    "21.5": 65,
+    "23.5": 51.8,
+    "25.5": 37.9
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 34,
+  "proMedia": 2.88,
+  "contraMedia": 1.76,
+  "totalMedia": 4.65,
+  "casa": {
+   "jogos": 17,
+   "pro": 3.35,
+   "contra": 1.76
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.41,
+   "contra": 1.76
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 34,
+  "proMedia": 5.71,
+  "contraMedia": 3.79,
+  "totalMedia": 9.5,
+  "casa": {
+   "jogos": 17,
+   "pro": 6.35,
+   "contra": 3.59
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 5.06,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 34,
+  "proMedia": 6.41,
+  "contraMedia": 3.94,
+  "totalMedia": 10.35,
+  "casa": {
+   "jogos": 17,
+   "pro": 7.18,
+   "contra": 3.29
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 5.65,
+   "contra": 4.59
+  }
+ },
+ "chutes_ft": {
+  "jogos": 34,
+  "proMedia": 13.59,
+  "contraMedia": 9.06,
+  "totalMedia": 22.65,
+  "casa": {
+   "jogos": 17,
+   "pro": 14.76,
+   "contra": 8.24
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 12.41,
+   "contra": 9.88
+  }
+ },
+ "alvo_ht": {
+  "jogos": 34,
+  "proMedia": 2.21,
+  "contraMedia": 1.26,
+  "totalMedia": 3.47,
+  "casa": {
+   "jogos": 17,
+   "pro": 2.35,
+   "contra": 1.18
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.06,
+   "contra": 1.35
+  }
+ },
+ "alvo_ft": {
+  "jogos": 34,
+  "proMedia": 4.62,
+  "contraMedia": 3.32,
+  "totalMedia": 7.94,
+  "casa": {
+   "jogos": 17,
+   "pro": 4.76,
+   "contra": 2.94
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 4.47,
+   "contra": 3.71
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 34,
+  "proMedia": 0.91,
+  "contraMedia": 0.65,
+  "totalMedia": 1.56,
+  "casa": {
+   "jogos": 17,
+   "pro": 0.82,
+   "contra": 0.53
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 1,
+   "contra": 0.76
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 34,
+  "proMedia": 2.26,
+  "contraMedia": 1.97,
+  "totalMedia": 4.24,
+  "casa": {
+   "jogos": 17,
+   "pro": 2,
+   "contra": 1.76
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 2.53,
+   "contra": 2.18
+  }
+ },
+ "faltas_ht": {
+  "jogos": 27,
+  "proMedia": 4.59,
+  "contraMedia": 6.3,
+  "totalMedia": 10.89,
+  "casa": {
+   "jogos": 13,
+   "pro": 4.46,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 14,
+   "pro": 4.71,
+   "contra": 6.57
+  }
+ },
+ "faltas_ft": {
+  "jogos": 34,
+  "proMedia": 10.88,
+  "contraMedia": 13.32,
+  "totalMedia": 24.21,
+  "casa": {
+   "jogos": 17,
+   "pro": 10.47,
+   "contra": 13.29
+  },
+  "fora": {
+   "jogos": 17,
+   "pro": 11.29,
+   "contra": 13.35
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-03-08",
+   "adv": "Lorient",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     3,
+     2
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     12,
+     9
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-03-15",
+   "adv": "Stade Rennais",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     2,
+     2
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     8,
+     12
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-03-22",
+   "adv": "Olympique de Marseille",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     11,
+     14
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-04",
+   "adv": "RC Lens",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     13,
+     5
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-12",
+   "adv": "Toulouse",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    4,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     8,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     14,
+     9
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-04-18",
+   "adv": "Nice",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     3
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-04-26",
+   "adv": "Paris FC",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     4,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     10,
+     7
+    ],
+    "car": [
+     3,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2026-05-03",
+   "adv": "Le Havre",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     11,
+     2
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     14,
+     5
+    ],
+    "ch": [
+     22,
+     2
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-05-10",
+   "adv": "AS Monaco",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     1,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-17",
+   "adv": "Auxerre",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     12,
+     7
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  }
+ ]
+}

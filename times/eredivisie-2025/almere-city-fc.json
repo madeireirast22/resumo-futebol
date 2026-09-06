@@ -1,0 +1,506 @@
+{
+ "time": "Almere City FC",
+ "competicao": {
+  "chave": "eredivisie-2025",
+  "nome": "Eredivisie (HOL)",
+  "apelido": "eredivisie",
+  "ano": "2025",
+  "torneioId": 37,
+  "temporadaId": 77012,
+  "jogos": 321,
+  "jogosNaFonte": 321
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 321,
+   "media": 4.99,
+   "overs": {
+    "1.5": 96.3,
+    "2.5": 87.9,
+    "3.5": 73.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 321,
+   "media": 10.42,
+   "overs": {
+    "7.5": 79.1,
+    "8.5": 70.7,
+    "9.5": 57,
+    "10.5": 46.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 321,
+   "media": 12.5,
+   "overs": {
+    "7.5": 91.9,
+    "9.5": 79.8,
+    "11.5": 61.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 321,
+   "media": 28.21,
+   "overs": {
+    "19.5": 95.6,
+    "21.5": 89.1,
+    "23.5": 78.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 321,
+   "media": 4.65,
+   "overs": {
+    "2.5": 85.4,
+    "3.5": 69.2,
+    "4.5": 47
+   }
+  },
+  "alvo_ft": {
+   "jogos": 321,
+   "media": 10.33,
+   "overs": {
+    "6.5": 88.2,
+    "7.5": 81.6,
+    "8.5": 70.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 303,
+   "media": 1.13,
+   "overs": {
+    "0.5": 70.3,
+    "1.5": 28.1,
+    "2.5": 11.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 304,
+   "media": 3.44,
+   "overs": {
+    "3.5": 42.4,
+    "4.5": 24.3,
+    "5.5": 13.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 252,
+   "media": 10.08,
+   "overs": {
+    "9.5": 50.8,
+    "11.5": 34.5,
+    "13.5": 15.9
+   }
+  },
+  "faltas_ft": {
+   "jogos": 321,
+   "media": 21.75,
+   "overs": {
+    "21.5": 50.2,
+    "23.5": 35.2,
+    "25.5": 23.7
+   }
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 2.5,
+  "contraMedia": 1.83,
+  "totalMedia": 4.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 2.67
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 5.83,
+  "contraMedia": 4.33,
+  "totalMedia": 10.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 7.33,
+  "contraMedia": 5,
+  "totalMedia": 12.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 8.33,
+   "contra": 5.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 17.17,
+  "contraMedia": 12.67,
+  "totalMedia": 29.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 15.67,
+   "contra": 9.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 18.67,
+   "contra": 16
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2.33,
+  "contraMedia": 1.83,
+  "totalMedia": 4.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 1.67
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 5.67,
+  "contraMedia": 4,
+  "totalMedia": 9.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 3.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 0.2,
+  "contraMedia": 0,
+  "totalMedia": 0.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 1.6,
+  "contraMedia": 0.6,
+  "totalMedia": 2.2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 0.67
+  }
+ },
+ "faltas_ht": {
+  "jogos": 6,
+  "proMedia": 4.33,
+  "contraMedia": 5,
+  "totalMedia": 9.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 5.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 4.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 8.83,
+  "contraMedia": 9,
+  "totalMedia": 17.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 10
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-04-29",
+   "adv": "FC Den Bosch",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     9,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     28,
+     15
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-02",
+   "adv": "FC Den Bosch",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     3,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     7
+    ],
+    "ch": [
+     16,
+     12
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-05-06",
+   "adv": "De Graafschap",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     8,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     16,
+     8
+    ]
+   }
+  },
+  {
+   "data": "2026-05-09",
+   "adv": "De Graafschap",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     10,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     13,
+     19
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-13",
+   "adv": "Willem II Tilburg",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     1
+    ],
+    "ch": [
+     15,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-05-16",
+   "adv": "Willem II Tilburg",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     15,
+     14
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  }
+ ]
+}
