@@ -40,6 +40,13 @@ Sufixos: `_ht` = 1º tempo, `_ft` = jogo inteiro.
 
 ## Cuidados
 
+**Olhe o campo `periodo` antes de usar a régua de uma competição.** A
+contagem de jogos sozinha engana. Champions e Europa League de temporada em
+curso costumam ter só as ELIMINATÓRIAS PRÉVIAS (julho e agosto), disputadas
+por clubes de Malta, San Marino, Bielorrússia — a fase de liga só estreia em
+meados de setembro. Se `periodo.ate` for anterior a setembro, o que está ali
+não é Champions no sentido que interessa. Use a temporada anterior.
+
 - Brasileirão A e B sustentam projeção de confronto (24 a 38 jogos por time).
 - Copas não: por time são 2 a 6 jogos. Ali use só a régua da competição.
 - Série B 2025 está incompleta, e o que falta não é aleatório: é o returno

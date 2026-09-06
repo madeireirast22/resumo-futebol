@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-06T02:14:16.243Z",
+ "gerado": "2026-09-06T02:16:02.797Z",
  "competicoes": [
   {
    "chave": "brasileirao-a-2025",
@@ -10,6 +10,10 @@
    "temporadaId": 72034,
    "jogos": 380,
    "jogosNaFonte": null,
+   "periodo": {
+    "de": "2025-03-29",
+    "ate": "2025-12-07"
+   },
    "arquivo": "brasileirao-a-2025.json",
    "pastaDosTimes": "times/brasileirao-a-2025/",
    "times": {
@@ -44,6 +48,10 @@
    "temporadaId": 87678,
    "jogos": 249,
    "jogosNaFonte": 245,
+   "periodo": {
+    "de": "2026-01-28",
+    "ate": "2026-09-06"
+   },
    "arquivo": "brasileirao-a-2026.json",
    "pastaDosTimes": "times/brasileirao-a-2026/",
    "times": {
@@ -78,6 +86,10 @@
    "temporadaId": 72603,
    "jogos": 379,
    "jogosNaFonte": 380,
+   "periodo": {
+    "de": "2025-04-04",
+    "ate": "2025-11-23"
+   },
    "arquivo": "brasileirao-b-2025.json",
    "pastaDosTimes": "times/brasileirao-b-2025/",
    "times": {
@@ -113,6 +125,10 @@
    "temporadaId": 89840,
    "jogos": 258,
    "jogosNaFonte": 254,
+   "periodo": {
+    "de": "2026-03-21",
+    "ate": "2026-09-05"
+   },
    "arquivo": "brasileirao-b-2026.json",
    "pastaDosTimes": "times/brasileirao-b-2026/",
    "times": {
@@ -147,6 +163,10 @@
    "temporadaId": 77333,
    "jogos": 308,
    "jogosNaFonte": 308,
+   "periodo": {
+    "de": "2025-08-22",
+    "ate": "2026-05-25"
+   },
    "arquivo": "bundesliga-2025.json",
    "pastaDosTimes": "times/bundesliga-2025/",
    "times": {
@@ -180,6 +200,10 @@
    "temporadaId": 97464,
    "jogos": 16,
    "jogosNaFonte": 16,
+   "periodo": {
+    "de": "2026-08-28",
+    "ate": "2026-09-05"
+   },
    "arquivo": "bundesliga-2026.json",
    "pastaDosTimes": "times/bundesliga-2026/",
    "times": {
@@ -212,6 +236,10 @@
    "temporadaId": 76953,
    "jogos": 226,
    "jogosNaFonte": 281,
+   "periodo": {
+    "de": "2025-07-22",
+    "ate": "2026-05-30"
+   },
    "arquivo": "champions-2025.json",
    "pastaDosTimes": "times/champions-2025/",
    "times": {
@@ -282,6 +310,10 @@
    "temporadaId": 96518,
    "jogos": 34,
    "jogosNaFonte": 90,
+   "periodo": {
+    "de": "2026-07-07",
+    "ate": "2026-08-26"
+   },
    "arquivo": "champions-2026.json",
    "pastaDosTimes": "times/champions-2026/",
    "times": {
@@ -322,6 +354,10 @@
    "temporadaId": 71944,
    "jogos": 72,
    "jogosNaFonte": null,
+   "periodo": {
+    "de": "2025-02-18",
+    "ate": "2025-12-21"
+   },
    "arquivo": "copa-do-brasil-2025.json",
    "pastaDosTimes": "times/copa-do-brasil-2025/",
    "times": {
@@ -378,6 +414,10 @@
    "temporadaId": 89353,
    "jogos": 68,
    "jogosNaFonte": 150,
+   "periodo": {
+    "de": "2026-03-17",
+    "ate": "2026-09-03"
+   },
    "arquivo": "copa-do-brasil-2026.json",
    "pastaDosTimes": "times/copa-do-brasil-2026/",
    "times": {
@@ -436,6 +476,10 @@
    "temporadaId": 77012,
    "jogos": 321,
    "jogosNaFonte": 321,
+   "periodo": {
+    "de": "2025-08-08",
+    "ate": "2026-05-24"
+   },
    "arquivo": "eredivisie-2025.json",
    "pastaDosTimes": "times/eredivisie-2025/",
    "times": {
@@ -474,6 +518,10 @@
    "temporadaId": 96143,
    "jogos": 37,
    "jogosNaFonte": 37,
+   "periodo": {
+    "de": "2026-08-07",
+    "ate": "2026-09-05"
+   },
    "arquivo": "eredivisie-2026.json",
    "pastaDosTimes": "times/eredivisie-2026/",
    "times": {
@@ -506,6 +554,10 @@
    "temporadaId": 76984,
    "jogos": 189,
    "jogosNaFonte": 271,
+   "periodo": {
+    "de": "2025-09-24",
+    "ate": "2026-05-20"
+   },
    "arquivo": "europa-2025.json",
    "pastaDosTimes": "times/europa-2025/",
    "times": {
@@ -556,6 +608,10 @@
    "temporadaId": 77559,
    "jogos": 380,
    "jogosNaFonte": 380,
+   "periodo": {
+    "de": "2025-08-15",
+    "ate": "2026-05-24"
+   },
    "arquivo": "laliga-2025.json",
    "pastaDosTimes": "times/laliga-2025/",
    "times": {
@@ -590,6 +646,10 @@
    "temporadaId": 97268,
    "jogos": 35,
    "jogosNaFonte": 35,
+   "periodo": {
+    "de": "2026-08-15",
+    "ate": "2026-09-05"
+   },
    "arquivo": "laliga-2026.json",
    "pastaDosTimes": "times/laliga-2026/",
    "times": {
@@ -624,6 +684,10 @@
    "temporadaId": 70083,
    "jogos": 154,
    "jogosNaFonte": null,
+   "periodo": {
+    "de": "2025-02-05",
+    "ate": "2025-11-29"
+   },
    "arquivo": "libertadores-2025.json",
    "pastaDosTimes": "times/libertadores-2025/",
    "times": {
@@ -685,6 +749,10 @@
    "temporadaId": 87760,
    "jogos": 141,
    "jogosNaFonte": 141,
+   "periodo": {
+    "de": "2026-02-04",
+    "ate": "2026-08-26"
+   },
    "arquivo": "libertadores-2026.json",
    "pastaDosTimes": "times/libertadores-2026/",
    "times": {
@@ -746,6 +814,10 @@
    "temporadaId": 77356,
    "jogos": 309,
    "jogosNaFonte": 309,
+   "periodo": {
+    "de": "2025-08-15",
+    "ate": "2026-05-29"
+   },
    "arquivo": "ligue1-2025.json",
    "pastaDosTimes": "times/ligue1-2025/",
    "times": {
@@ -781,6 +853,10 @@
    "temporadaId": 96127,
    "jogos": 24,
    "jogosNaFonte": 24,
+   "periodo": {
+    "de": "2026-08-21",
+    "ate": "2026-09-05"
+   },
    "arquivo": "ligue1-2026.json",
    "pastaDosTimes": "times/ligue1-2026/",
    "times": {
@@ -813,6 +889,10 @@
    "temporadaId": 70158,
    "jogos": 540,
    "jogosNaFonte": 540,
+   "periodo": {
+    "de": "2025-02-22",
+    "ate": "2025-12-06"
+   },
    "arquivo": "mls-2025.json",
    "pastaDosTimes": "times/mls-2025/",
    "times": {
@@ -857,6 +937,10 @@
    "temporadaId": 86668,
    "jogos": 335,
    "jogosNaFonte": 330,
+   "periodo": {
+    "de": "2026-02-21",
+    "ate": "2026-09-05"
+   },
    "arquivo": "mls-2026.json",
    "pastaDosTimes": "times/mls-2026/",
    "times": {
@@ -901,6 +985,10 @@
    "temporadaId": 76986,
    "jogos": 380,
    "jogosNaFonte": 380,
+   "periodo": {
+    "de": "2025-08-15",
+    "ate": "2026-05-24"
+   },
    "arquivo": "premier-2025.json",
    "pastaDosTimes": "times/premier-2025/",
    "times": {
@@ -935,6 +1023,10 @@
    "temporadaId": 96668,
    "jogos": 28,
    "jogosNaFonte": 28,
+   "periodo": {
+    "de": "2026-08-21",
+    "ate": "2026-09-05"
+   },
    "arquivo": "premier-2026.json",
    "pastaDosTimes": "times/premier-2026/",
    "times": {
@@ -969,6 +1061,10 @@
    "temporadaId": 76457,
    "jogos": 380,
    "jogosNaFonte": 380,
+   "periodo": {
+    "de": "2025-08-23",
+    "ate": "2026-05-24"
+   },
    "arquivo": "seriea-2025.json",
    "pastaDosTimes": "times/seriea-2025/",
    "times": {
@@ -1003,6 +1099,10 @@
    "temporadaId": 95836,
    "jogos": 24,
    "jogosNaFonte": 24,
+   "periodo": {
+    "de": "2026-08-22",
+    "ate": "2026-09-05"
+   },
    "arquivo": "seriea-2026.json",
    "pastaDosTimes": "times/seriea-2026/",
    "times": {
@@ -1037,6 +1137,10 @@
    "temporadaId": 70070,
    "jogos": 156,
    "jogosNaFonte": null,
+   "periodo": {
+    "de": "2025-03-05",
+    "ate": "2025-11-22"
+   },
    "arquivo": "sul-americana-2025.json",
    "pastaDosTimes": "times/sul-americana-2025/",
    "times": {
@@ -1107,6 +1211,10 @@
    "temporadaId": 87770,
    "jogos": 144,
    "jogosNaFonte": 144,
+   "periodo": {
+    "de": "2026-03-03",
+    "ate": "2026-08-27"
+   },
    "arquivo": "sul-americana-2026.json",
    "pastaDosTimes": "times/sul-americana-2026/",
    "times": {
