@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-08T01:21:09.625Z",
+ "gerado": "2026-09-10T19:32:26.214Z",
  "competicoes": [
   {
    "chave": "brasileirao-a-2025",
@@ -46,11 +46,11 @@
    "ano": "2026",
    "torneioId": 325,
    "temporadaId": 87678,
-   "jogos": 249,
+   "jogos": 256,
    "jogosNaFonte": 245,
    "periodo": {
     "de": "2026-01-28",
-    "ate": "2026-09-06"
+    "ate": "2026-09-07"
    },
    "arquivo": "brasileirao-a-2026.json",
    "pastaDosTimes": "times/brasileirao-a-2026/",
@@ -123,11 +123,11 @@
    "ano": "2026",
    "torneioId": 390,
    "temporadaId": 89840,
-   "jogos": 258,
+   "jogos": 267,
    "jogosNaFonte": 254,
    "periodo": {
     "de": "2026-03-21",
-    "ate": "2026-09-05"
+    "ate": "2026-09-10"
    },
    "arquivo": "brasileirao-b-2026.json",
    "pastaDosTimes": "times/brasileirao-b-2026/",
@@ -198,11 +198,11 @@
    "ano": "2026",
    "torneioId": 35,
    "temporadaId": 97464,
-   "jogos": 16,
-   "jogosNaFonte": 16,
+   "jogos": 18,
+   "jogosNaFonte": 18,
    "periodo": {
     "de": "2026-08-28",
-    "ate": "2026-09-05"
+    "ate": "2026-09-06"
    },
    "arquivo": "bundesliga-2026.json",
    "pastaDosTimes": "times/bundesliga-2026/",
@@ -308,11 +308,11 @@
    "ano": "2026",
    "torneioId": 7,
    "temporadaId": 96518,
-   "jogos": 34,
+   "jogos": 48,
    "jogosNaFonte": 90,
    "periodo": {
     "de": "2026-07-07",
-    "ate": "2026-08-26"
+    "ate": "2026-09-10"
    },
    "arquivo": "champions-2026.json",
    "pastaDosTimes": "times/champions-2026/",
@@ -320,29 +320,52 @@
     "AC Sparta Praha": "ac-sparta-praha",
     "AEK Athens": "aek-athens",
     "AGF": "agf",
+    "Arsenal": "arsenal",
+    "AS Roma": "as-roma",
+    "Aston Villa": "aston-villa",
+    "Atlético Madrid": "atletico-madrid",
     "Bodø/Glimt": "bod-glimt",
+    "Borussia Dortmund": "borussia-dortmund",
     "Celtic": "celtic",
+    "Club Brugge KV": "club-brugge-kv",
     "ETO FC Győr": "eto-fc-gyor",
+    "FC Barcelona": "fc-barcelona",
     "FC Kairat Almaty": "fc-kairat-almaty",
+    "FC Porto": "fc-porto",
     "FC Thun": "fc-thun",
     "Fenerbahçe": "fenerbahce",
+    "Feyenoord": "feyenoord",
+    "Galatasaray": "galatasaray",
     "GNK Dinamo Zagreb": "gnk-dinamo-zagreb",
     "Górnik Zabrze": "gornik-zabrze",
     "Hapoel Be'er Sheva": "hapoel-be-er-sheva",
     "Heart of Midlothian": "heart-of-midlothian",
+    "Inter": "inter",
     "LASK": "lask",
     "Lech Poznań": "lech-poznan",
     "Levski Sofia": "levski-sofia",
+    "Lille": "lille",
+    "Liverpool FC": "liverpool-fc",
+    "Manchester City": "manchester-city",
     "NEC Nijmegen": "nec-nijmegen",
     "NK Celje": "nk-celje",
     "Olympiacos FC": "olympiacos-fc",
     "Olympique Lyonnais": "olympique-lyonnais",
+    "Paris Saint-Germain": "paris-saint-germain",
+    "PSV Eindhoven": "psv-eindhoven",
+    "Real Betis": "real-betis",
+    "Real Madrid": "real-madrid",
     "Royale Union Saint-Gilloise": "royale-union-saint-gilloise",
     "Sabah FK": "sabah-fk",
+    "Shakhtar Donetsk": "shakhtar-donetsk",
     "ŠK Slovan Bratislava": "sk-slovan-bratislava",
     "SK Sturm Graz": "sk-sturm-graz",
+    "Sporting CP": "sporting-cp",
+    "SSC Napoli": "ssc-napoli",
+    "VfB Stuttgart": "vfb-stuttgart",
     "Viking FK": "viking-fk",
-    "Víkingur Reykjavík": "vikingur-reykjavik"
+    "Víkingur Reykjavík": "vikingur-reykjavik",
+    "Villarreal": "villarreal"
    }
   },
   {
@@ -516,11 +539,11 @@
    "ano": "2026",
    "torneioId": 37,
    "temporadaId": 96143,
-   "jogos": 37,
+   "jogos": 44,
    "jogosNaFonte": 37,
    "periodo": {
     "de": "2026-08-07",
-    "ate": "2026-09-05"
+    "ate": "2026-09-09"
    },
    "arquivo": "eredivisie-2026.json",
    "pastaDosTimes": "times/eredivisie-2026/",
@@ -644,11 +667,11 @@
    "ano": "2026",
    "torneioId": 8,
    "temporadaId": 97268,
-   "jogos": 35,
+   "jogos": 41,
    "jogosNaFonte": 35,
    "periodo": {
     "de": "2026-08-15",
-    "ate": "2026-09-05"
+    "ate": "2026-09-07"
    },
    "arquivo": "laliga-2026.json",
    "pastaDosTimes": "times/laliga-2026/",
@@ -747,11 +770,11 @@
    "ano": "2026",
    "torneioId": 384,
    "temporadaId": 87760,
-   "jogos": 141,
+   "jogos": 144,
    "jogosNaFonte": 141,
    "periodo": {
     "de": "2026-02-04",
-    "ate": "2026-08-26"
+    "ate": "2026-09-10"
    },
    "arquivo": "libertadores-2026.json",
    "pastaDosTimes": "times/libertadores-2026/",
@@ -851,11 +874,11 @@
    "ano": "2026",
    "torneioId": 34,
    "temporadaId": 96127,
-   "jogos": 24,
-   "jogosNaFonte": 24,
+   "jogos": 27,
+   "jogosNaFonte": 27,
    "periodo": {
     "de": "2026-08-21",
-    "ate": "2026-09-05"
+    "ate": "2026-09-06"
    },
    "arquivo": "ligue1-2026.json",
    "pastaDosTimes": "times/ligue1-2026/",
@@ -935,11 +958,11 @@
    "ano": "2026",
    "torneioId": 242,
    "temporadaId": 86668,
-   "jogos": 335,
+   "jogos": 357,
    "jogosNaFonte": 330,
    "periodo": {
     "de": "2026-02-21",
-    "ate": "2026-09-05"
+    "ate": "2026-09-10"
    },
    "arquivo": "mls-2026.json",
    "pastaDosTimes": "times/mls-2026/",
@@ -1021,11 +1044,11 @@
    "ano": "2026",
    "torneioId": 17,
    "temporadaId": 96668,
-   "jogos": 28,
-   "jogosNaFonte": 28,
+   "jogos": 30,
+   "jogosNaFonte": 30,
    "periodo": {
     "de": "2026-08-21",
-    "ate": "2026-09-05"
+    "ate": "2026-09-06"
    },
    "arquivo": "premier-2026.json",
    "pastaDosTimes": "times/premier-2026/",
@@ -1097,11 +1120,11 @@
    "ano": "2026",
    "torneioId": 23,
    "temporadaId": 95836,
-   "jogos": 24,
-   "jogosNaFonte": 24,
+   "jogos": 30,
+   "jogosNaFonte": 30,
    "periodo": {
     "de": "2026-08-22",
-    "ate": "2026-09-05"
+    "ate": "2026-09-07"
    },
    "arquivo": "seriea-2026.json",
    "pastaDosTimes": "times/seriea-2026/",
@@ -1209,11 +1232,11 @@
    "ano": "2026",
    "torneioId": 480,
    "temporadaId": 87770,
-   "jogos": 144,
+   "jogos": 147,
    "jogosNaFonte": 144,
    "periodo": {
     "de": "2026-03-03",
-    "ate": "2026-08-27"
+    "ate": "2026-09-09"
    },
    "arquivo": "sul-americana-2026.json",
    "pastaDosTimes": "times/sul-americana-2026/",
@@ -1281,7 +1304,7 @@
   {
    "competicao": "brasileirao-a-2026",
    "arquivo": "scout-brasileirao-a-2026.json",
-   "jogadores": 457
+   "jogadores": 471
   },
   {
    "competicao": "bundesliga-2026",
@@ -1306,7 +1329,7 @@
   {
    "competicao": "laliga-2026",
    "arquivo": "scout-laliga-2026.json",
-   "jogadores": 236
+   "jogadores": 219
   },
   {
    "competicao": "ligue1-2026",
@@ -1326,7 +1349,7 @@
   {
    "competicao": "premier-2026",
    "arquivo": "scout-premier-2026.json",
-   "jogadores": 226
+   "jogadores": 235
   },
   {
    "competicao": "seriea-2026",
