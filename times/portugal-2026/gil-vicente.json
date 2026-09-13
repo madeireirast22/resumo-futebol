@@ -1,0 +1,489 @@
+{
+ "time": "Gil Vicente",
+ "competicao": {
+  "chave": "portugal-2026",
+  "nome": "Liga Portugal (POR)",
+  "apelido": "portugal",
+  "ano": "2026",
+  "torneioId": 238,
+  "temporadaId": 97436,
+  "jogos": 47,
+  "jogosNaFonte": 47,
+  "periodo": {
+   "de": "2026-08-07",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 47,
+   "media": 4.38,
+   "overs": {
+    "1.5": 80.9,
+    "2.5": 76.6,
+    "3.5": 61.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 47,
+   "media": 8.74,
+   "overs": {
+    "7.5": 59.6,
+    "8.5": 48.9,
+    "9.5": 38.3,
+    "10.5": 25.5
+   }
+  },
+  "chutes_ht": {
+   "jogos": 47,
+   "media": 12,
+   "overs": {
+    "7.5": 93.6,
+    "9.5": 76.6,
+    "11.5": 51.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 47,
+   "media": 24.28,
+   "overs": {
+    "19.5": 83,
+    "21.5": 61.7,
+    "23.5": 46.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 47,
+   "media": 3.85,
+   "overs": {
+    "2.5": 78.7,
+    "3.5": 59.6,
+    "4.5": 34
+   }
+  },
+  "alvo_ft": {
+   "jogos": 47,
+   "media": 8.17,
+   "overs": {
+    "6.5": 76.6,
+    "7.5": 61.7,
+    "8.5": 44.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 45,
+   "media": 1.42,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 44.4,
+    "2.5": 17.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 45,
+   "media": 4.22,
+   "overs": {
+    "3.5": 60,
+    "4.5": 40,
+    "5.5": 26.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 47,
+   "media": 11.64,
+   "overs": {
+    "9.5": 76.6,
+    "11.5": 53.2,
+    "13.5": 27.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 47,
+   "media": 25.11,
+   "overs": {
+    "21.5": 78.7,
+    "23.5": 59.6,
+    "25.5": 46.8
+   }
+  },
+  "gols_ht": {
+   "jogos": 47,
+   "media": 1.26,
+   "overs": {
+    "0.5": 72.3,
+    "1.5": 36.2,
+    "2.5": 12.8
+   },
+   "ambasMarcam": 17
+  },
+  "gols_ft": {
+   "jogos": 47,
+   "media": 2.72,
+   "overs": {
+    "1.5": 74.5,
+    "2.5": 55.3,
+    "3.5": 36.2,
+    "4.5": 8.5
+   },
+   "ambasMarcam": 44.7
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 2,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 3.25,
+  "totalMedia": 7.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 5.75,
+  "contraMedia": 4.75,
+  "totalMedia": 10.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 7,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 15.25,
+  "contraMedia": 8,
+  "totalMedia": 23.25,
+  "casa": {
+   "jogos": 3,
+   "pro": 18,
+   "contra": 8.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 7
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 1,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4.25,
+  "contraMedia": 1.5,
+  "totalMedia": 5.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.75,
+  "contraMedia": 0.5,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 1.75,
+  "contraMedia": 2,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 6.25,
+  "contraMedia": 4,
+  "totalMedia": 10.25,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 13.75,
+  "contraMedia": 11,
+  "totalMedia": 24.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 12,
+   "contra": 11.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 19,
+   "contra": 10
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.25,
+  "totalMedia": 0.75,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 0.75,
+  "contraMedia": 0.25,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-09",
+   "adv": "Rio Ave",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     1,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     13,
+     6
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-24",
+   "adv": "Casa Pia",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     8,
+     13
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Famalicão",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     2,
+     5
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-09-06",
+   "adv": "Académico Viseu FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     14,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     1
+    ],
+    "ch": [
+     33,
+     6
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  }
+ ]
+}

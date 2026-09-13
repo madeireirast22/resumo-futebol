@@ -1,0 +1,612 @@
+{
+ "time": "Charlton Athletic",
+ "competicao": {
+  "chave": "championship-2026",
+  "nome": "Championship (ING)",
+  "apelido": "championship",
+  "ano": "2026",
+  "torneioId": 18,
+  "temporadaId": 97037,
+  "jogos": 73,
+  "jogosNaFonte": 73,
+  "periodo": {
+   "de": "2026-08-14",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 73,
+   "media": 4.67,
+   "overs": {
+    "1.5": 95.9,
+    "2.5": 83.6,
+    "3.5": 68.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 73,
+   "media": 10.67,
+   "overs": {
+    "7.5": 87.7,
+    "8.5": 71.2,
+    "9.5": 60.3,
+    "10.5": 49.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 73,
+   "media": 12.3,
+   "overs": {
+    "7.5": 86.3,
+    "9.5": 75.3,
+    "11.5": 61.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 73,
+   "media": 26.88,
+   "overs": {
+    "19.5": 87.7,
+    "21.5": 82.2,
+    "23.5": 76.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 73,
+   "media": 3.74,
+   "overs": {
+    "2.5": 74,
+    "3.5": 53.4,
+    "4.5": 32.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 73,
+   "media": 8.47,
+   "overs": {
+    "6.5": 74,
+    "7.5": 67.1,
+    "8.5": 50.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 72,
+   "media": 1.31,
+   "overs": {
+    "0.5": 65.3,
+    "1.5": 34.7,
+    "2.5": 20.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 72,
+   "media": 3.69,
+   "overs": {
+    "3.5": 47.2,
+    "4.5": 27.8,
+    "5.5": 9.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 73,
+   "media": 10.49,
+   "overs": {
+    "9.5": 58.9,
+    "11.5": 37,
+    "13.5": 16.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 73,
+   "media": 22.4,
+   "overs": {
+    "21.5": 53.4,
+    "23.5": 34.2,
+    "25.5": 20.5
+   }
+  },
+  "gols_ht": {
+   "jogos": 73,
+   "media": 1.49,
+   "overs": {
+    "0.5": 80.8,
+    "1.5": 41.1,
+    "2.5": 17.8
+   },
+   "ambasMarcam": 27.4
+  },
+  "gols_ft": {
+   "jogos": 73,
+   "media": 2.95,
+   "overs": {
+    "1.5": 82.2,
+    "2.5": 64.4,
+    "3.5": 35.6,
+    "4.5": 12.3
+   },
+   "ambasMarcam": 68.5
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 2.86,
+  "contraMedia": 3,
+  "totalMedia": 5.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 3.25,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 4.86,
+  "contraMedia": 6.43,
+  "totalMedia": 11.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 6,
+   "contra": 6.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 6.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 5.71,
+  "contraMedia": 7.14,
+  "totalMedia": 12.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 6.25,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 9.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 10.14,
+  "contraMedia": 15.43,
+  "totalMedia": 25.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 11.75,
+   "contra": 12.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 8,
+   "contra": 19
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 1.43,
+  "contraMedia": 1.57,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 2.57,
+  "contraMedia": 4.29,
+  "totalMedia": 6.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 6.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.14,
+  "contraMedia": 0.14,
+  "totalMedia": 0.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 1.43,
+  "contraMedia": 1.57,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 1.33
+  }
+ },
+ "faltas_ht": {
+  "jogos": 7,
+  "proMedia": 5.29,
+  "contraMedia": 6.29,
+  "totalMedia": 11.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.5,
+   "contra": 7.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 11.57,
+  "contraMedia": 12.71,
+  "totalMedia": 24.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 9,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 15,
+   "contra": 11
+  }
+ },
+ "gols_ht": {
+  "jogos": 7,
+  "proMedia": 0.14,
+  "contraMedia": 0.71,
+  "totalMedia": 0.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 1.33
+  }
+ },
+ "gols_ft": {
+  "jogos": 7,
+  "proMedia": 0.86,
+  "contraMedia": 1,
+  "totalMedia": 1.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-15",
+   "adv": "Derby County",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     13,
+     15
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-22",
+   "adv": "West Ham United",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     5,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     7,
+     25
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Preston North End",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     3,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     4
+    ],
+    "ch": [
+     15,
+     12
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-09-02",
+   "adv": "West Bromwich Albion",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     2,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     8
+    ],
+    "ch": [
+     4,
+     15
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-09-05",
+   "adv": "Stoke City",
+   "mando": "F",
+   "golsHt": [
+    0,
+    4
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     8,
+     12
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     13,
+     17
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-09-09",
+   "adv": "Queens Park Rangers",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     9
+    ],
+    "ch": [
+     7,
+     10
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     12
+    ],
+    "ch": [
+     9,
+     15
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-09-12",
+   "adv": "Portsmouth",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     6,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     10,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

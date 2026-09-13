@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-12T23:50:35.793Z",
+ "gerado": "2026-09-13T08:56:23.120Z",
  "competicoes": [
   {
    "chave": "brasileirao-a-2025",
@@ -46,11 +46,11 @@
    "ano": "2026",
    "torneioId": 325,
    "temporadaId": 87678,
-   "jogos": 256,
+   "jogos": 261,
    "jogosNaFonte": 245,
    "periodo": {
     "de": "2026-01-28",
-    "ate": "2026-09-07"
+    "ate": "2026-09-12"
    },
    "arquivo": "brasileirao-a-2026.json",
    "pastaDosTimes": "times/brasileirao-a-2026/",
@@ -123,11 +123,11 @@
    "ano": "2026",
    "torneioId": 390,
    "temporadaId": 89840,
-   "jogos": 267,
+   "jogos": 270,
    "jogosNaFonte": 254,
    "periodo": {
     "de": "2026-03-21",
-    "ate": "2026-09-10"
+    "ate": "2026-09-11"
    },
    "arquivo": "brasileirao-b-2026.json",
    "pastaDosTimes": "times/brasileirao-b-2026/",
@@ -198,11 +198,11 @@
    "ano": "2026",
    "torneioId": 35,
    "temporadaId": 97464,
-   "jogos": 18,
-   "jogosNaFonte": 18,
+   "jogos": 25,
+   "jogosNaFonte": 25,
    "periodo": {
     "de": "2026-08-28",
-    "ate": "2026-09-06"
+    "ate": "2026-09-12"
    },
    "arquivo": "bundesliga-2026.json",
    "pastaDosTimes": "times/bundesliga-2026/",
@@ -308,7 +308,7 @@
    "ano": "2026",
    "torneioId": 7,
    "temporadaId": 96518,
-   "jogos": 48,
+   "jogos": 52,
    "jogosNaFonte": 90,
    "periodo": {
     "de": "2026-07-07",
@@ -328,8 +328,10 @@
     "Borussia Dortmund": "borussia-dortmund",
     "Celtic": "celtic",
     "Club Brugge KV": "club-brugge-kv",
+    "Como": "como",
     "ETO FC Győr": "eto-fc-gyor",
     "FC Barcelona": "fc-barcelona",
+    "FC Bayern München": "fc-bayern-munchen",
     "FC Kairat Almaty": "fc-kairat-almaty",
     "FC Porto": "fc-porto",
     "FC Thun": "fc-thun",
@@ -347,17 +349,21 @@
     "Lille": "lille",
     "Liverpool FC": "liverpool-fc",
     "Manchester City": "manchester-city",
+    "Manchester United": "manchester-united",
     "NEC Nijmegen": "nec-nijmegen",
     "NK Celje": "nk-celje",
     "Olympiacos FC": "olympiacos-fc",
     "Olympique Lyonnais": "olympique-lyonnais",
     "Paris Saint-Germain": "paris-saint-germain",
     "PSV Eindhoven": "psv-eindhoven",
+    "RB Leipzig": "rb-leipzig",
+    "RC Lens": "rc-lens",
     "Real Betis": "real-betis",
     "Real Madrid": "real-madrid",
     "Royale Union Saint-Gilloise": "royale-union-saint-gilloise",
     "Sabah FK": "sabah-fk",
     "Shakhtar Donetsk": "shakhtar-donetsk",
+    "SK Slavia Praha": "sk-slavia-praha",
     "ŠK Slovan Bratislava": "sk-slovan-bratislava",
     "SK Sturm Graz": "sk-sturm-graz",
     "Sporting CP": "sporting-cp",
@@ -366,6 +372,48 @@
     "Viking FK": "viking-fk",
     "Víkingur Reykjavík": "vikingur-reykjavik",
     "Villarreal": "villarreal"
+   }
+  },
+  {
+   "chave": "championship-2026",
+   "nome": "Championship (ING)",
+   "apelido": "championship",
+   "ano": "2026",
+   "torneioId": 18,
+   "temporadaId": 97037,
+   "jogos": 73,
+   "jogosNaFonte": 73,
+   "periodo": {
+    "de": "2026-08-14",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "championship-2026.json",
+   "pastaDosTimes": "times/championship-2026/",
+   "times": {
+    "Birmingham City": "birmingham-city",
+    "Blackburn Rovers": "blackburn-rovers",
+    "Bolton Wanderers": "bolton-wanderers",
+    "Bristol City": "bristol-city",
+    "Burnley": "burnley",
+    "Cardiff City": "cardiff-city",
+    "Charlton Athletic": "charlton-athletic",
+    "Derby County": "derby-county",
+    "Lincoln City": "lincoln-city",
+    "Middlesbrough": "middlesbrough",
+    "Millwall": "millwall",
+    "Norwich City": "norwich-city",
+    "Portsmouth": "portsmouth",
+    "Preston North End": "preston-north-end",
+    "Queens Park Rangers": "queens-park-rangers",
+    "Sheffield United": "sheffield-united",
+    "Southampton": "southampton",
+    "Stoke City": "stoke-city",
+    "Swansea City": "swansea-city",
+    "Watford": "watford",
+    "West Bromwich Albion": "west-bromwich-albion",
+    "West Ham United": "west-ham-united",
+    "Wolverhampton": "wolverhampton",
+    "Wrexham": "wrexham"
    }
   },
   {
@@ -491,6 +539,36 @@
    }
   },
   {
+   "chave": "dinamarca-2026",
+   "nome": "Superliga (DIN)",
+   "apelido": "dinamarca",
+   "ano": "2026",
+   "torneioId": 39,
+   "temporadaId": 95785,
+   "jogos": 43,
+   "jogosNaFonte": 43,
+   "periodo": {
+    "de": "2026-07-24",
+    "ate": "2026-09-11"
+   },
+   "arquivo": "dinamarca-2026.json",
+   "pastaDosTimes": "times/dinamarca-2026/",
+   "times": {
+    "AC Horsens": "ac-horsens",
+    "AGF": "agf",
+    "Brøndby IF": "br-ndby-if",
+    "FC København": "fc-k-benhavn",
+    "FC Midtjylland": "fc-midtjylland",
+    "FC Nordsjælland": "fc-nordsj-lland",
+    "Lyngby": "lyngby",
+    "Odense Boldklub": "odense-boldklub",
+    "Randers FC": "randers-fc",
+    "Silkeborg IF": "silkeborg-if",
+    "Sønderjyske Fodbold": "s-nderjyske-fodbold",
+    "Viborg FF": "viborg-ff"
+   }
+  },
+  {
    "chave": "eredivisie-2025",
    "nome": "Eredivisie (HOL)",
    "apelido": "eredivisie",
@@ -539,11 +617,11 @@
    "ano": "2026",
    "torneioId": 37,
    "temporadaId": 96143,
-   "jogos": 44,
+   "jogos": 49,
    "jogosNaFonte": 37,
    "periodo": {
     "de": "2026-08-07",
-    "ate": "2026-09-09"
+    "ate": "2026-09-12"
    },
    "arquivo": "eredivisie-2026.json",
    "pastaDosTimes": "times/eredivisie-2026/",
@@ -667,11 +745,11 @@
    "ano": "2026",
    "torneioId": 8,
    "temporadaId": 97268,
-   "jogos": 41,
+   "jogos": 46,
    "jogosNaFonte": 35,
    "periodo": {
     "de": "2026-08-15",
-    "ate": "2026-09-07"
+    "ate": "2026-09-12"
    },
    "arquivo": "laliga-2026.json",
    "pastaDosTimes": "times/laliga-2026/",
@@ -770,11 +848,11 @@
    "ano": "2026",
    "torneioId": 384,
    "temporadaId": 87760,
-   "jogos": 144,
+   "jogos": 145,
    "jogosNaFonte": 141,
    "periodo": {
     "de": "2026-02-04",
-    "ate": "2026-09-10"
+    "ate": "2026-09-11"
    },
    "arquivo": "libertadores-2026.json",
    "pastaDosTimes": "times/libertadores-2026/",
@@ -874,11 +952,11 @@
    "ano": "2026",
    "torneioId": 34,
    "temporadaId": 96127,
-   "jogos": 27,
+   "jogos": 33,
    "jogosNaFonte": 27,
    "periodo": {
     "de": "2026-08-21",
-    "ate": "2026-09-06"
+    "ate": "2026-09-12"
    },
    "arquivo": "ligue1-2026.json",
    "pastaDosTimes": "times/ligue1-2026/",
@@ -901,6 +979,42 @@
     "Stade Rennais": "stade-rennais",
     "Toulouse": "toulouse",
     "Troyes": "troyes"
+   }
+  },
+  {
+   "chave": "mexico-2026",
+   "nome": "Liga MX Apertura (MEX)",
+   "apelido": "mexico",
+   "ano": "2026",
+   "torneioId": 11621,
+   "temporadaId": 96191,
+   "jogos": 60,
+   "jogosNaFonte": 60,
+   "periodo": {
+    "de": "2026-07-17",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "mexico-2026.json",
+   "pastaDosTimes": "times/mexico-2026/",
+   "times": {
+    "Atlante FC": "atlante-fc",
+    "Atlas FC": "atlas-fc",
+    "Atlético San Luis": "atletico-san-luis",
+    "CD Guadalajara": "cd-guadalajara",
+    "CD Toluca": "cd-toluca",
+    "CF Monterrey": "cf-monterrey",
+    "CF Pachuca": "cf-pachuca",
+    "Club América": "club-america",
+    "Club León": "club-leon",
+    "Club Necaxa": "club-necaxa",
+    "Club Puebla": "club-puebla",
+    "Club Tijuana": "club-tijuana",
+    "Cruz Azul": "cruz-azul",
+    "FC Juárez": "fc-juarez",
+    "Pumas UNAM": "pumas-unam",
+    "Querétaro FC": "queretaro-fc",
+    "Santos Laguna": "santos-laguna",
+    "Tigres UANL": "tigres-uanl"
    }
   },
   {
@@ -1000,6 +1114,76 @@
    }
   },
   {
+   "chave": "noruega-2026",
+   "nome": "Eliteserien (NOR)",
+   "apelido": "noruega",
+   "ano": "2026",
+   "torneioId": 20,
+   "temporadaId": 87809,
+   "jogos": 150,
+   "jogosNaFonte": 152,
+   "periodo": {
+    "de": "2026-03-14",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "noruega-2026.json",
+   "pastaDosTimes": "times/noruega-2026/",
+   "times": {
+    "Aalesunds FK": "aalesunds-fk",
+    "Bodø/Glimt": "bod-glimt",
+    "Fredrikstad FK": "fredrikstad-fk",
+    "HamKam": "hamkam",
+    "IK Start": "ik-start",
+    "KFUM Oslo": "kfum-oslo",
+    "Kristiansund BK": "kristiansund-bk",
+    "Lillestrøm SK": "lillestr-m-sk",
+    "Molde FK": "molde-fk",
+    "Rosenborg BK": "rosenborg-bk",
+    "Sandefjord Fotball": "sandefjord-fotball",
+    "Sarpsborg 08": "sarpsborg-08",
+    "SK Brann": "sk-brann",
+    "Tromsø IL": "troms-il",
+    "Vålerenga IF": "valerenga-if",
+    "Viking FK": "viking-fk"
+   }
+  },
+  {
+   "chave": "portugal-2026",
+   "nome": "Liga Portugal (POR)",
+   "apelido": "portugal",
+   "ano": "2026",
+   "torneioId": 238,
+   "temporadaId": 97436,
+   "jogos": 47,
+   "jogosNaFonte": 47,
+   "periodo": {
+    "de": "2026-08-07",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "portugal-2026.json",
+   "pastaDosTimes": "times/portugal-2026/",
+   "times": {
+    "Académico Viseu FC": "academico-viseu-fc",
+    "Benfica": "benfica",
+    "Casa Pia": "casa-pia",
+    "CD Nacional": "cd-nacional",
+    "CF Estrela Amadora": "cf-estrela-amadora",
+    "CS Marítimo": "cs-maritimo",
+    "Estoril Praia": "estoril-praia",
+    "Famalicão": "famalicao",
+    "FC Alverca": "fc-alverca",
+    "FC Arouca": "fc-arouca",
+    "FC Porto": "fc-porto",
+    "Gil Vicente": "gil-vicente",
+    "Moreirense": "moreirense",
+    "Rio Ave": "rio-ave",
+    "Santa Clara": "santa-clara",
+    "Sporting Braga": "sporting-braga",
+    "Sporting CP": "sporting-cp",
+    "Vitória SC": "vitoria-sc"
+   }
+  },
+  {
    "chave": "premier-2025",
    "nome": "Premier League (ING)",
    "apelido": "premier",
@@ -1044,11 +1228,11 @@
    "ano": "2026",
    "torneioId": 17,
    "temporadaId": 96668,
-   "jogos": 30,
+   "jogos": 37,
    "jogosNaFonte": 30,
    "periodo": {
     "de": "2026-08-21",
-    "ate": "2026-09-06"
+    "ate": "2026-09-12"
    },
    "arquivo": "premier-2026.json",
    "pastaDosTimes": "times/premier-2026/",
@@ -1120,11 +1304,11 @@
    "ano": "2026",
    "torneioId": 23,
    "temporadaId": 95836,
-   "jogos": 30,
+   "jogos": 34,
    "jogosNaFonte": 30,
    "periodo": {
     "de": "2026-08-22",
-    "ate": "2026-09-07"
+    "ate": "2026-09-12"
    },
    "arquivo": "seriea-2026.json",
    "pastaDosTimes": "times/seriea-2026/",
@@ -1149,6 +1333,40 @@
     "Torino": "torino",
     "Udinese": "udinese",
     "Venezia": "venezia"
+   }
+  },
+  {
+   "chave": "suecia-2026",
+   "nome": "Allsvenskan (SUE)",
+   "apelido": "suecia",
+   "ano": "2026",
+   "torneioId": 40,
+   "temporadaId": 87925,
+   "jogos": 158,
+   "jogosNaFonte": 162,
+   "periodo": {
+    "de": "2026-04-04",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "suecia-2026.json",
+   "pastaDosTimes": "times/suecia-2026/",
+   "times": {
+    "AIK": "aik",
+    "BK Häcken": "bk-hacken",
+    "Degerfors IF": "degerfors-if",
+    "Djurgårdens IF": "djurgardens-if",
+    "GAIS": "gais",
+    "Halmstads BK": "halmstads-bk",
+    "Hammarby IF": "hammarby-if",
+    "IF Brommapojkarna": "if-brommapojkarna",
+    "IF Elfsborg": "if-elfsborg",
+    "IFK Göteborg": "ifk-goteborg",
+    "IK Sirius": "ik-sirius",
+    "Kalmar FF": "kalmar-ff",
+    "Malmö FF": "malmo-ff",
+    "Mjällby AIF": "mjallby-aif",
+    "Örgryte IS": "orgryte-is",
+    "Västerås SK": "vasteras-sk"
    }
   },
   {
@@ -1232,11 +1450,11 @@
    "ano": "2026",
    "torneioId": 480,
    "temporadaId": 87770,
-   "jogos": 147,
+   "jogos": 148,
    "jogosNaFonte": 144,
    "periodo": {
     "de": "2026-03-03",
-    "ate": "2026-09-09"
+    "ate": "2026-09-11"
    },
    "arquivo": "sul-americana-2026.json",
    "pastaDosTimes": "times/sul-americana-2026/",
@@ -1298,23 +1516,84 @@
     "Universidad de Chile": "universidad-de-chile",
     "Vasco da Gama": "vasco-da-gama"
    }
+  },
+  {
+   "chave": "turquia-2026",
+   "nome": "Süper Lig (TUR)",
+   "apelido": "turquia",
+   "ano": "2026",
+   "torneioId": 52,
+   "temporadaId": 98080,
+   "jogos": 41,
+   "jogosNaFonte": 41,
+   "periodo": {
+    "de": "2026-08-14",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "turquia-2026.json",
+   "pastaDosTimes": "times/turquia-2026/",
+   "times": {
+    "Alanyaspor": "alanyaspor",
+    "Amed Sportif Faaliyetler": "amed-sportif-faaliyetler",
+    "Başakşehir FK": "basaksehir-fk",
+    "Beşiktaş JK": "besiktas-jk",
+    "Çaykur Rizespor": "caykur-rizespor",
+    "Çorum FK": "corum-fk",
+    "Erzurumspor FK": "erzurumspor-fk",
+    "Eyüpspor": "eyupspor",
+    "Fenerbahçe": "fenerbahce",
+    "Galatasaray": "galatasaray",
+    "Gaziantep FK": "gaziantep-fk",
+    "Gençlerbirliği": "genclerbirligi",
+    "Göztepe": "goztepe",
+    "Kasımpaşa": "kas-mpasa",
+    "Kocaelispor": "kocaelispor",
+    "Konyaspor": "konyaspor",
+    "Samsunspor": "samsunspor",
+    "Trabzonspor": "trabzonspor"
+   }
   }
  ],
  "scout": [
   {
+   "competicao": "brasileirao-a-2025",
+   "arquivo": "scout-brasileirao-a-2025.json",
+   "jogadores": 565
+  },
+  {
    "competicao": "brasileirao-a-2026",
    "arquivo": "scout-brasileirao-a-2026.json",
-   "jogadores": 471
+   "jogadores": 477
+  },
+  {
+   "competicao": "bundesliga-2025",
+   "arquivo": "scout-bundesliga-2025.json",
+   "jogadores": 391
   },
   {
    "competicao": "bundesliga-2026",
    "arquivo": "scout-bundesliga-2026.json",
-   "jogadores": 207
+   "jogadores": 208
+  },
+  {
+   "competicao": "champions-2025",
+   "arquivo": "scout-champions-2025.json",
+   "jogadores": 619
   },
   {
    "competicao": "champions-2026",
    "arquivo": "scout-champions-2026.json",
-   "jogadores": 90
+   "jogadores": 109
+  },
+  {
+   "competicao": "championship-2026",
+   "arquivo": "scout-championship-2026.json",
+   "jogadores": 271
+  },
+  {
+   "competicao": "copa-do-brasil-2025",
+   "arquivo": "scout-copa-do-brasil-2025.json",
+   "jogadores": 150
   },
   {
    "competicao": "copa-do-brasil-2026",
@@ -1322,39 +1601,99 @@
    "jogadores": 206
   },
   {
+   "competicao": "dinamarca-2026",
+   "arquivo": "scout-dinamarca-2026.json",
+   "jogadores": 147
+  },
+  {
+   "competicao": "eredivisie-2025",
+   "arquivo": "scout-eredivisie-2025.json",
+   "jogadores": 417
+  },
+  {
    "competicao": "eredivisie-2026",
    "arquivo": "scout-eredivisie-2026.json",
-   "jogadores": 201
+   "jogadores": 213
+  },
+  {
+   "competicao": "europa-2025",
+   "arquivo": "scout-europa-2025.json",
+   "jogadores": 582
+  },
+  {
+   "competicao": "laliga-2025",
+   "arquivo": "scout-laliga-2025.json",
+   "jogadores": 462
   },
   {
    "competicao": "laliga-2026",
    "arquivo": "scout-laliga-2026.json",
-   "jogadores": 219
+   "jogadores": 239
+  },
+  {
+   "competicao": "ligue1-2025",
+   "arquivo": "scout-ligue1-2025.json",
+   "jogadores": 416
   },
   {
    "competicao": "ligue1-2026",
    "arquivo": "scout-ligue1-2026.json",
-   "jogadores": 197
+   "jogadores": 214
+  },
+  {
+   "competicao": "mexico-2026",
+   "arquivo": "scout-mexico-2026.json",
+   "jogadores": 204
+  },
+  {
+   "competicao": "mls-2025",
+   "arquivo": "scout-mls-2025.json",
+   "jogadores": 683
   },
   {
    "competicao": "mls-2026",
    "arquivo": "scout-mls-2026.json",
-   "jogadores": 435
+   "jogadores": 609
+  },
+  {
+   "competicao": "noruega-2026",
+   "arquivo": "scout-noruega-2026.json",
+   "jogadores": 301
+  },
+  {
+   "competicao": "portugal-2026",
+   "arquivo": "scout-portugal-2026.json",
+   "jogadores": 201
   },
   {
    "competicao": "premier-2025",
    "arquivo": "scout-premier-2025.json",
-   "jogadores": 66
+   "jogadores": 432
   },
   {
    "competicao": "premier-2026",
    "arquivo": "scout-premier-2026.json",
-   "jogadores": 235
+   "jogadores": 238
+  },
+  {
+   "competicao": "seriea-2025",
+   "arquivo": "scout-seriea-2025.json",
+   "jogadores": 464
   },
   {
    "competicao": "seriea-2026",
    "arquivo": "scout-seriea-2026.json",
-   "jogadores": 215
+   "jogadores": 219
+  },
+  {
+   "competicao": "suecia-2026",
+   "arquivo": "scout-suecia-2026.json",
+   "jogadores": 299
+  },
+  {
+   "competicao": "turquia-2026",
+   "arquivo": "scout-turquia-2026.json",
+   "jogadores": 218
   }
  ]
 }

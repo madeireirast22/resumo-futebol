@@ -1,0 +1,612 @@
+{
+ "time": "Club Tijuana",
+ "competicao": {
+  "chave": "mexico-2026",
+  "nome": "Liga MX Apertura (MEX)",
+  "apelido": "mexico",
+  "ano": "2026",
+  "torneioId": 11621,
+  "temporadaId": 96191,
+  "jogos": 60,
+  "jogosNaFonte": 60,
+  "periodo": {
+   "de": "2026-07-17",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 60,
+   "media": 5.22,
+   "overs": {
+    "1.5": 93.3,
+    "2.5": 86.7,
+    "3.5": 76.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 60,
+   "media": 10.55,
+   "overs": {
+    "7.5": 80,
+    "8.5": 65,
+    "9.5": 58.3,
+    "10.5": 48.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 60,
+   "media": 13.37,
+   "overs": {
+    "7.5": 96.7,
+    "9.5": 81.7,
+    "11.5": 63.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 60,
+   "media": 29.32,
+   "overs": {
+    "19.5": 96.7,
+    "21.5": 88.3,
+    "23.5": 78.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 60,
+   "media": 4.07,
+   "overs": {
+    "2.5": 73.3,
+    "3.5": 51.7,
+    "4.5": 38.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 60,
+   "media": 9.3,
+   "overs": {
+    "6.5": 80,
+    "7.5": 66.7,
+    "8.5": 56.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 56,
+   "media": 1.46,
+   "overs": {
+    "0.5": 75,
+    "1.5": 44.6,
+    "2.5": 16.1
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 56,
+   "media": 3.75,
+   "overs": {
+    "3.5": 46.4,
+    "4.5": 28.6,
+    "5.5": 19.6
+   }
+  },
+  "faltas_ht": {
+   "jogos": 60,
+   "media": 11.63,
+   "overs": {
+    "9.5": 78.3,
+    "11.5": 48.3,
+    "13.5": 26.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 60,
+   "media": 23.95,
+   "overs": {
+    "21.5": 66.7,
+    "23.5": 48.3,
+    "25.5": 35
+   }
+  },
+  "gols_ht": {
+   "jogos": 60,
+   "media": 1.22,
+   "overs": {
+    "0.5": 66.7,
+    "1.5": 35,
+    "2.5": 13.3
+   },
+   "ambasMarcam": 23.3
+  },
+  "gols_ft": {
+   "jogos": 60,
+   "media": 2.8,
+   "overs": {
+    "1.5": 78.3,
+    "2.5": 53.3,
+    "3.5": 30,
+    "4.5": 16.7
+   },
+   "ambasMarcam": 56.7
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 1.57,
+  "contraMedia": 3.86,
+  "totalMedia": 5.43,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.6,
+   "contra": 3.6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 4.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 4.29,
+  "contraMedia": 5.57,
+  "totalMedia": 9.86,
+  "casa": {
+   "jogos": 5,
+   "pro": 5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 4.57,
+  "contraMedia": 6.71,
+  "totalMedia": 11.29,
+  "casa": {
+   "jogos": 5,
+   "pro": 5,
+   "contra": 6.4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 7.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 13.29,
+  "contraMedia": 11.29,
+  "totalMedia": 24.57,
+  "casa": {
+   "jogos": 5,
+   "pro": 14.2,
+   "contra": 10.4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 13.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 1.14,
+  "contraMedia": 2.43,
+  "totalMedia": 3.57,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.6,
+   "contra": 2.2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 3.71,
+  "contraMedia": 4.14,
+  "totalMedia": 7.86,
+  "casa": {
+   "jogos": 5,
+   "pro": 4.2,
+   "contra": 3.8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.43,
+  "contraMedia": 0.86,
+  "totalMedia": 1.29,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.2,
+   "contra": 0.8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 1.14,
+  "contraMedia": 2.86,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 5,
+   "pro": 1,
+   "contra": 3.2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 7,
+  "proMedia": 5.43,
+  "contraMedia": 6,
+  "totalMedia": 11.43,
+  "casa": {
+   "jogos": 5,
+   "pro": 6.2,
+   "contra": 6.4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 10.71,
+  "contraMedia": 12.86,
+  "totalMedia": 23.57,
+  "casa": {
+   "jogos": 5,
+   "pro": 11.2,
+   "contra": 13.8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 10.5
+  }
+ },
+ "gols_ht": {
+  "jogos": 7,
+  "proMedia": 0.29,
+  "contraMedia": 0.71,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.4,
+   "contra": 0.4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1.5
+  }
+ },
+ "gols_ft": {
+  "jogos": 7,
+  "proMedia": 1.43,
+  "contraMedia": 1.14,
+  "totalMedia": 2.57,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.6,
+   "contra": 0.6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 2.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-07-17",
+   "adv": "Tigres UANL",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     4,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-07-25",
+   "adv": "Club León",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     10
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-01",
+   "adv": "Atlético San Luis",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     14
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-17",
+   "adv": "Cruz Azul",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     8,
+     9
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     6
+    ],
+    "ch": [
+     13,
+     15
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-08-23",
+   "adv": "CD Guadalajara",
+   "mando": "F",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    2,
+    5
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     16,
+     13
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Pumas UNAM",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     4,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     6
+    ],
+    "ch": [
+     11,
+     10
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-09-12",
+   "adv": "Querétaro FC",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     13,
+     4
+    ],
+    "ch": [
+     24,
+     8
+    ],
+    "car": [
+     0,
+     5
+    ]
+   }
+  }
+ ]
+}

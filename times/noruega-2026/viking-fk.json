@@ -1,0 +1,727 @@
+{
+ "time": "Viking FK",
+ "competicao": {
+  "chave": "noruega-2026",
+  "nome": "Eliteserien (NOR)",
+  "apelido": "noruega",
+  "ano": "2026",
+  "torneioId": 20,
+  "temporadaId": 87809,
+  "jogos": 150,
+  "jogosNaFonte": 152,
+  "periodo": {
+   "de": "2026-03-14",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 150,
+   "media": 5.23,
+   "overs": {
+    "1.5": 94.7,
+    "2.5": 84.7,
+    "3.5": 74
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 150,
+   "media": 10.85,
+   "overs": {
+    "7.5": 82,
+    "8.5": 72.7,
+    "9.5": 63.3,
+    "10.5": 54
+   }
+  },
+  "chutes_ht": {
+   "jogos": 150,
+   "media": 12.85,
+   "overs": {
+    "7.5": 92,
+    "9.5": 79.3,
+    "11.5": 61.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 150,
+   "media": 27.68,
+   "overs": {
+    "19.5": 92,
+    "21.5": 84,
+    "23.5": 70.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 150,
+   "media": 4.4,
+   "overs": {
+    "2.5": 77.3,
+    "3.5": 59.3,
+    "4.5": 44.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 150,
+   "media": 9.49,
+   "overs": {
+    "6.5": 80.7,
+    "7.5": 67.3,
+    "8.5": 55.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 142,
+   "media": 1.13,
+   "overs": {
+    "0.5": 71.1,
+    "1.5": 28.2,
+    "2.5": 9.9
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 143,
+   "media": 3.71,
+   "overs": {
+    "3.5": 53.1,
+    "4.5": 32.9,
+    "5.5": 15.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 150,
+   "media": 11.09,
+   "overs": {
+    "9.5": 61.3,
+    "11.5": 41.3,
+    "13.5": 24.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 150,
+   "media": 23.59,
+   "overs": {
+    "21.5": 60,
+    "23.5": 49.3,
+    "25.5": 32.7
+   }
+  },
+  "gols_ht": {
+   "jogos": 150,
+   "media": 1.49,
+   "overs": {
+    "0.5": 84,
+    "1.5": 42.7,
+    "2.5": 14.7
+   },
+   "ambasMarcam": 23.3
+  },
+  "gols_ft": {
+   "jogos": 150,
+   "media": 3.09,
+   "overs": {
+    "1.5": 84.7,
+    "2.5": 60.7,
+    "3.5": 33.3,
+    "4.5": 18.7
+   },
+   "ambasMarcam": 56
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 19,
+  "proMedia": 4.05,
+  "contraMedia": 2.42,
+  "totalMedia": 6.47,
+  "casa": {
+   "jogos": 8,
+   "pro": 4.38,
+   "contra": 2.13
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 3.82,
+   "contra": 2.64
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 19,
+  "proMedia": 7,
+  "contraMedia": 5.42,
+  "totalMedia": 12.42,
+  "casa": {
+   "jogos": 8,
+   "pro": 7.75,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 6.45,
+   "contra": 5.36
+  }
+ },
+ "chutes_ht": {
+  "jogos": 19,
+  "proMedia": 7.47,
+  "contraMedia": 6.37,
+  "totalMedia": 13.84,
+  "casa": {
+   "jogos": 8,
+   "pro": 7.63,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 7.36,
+   "contra": 7.36
+  }
+ },
+ "chutes_ft": {
+  "jogos": 19,
+  "proMedia": 15.47,
+  "contraMedia": 13.05,
+  "totalMedia": 28.53,
+  "casa": {
+   "jogos": 8,
+   "pro": 17.38,
+   "contra": 10.88
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 14.09,
+   "contra": 14.64
+  }
+ },
+ "alvo_ht": {
+  "jogos": 19,
+  "proMedia": 2.79,
+  "contraMedia": 1.58,
+  "totalMedia": 4.37,
+  "casa": {
+   "jogos": 8,
+   "pro": 3.38,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 2.36,
+   "contra": 1.45
+  }
+ },
+ "alvo_ft": {
+  "jogos": 19,
+  "proMedia": 5.53,
+  "contraMedia": 3.37,
+  "totalMedia": 8.89,
+  "casa": {
+   "jogos": 8,
+   "pro": 7,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 4.45,
+   "contra": 3.27
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 18,
+  "proMedia": 0.56,
+  "contraMedia": 0.94,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 8,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 10,
+   "pro": 0.6,
+   "contra": 0.9
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 18,
+  "proMedia": 2.33,
+  "contraMedia": 2.56,
+  "totalMedia": 4.89,
+  "casa": {
+   "jogos": 8,
+   "pro": 2,
+   "contra": 2.88
+  },
+  "fora": {
+   "jogos": 10,
+   "pro": 2.6,
+   "contra": 2.3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 19,
+  "proMedia": 5.74,
+  "contraMedia": 6.53,
+  "totalMedia": 12.26,
+  "casa": {
+   "jogos": 8,
+   "pro": 6,
+   "contra": 6.63
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 5.55,
+   "contra": 6.45
+  }
+ },
+ "faltas_ft": {
+  "jogos": 19,
+  "proMedia": 12.42,
+  "contraMedia": 13,
+  "totalMedia": 25.42,
+  "casa": {
+   "jogos": 8,
+   "pro": 12.88,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 12.09,
+   "contra": 13
+  }
+ },
+ "gols_ht": {
+  "jogos": 19,
+  "proMedia": 1.21,
+  "contraMedia": 0.53,
+  "totalMedia": 1.74,
+  "casa": {
+   "jogos": 8,
+   "pro": 1.63,
+   "contra": 0.75
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 0.91,
+   "contra": 0.36
+  }
+ },
+ "gols_ft": {
+  "jogos": 19,
+  "proMedia": 2.26,
+  "contraMedia": 1,
+  "totalMedia": 3.26,
+  "casa": {
+   "jogos": 8,
+   "pro": 3.38,
+   "contra": 1.13
+  },
+  "fora": {
+   "jogos": 11,
+   "pro": 1.45,
+   "contra": 0.91
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-05-24",
+   "adv": "Kristiansund BK",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     9,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     10,
+     16
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-07-12",
+   "adv": "Sarpsborg 08",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     7,
+     13
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     12,
+     18
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2026-07-18",
+   "adv": "Sandefjord Fotball",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     9,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     18,
+     9
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-07-22",
+   "adv": "Lillestrøm SK",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     3
+    ],
+    "ch": [
+     11,
+     13
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-26",
+   "adv": "Aalesunds FK",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     8,
+     10
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     4
+    ],
+    "ch": [
+     22,
+     19
+    ],
+    "car": [
+     4,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-01",
+   "adv": "IK Start",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     9,
+     16
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     6
+    ],
+    "ch": [
+     12,
+     26
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-08",
+   "adv": "Sarpsborg 08",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     8,
+     1
+    ],
+    "ch": [
+     9,
+     7
+    ],
+    "car": [
+     0,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     8
+    ],
+    "ch": [
+     17,
+     24
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-08-14",
+   "adv": "Rosenborg BK",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     3,
+     6
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     9
+    ],
+    "ch": [
+     6,
+     18
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Aalesunds FK",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     14,
+     3
+    ],
+    "ch": [
+     22,
+     9
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-09-04",
+   "adv": "Sandefjord Fotball",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     7
+    ],
+    "ch": [
+     19,
+     11
+    ],
+    "car": [
+     1,
+     5
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,489 @@
+{
+ "time": "Kocaelispor",
+ "competicao": {
+  "chave": "turquia-2026",
+  "nome": "Süper Lig (TUR)",
+  "apelido": "turquia",
+  "ano": "2026",
+  "torneioId": 52,
+  "temporadaId": 98080,
+  "jogos": 41,
+  "jogosNaFonte": 41,
+  "periodo": {
+   "de": "2026-08-14",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 41,
+   "media": 4.66,
+   "overs": {
+    "1.5": 87.8,
+    "2.5": 80.5,
+    "3.5": 68.3
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 41,
+   "media": 9.24,
+   "overs": {
+    "7.5": 75.6,
+    "8.5": 58.5,
+    "9.5": 51.2,
+    "10.5": 34.1
+   }
+  },
+  "chutes_ht": {
+   "jogos": 41,
+   "media": 12.73,
+   "overs": {
+    "7.5": 92.7,
+    "9.5": 78,
+    "11.5": 61
+   }
+  },
+  "chutes_ft": {
+   "jogos": 41,
+   "media": 27.88,
+   "overs": {
+    "19.5": 95.1,
+    "21.5": 87.8,
+    "23.5": 70.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 41,
+   "media": 4,
+   "overs": {
+    "2.5": 80.5,
+    "3.5": 56.1,
+    "4.5": 43.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 41,
+   "media": 9.12,
+   "overs": {
+    "6.5": 80.5,
+    "7.5": 68.3,
+    "8.5": 51.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 40,
+   "media": 1.15,
+   "overs": {
+    "0.5": 75,
+    "1.5": 30,
+    "2.5": 10
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 40,
+   "media": 3.73,
+   "overs": {
+    "3.5": 55,
+    "4.5": 35,
+    "5.5": 15
+   }
+  },
+  "faltas_ht": {
+   "jogos": 41,
+   "media": 12.51,
+   "overs": {
+    "9.5": 87.8,
+    "11.5": 53.7,
+    "13.5": 31.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 41,
+   "media": 25.83,
+   "overs": {
+    "21.5": 82.9,
+    "23.5": 65.9,
+    "25.5": 46.3
+   }
+  },
+  "gols_ht": {
+   "jogos": 41,
+   "media": 1.41,
+   "overs": {
+    "0.5": 80.5,
+    "1.5": 39,
+    "2.5": 14.6
+   },
+   "ambasMarcam": 22
+  },
+  "gols_ft": {
+   "jogos": 41,
+   "media": 2.95,
+   "overs": {
+    "1.5": 75.6,
+    "2.5": 53.7,
+    "3.5": 29.3,
+    "4.5": 19.5
+   },
+   "ambasMarcam": 51.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 3.25,
+  "contraMedia": 5,
+  "totalMedia": 8.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 8,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 10.75,
+  "contraMedia": 14.75,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 10,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 13.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.75,
+  "contraMedia": 1.25,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 2.5,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 2.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 0,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 1.25,
+  "totalMedia": 2.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1.5
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 6.5,
+  "contraMedia": 6.25,
+  "totalMedia": 12.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 6.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 12,
+  "contraMedia": 15,
+  "totalMedia": 27,
+  "casa": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 15
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 0.75,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-08-16",
+   "adv": "Başakşehir FK",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     8
+    ],
+    "ch": [
+     8,
+     17
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-24",
+   "adv": "Amed Sportif Faaliyetler",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     11,
+     12
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-29",
+   "adv": "Konyaspor",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     3,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     15,
+     10
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-09-06",
+   "adv": "Samsunspor",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     3,
+     15
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     4
+    ],
+    "ch": [
+     9,
+     20
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  }
+ ]
+}
