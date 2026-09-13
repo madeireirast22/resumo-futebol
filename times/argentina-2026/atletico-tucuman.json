@@ -1,0 +1,735 @@
+{
+ "time": "Atlético Tucumán",
+ "competicao": {
+  "chave": "argentina-2026",
+  "nome": "Liga Profesional (ARG)",
+  "apelido": "argentina",
+  "ano": "2026",
+  "torneioId": 155,
+  "temporadaId": 87913,
+  "jogos": 375,
+  "jogosNaFonte": 379,
+  "periodo": {
+   "de": "2026-01-22",
+   "ate": "2026-09-12"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 375,
+   "media": 4.18,
+   "overs": {
+    "1.5": 91.5,
+    "2.5": 75.2,
+    "3.5": 57.9
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 375,
+   "media": 8.74,
+   "overs": {
+    "7.5": 62.9,
+    "8.5": 50.9,
+    "9.5": 38.4,
+    "10.5": 29.1
+   }
+  },
+  "chutes_ht": {
+   "jogos": 375,
+   "media": 11.3,
+   "overs": {
+    "7.5": 86.7,
+    "9.5": 69.3,
+    "11.5": 46.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 375,
+   "media": 25.11,
+   "overs": {
+    "19.5": 83.5,
+    "21.5": 73.1,
+    "23.5": 59.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 375,
+   "media": 3.55,
+   "overs": {
+    "2.5": 69.9,
+    "3.5": 47.2,
+    "4.5": 30.1
+   }
+  },
+  "alvo_ft": {
+   "jogos": 375,
+   "media": 8.11,
+   "overs": {
+    "6.5": 65.9,
+    "7.5": 57.3,
+    "8.5": 43.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 373,
+   "media": 1.88,
+   "overs": {
+    "0.5": 83.6,
+    "1.5": 55.8,
+    "2.5": 30.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 373,
+   "media": 5.01,
+   "overs": {
+    "3.5": 74.5,
+    "4.5": 55.8,
+    "5.5": 37.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 375,
+   "media": 11.62,
+   "overs": {
+    "9.5": 72.8,
+    "11.5": 49.3,
+    "13.5": 28.5
+   }
+  },
+  "faltas_ft": {
+   "jogos": 375,
+   "media": 24.66,
+   "overs": {
+    "21.5": 72.5,
+    "23.5": 57.1,
+    "25.5": 44.8
+   }
+  },
+  "gols_ht": {
+   "jogos": 375,
+   "media": 0.87,
+   "overs": {
+    "0.5": 59.7,
+    "1.5": 21.9,
+    "2.5": 5.1
+   },
+   "ambasMarcam": 12.3
+  },
+  "gols_ft": {
+   "jogos": 375,
+   "media": 2.1,
+   "overs": {
+    "1.5": 63.7,
+    "2.5": 36.3,
+    "3.5": 15.2,
+    "4.5": 5.9
+   },
+   "ambasMarcam": 45.6
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 25,
+  "proMedia": 2.2,
+  "contraMedia": 1.96,
+  "totalMedia": 4.16,
+  "casa": {
+   "jogos": 13,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 1.33,
+   "contra": 1.92
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 25,
+  "proMedia": 5.12,
+  "contraMedia": 3.64,
+  "totalMedia": 8.76,
+  "casa": {
+   "jogos": 13,
+   "pro": 6.46,
+   "contra": 3.77
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 3.67,
+   "contra": 3.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 25,
+  "proMedia": 5.64,
+  "contraMedia": 5.2,
+  "totalMedia": 10.84,
+  "casa": {
+   "jogos": 13,
+   "pro": 6.31,
+   "contra": 4.08
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 4.92,
+   "contra": 6.42
+  }
+ },
+ "chutes_ft": {
+  "jogos": 25,
+  "proMedia": 11.68,
+  "contraMedia": 11.56,
+  "totalMedia": 23.24,
+  "casa": {
+   "jogos": 13,
+   "pro": 13.15,
+   "contra": 9.46
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 10.08,
+   "contra": 13.83
+  }
+ },
+ "alvo_ht": {
+  "jogos": 25,
+  "proMedia": 1.44,
+  "contraMedia": 1.4,
+  "totalMedia": 2.84,
+  "casa": {
+   "jogos": 13,
+   "pro": 1.77,
+   "contra": 1.08
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 1.08,
+   "contra": 1.75
+  }
+ },
+ "alvo_ft": {
+  "jogos": 25,
+  "proMedia": 3.36,
+  "contraMedia": 3.24,
+  "totalMedia": 6.6,
+  "casa": {
+   "jogos": 13,
+   "pro": 3.69,
+   "contra": 2.62
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 3,
+   "contra": 3.92
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 25,
+  "proMedia": 0.8,
+  "contraMedia": 0.92,
+  "totalMedia": 1.72,
+  "casa": {
+   "jogos": 13,
+   "pro": 0.38,
+   "contra": 0.92
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 1.25,
+   "contra": 0.92
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 25,
+  "proMedia": 2.4,
+  "contraMedia": 2.4,
+  "totalMedia": 4.8,
+  "casa": {
+   "jogos": 13,
+   "pro": 1.62,
+   "contra": 2.92
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 3.25,
+   "contra": 1.83
+  }
+ },
+ "faltas_ht": {
+  "jogos": 25,
+  "proMedia": 5.84,
+  "contraMedia": 5.6,
+  "totalMedia": 11.44,
+  "casa": {
+   "jogos": 13,
+   "pro": 5.77,
+   "contra": 6.15
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 5.92,
+   "contra": 5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 25,
+  "proMedia": 12.6,
+  "contraMedia": 10.8,
+  "totalMedia": 23.4,
+  "casa": {
+   "jogos": 13,
+   "pro": 11.92,
+   "contra": 11.77
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 13.33,
+   "contra": 9.75
+  }
+ },
+ "gols_ht": {
+  "jogos": 25,
+  "proMedia": 0.32,
+  "contraMedia": 0.4,
+  "totalMedia": 0.72,
+  "casa": {
+   "jogos": 13,
+   "pro": 0.31,
+   "contra": 0.23
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 0.33,
+   "contra": 0.58
+  }
+ },
+ "gols_ft": {
+  "jogos": 25,
+  "proMedia": 0.88,
+  "contraMedia": 1,
+  "totalMedia": 1.88,
+  "casa": {
+   "jogos": 13,
+   "pro": 0.77,
+   "contra": 0.77
+  },
+  "fora": {
+   "jogos": 12,
+   "pro": 1,
+   "contra": 1.25
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-05-03",
+   "adv": "River Plate",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     5,
+     19
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-26",
+   "adv": "Independiente Rivadavia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     3,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-07-31",
+   "adv": "Central Córdoba",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     1,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     8,
+     10
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-04",
+   "adv": "Huracán",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     16,
+     16
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-08",
+   "adv": "Sarmiento",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     5,
+     3
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     13,
+     4
+    ],
+    "ch": [
+     12,
+     11
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-17",
+   "adv": "Estudiantes de Río Cuarto",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     5,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     9,
+     12
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2026-08-22",
+   "adv": "Instituto De Córdoba",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     2,
+     3
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     12,
+     8
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-08-30",
+   "adv": "Club Atlético Belgrano",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     8,
+     1
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     16,
+     10
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2026-09-07",
+   "adv": "Racing Club",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     9,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     12,
+     19
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-09-12",
+   "adv": "River Plate",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     1,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     6,
+     18
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

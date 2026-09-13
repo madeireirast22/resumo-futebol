@@ -1,6 +1,54 @@
 {
- "gerado": "2026-09-13T08:56:23.120Z",
+ "gerado": "2026-09-13T09:44:06.949Z",
  "competicoes": [
+  {
+   "chave": "argentina-2026",
+   "nome": "Liga Profesional (ARG)",
+   "apelido": "argentina",
+   "ano": "2026",
+   "torneioId": 155,
+   "temporadaId": 87913,
+   "jogos": 375,
+   "jogosNaFonte": 379,
+   "periodo": {
+    "de": "2026-01-22",
+    "ate": "2026-09-12"
+   },
+   "arquivo": "argentina-2026.json",
+   "pastaDosTimes": "times/argentina-2026/",
+   "times": {
+    "Aldosivi": "aldosivi",
+    "Argentinos Juniors": "argentinos-juniors",
+    "Atlético Tucumán": "atletico-tucuman",
+    "Banfield": "banfield",
+    "Barracas Central": "barracas-central",
+    "Boca Juniors": "boca-juniors",
+    "CA Independiente": "ca-independiente",
+    "CA Lanús": "ca-lanus",
+    "CA Talleres": "ca-talleres",
+    "Central Córdoba": "central-cordoba",
+    "Club Atlético Belgrano": "club-atletico-belgrano",
+    "Club Atlético Platense": "club-atletico-platense",
+    "Club Atlético Unión de Santa Fe": "club-atletico-union-de-santa-fe",
+    "Defensa y Justicia": "defensa-y-justicia",
+    "Deportivo Riestra": "deportivo-riestra",
+    "Estudiantes de La Plata": "estudiantes-de-la-plata",
+    "Estudiantes de Río Cuarto": "estudiantes-de-rio-cuarto",
+    "Gimnasia y Esgrima": "gimnasia-y-esgrima",
+    "Gimnasia y Esgrima Mendoza": "gimnasia-y-esgrima-mendoza",
+    "Huracán": "huracan",
+    "Independiente Rivadavia": "independiente-rivadavia",
+    "Instituto De Córdoba": "instituto-de-cordoba",
+    "Newell's Old Boys": "newell-s-old-boys",
+    "Racing Club": "racing-club",
+    "River Plate": "river-plate",
+    "Rosario Central": "rosario-central",
+    "San Lorenzo": "san-lorenzo",
+    "Sarmiento": "sarmiento",
+    "Tigre": "tigre",
+    "Vélez Sarsfield": "velez-sarsfield"
+   }
+  },
   {
    "chave": "brasileirao-a-2025",
    "nome": "Brasileirão Série A",
@@ -1555,6 +1603,11 @@
   }
  ],
  "scout": [
+  {
+   "competicao": "argentina-2026",
+   "arquivo": "scout-argentina-2026.json",
+   "jogadores": 677
+  },
   {
    "competicao": "brasileirao-a-2025",
    "arquivo": "scout-brasileirao-a-2025.json",
