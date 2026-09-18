@@ -369,7 +369,309 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-18T17:00:09.496Z",
+  "minutosAntesDoJogo": 60,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 809408,
+     "nome": "Etienne Vaessen",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1424404,
+     "nome": "Jorg Schreuders",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 1012661,
+     "nome": "Márk Csinger",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1121401,
+     "nome": "Thijmen Blokzijl",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 827103,
+     "nome": "Marco Rente",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1121402,
+     "nome": "Tika de Jonge",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 795135,
+     "nome": "Pelle Clement",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 1878212,
+     "nome": "David van der Werff",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 1413536,
+     "nome": "Thom van Bergen",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 1004790,
+     "nome": "Jacob Ondrejka",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 907520,
+     "nome": "Brynjólfur Darri Willumsson",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 1004481,
+     "nome": "Lovro Štubljar",
+     "pos": "G",
+     "camisa": 13
+    },
+    {
+     "id": 875613,
+     "nome": "Pelle Boevink",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 356352,
+     "nome": "Hans Hateboer",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 2646797,
+     "nome": "Jesper Mosselaar",
+     "pos": "D",
+     "camisa": 42
+    },
+    {
+     "id": 1441117,
+     "nome": "Tygo Land",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 2646599,
+     "nome": "Jahelille Hall",
+     "pos": "M",
+     "camisa": 53
+    },
+    {
+     "id": 2199364,
+     "nome": "Jismerai Dillema",
+     "pos": "M",
+     "camisa": 44
+    },
+    {
+     "id": 1989748,
+     "nome": "Alvin Nordin",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1625485,
+     "nome": "Nils Eggens",
+     "pos": "F",
+     "camisa": 20
+    },
+    {
+     "id": 318745,
+     "nome": "Oskar Zawada",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1977230,
+     "nome": "Elvis Van der Laan",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1150951,
+     "nome": "Nikolas Brandis",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1481249,
+     "nome": "Wouter Prins",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 856636,
+     "nome": "Jasper Schendelaar",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1049446,
+     "nome": "Olivier Aertssen",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 927155,
+     "nome": "Simon Graves",
+     "pos": "D",
+     "camisa": 28
+    },
+    {
+     "id": 46900,
+     "nome": "Nick Viergever",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 803021,
+     "nome": "Sherel Constancio Floranus",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1017654,
+     "nome": "Tobias Sommer",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1509752,
+     "nome": "Nick Fichtinger",
+     "pos": "M",
+     "camisa": 34
+    },
+    {
+     "id": 923968,
+     "nome": "Dylan Mbayo",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 876233,
+     "nome": "Thijs Oosting",
+     "pos": "M",
+     "camisa": 25
+    },
+    {
+     "id": 1128902,
+     "nome": "Ibrahim Cissoko",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 847073,
+     "nome": "Koen Kostons",
+     "pos": "F",
+     "camisa": 10
+    }
+   ],
+   "banco": [
+    {
+     "id": 1394059,
+     "nome": "Duke Verduin",
+     "pos": "G",
+     "camisa": 41
+    },
+    {
+     "id": 1145525,
+     "nome": "Tom de Graaff",
+     "pos": "G",
+     "camisa": 16
+    },
+    {
+     "id": 1172732,
+     "nome": "Damian van der Haar",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 1638397,
+     "nome": "Dylan Ruward",
+     "pos": "D",
+     "camisa": 42
+    },
+    {
+     "id": 1568511,
+     "nome": "Jan Bürger",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 961674,
+     "nome": "Tijs Velthuis",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 2405185,
+     "nome": "Gilles van der Wal",
+     "pos": "M",
+     "camisa": 37
+    },
+    {
+     "id": 2195123,
+     "nome": "Jadiel Pereira da Gama",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 1885838,
+     "nome": "Gabriel Reiziger",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 863632,
+     "nome": "Elias Sørensen",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 846003,
+     "nome": "Odysseus Velanas",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 943595,
+     "nome": "Sydney van Hooijdonk",
+     "pos": "F",
+     "camisa": 17
+    }
+   ],
+   "desfalques": []
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-18T16:45:16.223Z",
   "casa": {
