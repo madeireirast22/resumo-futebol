@@ -1,0 +1,382 @@
+{
+ "eventoId": 16667340,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-09-20T17:45:00.000Z",
+ "rodada": 10,
+ "casa": "San Lorenzo",
+ "casaId": 3201,
+ "fora": "Boca Juniors",
+ "foraId": 3202,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-05",
+    "adv": "CA Talleres",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-01",
+    "adv": "Instituto De Córdoba",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-21",
+    "adv": "Estudiantes de Río Cuarto",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 578460,
+    "nome": "José Devecchi",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1199307,
+    "nome": "Ezequiel Herrera",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 819093,
+    "nome": "Danilo Arboleda",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 780178,
+    "nome": "Emiliano Amor",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1893304,
+    "nome": "Teo Rodríguez Pagano",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 358924,
+    "nome": "Nicolás Tripichio",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 965768,
+    "nome": "Alexis Cuello",
+    "pos": "M",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 6
+   },
+   {
+    "id": 1019621,
+    "nome": "Rodrigo Auzmendi",
+    "pos": "F",
+    "min": 262,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 7
+   },
+   {
+    "id": 2035649,
+    "nome": "Ignacio Perruzzi",
+    "pos": "M",
+    "min": 199,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1182457,
+    "nome": "Matias Reali",
+    "pos": "M",
+    "min": 147,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 881912,
+    "nome": "Juan Álvarez",
+    "pos": "M",
+    "min": 122,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 960297,
+    "nome": "Manuel Insaurralde",
+    "pos": "M",
+    "min": 109,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1003907,
+    "nome": "Facundo Farías",
+    "pos": "M",
+    "min": 77,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1084967,
+    "nome": "Gonzalo Abrego",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2188350,
+    "nome": "Facundo Gulli",
+    "pos": "M",
+    "min": 39,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2725887,
+    "nome": "Enzo Alan Salas",
+    "pos": "F",
+    "min": 27,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1083012,
+    "nome": "Martín Rio",
+    "pos": "M",
+    "min": 26,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1990118,
+    "nome": "Agustin Ladstatter",
+    "pos": "F",
+    "min": 19,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Central Córdoba",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Gimnasia y Esgrima Mendoza",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "CA Lanús",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1482422,
+    "nome": "Dylan Gorosito",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 106456,
+    "nome": "Enner Valencia",
+    "pos": "F",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 579350,
+    "nome": "Nicolás Figal",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 926238,
+    "nome": "Álvaro Montero",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 989865,
+    "nome": "Lautaro Blanco",
+    "pos": "D",
+    "min": 179,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2050769,
+    "nome": "Leonel Flores",
+    "pos": "F",
+    "min": 169,
+    "jogos": 2,
+    "chHt": 5,
+    "chFt": 8
+   },
+   {
+    "id": 881169,
+    "nome": "Tomás Belmonte",
+    "pos": "M",
+    "min": 161,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1095023,
+    "nome": "Marco Pellegrino",
+    "pos": "D",
+    "min": 158,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1482426,
+    "nome": "Camilo Rey Domenech",
+    "pos": "M",
+    "min": 151,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 905487,
+    "nome": "Carlos Palacios",
+    "pos": "M",
+    "min": 121,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 839983,
+    "nome": "Sebastián Villa",
+    "pos": "M",
+    "min": 120,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 976496,
+    "nome": "Alan Velasco",
+    "pos": "F",
+    "min": 119,
+    "jogos": 2,
+    "chHt": 7,
+    "chFt": 8
+   },
+   {
+    "id": 2050768,
+    "nome": "Facundo Herrera",
+    "pos": "D",
+    "min": 112,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 830667,
+    "nome": "Santiago Ascacíbar",
+    "pos": "M",
+    "min": 108,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 936534,
+    "nome": "Williams Alarcón",
+    "pos": "M",
+    "min": 102,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1217939,
+    "nome": "Lautaro Di Lollo",
+    "pos": "D",
+    "min": 102,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2082482,
+    "nome": "Matias Satas",
+    "pos": "D",
+    "min": 91,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1182102,
+    "nome": "Leandro Brey",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

@@ -1,0 +1,382 @@
+{
+ "eventoId": 15526291,
+ "competicao": "brasileirao-b",
+ "competicaoNome": "Brasileirão Série B",
+ "data": "2026-09-20T21:30:00.000Z",
+ "rodada": 29,
+ "casa": "Londrina",
+ "casaId": 2022,
+ "fora": "Fortaleza",
+ "foraId": 2020,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-10",
+    "adv": "São Bernardo",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Operário-PR",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-01",
+    "adv": "Juventude",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 77244,
+    "nome": "Wallace Reis",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1047847,
+    "nome": "Gabriel Lacerda",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1022300,
+    "nome": "Guilherme Portuga",
+    "pos": "M",
+    "min": 262,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 8
+   },
+   {
+    "id": 1632180,
+    "nome": "Caio Rodrigues",
+    "pos": "D",
+    "min": 204,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1631271,
+    "nome": "Kauê Leonardo",
+    "pos": "D",
+    "min": 200,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 879859,
+    "nome": "Kozlinski",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1465222,
+    "nome": "João Vitor",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 243501,
+    "nome": "William Pottker",
+    "pos": "F",
+    "min": 156,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 158561,
+    "nome": "Gilberto",
+    "pos": "F",
+    "min": 156,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 931758,
+    "nome": "Kevyn",
+    "pos": "D",
+    "min": 150,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1473192,
+    "nome": "João Andrade",
+    "pos": "F",
+    "min": 146,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 870756,
+    "nome": "Herbert",
+    "pos": "F",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 7
+   },
+   {
+    "id": 992611,
+    "nome": "Heron",
+    "pos": "M",
+    "min": 112,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1465464,
+    "nome": "Igor Bahia",
+    "pos": "F",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 931580,
+    "nome": "Luan",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 77375,
+    "nome": "Nino Paraíba",
+    "pos": "M",
+    "min": 70,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 946791,
+    "nome": "Tarik",
+    "pos": "D",
+    "min": 66,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1400331,
+    "nome": "João Tavares",
+    "pos": "M",
+    "min": 53,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-13",
+    "adv": "Ceará",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-09",
+    "adv": "Avaí",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Goiás",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 839761,
+    "nome": "João Ricardo",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 973857,
+    "nome": "Maílton",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1103705,
+    "nome": "Lucas Gazal",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 849020,
+    "nome": "Tomás Cardona",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1066721,
+    "nome": "Vitinho",
+    "pos": "M",
+    "min": 245,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1636415,
+    "nome": "Kaio Henrique",
+    "pos": "D",
+    "min": 215,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 219190,
+    "nome": "Pedro Henrique",
+    "pos": "F",
+    "min": 198,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1174770,
+    "nome": "Rodriguinho",
+    "pos": "M",
+    "min": 161,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 123225,
+    "nome": "Lucas Sasha",
+    "pos": "M",
+    "min": 155,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1173040,
+    "nome": "Rodrigo Santos",
+    "pos": "M",
+    "min": 135,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1003721,
+    "nome": "Juan Miritello",
+    "pos": "F",
+    "min": 132,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 1170779,
+    "nome": "Ryan Gustavo",
+    "pos": "M",
+    "min": 129,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 874143,
+    "nome": "Luiz Fernando",
+    "pos": "F",
+    "min": 125,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1174206,
+    "nome": "Paulo Baya",
+    "pos": "F",
+    "min": 109,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 7
+   },
+   {
+    "id": 1017710,
+    "nome": "Pierre",
+    "pos": "M",
+    "min": 96,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1197893,
+    "nome": "Maurício Lima",
+    "pos": "D",
+    "min": 55,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1587711,
+    "nome": "Ronald",
+    "pos": "M",
+    "min": 55,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 795178,
+    "nome": "Lucas Crispim",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

@@ -1,0 +1,382 @@
+{
+ "eventoId": 16432059,
+ "competicao": "portugal",
+ "competicaoNome": "Liga Portugal (POR)",
+ "data": "2026-09-20T19:30:00.000Z",
+ "rodada": 7,
+ "casa": "FC Porto",
+ "casaId": 3002,
+ "fora": "Benfica",
+ "foraId": 3006,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Casa Pia",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Moreirense",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Académico Viseu FC",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 843115,
+    "nome": "Diogo Costa",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 976037,
+    "nome": "Jakub Kiwior",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 804472,
+    "nome": "Pablo Rosario",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1160957,
+    "nome": "Alberto Costa",
+    "pos": "D",
+    "min": 251,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 882664,
+    "nome": "Pepê",
+    "pos": "F",
+    "min": 240,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1010505,
+    "nome": "Gabri Veiga",
+    "pos": "M",
+    "min": 234,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 190159,
+    "nome": "André Silva",
+    "pos": "F",
+    "min": 227,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 286085,
+    "nome": "Jan Bednarek",
+    "pos": "D",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1639250,
+    "nome": "William Gomes",
+    "pos": "F",
+    "min": 197,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 9
+   },
+   {
+    "id": 1406639,
+    "nome": "Victor Froholdt",
+    "pos": "M",
+    "min": 179,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 985138,
+    "nome": "Francisco Moura",
+    "pos": "D",
+    "min": 154,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 889689,
+    "nome": "Hwang In-beom",
+    "pos": "M",
+    "min": 126,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1142585,
+    "nome": "Martim Fernandes",
+    "pos": "D",
+    "min": 108,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 992567,
+    "nome": "Borja Sainz",
+    "pos": "F",
+    "min": 73,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 913401,
+    "nome": "Nehuén Pérez",
+    "pos": "D",
+    "min": 53,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 892141,
+    "nome": "Santiago Giménez",
+    "pos": "F",
+    "min": 43,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1066560,
+    "nome": "Alan Varela",
+    "pos": "M",
+    "min": 28,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 191188,
+    "nome": "Seko Fofana",
+    "pos": "M",
+    "min": 19,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-09",
+    "adv": "Moreirense",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "CS Marítimo",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Estoril Praia",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 983550,
+    "nome": "Samuel Soares",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 983542,
+    "nome": "Tomás Araújo",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 580550,
+    "nome": "Clément Lenglet",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 993101,
+    "nome": "Samuel Dahl",
+    "pos": "D",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 906800,
+    "nome": "Leandro Barreiro",
+    "pos": "M",
+    "min": 246,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1201395,
+    "nome": "Gianluca Prestianni",
+    "pos": "M",
+    "min": 236,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 11
+   },
+   {
+    "id": 364612,
+    "nome": "João Palhinha",
+    "pos": "M",
+    "min": 231,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 8
+   },
+   {
+    "id": 795236,
+    "nome": "Vangelis Pavlidis",
+    "pos": "F",
+    "min": 228,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 8
+   },
+   {
+    "id": 252577,
+    "nome": "Rafa Silva",
+    "pos": "M",
+    "min": 211,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 1123925,
+    "nome": "Georgiy Sudakov",
+    "pos": "M",
+    "min": 151,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 1100952,
+    "nome": "Andreas Schjelderup",
+    "pos": "M",
+    "min": 145,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 850976,
+    "nome": "Alexander Bah",
+    "pos": "D",
+    "min": 107,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1961109,
+    "nome": "Daniel Banjaqui",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 801263,
+    "nome": "Jakub Kamiński",
+    "pos": "M",
+    "min": 73,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 974577,
+    "nome": "Jhon Durán",
+    "pos": "F",
+    "min": 42,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1087316,
+    "nome": "Enzo Barrenechea",
+    "pos": "M",
+    "min": 39,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 823631,
+    "nome": "Dodi Lukebakio",
+    "pos": "F",
+    "min": 34,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1155423,
+    "nome": "Alessandro Circati",
+    "pos": "D",
+    "min": 28,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

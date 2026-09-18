@@ -1,0 +1,382 @@
+{
+ "eventoId": 16285017,
+ "competicao": "seriea",
+ "competicaoNome": "Serie A (ITA)",
+ "data": "2026-09-19T13:00:00.000Z",
+ "rodada": 5,
+ "casa": "Bologna",
+ "casaId": 2685,
+ "fora": "Torino",
+ "foraId": 2696,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-13",
+    "adv": "SSC Napoli",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Sassuolo",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Atalanta",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 933264,
+    "nome": "Torbjørn Heggem",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 907152,
+    "nome": "Lewis Ferguson",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 294597,
+    "nome": "Federico Bernardeschi",
+    "pos": "M",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 965264,
+    "nome": "Emil Holm",
+    "pos": "D",
+    "min": 252,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 971005,
+    "nome": "Nicolò Cambiaghi",
+    "pos": "M",
+    "min": 238,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 958982,
+    "nome": "Roberto Piccoli",
+    "pos": "F",
+    "min": 208,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 965778,
+    "nome": "Arthur Theate",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 44906,
+    "nome": "Łukasz Skorupski",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 928796,
+    "nome": "Tommaso Pobega",
+    "pos": "M",
+    "min": 175,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 826064,
+    "nome": "Jens Odgaard",
+    "pos": "F",
+    "min": 137,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 855829,
+    "nome": "Juan Miranda",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1120504,
+    "nome": "Abdel Rahim",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1530540,
+    "nome": "Massimo Pessina",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1486808,
+    "nome": "Eivind Helland",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1510920,
+    "nome": "Mikel Amondarain",
+    "pos": "M",
+    "min": 84,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 814882,
+    "nome": "Nikola Moro",
+    "pos": "M",
+    "min": 79,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1986578,
+    "nome": "Marco Libra",
+    "pos": "D",
+    "min": 77,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 798820,
+    "nome": "Artem Dovbyk",
+    "pos": "F",
+    "min": 54,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 4
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-14",
+    "adv": "AS Roma",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Fiorentina",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Sassuolo",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 357596,
+    "nome": "Nikola Vlašić",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 1210848,
+    "nome": "Pietro Comuzzo",
+    "pos": "D",
+    "min": 250,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 814023,
+    "nome": "Eray Cömert",
+    "pos": "D",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1001945,
+    "nome": "Kian Fitz-Jim",
+    "pos": "M",
+    "min": 239,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1089453,
+    "nome": "Saúl Coco",
+    "pos": "D",
+    "min": 220,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1526934,
+    "nome": "Niccolò Fortini",
+    "pos": "D",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1868036,
+    "nome": "Alessio Cacciamani",
+    "pos": "M",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 341143,
+    "nome": "Giovanni Simeone",
+    "pos": "F",
+    "min": 183,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 1030829,
+    "nome": "Gvidas Gineitis",
+    "pos": "M",
+    "min": 182,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 871290,
+    "nome": "Lucas Perri",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 548178,
+    "nome": "Rolando Mandragora",
+    "pos": "M",
+    "min": 173,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 773409,
+    "nome": "Che Adams",
+    "pos": "F",
+    "min": 173,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1471046,
+    "nome": "Diego Mascardi",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1103488,
+    "nome": "Rafik Belghali",
+    "pos": "D",
+    "min": 79,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 840414,
+    "nome": "Ardian Ismajli",
+    "pos": "D",
+    "min": 73,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 861979,
+    "nome": "Daniel Bragança",
+    "pos": "M",
+    "min": 65,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1142612,
+    "nome": "Emirhan İlkhan",
+    "pos": "M",
+    "min": 54,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1020141,
+    "nome": "Nathan Patterson",
+    "pos": "D",
+    "min": 34,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

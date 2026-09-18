@@ -1,0 +1,373 @@
+{
+ "eventoId": 16316824,
+ "competicao": "eredivisie",
+ "competicaoNome": "Eredivisie (HOL)",
+ "data": "2026-09-18T18:00:00.000Z",
+ "rodada": 7,
+ "casa": "FC Groningen",
+ "casaId": 2951,
+ "fora": "PEC Zwolle",
+ "foraId": 2971,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Go Ahead Eagles",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "FC Twente",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "Fortuna Sittard",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 809408,
+    "nome": "Etienne Vaessen",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1424404,
+    "nome": "Jorg Schreuders",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 1121401,
+    "nome": "Thijmen Blokzijl",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1121402,
+    "nome": "Tika de Jonge",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 1413536,
+    "nome": "Thom van Bergen",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 12
+   },
+   {
+    "id": 1878212,
+    "nome": "David van der Werff",
+    "pos": "M",
+    "min": 236,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 1481249,
+    "nome": "Wouter Prins",
+    "pos": "D",
+    "min": 234,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1441117,
+    "nome": "Tygo Land",
+    "pos": "M",
+    "min": 234,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1012661,
+    "nome": "Márk Csinger",
+    "pos": "D",
+    "min": 232,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 795135,
+    "nome": "Pelle Clement",
+    "pos": "M",
+    "min": 227,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 907520,
+    "nome": "Brynjólfur Darri Willumsson",
+    "pos": "F",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 7
+   }
+  ],
+  "banco": [
+   {
+    "id": 1004790,
+    "nome": "Jacob Ondrejka",
+    "pos": "F",
+    "min": 82,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 318745,
+    "nome": "Oskar Zawada",
+    "pos": "F",
+    "min": 68,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1977230,
+    "nome": "Elvis Van der Laan",
+    "pos": "D",
+    "min": 30,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1625485,
+    "nome": "Nils Eggens",
+    "pos": "F",
+    "min": 21,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 827103,
+    "nome": "Marco Rente",
+    "pos": "D",
+    "min": 20,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1400656,
+    "nome": "Travis Hernes",
+    "pos": "M",
+    "min": 19,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1150951,
+    "nome": "Nikolas Brandis",
+    "pos": "D",
+    "min": 9,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-04",
+    "adv": "Sparta Rotterdam",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "NEC Nijmegen",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-22",
+    "adv": "SC Heerenveen",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 856636,
+    "nome": "Jasper Schendelaar",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1049446,
+    "nome": "Olivier Aertssen",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 927155,
+    "nome": "Simon Graves",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 46900,
+    "nome": "Nick Viergever",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 333571,
+    "nome": "Ryan Thomas",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 847073,
+    "nome": "Koen Kostons",
+    "pos": "F",
+    "min": 267,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 1017654,
+    "nome": "Tobias Sommer",
+    "pos": "M",
+    "min": 264,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 923968,
+    "nome": "Dylan Mbayo",
+    "pos": "M",
+    "min": 257,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 7
+   },
+   {
+    "id": 876233,
+    "nome": "Thijs Oosting",
+    "pos": "M",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 803021,
+    "nome": "Sherel Constancio Floranus",
+    "pos": "D",
+    "min": 165,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 863632,
+    "nome": "Elias Sørensen",
+    "pos": "F",
+    "min": 139,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1128902,
+    "nome": "Ibrahim Cissoko",
+    "pos": "M",
+    "min": 118,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1172732,
+    "nome": "Damian van der Haar",
+    "pos": "D",
+    "min": 105,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 846003,
+    "nome": "Odysseus Velanas",
+    "pos": "M",
+    "min": 44,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1885838,
+    "nome": "Gabriel Reiziger",
+    "pos": "M",
+    "min": 39,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 943595,
+    "nome": "Sydney van Hooijdonk",
+    "pos": "F",
+    "min": 15,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 961674,
+    "nome": "Tijs Velthuis",
+    "pos": "D",
+    "min": 8,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

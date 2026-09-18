@@ -1,0 +1,377 @@
+{
+ "eventoId": 16434033,
+ "competicao": "bundesliga",
+ "competicaoNome": "Bundesliga (ALE)",
+ "data": "2026-09-20T13:30:00.000Z",
+ "rodada": 4,
+ "casa": "Bayer 04 Leverkusen",
+ "casaId": 2681,
+ "fora": "RB Leipzig",
+ "foraId": 36360,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "FC Augsburg",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "1. FC Union Berlin",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "SV 07 Elversberg",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 171919,
+    "nome": "Mark Flekken",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 883262,
+    "nome": "Edmond Tapsoba",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 796047,
+    "nome": "Aleix García",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1407524,
+    "nome": "Ibrahim Maza",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 13
+   },
+   {
+    "id": 908716,
+    "nome": "Miguel Gutiérrez",
+    "pos": "D",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1215906,
+    "nome": "Afonso Moreira",
+    "pos": "M",
+    "min": 250,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 1003012,
+    "nome": "Ezequiel Fernández",
+    "pos": "M",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 860307,
+    "nome": "Facundo Medina",
+    "pos": "D",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1003339,
+    "nome": "Jarell Quansah",
+    "pos": "D",
+    "min": 188,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 280609,
+    "nome": "Patrik Schick",
+    "pos": "F",
+    "min": 184,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 13
+   },
+   {
+    "id": 975798,
+    "nome": "Malik Tillman",
+    "pos": "M",
+    "min": 147,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 2029648,
+    "nome": "Christian Kofane",
+    "pos": "F",
+    "min": 121,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 855817,
+    "nome": "Moussa Diaby",
+    "pos": "M",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 255239,
+    "nome": "Lucas Vázquez",
+    "pos": "D",
+    "min": 77,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1006489,
+    "nome": "Loïc Badé",
+    "pos": "D",
+    "min": 74,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1002033,
+    "nome": "Guéla Doué",
+    "pos": "D",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 142390,
+    "nome": "Jonas Hofmann",
+    "pos": "M",
+    "min": 25,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 168903,
+    "nome": "Robert Andrich",
+    "pos": "M",
+    "min": 19,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-05",
+    "adv": "SV Werder Bremen",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Borussia M'gladbach",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 934385,
+    "nome": "Maarten Vandevoordt",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 136924,
+    "nome": "Willi Orbán",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 856076,
+    "nome": "David Raum",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 976575,
+    "nome": "Nicolas Seiwald",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1121923,
+    "nome": "Antonio Nusa",
+    "pos": "F",
+    "min": 174,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 6
+   },
+   {
+    "id": 1155383,
+    "nome": "Ezechiel Banzuzi",
+    "pos": "M",
+    "min": 173,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 856553,
+    "nome": "Ridle Baku",
+    "pos": "D",
+    "min": 163,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 769333,
+    "nome": "Christopher Nkunku",
+    "pos": "F",
+    "min": 110,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1426577,
+    "nome": "Tidiam Gomis",
+    "pos": "F",
+    "min": 91,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1117223,
+    "nome": "Maxime Estève",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 976421,
+    "nome": "Castello Lukeba",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1048650,
+    "nome": "Rocco Reitz",
+    "pos": "M",
+    "min": 83,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1088896,
+    "nome": "Johan Bakayoko",
+    "pos": "F",
+    "min": 80,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1128530,
+    "nome": "Neil El Aynaoui",
+    "pos": "M",
+    "min": 75,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1198075,
+    "nome": "Brajan Gruda",
+    "pos": "F",
+    "min": 73,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 319857,
+    "nome": "Benjamin Henrichs",
+    "pos": "D",
+    "min": 17,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1414933,
+    "nome": "Marc Guiu",
+    "pos": "F",
+    "min": 15,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1149127,
+    "nome": "Arthur Vermeeren",
+    "pos": "M",
+    "min": 14,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

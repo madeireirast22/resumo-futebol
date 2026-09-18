@@ -1,0 +1,368 @@
+{
+ "eventoId": 16434038,
+ "competicao": "bundesliga",
+ "competicaoNome": "Bundesliga (ALE)",
+ "data": "2026-09-18T18:30:00.000Z",
+ "rodada": 4,
+ "casa": "FC Bayern München",
+ "casaId": 2672,
+ "fora": "1. FC Union Berlin",
+ "foraId": 2547,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-05",
+    "adv": "FC Schalke 04",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "VfB Stuttgart",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 8959,
+    "nome": "Manuel Neuer",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 355492,
+    "nome": "Konrad Laimer",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 798583,
+    "nome": "Dayot Upamecano",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 259117,
+    "nome": "Joshua Kimmich",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 883537,
+    "nome": "Luis Díaz",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 9
+   },
+   {
+    "id": 843665,
+    "nome": "Alphonso Davies",
+    "pos": "D",
+    "min": 164,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1142251,
+    "nome": "Aleksandar Pavlović",
+    "pos": "M",
+    "min": 158,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 108579,
+    "nome": "Harry Kane",
+    "pos": "F",
+    "min": 129,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 978838,
+    "nome": "Michael Olise",
+    "pos": "M",
+    "min": 123,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 1159759,
+    "nome": "Nathaniel Brown",
+    "pos": "M",
+    "min": 106,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 227672,
+    "nome": "Jonathan Tah",
+    "pos": "D",
+    "min": 102,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1063767,
+    "nome": "Ismael Saibari",
+    "pos": "F",
+    "min": 86,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 896569,
+    "nome": "Kim Min-jae",
+    "pos": "D",
+    "min": 84,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1861975,
+    "nome": "Lennart Karl",
+    "pos": "M",
+    "min": 69,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1010231,
+    "nome": "Jamal Musiala",
+    "pos": "M",
+    "min": 33,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1129935,
+    "nome": "Tom Bischof",
+    "pos": "M",
+    "min": 28,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 927407,
+    "nome": "Josip Stanišić",
+    "pos": "D",
+    "min": 16,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-11",
+    "adv": "FC Schalke 04",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Bayer 04 Leverkusen",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Eintracht Frankfurt",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1210666,
+    "nome": "Tom Alexander Rothe",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 149479,
+    "nome": "Rani Khedira",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 791642,
+    "nome": "Josip Juranović",
+    "pos": "D",
+    "min": 254,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1090010,
+    "nome": "Marin Ljubičić",
+    "pos": "F",
+    "min": 217,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 850891,
+    "nome": "Michel Aebischer",
+    "pos": "M",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 848074,
+    "nome": "Emmanuel Latte Lath",
+    "pos": "F",
+    "min": 200,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1198074,
+    "nome": "Aljoscha Kemlein",
+    "pos": "M",
+    "min": 183,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 137692,
+    "nome": "Frederik Rønnow",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1086547,
+    "nome": "Leopold Querfeld",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 792142,
+    "nome": "Felix Uduokhai",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1103765,
+    "nome": "Zeno Van Den Bosch",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1513469,
+    "nome": "Livan Burcu",
+    "pos": "M",
+    "min": 153,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 927405,
+    "nome": "Woo-Yeong Jeong",
+    "pos": "F",
+    "min": 145,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 6
+   },
+   {
+    "id": 877302,
+    "nome": "András Schäfer",
+    "pos": "M",
+    "min": 117,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 842718,
+    "nome": "Matheo Raab",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 800252,
+    "nome": "Tim Skarke",
+    "pos": "M",
+    "min": 70,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 6
+   },
+   {
+    "id": 168985,
+    "nome": "Janik Haberer",
+    "pos": "M",
+    "min": 61,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 48557,
+    "nome": "Christopher Trimmel",
+    "pos": "D",
+    "min": 16,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

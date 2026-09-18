@@ -1,0 +1,382 @@
+{
+ "eventoId": 15526293,
+ "competicao": "brasileirao-b",
+ "competicaoNome": "Brasileirão Série B",
+ "data": "2026-09-20T19:00:00.000Z",
+ "rodada": 29,
+ "casa": "Goiás",
+ "casaId": 1960,
+ "fora": "Avaí",
+ "foraId": 7315,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-10",
+    "adv": "Vila Nova FC",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Fortaleza",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "São Bernardo",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 552172,
+    "nome": "Tadeu",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 945578,
+    "nome": "Lucas Ribeiro",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 973933,
+    "nome": "Djalma",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 2440936,
+    "nome": "Kadu",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 12
+   },
+   {
+    "id": 1888138,
+    "nome": "Lucas Rodrigues",
+    "pos": "M",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 844601,
+    "nome": "Filipe Machado",
+    "pos": "M",
+    "min": 228,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 879871,
+    "nome": "Lourenço",
+    "pos": "M",
+    "min": 210,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 975339,
+    "nome": "Felipe Clemente",
+    "pos": "F",
+    "min": 158,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1588737,
+    "nome": "Jean Carlos",
+    "pos": "M",
+    "min": 150,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1467379,
+    "nome": "Luis Fellipe",
+    "pos": "D",
+    "min": 149,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 839516,
+    "nome": "Ramon Menezes",
+    "pos": "D",
+    "min": 147,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 865356,
+    "nome": "Wellington Rato",
+    "pos": "M",
+    "min": 119,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 942054,
+    "nome": "Marcos Vinícius",
+    "pos": "D",
+    "min": 118,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 831993,
+    "nome": "Luiz Felipe",
+    "pos": "D",
+    "min": 103,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1199473,
+    "nome": "Cadu",
+    "pos": "F",
+    "min": 57,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 330691,
+    "nome": "Juninho",
+    "pos": "M",
+    "min": 30,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 244589,
+    "nome": "Lucas Lima",
+    "pos": "M",
+    "min": 26,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 804765,
+    "nome": "Rodrigo Soares",
+    "pos": "D",
+    "min": 21,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-09",
+    "adv": "Fortaleza",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Grêmio Novorizontino",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Atlético Goianiense",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1066241,
+    "nome": "Bruno Ferreira",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1643776,
+    "nome": "Joao Vitor",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 809194,
+    "nome": "Allyson",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 877470,
+    "nome": "Reynaldo",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1488136,
+    "nome": "Paulo Vitor",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 7
+   },
+   {
+    "id": 1609565,
+    "nome": "Douglas Teixeira",
+    "pos": "D",
+    "min": 251,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 902684,
+    "nome": "Jean Lucas",
+    "pos": "M",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 839635,
+    "nome": "Felipe Vizeu",
+    "pos": "F",
+    "min": 204,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 2062666,
+    "nome": "Gabriel Cipriano",
+    "pos": "M",
+    "min": 186,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1019166,
+    "nome": "Wenderson",
+    "pos": "M",
+    "min": 166,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1015283,
+    "nome": "Luiz Henrique",
+    "pos": "M",
+    "min": 158,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 840132,
+    "nome": "Zé Ricardo",
+    "pos": "M",
+    "min": 94,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1009933,
+    "nome": "Léo Chú",
+    "pos": "F",
+    "min": 90,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2030554,
+    "nome": "Isaías Pereira",
+    "pos": "F",
+    "min": 86,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1845365,
+    "nome": "Guilherme Aquino",
+    "pos": "D",
+    "min": 58,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 2664794,
+    "nome": "Kauã Gabriel",
+    "pos": "F",
+    "min": 45,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 808786,
+    "nome": "Léo Gamalho",
+    "pos": "F",
+    "min": 21,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2664798,
+    "nome": "Vinicius Miguel",
+    "pos": "D",
+    "min": 19,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

@@ -1,0 +1,382 @@
+{
+ "eventoId": 16667331,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-09-21T22:00:00.000Z",
+ "rodada": 10,
+ "casa": "Barracas Central",
+ "casaId": 65668,
+ "fora": "Independiente Rivadavia",
+ "foraId": 36842,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-07",
+    "adv": "Argentinos Juniors",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-01",
+    "adv": "Tigre",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-23",
+    "adv": "Club Atlético Platense",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 875438,
+    "nome": "Marcelo Agustín Miño",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1218007,
+    "nome": "Kevin Jappert",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 895365,
+    "nome": "Nicolás Demartini",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1106548,
+    "nome": "Tomás Porra",
+    "pos": "M",
+    "min": 259,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 992084,
+    "nome": "Iván Tapia",
+    "pos": "M",
+    "min": 241,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 848619,
+    "nome": "Norberto Briasco",
+    "pos": "F",
+    "min": 195,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 841881,
+    "nome": "Yonatthan Rak",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 122713,
+    "nome": "Dardo Miloc",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 922450,
+    "nome": "Elías Pereyra",
+    "pos": "D",
+    "min": 179,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 38106,
+    "nome": "Damián Martínez",
+    "pos": "D",
+    "min": 154,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 933164,
+    "nome": "Facundo Bruera",
+    "pos": "F",
+    "min": 149,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 840510,
+    "nome": "Gonzalo Maroni",
+    "pos": "F",
+    "min": 138,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 584038,
+    "nome": "Rafael Barrios",
+    "pos": "D",
+    "min": 115,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 816808,
+    "nome": "Esteban Rolón",
+    "pos": "M",
+    "min": 108,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1020511,
+    "nome": "Rodrigo Insúa",
+    "pos": "M",
+    "min": 102,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1190570,
+    "nome": "Nicolas Capraro",
+    "pos": "D",
+    "min": 74,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877628,
+    "nome": "Jhonatan Candia",
+    "pos": "F",
+    "min": 56,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 80918,
+    "nome": "Fernando Tobio",
+    "pos": "D",
+    "min": 17,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Aldosivi",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "River Plate",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Racing Club",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 2338281,
+    "nome": "Nicolás Bolcato",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 875088,
+    "nome": "Iván Villalba",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1177545,
+    "nome": "Leonard Costa",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 988619,
+    "nome": "José Florentín",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1167312,
+    "nome": "Alex Arce",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 11
+   },
+   {
+    "id": 1092337,
+    "nome": "Tomás Bottari",
+    "pos": "M",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1160545,
+    "nome": "Gonzalo Ríos",
+    "pos": "M",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 1020500,
+    "nome": "Matías Fernández",
+    "pos": "M",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 993481,
+    "nome": "Juan Manuel Elordi",
+    "pos": "D",
+    "min": 201,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 941093,
+    "nome": "Alex Vigo",
+    "pos": "D",
+    "min": 177,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 883933,
+    "nome": "Maximiliano Salas",
+    "pos": "F",
+    "min": 157,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 2123031,
+    "nome": "Fabrizio Sartori",
+    "pos": "M",
+    "min": 147,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 989867,
+    "nome": "Leonel Bucca",
+    "pos": "M",
+    "min": 80,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1187522,
+    "nome": "Alejo Osella",
+    "pos": "D",
+    "min": 67,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 980759,
+    "nome": "Luis Sequeira",
+    "pos": "M",
+    "min": 55,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 1219046,
+    "nome": "Luis Díaz",
+    "pos": "F",
+    "min": 34,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1018464,
+    "nome": "Sheyko Studer",
+    "pos": "D",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1597527,
+    "nome": "Diego Crego",
+    "pos": "M",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

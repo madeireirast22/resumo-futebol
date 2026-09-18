@@ -1,0 +1,382 @@
+{
+ "eventoId": 16363870,
+ "competicao": "premier",
+ "competicaoNome": "Premier League (ING)",
+ "data": "2026-09-19T11:30:00.000Z",
+ "rodada": 5,
+ "casa": "Tottenham Hotspur",
+ "casaId": 33,
+ "fora": "Aston Villa",
+ "foraId": 40,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Everton",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Nottingham Forest",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Newcastle United",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1031251,
+    "nome": "Antonín Kinský",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 962012,
+    "nome": "Jan Paul van Hecke",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 998247,
+    "nome": "Micky van de Ven",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 892673,
+    "nome": "Sandro Tonali",
+    "pos": "M",
+    "min": 255,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 873554,
+    "nome": "Omar Marmoush",
+    "pos": "M",
+    "min": 251,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 791190,
+    "nome": "Rodrigo Bentancur",
+    "pos": "M",
+    "min": 243,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 262911,
+    "nome": "Andy Robertson",
+    "pos": "D",
+    "min": 187,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 913654,
+    "nome": "Pedro Porro",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 1048888,
+    "nome": "Mathys Tel",
+    "pos": "F",
+    "min": 169,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 1142562,
+    "nome": "Mateus Fernandes",
+    "pos": "M",
+    "min": 166,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1142335,
+    "nome": "Archie Gray",
+    "pos": "D",
+    "min": 153,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 1046795,
+    "nome": "Sávio",
+    "pos": "M",
+    "min": 151,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 361420,
+    "nome": "Dominic Solanke",
+    "pos": "F",
+    "min": 90,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 983572,
+    "nome": "Destiny Udogie",
+    "pos": "D",
+    "min": 83,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 904970,
+    "nome": "Conor Gallagher",
+    "pos": "M",
+    "min": 83,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 905163,
+    "nome": "Mohammed Kudus",
+    "pos": "M",
+    "min": 78,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1391251,
+    "nome": "Lucas Bergvall",
+    "pos": "M",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1403192,
+    "nome": "Mikey Moore",
+    "pos": "F",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Nottingham Forest",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Hull City",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Arsenal",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 905351,
+    "nome": "Zion Suzuki",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 143334,
+    "nome": "Victor Lindelöf",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 826204,
+    "nome": "Boubacar Kamara",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 250223,
+    "nome": "John McGinn",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 976263,
+    "nome": "Ian Maatsen",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 98435,
+    "nome": "Ross Barkley",
+    "pos": "M",
+    "min": 231,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 783126,
+    "nome": "Emiliano Buendía",
+    "pos": "M",
+    "min": 228,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1085381,
+    "nome": "Nicolas Jackson",
+    "pos": "F",
+    "min": 201,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1398204,
+    "nome": "George Hemmings",
+    "pos": "M",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 833956,
+    "nome": "Matty Cash",
+    "pos": "D",
+    "min": 163,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 303638,
+    "nome": "Tyrone Mings",
+    "pos": "D",
+    "min": 155,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 864169,
+    "nome": "Pau Torres",
+    "pos": "D",
+    "min": 115,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 863653,
+    "nome": "Aaron Wan-Bissaka",
+    "pos": "D",
+    "min": 111,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1631879,
+    "nome": "Alysson",
+    "pos": "F",
+    "min": 79,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 610766,
+    "nome": "Tammy Abraham",
+    "pos": "F",
+    "min": 73,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1518931,
+    "nome": "Johan Manzambi",
+    "pos": "M",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1590918,
+    "nome": "Ibrahim Mbaye",
+    "pos": "F",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1135873,
+    "nome": "Alejandro Garnacho",
+    "pos": "F",
+    "min": 27,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

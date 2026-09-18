@@ -1,0 +1,382 @@
+{
+ "eventoId": 16434049,
+ "competicao": "bundesliga",
+ "competicaoNome": "Bundesliga (ALE)",
+ "data": "2026-09-19T13:30:00.000Z",
+ "rodada": 4,
+ "casa": "SV Werder Bremen",
+ "casaId": 2534,
+ "fora": "FC Augsburg",
+ "foraId": 2600,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "1. FC Köln",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "RB Leipzig",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "SC Freiburg",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 991591,
+    "nome": "Karl Hein",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 851254,
+    "nome": "Amos Pieper",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 825771,
+    "nome": "Marco Friedl",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 960114,
+    "nome": "Olivier Deman",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 815612,
+    "nome": "Marco Grüll",
+    "pos": "M",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 8
+   },
+   {
+    "id": 1137584,
+    "nome": "Chuki",
+    "pos": "M",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 893586,
+    "nome": "Ludovit Reis",
+    "pos": "M",
+    "min": 245,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 132645,
+    "nome": "Niclas Füllkrug",
+    "pos": "F",
+    "min": 216,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 996940,
+    "nome": "Youri Regeer",
+    "pos": "M",
+    "min": 166,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1067120,
+    "nome": "Eren Dinkçi",
+    "pos": "M",
+    "min": 159,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1174761,
+    "nome": "Arthur",
+    "pos": "D",
+    "min": 148,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1568521,
+    "nome": "Mick Schmetgens",
+    "pos": "D",
+    "min": 122,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1141977,
+    "nome": "Dariusz Stalmach",
+    "pos": "M",
+    "min": 79,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1005343,
+    "nome": "Justin Njinmah",
+    "pos": "F",
+    "min": 61,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 352290,
+    "nome": "Cédric Itten",
+    "pos": "F",
+    "min": 54,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 826171,
+    "nome": "Senne Lynen",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1864786,
+    "nome": "Salim Musah",
+    "pos": "F",
+    "min": 43,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2160258,
+    "nome": "Paul Erevbenagie",
+    "pos": "F",
+    "min": 35,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Bayer 04 Leverkusen",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Eintracht Frankfurt",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "FC Schalke 04",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 822564,
+    "nome": "Finn Dahmen",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1597260,
+    "nome": "Noahkai Banks",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 963198,
+    "nome": "Chrislain Matsima",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1864760,
+    "nome": "Hennes Behrens",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 927340,
+    "nome": "Han-Noah Massengo",
+    "pos": "M",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1128792,
+    "nome": "Calvin Brackelmann",
+    "pos": "D",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 929620,
+    "nome": "Fabian Rieder",
+    "pos": "M",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 111483,
+    "nome": "Michael Gregoritsch",
+    "pos": "F",
+    "min": 240,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 8
+   },
+   {
+    "id": 254119,
+    "nome": "Marius Wolf",
+    "pos": "M",
+    "min": 238,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 860461,
+    "nome": "Robin Fellhauer",
+    "pos": "F",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 1142248,
+    "nome": "Arijon Ibrahimović",
+    "pos": "F",
+    "min": 120,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 6
+   }
+  ],
+  "banco": [
+   {
+    "id": 1129365,
+    "nome": "Anton Kade",
+    "pos": "F",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 822877,
+    "nome": "Alexis Claude-Maurice",
+    "pos": "M",
+    "min": 61,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1390682,
+    "nome": "Mert Kömür",
+    "pos": "M",
+    "min": 55,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 1215904,
+    "nome": "Rodrigo Ribeiro",
+    "pos": "F",
+    "min": 40,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1019333,
+    "nome": "Young-woo Seol",
+    "pos": "D",
+    "min": 32,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877842,
+    "nome": "Yannik Keitel",
+    "pos": "M",
+    "min": 22,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 146853,
+    "nome": "Jeffrey Gouweleeuw",
+    "pos": "D",
+    "min": 11,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

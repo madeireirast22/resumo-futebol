@@ -1,0 +1,382 @@
+{
+ "eventoId": 15272535,
+ "competicao": "suecia",
+ "competicaoNome": "Allsvenskan (SUE)",
+ "data": "2026-09-19T13:00:00.000Z",
+ "rodada": 22,
+ "casa": "Västerås SK",
+ "casaId": 1775,
+ "fora": "Malmö FF",
+ "foraId": 1892,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "AIK",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "IK Sirius",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "BK Häcken",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 2127012,
+    "nome": "Elis Jäger",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1483221,
+    "nome": "Philip Bonde",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1483274,
+    "nome": "Jonathan Karlsson",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1014585,
+    "nome": "Simon Gefvert",
+    "pos": "M",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1427976,
+    "nome": "Mamadou Diagne",
+    "pos": "M",
+    "min": 267,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1963178,
+    "nome": "Jack Tagesson",
+    "pos": "D",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1185631,
+    "nome": "Jens Magnusson",
+    "pos": "F",
+    "min": 228,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1413848,
+    "nome": "Mattias Hellisdal",
+    "pos": "M",
+    "min": 203,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 2060744,
+    "nome": "Bonaventure Lendambi",
+    "pos": "F",
+    "min": 195,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 1161918,
+    "nome": "Herman Magnusson",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1892815,
+    "nome": "Taonsa Axel",
+    "pos": "F",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 7,
+    "chFt": 11
+   }
+  ],
+  "banco": [
+   {
+    "id": 1483244,
+    "nome": "Karl Gunnarsson",
+    "pos": "F",
+    "min": 113,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 877347,
+    "nome": "Abdelrahman Boudah",
+    "pos": "F",
+    "min": 75,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 978154,
+    "nome": "Ismet Lushaku",
+    "pos": "M",
+    "min": 67,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 572508,
+    "nome": "Victor Wernersson",
+    "pos": "D",
+    "min": 62,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1158079,
+    "nome": "Peter Amoran",
+    "pos": "D",
+    "min": 28,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1468746,
+    "nome": "Marcus Baggesen",
+    "pos": "D",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2180796,
+    "nome": "Casper Andreasen",
+    "pos": "F",
+    "min": 20,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-07",
+    "adv": "AIK",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "IK Sirius",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-24",
+    "adv": "Djurgårdens IF",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 26025,
+    "nome": "Robin Olsen",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1095410,
+    "nome": "Andrej Đurić",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 791978,
+    "nome": "Sead Hakšabanović",
+    "pos": "F",
+    "min": 266,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 10
+   },
+   {
+    "id": 880179,
+    "nome": "Busanello",
+    "pos": "D",
+    "min": 250,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1503622,
+    "nome": "Adrian Skogmar",
+    "pos": "M",
+    "min": 249,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 44848,
+    "nome": "Jens Stryger Larsen",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 1106662,
+    "nome": "Otto Rosengren",
+    "pos": "M",
+    "min": 179,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1471065,
+    "nome": "Kenan Busuladžić",
+    "pos": "M",
+    "min": 176,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 2080946,
+    "nome": "Anton Höög",
+    "pos": "M",
+    "min": 164,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 2261898,
+    "nome": "Theodor Lundbergh",
+    "pos": "M",
+    "min": 160,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 335747,
+    "nome": "Stian Gregersen",
+    "pos": "D",
+    "min": 153,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1121475,
+    "nome": "Diego García",
+    "pos": "F",
+    "min": 132,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 2166936,
+    "nome": "Malte Palsson",
+    "pos": "D",
+    "min": 117,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 844292,
+    "nome": "Erik Botheim",
+    "pos": "F",
+    "min": 112,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 1885765,
+    "nome": "Jovan Milosavljević",
+    "pos": "M",
+    "min": 104,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 1153194,
+    "nome": "Daníel Tristan Guðjohnsen",
+    "pos": "F",
+    "min": 74,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2637270,
+    "nome": "Isaac Assibu",
+    "pos": "F",
+    "min": 62,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1548897,
+    "nome": "Bleon Kurtulus",
+    "pos": "D",
+    "min": 32,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

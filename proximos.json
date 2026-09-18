@@ -1,0 +1,1707 @@
+{
+ "gerado": "2026-09-18T11:19:57.232Z",
+ "janelaDias": 7,
+ "aviso": "Escalação CONFIRMADA só existe ~1 h antes do jogo: o vigia (escalacoes.mjs) busca a cada 15 min e grava em escalacoes/<eventoId>.json quando sai (temConfirmada vira true). Até lá, provavelCasa/provavelFora = os 11 com mais minutos nos últimos 3 jogos do time.",
+ "jogos": [
+  {
+   "eventoId": 16278714,
+   "data": "2026-09-18T17:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Lyngby",
+   "fora": "Silkeborg IF",
+   "arquivo": "escalacoes/16278714.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260913,
+   "data": "2026-09-18T17:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Sarpsborg 08",
+   "fora": "KFUM Oslo",
+   "arquivo": "escalacoes/15260913.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483674,
+   "data": "2026-09-18T17:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Kasımpaşa",
+   "fora": "Konyaspor",
+   "arquivo": "escalacoes/16483674.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316824,
+   "data": "2026-09-18T18:00:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "FC Groningen",
+   "fora": "PEC Zwolle",
+   "arquivo": "escalacoes/16316824.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434038,
+   "data": "2026-09-18T18:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "FC Bayern München",
+   "fora": "1. FC Union Berlin",
+   "arquivo": "escalacoes/16434038.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310961,
+   "data": "2026-09-18T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "AS Monaco",
+   "fora": "RC Lens",
+   "arquivo": "escalacoes/16310961.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285020,
+   "data": "2026-09-18T18:45:00.000Z",
+   "competicao": "seriea",
+   "casa": "Monza",
+   "fora": "Sassuolo",
+   "arquivo": "escalacoes/16285020.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391684,
+   "data": "2026-09-18T19:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Bristol City",
+   "fora": "Watford",
+   "arquivo": "escalacoes/16391684.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416299,
+   "data": "2026-09-18T19:00:00.000Z",
+   "competicao": "laliga",
+   "casa": "Espanyol",
+   "fora": "Elche",
+   "arquivo": "escalacoes/16416299.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363649,
+   "data": "2026-09-18T19:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Brentford",
+   "fora": "Chelsea",
+   "arquivo": "escalacoes/16363649.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667329,
+   "data": "2026-09-18T21:00:00.000Z",
+   "competicao": "argentina",
+   "casa": "Central Córdoba",
+   "fora": "Defensa y Justicia",
+   "arquivo": "escalacoes/16667329.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526297,
+   "data": "2026-09-18T22:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Vila Nova FC",
+   "fora": "América Mineiro",
+   "arquivo": "escalacoes/15526297.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526292,
+   "data": "2026-09-18T23:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Ceará",
+   "fora": "Grêmio Novorizontino",
+   "arquivo": "escalacoes/15526292.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168393,
+   "data": "2026-09-18T23:30:00.000Z",
+   "competicao": "mls",
+   "casa": "New York City FC",
+   "fora": "New York Red Bulls",
+   "arquivo": "escalacoes/15168393.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526289,
+   "data": "2026-09-19T00:00:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "São Bernardo",
+   "fora": "Atlético Goianiense",
+   "arquivo": "escalacoes/15526289.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667338,
+   "data": "2026-09-19T00:15:00.000Z",
+   "competicao": "argentina",
+   "casa": "Racing Club",
+   "fora": "Sarmiento",
+   "arquivo": "escalacoes/16667338.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317958,
+   "data": "2026-09-19T01:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "Club Puebla",
+   "fora": "Atlante FC",
+   "arquivo": "escalacoes/16317958.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317959,
+   "data": "2026-09-19T03:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "FC Juárez",
+   "fora": "Tigres UANL",
+   "arquivo": "escalacoes/16317959.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391688,
+   "data": "2026-09-19T11:30:00.000Z",
+   "competicao": "championship",
+   "casa": "Millwall",
+   "fora": "West Ham United",
+   "arquivo": "escalacoes/16391688.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391692,
+   "data": "2026-09-19T11:30:00.000Z",
+   "competicao": "championship",
+   "casa": "Stoke City",
+   "fora": "Sheffield United",
+   "arquivo": "escalacoes/16391692.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391686,
+   "data": "2026-09-19T11:30:00.000Z",
+   "competicao": "championship",
+   "casa": "Cardiff City",
+   "fora": "Charlton Athletic",
+   "arquivo": "escalacoes/16391686.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363870,
+   "data": "2026-09-19T11:30:00.000Z",
+   "competicao": "premier",
+   "casa": "Tottenham Hotspur",
+   "fora": "Aston Villa",
+   "arquivo": "escalacoes/16363870.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416305,
+   "data": "2026-09-19T12:00:00.000Z",
+   "competicao": "laliga",
+   "casa": "Osasuna",
+   "fora": "Rayo Vallecano",
+   "arquivo": "escalacoes/16416305.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285017,
+   "data": "2026-09-19T13:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "Bologna",
+   "fora": "Torino",
+   "arquivo": "escalacoes/16285017.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285027,
+   "data": "2026-09-19T13:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "Udinese",
+   "fora": "Cagliari",
+   "arquivo": "escalacoes/16285027.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272535,
+   "data": "2026-09-19T13:00:00.000Z",
+   "competicao": "suecia",
+   "casa": "Västerås SK",
+   "fora": "Malmö FF",
+   "arquivo": "escalacoes/15272535.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272531,
+   "data": "2026-09-19T13:00:00.000Z",
+   "competicao": "suecia",
+   "casa": "IF Brommapojkarna",
+   "fora": "IFK Göteborg",
+   "arquivo": "escalacoes/15272531.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434046,
+   "data": "2026-09-19T13:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "Eintracht Frankfurt",
+   "fora": "SC Freiburg",
+   "arquivo": "escalacoes/16434046.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434047,
+   "data": "2026-09-19T13:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "Borussia M'gladbach",
+   "fora": "1. FSV Mainz 05",
+   "arquivo": "escalacoes/16434047.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434048,
+   "data": "2026-09-19T13:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "Hamburger SV",
+   "fora": "1. FC Köln",
+   "arquivo": "escalacoes/16434048.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434049,
+   "data": "2026-09-19T13:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "SV Werder Bremen",
+   "fora": "FC Augsburg",
+   "arquivo": "escalacoes/16434049.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391694,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Wrexham",
+   "fora": "Southampton",
+   "arquivo": "escalacoes/16391694.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391685,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Burnley",
+   "fora": "Derby County",
+   "arquivo": "escalacoes/16391685.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391683,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Birmingham City",
+   "fora": "Middlesbrough",
+   "arquivo": "escalacoes/16391683.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391690,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Portsmouth",
+   "fora": "Blackburn Rovers",
+   "arquivo": "escalacoes/16391690.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391687,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Lincoln City",
+   "fora": "Swansea City",
+   "arquivo": "escalacoes/16391687.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391691,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Queens Park Rangers",
+   "fora": "Preston North End",
+   "arquivo": "escalacoes/16391691.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260911,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Kristiansund BK",
+   "fora": "Rosenborg BK",
+   "arquivo": "escalacoes/15260911.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363650,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Brighton & Hove Albion",
+   "fora": "Arsenal",
+   "arquivo": "escalacoes/16363650.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363868,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Newcastle United",
+   "fora": "Hull City",
+   "arquivo": "escalacoes/16363868.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363651,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Everton",
+   "fora": "Ipswich Town",
+   "arquivo": "escalacoes/16363651.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483680,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Kocaelispor",
+   "fora": "Gaziantep FK",
+   "arquivo": "escalacoes/16483680.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483677,
+   "data": "2026-09-19T14:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Çorum FK",
+   "fora": "Alanyaspor",
+   "arquivo": "escalacoes/16483677.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416337,
+   "data": "2026-09-19T14:15:00.000Z",
+   "competicao": "laliga",
+   "casa": "Athletic Club",
+   "fora": "Deportivo Alavés",
+   "arquivo": "escalacoes/16416337.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316822,
+   "data": "2026-09-19T14:30:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "ADO Den Haag",
+   "fora": "SC Cambuur",
+   "arquivo": "escalacoes/16316822.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432064,
+   "data": "2026-09-19T14:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "CD Nacional",
+   "fora": "Famalicão",
+   "arquivo": "escalacoes/16432064.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432068,
+   "data": "2026-09-19T14:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "Gil Vicente",
+   "fora": "CS Marítimo",
+   "arquivo": "escalacoes/16432068.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310964,
+   "data": "2026-09-19T15:15:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Paris FC",
+   "fora": "RC Strasbourg",
+   "arquivo": "escalacoes/16310964.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272525,
+   "data": "2026-09-19T15:30:00.000Z",
+   "competicao": "suecia",
+   "casa": "Örgryte IS",
+   "fora": "IK Sirius",
+   "arquivo": "escalacoes/15272525.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278716,
+   "data": "2026-09-19T16:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Odense Boldklub",
+   "fora": "FC Midtjylland",
+   "arquivo": "escalacoes/16278716.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260908,
+   "data": "2026-09-19T16:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Molde FK",
+   "fora": "Aalesunds FK",
+   "arquivo": "escalacoes/15260908.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285021,
+   "data": "2026-09-19T16:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "AS Roma",
+   "fora": "Inter",
+   "arquivo": "escalacoes/16285021.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434034,
+   "data": "2026-09-19T16:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "VfB Stuttgart",
+   "fora": "Borussia Dortmund",
+   "arquivo": "escalacoes/16434034.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416344,
+   "data": "2026-09-19T16:30:00.000Z",
+   "competicao": "laliga",
+   "casa": "Celta Vigo",
+   "fora": "Real Racing Club",
+   "arquivo": "escalacoes/16416344.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363869,
+   "data": "2026-09-19T16:30:00.000Z",
+   "competicao": "premier",
+   "casa": "Nottingham Forest",
+   "fora": "Coventry City",
+   "arquivo": "escalacoes/16363869.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316819,
+   "data": "2026-09-19T16:45:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "Sparta Rotterdam",
+   "fora": "SC Heerenveen",
+   "arquivo": "escalacoes/16316819.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432044,
+   "data": "2026-09-19T17:00:00.000Z",
+   "competicao": "portugal",
+   "casa": "FC Alverca",
+   "fora": "Rio Ave",
+   "arquivo": "escalacoes/16432044.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483676,
+   "data": "2026-09-19T17:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Trabzonspor",
+   "fora": "Galatasaray",
+   "arquivo": "escalacoes/16483676.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483679,
+   "data": "2026-09-19T17:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Başakşehir FK",
+   "fora": "Gençlerbirliği",
+   "arquivo": "escalacoes/16483679.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667328,
+   "data": "2026-09-19T17:30:00.000Z",
+   "competicao": "argentina",
+   "casa": "Gimnasia y Esgrima",
+   "fora": "Banfield",
+   "arquivo": "escalacoes/16667328.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667336,
+   "data": "2026-09-19T17:30:00.000Z",
+   "competicao": "argentina",
+   "casa": "Gimnasia y Esgrima Mendoza",
+   "fora": "Deportivo Riestra",
+   "arquivo": "escalacoes/16667336.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316821,
+   "data": "2026-09-19T18:00:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "AFC Ajax",
+   "fora": "Excelsior",
+   "arquivo": "escalacoes/16316821.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310959,
+   "data": "2026-09-19T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Olympique Lyonnais",
+   "fora": "Stade Rennais",
+   "arquivo": "escalacoes/16310959.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310965,
+   "data": "2026-09-19T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Toulouse",
+   "fora": "Le Havre",
+   "arquivo": "escalacoes/16310965.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310956,
+   "data": "2026-09-19T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Angers",
+   "fora": "Troyes",
+   "arquivo": "escalacoes/16310956.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310958,
+   "data": "2026-09-19T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Le Mans",
+   "fora": "Lorient",
+   "arquivo": "escalacoes/16310958.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285028,
+   "data": "2026-09-19T18:45:00.000Z",
+   "competicao": "seriea",
+   "casa": "Venezia",
+   "fora": "Lazio",
+   "arquivo": "escalacoes/16285028.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15237986,
+   "data": "2026-09-19T19:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Atlético Mineiro",
+   "fora": "Chapecoense",
+   "arquivo": "escalacoes/15237986.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316836,
+   "data": "2026-09-19T19:00:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "Willem II Tilburg",
+   "fora": "Fortuna Sittard",
+   "arquivo": "escalacoes/16316836.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416349,
+   "data": "2026-09-19T19:00:00.000Z",
+   "competicao": "laliga",
+   "casa": "Sevilla",
+   "fora": "FC Barcelona",
+   "arquivo": "escalacoes/16416349.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526295,
+   "data": "2026-09-19T19:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Sport Recife",
+   "fora": "Juventude",
+   "arquivo": "escalacoes/15526295.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432047,
+   "data": "2026-09-19T19:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "Sporting CP",
+   "fora": "FC Arouca",
+   "arquivo": "escalacoes/16432047.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667325,
+   "data": "2026-09-19T19:45:00.000Z",
+   "competicao": "argentina",
+   "casa": "Club Atlético Unión de Santa Fe",
+   "fora": "CA Independiente",
+   "arquivo": "escalacoes/16667325.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235481,
+   "data": "2026-09-19T20:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Mirassol",
+   "fora": "Botafogo",
+   "arquivo": "escalacoes/15235481.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15237989,
+   "data": "2026-09-19T21:30:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Remo",
+   "fora": "Santos",
+   "arquivo": "escalacoes/15237989.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526290,
+   "data": "2026-09-19T21:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Athletic Club",
+   "fora": "Botafogo-SP",
+   "arquivo": "escalacoes/15526290.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667327,
+   "data": "2026-09-19T22:00:00.000Z",
+   "competicao": "argentina",
+   "casa": "River Plate",
+   "fora": "Huracán",
+   "arquivo": "escalacoes/16667327.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317961,
+   "data": "2026-09-19T23:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "Atlas FC",
+   "fora": "Pumas UNAM",
+   "arquivo": "escalacoes/16317961.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317960,
+   "data": "2026-09-19T23:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "Atlético San Luis",
+   "fora": "Club Necaxa",
+   "arquivo": "escalacoes/16317960.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235477,
+   "data": "2026-09-19T23:30:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Vasco da Gama",
+   "fora": "Coritiba",
+   "arquivo": "escalacoes/15235477.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168397,
+   "data": "2026-09-19T23:30:00.000Z",
+   "competicao": "mls",
+   "casa": "San Jose Earthquakes",
+   "fora": "Los Angeles FC",
+   "arquivo": "escalacoes/15168397.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168390,
+   "data": "2026-09-19T23:30:00.000Z",
+   "competicao": "mls",
+   "casa": "CF Montréal",
+   "fora": "Columbus Crew",
+   "arquivo": "escalacoes/15168390.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168400,
+   "data": "2026-09-19T23:30:00.000Z",
+   "competicao": "mls",
+   "casa": "New England Revolution",
+   "fora": "Orlando City SC",
+   "arquivo": "escalacoes/15168400.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168395,
+   "data": "2026-09-19T23:30:00.000Z",
+   "competicao": "mls",
+   "casa": "DC United",
+   "fora": "Charlotte FC",
+   "arquivo": "escalacoes/15168395.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235482,
+   "data": "2026-09-20T00:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "São Paulo",
+   "fora": "Internacional",
+   "arquivo": "escalacoes/15235482.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667333,
+   "data": "2026-09-20T00:15:00.000Z",
+   "competicao": "argentina",
+   "casa": "Instituto De Córdoba",
+   "fora": "CA Talleres",
+   "arquivo": "escalacoes/16667333.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168409,
+   "data": "2026-09-20T00:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Minnesota United",
+   "fora": "LA Galaxy",
+   "arquivo": "escalacoes/15168409.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168399,
+   "data": "2026-09-20T00:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Houston Dynamo",
+   "fora": "FC Cincinnati",
+   "arquivo": "escalacoes/15168399.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168407,
+   "data": "2026-09-20T00:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Sporting Kansas City",
+   "fora": "Philadelphia Union",
+   "arquivo": "escalacoes/15168407.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168406,
+   "data": "2026-09-20T00:30:00.000Z",
+   "competicao": "mls",
+   "casa": "St.Louis City",
+   "fora": "Toronto FC",
+   "arquivo": "escalacoes/15168406.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168403,
+   "data": "2026-09-20T00:30:00.000Z",
+   "competicao": "mls",
+   "casa": "FC Dallas",
+   "fora": "Austin FC",
+   "arquivo": "escalacoes/15168403.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317962,
+   "data": "2026-09-20T01:10:00.000Z",
+   "competicao": "mexico",
+   "casa": "CF Monterrey",
+   "fora": "Cruz Azul",
+   "arquivo": "escalacoes/16317962.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168404,
+   "data": "2026-09-20T01:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Nashville SC",
+   "fora": "Chicago Fire",
+   "arquivo": "escalacoes/15168404.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168402,
+   "data": "2026-09-20T01:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Real Salt Lake",
+   "fora": "Vancouver Whitecaps",
+   "arquivo": "escalacoes/15168402.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168405,
+   "data": "2026-09-20T01:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Colorado Rapids",
+   "fora": "Seattle Sounders FC",
+   "arquivo": "escalacoes/15168405.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168408,
+   "data": "2026-09-20T02:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Portland Timbers",
+   "fora": "Atlanta United",
+   "arquivo": "escalacoes/15168408.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317963,
+   "data": "2026-09-20T03:15:00.000Z",
+   "competicao": "mexico",
+   "casa": "Club América",
+   "fora": "CD Guadalajara",
+   "arquivo": "escalacoes/16317963.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316825,
+   "data": "2026-09-20T10:15:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "Feyenoord",
+   "fora": "FC Utrecht",
+   "arquivo": "escalacoes/16316825.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285018,
+   "data": "2026-09-20T10:30:00.000Z",
+   "competicao": "seriea",
+   "casa": "Fiorentina",
+   "fora": "SSC Napoli",
+   "arquivo": "escalacoes/16285018.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391693,
+   "data": "2026-09-20T11:00:00.000Z",
+   "competicao": "championship",
+   "casa": "Wolverhampton",
+   "fora": "West Bromwich Albion",
+   "arquivo": "escalacoes/16391693.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278711,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Brøndby IF",
+   "fora": "FC København",
+   "arquivo": "escalacoes/16278711.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278715,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Sønderjyske Fodbold",
+   "fora": "Randers FC",
+   "arquivo": "escalacoes/16278715.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416303,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "laliga",
+   "casa": "Getafe",
+   "fora": "Málaga CF",
+   "arquivo": "escalacoes/16416303.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272521,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "suecia",
+   "casa": "Djurgårdens IF",
+   "fora": "IF Elfsborg",
+   "arquivo": "escalacoes/15272521.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272529,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "suecia",
+   "casa": "Kalmar FF",
+   "fora": "BK Häcken",
+   "arquivo": "escalacoes/15272529.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272534,
+   "data": "2026-09-20T12:00:00.000Z",
+   "competicao": "suecia",
+   "casa": "Halmstads BK",
+   "fora": "AIK",
+   "arquivo": "escalacoes/15272534.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16391689,
+   "data": "2026-09-20T12:30:00.000Z",
+   "competicao": "championship",
+   "casa": "Norwich City",
+   "fora": "Bolton Wanderers",
+   "arquivo": "escalacoes/16391689.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316823,
+   "data": "2026-09-20T12:30:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "FC Twente",
+   "fora": "PSV Eindhoven",
+   "arquivo": "escalacoes/16316823.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316826,
+   "data": "2026-09-20T12:30:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "AZ Alkmaar",
+   "fora": "SC Telstar",
+   "arquivo": "escalacoes/16316826.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260916,
+   "data": "2026-09-20T12:30:00.000Z",
+   "competicao": "noruega",
+   "casa": "Vålerenga IF",
+   "fora": "Fredrikstad FK",
+   "arquivo": "escalacoes/15260916.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310957,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Auxerre",
+   "fora": "Stade Brestois",
+   "arquivo": "escalacoes/16310957.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363867,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Manchester City",
+   "fora": "Sunderland",
+   "arquivo": "escalacoes/16363867.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363648,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Bournemouth",
+   "fora": "Liverpool FC",
+   "arquivo": "escalacoes/16363648.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363866,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "premier",
+   "casa": "Leeds United",
+   "fora": "Crystal Palace",
+   "arquivo": "escalacoes/16363866.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285019,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "Frosinone",
+   "fora": "Como",
+   "arquivo": "escalacoes/16285019.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285025,
+   "data": "2026-09-20T13:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "Parma",
+   "fora": "Genoa",
+   "arquivo": "escalacoes/16285025.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434033,
+   "data": "2026-09-20T13:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "Bayer 04 Leverkusen",
+   "fora": "RB Leipzig",
+   "arquivo": "escalacoes/16434033.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235483,
+   "data": "2026-09-20T14:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Grêmio",
+   "fora": "Palmeiras",
+   "arquivo": "escalacoes/15235483.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526288,
+   "data": "2026-09-20T14:00:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Ponte Preta",
+   "fora": "Clube De Regatas Brasil",
+   "arquivo": "escalacoes/15526288.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278717,
+   "data": "2026-09-20T14:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "AC Horsens",
+   "fora": "AGF",
+   "arquivo": "escalacoes/16278717.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483681,
+   "data": "2026-09-20T14:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Fenerbahçe",
+   "fora": "Eyüpspor",
+   "arquivo": "escalacoes/16483681.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483683,
+   "data": "2026-09-20T14:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Erzurumspor FK",
+   "fora": "Samsunspor",
+   "arquivo": "escalacoes/16483683.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416339,
+   "data": "2026-09-20T14:15:00.000Z",
+   "competicao": "laliga",
+   "casa": "Atlético Madrid",
+   "fora": "Real Madrid",
+   "arquivo": "escalacoes/16416339.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16450889,
+   "data": "2026-09-20T14:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "Vitória SC",
+   "fora": "Moreirense",
+   "arquivo": "escalacoes/16450889.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432054,
+   "data": "2026-09-20T14:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "CF Estrela Amadora",
+   "fora": "Académico Viseu FC",
+   "arquivo": "escalacoes/16432054.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272527,
+   "data": "2026-09-20T14:30:00.000Z",
+   "competicao": "suecia",
+   "casa": "Degerfors IF",
+   "fora": "Hammarby IF",
+   "arquivo": "escalacoes/15272527.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15272530,
+   "data": "2026-09-20T14:30:00.000Z",
+   "competicao": "suecia",
+   "casa": "Mjällby AIF",
+   "fora": "GAIS",
+   "arquivo": "escalacoes/15272530.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16316820,
+   "data": "2026-09-20T14:45:00.000Z",
+   "competicao": "eredivisie",
+   "casa": "NEC Nijmegen",
+   "fora": "Go Ahead Eagles",
+   "arquivo": "escalacoes/16316820.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260910,
+   "data": "2026-09-20T15:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Viking FK",
+   "fora": "Lillestrøm SK",
+   "arquivo": "escalacoes/15260910.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260912,
+   "data": "2026-09-20T15:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Tromsø IL",
+   "fora": "HamKam",
+   "arquivo": "escalacoes/15260912.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260909,
+   "data": "2026-09-20T15:00:00.000Z",
+   "competicao": "noruega",
+   "casa": "Sandefjord Fotball",
+   "fora": "IK Start",
+   "arquivo": "escalacoes/15260909.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310962,
+   "data": "2026-09-20T15:15:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Nice",
+   "fora": "Lille",
+   "arquivo": "escalacoes/16310962.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434051,
+   "data": "2026-09-20T15:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "FC Schalke 04",
+   "fora": "SV 07 Elversberg",
+   "arquivo": "escalacoes/16434051.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16363652,
+   "data": "2026-09-20T15:30:00.000Z",
+   "competicao": "premier",
+   "casa": "Fulham",
+   "fora": "Manchester United",
+   "arquivo": "escalacoes/16363652.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278725,
+   "data": "2026-09-20T16:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Viborg FF",
+   "fora": "FC Nordsjælland",
+   "arquivo": "escalacoes/16278725.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285022,
+   "data": "2026-09-20T16:00:00.000Z",
+   "competicao": "seriea",
+   "casa": "Juventus",
+   "fora": "Atalanta",
+   "arquivo": "escalacoes/16285022.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416313,
+   "data": "2026-09-20T16:30:00.000Z",
+   "competicao": "laliga",
+   "casa": "Deportivo de A Coruña",
+   "fora": "Real Betis",
+   "arquivo": "escalacoes/16416313.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416294,
+   "data": "2026-09-20T16:30:00.000Z",
+   "competicao": "laliga",
+   "casa": "Villarreal",
+   "fora": "Levante UD",
+   "arquivo": "escalacoes/16416294.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432042,
+   "data": "2026-09-20T17:00:00.000Z",
+   "competicao": "portugal",
+   "casa": "Santa Clara",
+   "fora": "Sporting Braga",
+   "arquivo": "escalacoes/16432042.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432056,
+   "data": "2026-09-20T17:00:00.000Z",
+   "competicao": "portugal",
+   "casa": "Estoril Praia",
+   "fora": "Casa Pia",
+   "arquivo": "escalacoes/16432056.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483678,
+   "data": "2026-09-20T17:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Amed Sportif Faaliyetler",
+   "fora": "Beşiktaş JK",
+   "arquivo": "escalacoes/16483678.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16483682,
+   "data": "2026-09-20T17:00:00.000Z",
+   "competicao": "turquia",
+   "casa": "Göztepe",
+   "fora": "Çaykur Rizespor",
+   "arquivo": "escalacoes/16483682.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15260905,
+   "data": "2026-09-20T17:15:00.000Z",
+   "competicao": "noruega",
+   "casa": "SK Brann",
+   "fora": "Bodø/Glimt",
+   "arquivo": "escalacoes/15260905.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16434052,
+   "data": "2026-09-20T17:30:00.000Z",
+   "competicao": "bundesliga",
+   "casa": "SC Paderborn 07",
+   "fora": "TSG Hoffenheim",
+   "arquivo": "escalacoes/16434052.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667340,
+   "data": "2026-09-20T17:45:00.000Z",
+   "competicao": "argentina",
+   "casa": "San Lorenzo",
+   "fora": "Boca Juniors",
+   "arquivo": "escalacoes/16667340.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16310960,
+   "data": "2026-09-20T18:45:00.000Z",
+   "competicao": "ligue1",
+   "casa": "Olympique de Marseille",
+   "fora": "Paris Saint-Germain",
+   "arquivo": "escalacoes/16310960.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16285023,
+   "data": "2026-09-20T18:45:00.000Z",
+   "competicao": "seriea",
+   "casa": "AC Milan",
+   "fora": "Lecce",
+   "arquivo": "escalacoes/16285023.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235484,
+   "data": "2026-09-20T19:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Corinthians",
+   "fora": "Fluminense",
+   "arquivo": "escalacoes/15235484.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15237988,
+   "data": "2026-09-20T19:00:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Vitória",
+   "fora": "Cruzeiro",
+   "arquivo": "escalacoes/15237988.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526293,
+   "data": "2026-09-20T19:00:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Goiás",
+   "fora": "Avaí",
+   "arquivo": "escalacoes/15526293.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16416297,
+   "data": "2026-09-20T19:00:00.000Z",
+   "competicao": "laliga",
+   "casa": "Valencia",
+   "fora": "Real Sociedad",
+   "arquivo": "escalacoes/16416297.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16432059,
+   "data": "2026-09-20T19:30:00.000Z",
+   "competicao": "portugal",
+   "casa": "FC Porto",
+   "fora": "Benfica",
+   "arquivo": "escalacoes/16432059.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667332,
+   "data": "2026-09-20T20:00:00.000Z",
+   "competicao": "argentina",
+   "casa": "Rosario Central",
+   "fora": "Argentinos Juniors",
+   "arquivo": "escalacoes/16667332.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667330,
+   "data": "2026-09-20T20:00:00.000Z",
+   "competicao": "argentina",
+   "casa": "Club Atlético Platense",
+   "fora": "Newell's Old Boys",
+   "arquivo": "escalacoes/16667330.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15235478,
+   "data": "2026-09-20T21:30:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Flamengo",
+   "fora": "Red Bull Bragantino",
+   "arquivo": "escalacoes/15235478.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526291,
+   "data": "2026-09-20T21:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Londrina",
+   "fora": "Fortaleza",
+   "arquivo": "escalacoes/15526291.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667326,
+   "data": "2026-09-20T22:15:00.000Z",
+   "competicao": "argentina",
+   "casa": "Club Atlético Belgrano",
+   "fora": "Estudiantes de Río Cuarto",
+   "arquivo": "escalacoes/16667326.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15237987,
+   "data": "2026-09-20T22:30:00.000Z",
+   "competicao": "brasileirao-a",
+   "casa": "Athletico",
+   "fora": "Bahia",
+   "arquivo": "escalacoes/15237987.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168410,
+   "data": "2026-09-20T23:00:00.000Z",
+   "competicao": "mls",
+   "casa": "Inter Miami CF",
+   "fora": "San Diego FC",
+   "arquivo": "escalacoes/15168410.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317964,
+   "data": "2026-09-21T00:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "CD Toluca",
+   "fora": "Santos Laguna",
+   "arquivo": "escalacoes/16317964.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317965,
+   "data": "2026-09-21T00:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "CF Pachuca",
+   "fora": "Club Tijuana",
+   "arquivo": "escalacoes/16317965.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16671623,
+   "data": "2026-09-21T00:30:00.000Z",
+   "competicao": "argentina",
+   "casa": "Vélez Sarsfield",
+   "fora": "Tigre",
+   "arquivo": "escalacoes/16671623.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317967,
+   "data": "2026-09-21T02:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "Querétaro FC",
+   "fora": "Club León",
+   "arquivo": "escalacoes/16317967.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667335,
+   "data": "2026-09-21T17:30:00.000Z",
+   "competicao": "argentina",
+   "casa": "Aldosivi",
+   "fora": "Atlético Tucumán",
+   "arquivo": "escalacoes/16667335.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667331,
+   "data": "2026-09-21T22:00:00.000Z",
+   "competicao": "argentina",
+   "casa": "Barracas Central",
+   "fora": "Independiente Rivadavia",
+   "arquivo": "escalacoes/16667331.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526294,
+   "data": "2026-09-21T22:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Criciúma",
+   "fora": "Operário-PR",
+   "arquivo": "escalacoes/15526294.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16667337,
+   "data": "2026-09-22T00:15:00.000Z",
+   "competicao": "argentina",
+   "casa": "CA Lanús",
+   "fora": "Estudiantes de La Plata",
+   "arquivo": "escalacoes/16667337.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526296,
+   "data": "2026-09-22T00:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Cuiabá",
+   "fora": "Náutico",
+   "arquivo": "escalacoes/15526296.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16278737,
+   "data": "2026-09-23T17:00:00.000Z",
+   "competicao": "dinamarca",
+   "casa": "Randers FC",
+   "fora": "Brøndby IF",
+   "arquivo": "escalacoes/16278737.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15956784,
+   "data": "2026-09-24T01:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Seattle Sounders FC",
+   "fora": "Real Salt Lake",
+   "arquivo": "escalacoes/15956784.json",
+   "temProvavel": true,
+   "temConfirmada": false
+  }
+ ]
+}

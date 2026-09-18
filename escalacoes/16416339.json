@@ -1,0 +1,382 @@
+{
+ "eventoId": 16416339,
+ "competicao": "laliga",
+ "competicaoNome": "LaLiga (ESP)",
+ "data": "2026-09-20T14:15:00.000Z",
+ "rodada": 7,
+ "casa": "Atlético Madrid",
+ "casaId": 2836,
+ "fora": "Real Madrid",
+ "foraId": 2829,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-16",
+    "adv": "Osasuna",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-13",
+    "adv": "Real Sociedad",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Athletic Club",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 69768,
+    "nome": "Jan Oblak",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 177177,
+    "nome": "Alejandro Grimaldo",
+    "pos": "D",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 353138,
+    "nome": "Marcos Llorente",
+    "pos": "D",
+    "min": 240,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 910031,
+    "nome": "Alex Baena",
+    "pos": "M",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
+   },
+   {
+    "id": 917087,
+    "nome": "Kang-in Lee",
+    "pos": "M",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 9
+   },
+   {
+    "id": 824200,
+    "nome": "Ademola Lookman",
+    "pos": "F",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1094106,
+    "nome": "Marc Pubill",
+    "pos": "D",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 829932,
+    "nome": "Cristian Romero",
+    "pos": "D",
+    "min": 189,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 807771,
+    "nome": "Dávid Hancko",
+    "pos": "D",
+    "min": 189,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1099352,
+    "nome": "Giuliano Simeone",
+    "pos": "F",
+    "min": 171,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 859917,
+    "nome": "Morten Hjulmand",
+    "pos": "M",
+    "min": 158,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 84539,
+    "nome": "Koke",
+    "pos": "M",
+    "min": 151,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 990169,
+    "nome": "Johnny Cardoso",
+    "pos": "M",
+    "min": 130,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 935564,
+    "nome": "Jonathan David",
+    "pos": "F",
+    "min": 98,
+    "jogos": 2,
+    "chHt": 6,
+    "chFt": 8
+   },
+   {
+    "id": 787751,
+    "nome": "Robin Le Normand",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1142588,
+    "nome": "Pablo Barrios",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1143553,
+    "nome": "Arnau Ortiz",
+    "pos": "F",
+    "min": 68,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 944656,
+    "nome": "Julián Alvarez",
+    "pos": "F",
+    "min": 31,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-15",
+    "adv": "Elche",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-12",
+    "adv": "Rayo Vallecano",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Real Betis",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 70988,
+    "nome": "Thibaut Courtois",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 826215,
+    "nome": "Ibrahima Konaté",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 826643,
+    "nome": "Kylian Mbappé",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 16
+   },
+   {
+    "id": 868812,
+    "nome": "Vinícius Júnior",
+    "pos": "M",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 10,
+    "chFt": 13
+   },
+   {
+    "id": 831808,
+    "nome": "Federico Valverde",
+    "pos": "M",
+    "min": 217,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 991011,
+    "nome": "Jude Bellingham",
+    "pos": "M",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 8
+   },
+   {
+    "id": 2087085,
+    "nome": "Yan Diomande",
+    "pos": "M",
+    "min": 187,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1176744,
+    "nome": "Dean Huijsen",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 794939,
+    "nome": "Marc Cucurella",
+    "pos": "D",
+    "min": 179,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 759520,
+    "nome": "Denzel Dumfries",
+    "pos": "D",
+    "min": 155,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1091116,
+    "nome": "Arda Güler",
+    "pos": "M",
+    "min": 150,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   }
+  ],
+  "banco": [
+   {
+    "id": 795064,
+    "nome": "Trent Alexander-Arnold",
+    "pos": "D",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 973887,
+    "nome": "Eduardo Camavinga",
+    "pos": "M",
+    "min": 109,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 859025,
+    "nome": "Aurélien Tchouaméni",
+    "pos": "M",
+    "min": 107,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1085081,
+    "nome": "Álvaro Carreras",
+    "pos": "D",
+    "min": 101,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 331209,
+    "nome": "Bernardo Silva",
+    "pos": "M",
+    "min": 95,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 142622,
+    "nome": "Antonio Rüdiger",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 835485,
+    "nome": "Brahim Díaz",
+    "pos": "M",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

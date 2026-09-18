@@ -1,0 +1,382 @@
+{
+ "eventoId": 16416313,
+ "competicao": "laliga",
+ "competicaoNome": "LaLiga (ESP)",
+ "data": "2026-09-20T16:30:00.000Z",
+ "rodada": 7,
+ "casa": "Deportivo de A Coruña",
+ "casaId": 2832,
+ "fora": "Real Betis",
+ "foraId": 2816,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-16",
+    "adv": "Sevilla",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-13",
+    "adv": "Getafe",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Villarreal",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1131909,
+    "nome": "Leo Román",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1100207,
+    "nome": "Lorenzo Amatucci",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 51498,
+    "nome": "Pierre-Emerick Aubameyang",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 325355,
+    "nome": "José María Giménez",
+    "pos": "D",
+    "min": 239,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 966526,
+    "nome": "Luismi Cruz",
+    "pos": "M",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 973300,
+    "nome": "Giacomo Quagliata",
+    "pos": "D",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 984622,
+    "nome": "Mario Soriano",
+    "pos": "M",
+    "min": 189,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 2335487,
+    "nome": "Bil Nsongo",
+    "pos": "F",
+    "min": 182,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 150864,
+    "nome": "Ximo Navarro",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1127337,
+    "nome": "Lucas Noubi",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 811611,
+    "nome": "Miguel Loureiro",
+    "pos": "D",
+    "min": 114,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1096950,
+    "nome": "Yeremay Hernández",
+    "pos": "M",
+    "min": 112,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 950110,
+    "nome": "Riki Rodríguez",
+    "pos": "M",
+    "min": 111,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 286165,
+    "nome": "Adama Traoré",
+    "pos": "F",
+    "min": 97,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 980732,
+    "nome": "Adrià Altimira",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1000483,
+    "nome": "Marc Casadó",
+    "pos": "M",
+    "min": 86,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 848355,
+    "nome": "Angeliño",
+    "pos": "D",
+    "min": 59,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 979476,
+    "nome": "Zakaria Eddahchouri",
+    "pos": "F",
+    "min": 46,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-17",
+    "adv": "Getafe",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-14",
+    "adv": "Villarreal",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Real Madrid",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 964983,
+    "nome": "Álvaro Valles",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1015287,
+    "nome": "Natan",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 188365,
+    "nome": "Héctor Bellerín",
+    "pos": "D",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 958380,
+    "nome": "Antony",
+    "pos": "M",
+    "min": 190,
+    "jogos": 3,
+    "chHt": 8,
+    "chFt": 17
+   },
+   {
+    "id": 851271,
+    "nome": "Fran García",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 847128,
+    "nome": "Marc Roca",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 103417,
+    "nome": "Isco",
+    "pos": "M",
+    "min": 178,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 8
+   },
+   {
+    "id": 816763,
+    "nome": "Pablo Fornals",
+    "pos": "M",
+    "min": 174,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 887055,
+    "nome": "Cucho Hernández",
+    "pos": "F",
+    "min": 170,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1177404,
+    "nome": "Facundo Bernal",
+    "pos": "M",
+    "min": 168,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 99519,
+    "nome": "Marc Bartra",
+    "pos": "D",
+    "min": 141,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1011375,
+    "nome": "Abdessamad Ezzalzouli",
+    "pos": "M",
+    "min": 138,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 1129401,
+    "nome": "Nelson Deossa",
+    "pos": "M",
+    "min": 135,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 7
+   },
+   {
+    "id": 989113,
+    "nome": "Rodrigo Riquelme",
+    "pos": "M",
+    "min": 98,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 966555,
+    "nome": "Troy Parrott",
+    "pos": "F",
+    "min": 94,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1186010,
+    "nome": "Valentín Gómez",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 914835,
+    "nome": "Junior Firpo",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 547838,
+    "nome": "Dani Ceballos",
+    "pos": "M",
+    "min": 62,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

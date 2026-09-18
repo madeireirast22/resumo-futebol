@@ -1,0 +1,373 @@
+{
+ "eventoId": 16363867,
+ "competicao": "premier",
+ "competicaoNome": "Premier League (ING)",
+ "data": "2026-09-20T13:00:00.000Z",
+ "rodada": 5,
+ "casa": "Manchester City",
+ "casaId": 17,
+ "fora": "Sunderland",
+ "foraId": 41,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-13",
+    "adv": "Manchester United",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Coventry City",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "Crystal Palace",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 824509,
+    "nome": "Gianluigi Donnarumma",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 877994,
+    "nome": "Marc Guéhi",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 318941,
+    "nome": "Rúben Dias",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 934354,
+    "nome": "Antoine Semenyo",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 839956,
+    "nome": "Erling Haaland",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 11
+   },
+   {
+    "id": 994546,
+    "nome": "Elliot Anderson",
+    "pos": "M",
+    "min": 262,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 964994,
+    "nome": "Joško Gvardiol",
+    "pos": "D",
+    "min": 255,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 979128,
+    "nome": "Rayan Cherki",
+    "pos": "M",
+    "min": 193,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 7
+   },
+   {
+    "id": 1194333,
+    "nome": "Abdukodir Khusanov",
+    "pos": "D",
+    "min": 179,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 974505,
+    "nome": "Enzo Fernández",
+    "pos": "M",
+    "min": 158,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 859765,
+    "nome": "Phil Foden",
+    "pos": "M",
+    "min": 137,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 914309,
+    "nome": "Iliman Ndiaye",
+    "pos": "F",
+    "min": 132,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1142703,
+    "nome": "Nico O'Reilly",
+    "pos": "D",
+    "min": 97,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 945122,
+    "nome": "Matheus Nunes",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1564180,
+    "nome": "Ayyoub Bouaddi",
+    "pos": "M",
+    "min": 22,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1826151,
+    "nome": "Ryan McAidoo",
+    "pos": "F",
+    "min": 17,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 136710,
+    "nome": "Mateo Kovačić",
+    "pos": "M",
+    "min": 15,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1485300,
+    "nome": "Vitor Reis",
+    "pos": "D",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Arsenal",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Brentford",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Fulham",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1012928,
+    "nome": "Robin Roefs",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 780014,
+    "nome": "Nordi Mukiele",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 958878,
+    "nome": "Daniel Ballard",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 831424,
+    "nome": "Reinildo Mandava",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 117777,
+    "nome": "Granit Xhaka",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 984014,
+    "nome": "Enzo Le Fée",
+    "pos": "M",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 10
+   },
+   {
+    "id": 1171539,
+    "nome": "Noah Sadiki",
+    "pos": "M",
+    "min": 254,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 910048,
+    "nome": "Brian Brobbey",
+    "pos": "F",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 128587,
+    "nome": "Thomas Meunier",
+    "pos": "M",
+    "min": 230,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1116571,
+    "nome": "Nilson Angulo",
+    "pos": "M",
+    "min": 199,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 794953,
+    "nome": "Kevin Danso",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 989034,
+    "nome": "Trai Hume",
+    "pos": "D",
+    "min": 116,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877980,
+    "nome": "Wilson Isidor",
+    "pos": "F",
+    "min": 72,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 1195784,
+    "nome": "Malick Fofana",
+    "pos": "F",
+    "min": 30,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1128532,
+    "nome": "Habib Diarra",
+    "pos": "M",
+    "min": 18,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1394089,
+    "nome": "Chris Rigg",
+    "pos": "M",
+    "min": 12,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1094440,
+    "nome": "Romaine Mundle",
+    "pos": "F",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

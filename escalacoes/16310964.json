@@ -1,0 +1,382 @@
+{
+ "eventoId": 16310964,
+ "competicao": "ligue1",
+ "competicaoNome": "Ligue 1 (FRA)",
+ "data": "2026-09-19T15:15:00.000Z",
+ "rodada": 5,
+ "casa": "Paris FC",
+ "casaId": 6070,
+ "fora": "RC Strasbourg",
+ "foraId": 1659,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Olympique Lyonnais",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Olympique de Marseille",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Nice",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 38440,
+    "nome": "Kevin Trapp",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1507384,
+    "nome": "Adama Camara",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 981168,
+    "nome": "Samir Chergui",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1050692,
+    "nome": "Diego Coppola",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 801306,
+    "nome": "Pierre Lees Melou",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 352802,
+    "nome": "Maxime López",
+    "pos": "M",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 927005,
+    "nome": "Lassine Sinayoko",
+    "pos": "F",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 11
+   },
+   {
+    "id": 1049442,
+    "nome": "Ilan Kebbal",
+    "pos": "M",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1174462,
+    "nome": "Pablo Pagis",
+    "pos": "M",
+    "min": 215,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 362014,
+    "nome": "Hamari Traoré",
+    "pos": "D",
+    "min": 192,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1216282,
+    "nome": "Luca Koleosho",
+    "pos": "M",
+    "min": 156,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 330051,
+    "nome": "Moses Simon",
+    "pos": "F",
+    "min": 87,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1069159,
+    "nome": "Otávio",
+    "pos": "D",
+    "min": 83,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1961626,
+    "nome": "Rudy Matondo",
+    "pos": "M",
+    "min": 64,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2041113,
+    "nome": "Patrick Zabi",
+    "pos": "M",
+    "min": 31,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 795508,
+    "nome": "Vincent Marchetti",
+    "pos": "M",
+    "min": 12,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 802142,
+    "nome": "Jonathan Ikoné",
+    "pos": "F",
+    "min": 3,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 982319,
+    "nome": "Moustapha Mbow",
+    "pos": "D",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "AS Monaco",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Troyes",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "RC Lens",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 962053,
+    "nome": "Filip Jørgensen",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1402709,
+    "nome": "Genesis Antwi",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1099285,
+    "nome": "Jeyland Mitchell",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1410217,
+    "nome": "Pape Diop",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 1638338,
+    "nome": "Gessime Yassine",
+    "pos": "F",
+    "min": 257,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 962068,
+    "nome": "Sebastian Nanasi",
+    "pos": "F",
+    "min": 234,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 1434543,
+    "nome": "Diogo Sousa",
+    "pos": "M",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 1949522,
+    "nome": "Jacobo Ortega",
+    "pos": "F",
+    "min": 223,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 989056,
+    "nome": "Giovanni Reyna",
+    "pos": "M",
+    "min": 220,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1534422,
+    "nome": "Oso",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1049517,
+    "nome": "Ismael Doukouré",
+    "pos": "D",
+    "min": 160,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1426597,
+    "nome": "Lucas Høgsberg",
+    "pos": "D",
+    "min": 94,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 983066,
+    "nome": "Andrew Omobamidele",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1110006,
+    "nome": "Dário Essugo",
+    "pos": "M",
+    "min": 72,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1407484,
+    "nome": "Samuel Amo-Ameyaw",
+    "pos": "F",
+    "min": 49,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 1494826,
+    "nome": "Conrad Harder",
+    "pos": "F",
+    "min": 40,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1797852,
+    "nome": "Karim Coulibaly",
+    "pos": "D",
+    "min": 36,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1047484,
+    "nome": "Sékou Mara",
+    "pos": "F",
+    "min": 15,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

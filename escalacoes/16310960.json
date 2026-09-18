@@ -1,0 +1,382 @@
+{
+ "eventoId": 16310960,
+ "competicao": "ligue1",
+ "competicaoNome": "Ligue 1 (FRA)",
+ "data": "2026-09-20T18:45:00.000Z",
+ "rodada": 5,
+ "casa": "Olympique de Marseille",
+ "casaId": 1641,
+ "fora": "Paris Saint-Germain",
+ "foraId": 1644,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-11",
+    "adv": "Stade Rennais",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Paris FC",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "AS Monaco",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 803034,
+    "nome": "Jeffrey De Lange",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 855810,
+    "nome": "Timothy Weah",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1131448,
+    "nome": "Conrad Jaden Egan-Riley",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 149593,
+    "nome": "Pierre-Emile Højbjerg",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 827522,
+    "nome": "Amine Harit",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 155997,
+    "nome": "Emerson",
+    "pos": "D",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 859026,
+    "nome": "Amine Gouiri",
+    "pos": "F",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 867441,
+    "nome": "Angel Gomes",
+    "pos": "M",
+    "min": 223,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 945830,
+    "nome": "Himad Abdelli",
+    "pos": "M",
+    "min": 212,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 877102,
+    "nome": "Nayef Aguerd",
+    "pos": "D",
+    "min": 193,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 981815,
+    "nome": "Igor Paixão",
+    "pos": "M",
+    "min": 160,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 1844117,
+    "nome": "Keyliane Abdallah",
+    "pos": "F",
+    "min": 87,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 96544,
+    "nome": "Geoffrey Kondogbia",
+    "pos": "D",
+    "min": 58,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 959805,
+    "nome": "Quinten Timber",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 268903,
+    "nome": "Neal Maupay",
+    "pos": "F",
+    "min": 29,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1191892,
+    "nome": "Tochukwu Nnadi",
+    "pos": "M",
+    "min": 28,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2250107,
+    "nome": "Tadjidine Mmadi",
+    "pos": "F",
+    "min": 20,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 801411,
+    "nome": "Derek Cornelius",
+    "pos": "D",
+    "min": 19,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-04",
+    "adv": "AS Monaco",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "Lille",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-23",
+    "adv": "Stade Rennais",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 800749,
+    "nome": "Matvey Safonov",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 814594,
+    "nome": "Achraf Hakimi",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 155995,
+    "nome": "Marquinhos",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 979480,
+    "nome": "Willian Pacho",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 902029,
+    "nome": "Vitinha",
+    "pos": "M",
+    "min": 249,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 9
+   },
+   {
+    "id": 1142672,
+    "nome": "Warren Zaïre-Emery",
+    "pos": "D",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1154605,
+    "nome": "Désiré Doué",
+    "pos": "F",
+    "min": 198,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
+   },
+   {
+    "id": 784655,
+    "nome": "Fabián Ruiz",
+    "pos": "M",
+    "min": 178,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1130939,
+    "nome": "Maghnes Akliouche",
+    "pos": "M",
+    "min": 177,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 889259,
+    "nome": "Khvicha Kvaratskhelia",
+    "pos": "F",
+    "min": 158,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1190933,
+    "nome": "João Neves",
+    "pos": "M",
+    "min": 150,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 855833,
+    "nome": "Ferran Torres",
+    "pos": "F",
+    "min": 144,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 352370,
+    "nome": "Lucas Hernández",
+    "pos": "D",
+    "min": 116,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1149146,
+    "nome": "Mika Godts",
+    "pos": "F",
+    "min": 94,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 1108441,
+    "nome": "Lucas Beraldo",
+    "pos": "M",
+    "min": 84,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 818244,
+    "nome": "Ousmane Dembélé",
+    "pos": "F",
+    "min": 66,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1926085,
+    "nome": "Dro Fernández",
+    "pos": "M",
+    "min": 26,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 96538,
+    "nome": "Lucas Digne",
+    "pos": "D",
+    "min": 18,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

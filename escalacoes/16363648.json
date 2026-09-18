@@ -1,0 +1,373 @@
+{
+ "eventoId": 16363648,
+ "competicao": "premier",
+ "competicaoNome": "Premier League (ING)",
+ "data": "2026-09-20T13:00:00.000Z",
+ "rodada": 5,
+ "casa": "Bournemouth",
+ "casaId": 60,
+ "fora": "Liverpool FC",
+ "foraId": 44,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Brentford",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Newcastle United",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Everton",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 882604,
+    "nome": "Đorđe Petrović",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 44566,
+    "nome": "Adam Smith",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1156586,
+    "nome": "James Hill",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1006069,
+    "nome": "António Silva",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 999028,
+    "nome": "Adrien Truffert",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1104986,
+    "nome": "Alex Scott",
+    "pos": "M",
+    "min": 266,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 895576,
+    "nome": "Marcus Tavernier",
+    "pos": "M",
+    "min": 262,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 11
+   },
+   {
+    "id": 1464966,
+    "nome": "Rayan",
+    "pos": "M",
+    "min": 261,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 11
+   },
+   {
+    "id": 998490,
+    "nome": "Evanilson",
+    "pos": "F",
+    "min": 260,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 851596,
+    "nome": "Justin Kluivert",
+    "pos": "M",
+    "min": 223,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 9
+   },
+   {
+    "id": 800419,
+    "nome": "Tyler Adams",
+    "pos": "M",
+    "min": 179,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 548188,
+    "nome": "Lewis Cook",
+    "pos": "M",
+    "min": 91,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 855731,
+    "nome": "David Brooks",
+    "pos": "M",
+    "min": 36,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 322391,
+    "nome": "Ryan Christie",
+    "pos": "M",
+    "min": 33,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1154861,
+    "nome": "Ben Gannon-Doak",
+    "pos": "F",
+    "min": 16,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1154587,
+    "nome": "Álvaro Rodriguez",
+    "pos": "F",
+    "min": 10,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1096136,
+    "nome": "Daniel Jebbison",
+    "pos": "F",
+    "min": 8,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Fulham",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Ipswich Town",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Nottingham Forest",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 243609,
+    "nome": "Alisson",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 151545,
+    "nome": "Virgil van Dijk",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 869856,
+    "nome": "Dominik Szoboszlai",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 1019322,
+    "nome": "Florian Wirtz",
+    "pos": "M",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 7
+   },
+   {
+    "id": 1445625,
+    "nome": "Jérémy Jacquet",
+    "pos": "D",
+    "min": 257,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 823941,
+    "nome": "Alexander Isak",
+    "pos": "F",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 8
+   },
+   {
+    "id": 1145642,
+    "nome": "Víctor Muñoz",
+    "pos": "M",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1097425,
+    "nome": "Miloš Kerkez",
+    "pos": "D",
+    "min": 206,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 895324,
+    "nome": "Alexis Mac Allister",
+    "pos": "M",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 862967,
+    "nome": "Cody Gakpo",
+    "pos": "F",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 925097,
+    "nome": "Ronald Araújo",
+    "pos": "D",
+    "min": 175,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 904897,
+    "nome": "Ryan Gravenberch",
+    "pos": "M",
+    "min": 105,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 996952,
+    "nome": "Bradley Barcola",
+    "pos": "M",
+    "min": 98,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 970361,
+    "nome": "Jeremie Frimpong",
+    "pos": "D",
+    "min": 89,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 786259,
+    "nome": "Kostas Tsimikas",
+    "pos": "D",
+    "min": 64,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1881902,
+    "nome": "Rio Ngumoha",
+    "pos": "F",
+    "min": 37,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1445945,
+    "nome": "Trey Nyoni",
+    "pos": "M",
+    "min": 25,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1403111,
+    "nome": "Lewis Koumas",
+    "pos": "F",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

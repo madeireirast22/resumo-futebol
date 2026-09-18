@@ -1,0 +1,382 @@
+{
+ "eventoId": 15260912,
+ "competicao": "noruega",
+ "competicaoNome": "Eliteserien (NOR)",
+ "data": "2026-09-20T15:00:00.000Z",
+ "rodada": 22,
+ "casa": "Tromsø IL",
+ "casaId": 660,
+ "fora": "HamKam",
+ "foraId": 666,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Rosenborg BK",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Kristiansund BK",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Sarpsborg 08",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 150201,
+    "nome": "Jakob Haugaard",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1650921,
+    "nome": "Alexander Warneryd",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 8
+   },
+   {
+    "id": 1200602,
+    "nome": "Isak Vadebu",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1014581,
+    "nome": "Leon Hien",
+    "pos": "D",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1141381,
+    "nome": "Heine Asen Larsen",
+    "pos": "F",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 962065,
+    "nome": "David Edvardsson",
+    "pos": "M",
+    "min": 240,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1198781,
+    "nome": "Sander Innvær",
+    "pos": "D",
+    "min": 216,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1424661,
+    "nome": "Troy Nyhammer",
+    "pos": "M",
+    "min": 200,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 15086,
+    "nome": "Ruben Jenssen",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877456,
+    "nome": "Lars Olden Larsen",
+    "pos": "F",
+    "min": 164,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 1656128,
+    "nome": "Vince Osuji",
+    "pos": "D",
+    "min": 145,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1884148,
+    "nome": "Musa Jatta",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 921358,
+    "nome": "Morten Bjørlo",
+    "pos": "M",
+    "min": 126,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 858230,
+    "nome": "Vegard Erlien",
+    "pos": "F",
+    "min": 94,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1047715,
+    "nome": "Jesper Andreas Grundt",
+    "pos": "M",
+    "min": 76,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1031422,
+    "nome": "Isak Dahlqvist",
+    "pos": "M",
+    "min": 53,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1475115,
+    "nome": "Ieltsin Camões",
+    "pos": "F",
+    "min": 14,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1026529,
+    "nome": "Nikolay Jakobsen Hristov",
+    "pos": "F",
+    "min": 12,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-05",
+    "adv": "Rosenborg BK",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Kristiansund BK",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-16",
+    "adv": "SK Brann",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 36810,
+    "nome": "Marcus Sandberg",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1017007,
+    "nome": "Patrick Metcalfe",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 804496,
+    "nome": "Luc Mares",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1122200,
+    "nome": "Ethan Amundsen-Day",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 822219,
+    "nome": "Viðar Ari Jónsson",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 181901,
+    "nome": "Anders Trondsen",
+    "pos": "M",
+    "min": 224,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 150325,
+    "nome": "Fredrik Sjolstad",
+    "pos": "D",
+    "min": 213,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 964280,
+    "nome": "Snorre Strand Nilsen",
+    "pos": "D",
+    "min": 201,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1141379,
+    "nome": "Markus Johnsgard",
+    "pos": "M",
+    "min": 195,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1860106,
+    "nome": "Blerton Isufi",
+    "pos": "M",
+    "min": 155,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 979223,
+    "nome": "Duarte Moreira",
+    "pos": "F",
+    "min": 154,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1126196,
+    "nome": "Aksel Baran Potur",
+    "pos": "M",
+    "min": 107,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 838607,
+    "nome": "Henrik Udahl",
+    "pos": "F",
+    "min": 91,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 794066,
+    "nome": "Mohamed Ofkir",
+    "pos": "F",
+    "min": 81,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1103971,
+    "nome": "Danilo Al-Saed",
+    "pos": "F",
+    "min": 57,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1134406,
+    "nome": "Aleksander Andresen",
+    "pos": "D",
+    "min": 47,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1210890,
+    "nome": "Martin Gjone",
+    "pos": "D",
+    "min": 33,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1486941,
+    "nome": "William Osnes-Ringen",
+    "pos": "M",
+    "min": 23,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

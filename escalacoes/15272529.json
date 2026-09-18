@@ -1,0 +1,382 @@
+{
+ "eventoId": 15272529,
+ "competicao": "suecia",
+ "competicaoNome": "Allsvenskan (SUE)",
+ "data": "2026-09-20T12:00:00.000Z",
+ "rodada": 22,
+ "casa": "Kalmar FF",
+ "casaId": 1891,
+ "fora": "BK Häcken",
+ "foraId": 1760,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-07",
+    "adv": "Djurgårdens IF",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Halmstads BK",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-23",
+    "adv": "Västerås SK",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 856792,
+    "nome": "Samuel Brolin",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 152427,
+    "nome": "Robert Gojani",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 1047921,
+    "nome": "Victor Larsson",
+    "pos": "D",
+    "min": 267,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1119436,
+    "nome": "Charles Sagoe Jr.",
+    "pos": "M",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 11
+   },
+   {
+    "id": 81451,
+    "nome": "Lars Sætra",
+    "pos": "D",
+    "min": 182,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2149239,
+    "nome": "Charlie Rosenqvist",
+    "pos": "F",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1121443,
+    "nome": "Sivert Engh Overby",
+    "pos": "D",
+    "min": 175,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1184107,
+    "nome": "Alexander Almqvist",
+    "pos": "D",
+    "min": 170,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1200811,
+    "nome": "Marius Söderbäck",
+    "pos": "M",
+    "min": 162,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1114134,
+    "nome": "Abdussalam Magashy",
+    "pos": "F",
+    "min": 160,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1036001,
+    "nome": "Eskild Dall",
+    "pos": "F",
+    "min": 160,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 181615,
+    "nome": "Melker Hallberg",
+    "pos": "M",
+    "min": 150,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1156699,
+    "nome": "Nassef Chourak",
+    "pos": "M",
+    "min": 108,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1046868,
+    "nome": "Miska Ylitolva",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 971502,
+    "nome": "Jesper Lofgren",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 974125,
+    "nome": "Aboubacar Keita",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1048027,
+    "nome": "Malcolm Stolt",
+    "pos": "F",
+    "min": 80,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1396642,
+    "nome": "Tobias Lauritsen",
+    "pos": "M",
+    "min": 72,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-11",
+    "adv": "Mjällby AIF",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "GAIS",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Västerås SK",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 577266,
+    "nome": "Brice Wembangomo",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 168749,
+    "nome": "Filip Helander",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1021083,
+    "nome": "Julius Lindberg",
+    "pos": "M",
+    "min": 261,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
+   },
+   {
+    "id": 1175710,
+    "nome": "Gustav Lindgren",
+    "pos": "F",
+    "min": 235,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 1382909,
+    "nome": "Adrian Svanback",
+    "pos": "M",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 1017138,
+    "nome": "David Seger",
+    "pos": "M",
+    "min": 221,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1548919,
+    "nome": "Harry Hilvenius",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2011233,
+    "nome": "Abdoulaye Doumbia",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 35656,
+    "nome": "Etrit Berisha",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 283219,
+    "nome": "Adam Lundqvist",
+    "pos": "D",
+    "min": 171,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 801073,
+    "nome": "Mikkel Rygaard",
+    "pos": "M",
+    "min": 164,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 1187130,
+    "nome": "Olle Samuelsson",
+    "pos": "D",
+    "min": 144,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 794369,
+    "nome": "Simen Hestnes",
+    "pos": "M",
+    "min": 112,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 184679,
+    "nome": "Andreas Linde",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1990473,
+    "nome": "Wilson Lindberg Uhrstrom",
+    "pos": "M",
+    "min": 74,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 807419,
+    "nome": "Leo Väisänen",
+    "pos": "D",
+    "min": 42,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1065629,
+    "nome": "Mads Agger",
+    "pos": "F",
+    "min": 39,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1126486,
+    "nome": "Markus Haaland",
+    "pos": "M",
+    "min": 38,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

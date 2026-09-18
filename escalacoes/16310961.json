@@ -1,0 +1,382 @@
+{
+ "eventoId": 16310961,
+ "competicao": "ligue1",
+ "competicaoNome": "Ligue 1 (FRA)",
+ "data": "2026-09-18T18:45:00.000Z",
+ "rodada": 5,
+ "casa": "AS Monaco",
+ "casaId": 1653,
+ "fora": "RC Lens",
+ "foraId": 1648,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "RC Strasbourg",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Paris Saint-Germain",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Olympique de Marseille",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 15219,
+    "nome": "Lukáš Hrádecký",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1471683,
+    "nome": "Sadibou Sané",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 146101,
+    "nome": "Eric Dier",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1006113,
+    "nome": "Nazinho",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1389846,
+    "nome": "Lamine Camara",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 770677,
+    "nome": "Denis Zakaria",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 318963,
+    "nome": "Aleksandr Golovin",
+    "pos": "M",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1149152,
+    "nome": "Stanis Idumbo Muzambo",
+    "pos": "M",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1403216,
+    "nome": "Paris Brunner",
+    "pos": "F",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
+   },
+   {
+    "id": 1090694,
+    "nome": "Vanderson",
+    "pos": "D",
+    "min": 232,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1410148,
+    "nome": "Mamadou Coulibaly",
+    "pos": "M",
+    "min": 154,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 999070,
+    "nome": "Matthis Abline",
+    "pos": "F",
+    "min": 94,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2676521,
+    "nome": "Anis Soubeir",
+    "pos": "M",
+    "min": 48,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 825846,
+    "nome": "Jordan Teze",
+    "pos": "D",
+    "min": 38,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1823956,
+    "nome": "Mathys Detourbet",
+    "pos": "F",
+    "min": 29,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1407848,
+    "nome": "Christian Mawissa",
+    "pos": "D",
+    "min": 9,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2270569,
+    "nome": "Safouane Benzahra",
+    "pos": "M",
+    "min": 9,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1083007,
+    "nome": "Mika Biereth",
+    "pos": "F",
+    "min": 9,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-05",
+    "adv": "Lorient",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "RC Strasbourg",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-22",
+    "adv": "Auxerre",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1387161,
+    "nome": "Robin Risser",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 148824,
+    "nome": "Florian Thauvin",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 1408080,
+    "nome": "Ismaelo Ganiou",
+    "pos": "D",
+    "min": 259,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1029018,
+    "nome": "Abdallah Sima",
+    "pos": "F",
+    "min": 250,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 1545381,
+    "nome": "Souleymane Sagnan",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1094538,
+    "nome": "Yassine Titraoui",
+    "pos": "M",
+    "min": 240,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 942479,
+    "nome": "Michał Skóraś",
+    "pos": "M",
+    "min": 207,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 787827,
+    "nome": "Matthieu Udol",
+    "pos": "D",
+    "min": 204,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 826208,
+    "nome": "Michaël Cuisance",
+    "pos": "M",
+    "min": 172,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 984183,
+    "nome": "Maik Nawrocki",
+    "pos": "D",
+    "min": 152,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1103333,
+    "nome": "Franjo Ivanović",
+    "pos": "F",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 94286,
+    "nome": "Thorgan Hazard",
+    "pos": "F",
+    "min": 115,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 579576,
+    "nome": "Ruben Aguilar",
+    "pos": "M",
+    "min": 98,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1546405,
+    "nome": "Kyllian Antonio",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 822708,
+    "nome": "Amadou Haidara",
+    "pos": "M",
+    "min": 80,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 966849,
+    "nome": "Saud Abdulhamid",
+    "pos": "M",
+    "min": 62,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1423504,
+    "nome": "Andrija Bulatović",
+    "pos": "M",
+    "min": 59,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 795228,
+    "nome": "Odsonne Édouard",
+    "pos": "F",
+    "min": 39,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   }
+  ]
+ },
+ "confirmada": null
+}

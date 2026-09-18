@@ -1,0 +1,382 @@
+{
+ "eventoId": 15168393,
+ "competicao": "mls",
+ "competicaoNome": "MLS (EUA)",
+ "data": "2026-09-18T23:30:00.000Z",
+ "rodada": null,
+ "casa": "New York City FC",
+ "casaId": 187643,
+ "fora": "New York Red Bulls",
+ "foraId": 2506,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-10",
+    "adv": "New England Revolution",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Nashville SC",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Toronto FC",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 973436,
+    "nome": "Matthew Freese",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 962411,
+    "nome": "Nicolás Fernández",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 887154,
+    "nome": "Andrés Perea",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 551568,
+    "nome": "Thiago Martins",
+    "pos": "D",
+    "min": 255,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 885892,
+    "nome": "James Sands",
+    "pos": "M",
+    "min": 250,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1191921,
+    "nome": "Agustin Ojeda",
+    "pos": "M",
+    "min": 243,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1099792,
+    "nome": "Bénie Traoré",
+    "pos": "F",
+    "min": 242,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 983142,
+    "nome": "Kevin O'Toole",
+    "pos": "D",
+    "min": 208,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1047422,
+    "nome": "Raul Gustavo",
+    "pos": "D",
+    "min": 207,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1597267,
+    "nome": "Luighi Hanri",
+    "pos": "F",
+    "min": 193,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 1122485,
+    "nome": "Mitja Ilenič",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 1002365,
+    "nome": "Tayvon Gray",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 847938,
+    "nome": "Aiden O'Neill",
+    "pos": "M",
+    "min": 83,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 845780,
+    "nome": "Keaton Parks",
+    "pos": "M",
+    "min": 77,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2053193,
+    "nome": "Nico Cavallo",
+    "pos": "D",
+    "min": 62,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1652363,
+    "nome": "Malachi Jones",
+    "pos": "F",
+    "min": 37,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 832411,
+    "nome": "Hannes Wolf",
+    "pos": "F",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1468393,
+    "nome": "Jonathan Shore",
+    "pos": "M",
+    "min": 13,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-10",
+    "adv": "Los Angeles FC",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Seattle Sounders FC",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Philadelphia Union",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 343013,
+    "nome": "Ethan Horvath",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1046097,
+    "nome": "Justin Che",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1485232,
+    "nome": "Julián Bazán",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1546887,
+    "nome": "Julian Hall",
+    "pos": "F",
+    "min": 214,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1823640,
+    "nome": "Adri Mehmeti",
+    "pos": "M",
+    "min": 197,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 974792,
+    "nome": "Cade Cowell",
+    "pos": "F",
+    "min": 190,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1017957,
+    "nome": "Dylan Nealis",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1491651,
+    "nome": "Ronald Donkor",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 51785,
+    "nome": "Emil Forsberg",
+    "pos": "M",
+    "min": 173,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1802297,
+    "nome": "Mohammed Sofo",
+    "pos": "M",
+    "min": 153,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1875828,
+    "nome": "Matthew Dos Santos",
+    "pos": "D",
+    "min": 148,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1153541,
+    "nome": "Jorge Ruvalcaba",
+    "pos": "F",
+    "min": 146,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 21626,
+    "nome": "Eric Maxim Choupo-Moting",
+    "pos": "F",
+    "min": 124,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1017168,
+    "nome": "Jahkeele Marshall-Rutty",
+    "pos": "D",
+    "min": 123,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2074788,
+    "nome": "Dennis Nelich",
+    "pos": "F",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1190740,
+    "nome": "Devin Padelford",
+    "pos": "D",
+    "min": 75,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2466950,
+    "nome": "Sekou Kone",
+    "pos": "M",
+    "min": 57,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1049502,
+    "nome": "Cameron Harper",
+    "pos": "F",
+    "min": 46,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

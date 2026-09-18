@@ -1,0 +1,382 @@
+{
+ "eventoId": 16667330,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-09-20T20:00:00.000Z",
+ "rodada": 10,
+ "casa": "Club Atlético Platense",
+ "casaId": 36837,
+ "fora": "Newell's Old Boys",
+ "foraId": 3212,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Estudiantes de La Plata",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "Deportivo Riestra",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Defensa y Justicia",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 874969,
+    "nome": "Juan Cozzani",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1654532,
+    "nome": "Tomás Ariel Silva",
+    "pos": "D",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1212545,
+    "nome": "Franco Zapiola",
+    "pos": "M",
+    "min": 202,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 895232,
+    "nome": "Guido Mainero",
+    "pos": "M",
+    "min": 191,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1104325,
+    "nome": "Juan Ignacio Saborido",
+    "pos": "D",
+    "min": 181,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 587148,
+    "nome": "Víctor Cuesta",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1537927,
+    "nome": "Mateo Mendia",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 849136,
+    "nome": "Ivan Gómez",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 883922,
+    "nome": "Ignacio Vazquez",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 974691,
+    "nome": "Gonzalo Lencina",
+    "pos": "F",
+    "min": 163,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 1190103,
+    "nome": "Nicolás Retamar",
+    "pos": "M",
+    "min": 157,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 930196,
+    "nome": "Martín Barrios",
+    "pos": "M",
+    "min": 155,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 868361,
+    "nome": "Gastón Togni",
+    "pos": "M",
+    "min": 137,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 993929,
+    "nome": "Agustín Lagos",
+    "pos": "D",
+    "min": 123,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1187883,
+    "nome": "Maximiliano Amarfil",
+    "pos": "M",
+    "min": 115,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 830722,
+    "nome": "Bautista Merlini",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1210807,
+    "nome": "Pablo Ferreira",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 255881,
+    "nome": "Nico López",
+    "pos": "F",
+    "min": 73,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-11",
+    "adv": "Vélez Sarsfield",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Rosario Central",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Estudiantes de La Plata",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1485097,
+    "nome": "Josué Reinatti",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 233856,
+    "nome": "Lautaro Giannetti",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1020498,
+    "nome": "Martín Ortega",
+    "pos": "D",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 2017667,
+    "nome": "Luca Regiardo",
+    "pos": "M",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 903286,
+    "nome": "Matías Cóccaro",
+    "pos": "F",
+    "min": 260,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 9
+   },
+   {
+    "id": 861339,
+    "nome": "Walter Mazzantti",
+    "pos": "M",
+    "min": 259,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 2054539,
+    "nome": "Facundo Guch",
+    "pos": "M",
+    "min": 218,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1067815,
+    "nome": "Rodrigo Herrera",
+    "pos": "M",
+    "min": 199,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 871798,
+    "nome": "Lucas Carrizo",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1104323,
+    "nome": "Santiago Solari",
+    "pos": "M",
+    "min": 157,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 595300,
+    "nome": "Franco Escobar",
+    "pos": "D",
+    "min": 150,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1485095,
+    "nome": "Jeronimo Russo",
+    "pos": "D",
+    "min": 120,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1092313,
+    "nome": "Bruno Cabrera",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2082133,
+    "nome": "Jerónimo Gómez Mattar",
+    "pos": "M",
+    "min": 78,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 2317412,
+    "nome": "Lautaro Rios",
+    "pos": "M",
+    "min": 73,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 846773,
+    "nome": "Mateo García",
+    "pos": "F",
+    "min": 47,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1218016,
+    "nome": "Walter Nuñez",
+    "pos": "F",
+    "min": 23,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 877630,
+    "nome": "Juan Ignacio Ramírez",
+    "pos": "F",
+    "min": 21,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

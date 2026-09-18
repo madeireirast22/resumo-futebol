@@ -1,0 +1,382 @@
+{
+ "eventoId": 16285021,
+ "competicao": "seriea",
+ "competicaoNome": "Serie A (ITA)",
+ "data": "2026-09-19T16:00:00.000Z",
+ "rodada": 5,
+ "casa": "AS Roma",
+ "casaId": 2702,
+ "fora": "Inter",
+ "foraId": 2697,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-14",
+    "adv": "Torino",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "Atalanta",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-31",
+    "adv": "Lecce",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 793986,
+    "nome": "Mile Svilar",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 353130,
+    "nome": "Mario Hermoso",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 186855,
+    "nome": "Bryan Cristante",
+    "pos": "M",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 611210,
+    "nome": "Gianluca Mancini",
+    "pos": "D",
+    "min": 242,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 256219,
+    "nome": "Paulo Dybala",
+    "pos": "F",
+    "min": 238,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 10
+   },
+   {
+    "id": 1955992,
+    "nome": "Emanuele Lulli",
+    "pos": "M",
+    "min": 232,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 803039,
+    "nome": "Donyell Malen",
+    "pos": "F",
+    "min": 187,
+    "jogos": 3,
+    "chHt": 11,
+    "chFt": 12
+   },
+   {
+    "id": 974087,
+    "nome": "Manu Koné",
+    "pos": "M",
+    "min": 183,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 831799,
+    "nome": "Nahuel Molina",
+    "pos": "M",
+    "min": 156,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1082406,
+    "nome": "Matías Soulé",
+    "pos": "F",
+    "min": 153,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 12
+   },
+   {
+    "id": 1134200,
+    "nome": "Wesley",
+    "pos": "M",
+    "min": 150,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1384847,
+    "nome": "Daniele Ghilardi",
+    "pos": "D",
+    "min": 118,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1410240,
+    "nome": "Rodrigo Mora",
+    "pos": "M",
+    "min": 117,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 7
+   },
+   {
+    "id": 928236,
+    "nome": "Leonardo Balerdi",
+    "pos": "D",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1175821,
+    "nome": "Niccolò Pisilli",
+    "pos": "M",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1116577,
+    "nome": "Santiago Castro",
+    "pos": "F",
+    "min": 83,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 6
+   },
+   {
+    "id": 848287,
+    "nome": "Evan Ndicka",
+    "pos": "D",
+    "min": 67,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 100389,
+    "nome": "Marten de Roon",
+    "pos": "M",
+    "min": 38,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-14",
+    "adv": "Udinese",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "SSC Napoli",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Cagliari",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 845291,
+    "nome": "Josep Martínez",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 363856,
+    "nome": "Nicolò Barella",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 383560,
+    "nome": "Manuel Akanji",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 826188,
+    "nome": "Alessandro Bastoni",
+    "pos": "D",
+    "min": 239,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1156616,
+    "nome": "Pio Esposito",
+    "pos": "F",
+    "min": 200,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 8
+   },
+   {
+    "id": 1048889,
+    "nome": "Andy Diouf",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 823984,
+    "nome": "Lautaro Martínez",
+    "pos": "F",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 6,
+    "chFt": 16
+   },
+   {
+    "id": 138605,
+    "nome": "Piotr Zieliński",
+    "pos": "M",
+    "min": 179,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 284361,
+    "nome": "Federico Dimarco",
+    "pos": "D",
+    "min": 172,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 791702,
+    "nome": "Marcus Thuram",
+    "pos": "F",
+    "min": 140,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 12
+   },
+   {
+    "id": 929199,
+    "nome": "Carlos Augusto",
+    "pos": "M",
+    "min": 118,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 787505,
+    "nome": "Benjamin Pavard",
+    "pos": "D",
+    "min": 118,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1091303,
+    "nome": "Petar Sučić",
+    "pos": "M",
+    "min": 110,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 906275,
+    "nome": "Yann Bisseck",
+    "pos": "D",
+    "min": 99,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 927353,
+    "nome": "Curtis Jones",
+    "pos": "M",
+    "min": 98,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 152077,
+    "nome": "John Stones",
+    "pos": "D",
+    "min": 84,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 135700,
+    "nome": "Hakan Çalhanoğlu",
+    "pos": "M",
+    "min": 83,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 977679,
+    "nome": "Luís Henrique",
+    "pos": "M",
+    "min": 81,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ]
+ },
+ "confirmada": null
+}

@@ -1,0 +1,382 @@
+{
+ "eventoId": 16316822,
+ "competicao": "eredivisie",
+ "competicaoNome": "Eredivisie (HOL)",
+ "data": "2026-09-19T14:30:00.000Z",
+ "rodada": 7,
+ "casa": "ADO Den Haag",
+ "casaId": 2966,
+ "fora": "SC Cambuur",
+ "foraId": 2970,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "FC Twente",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Fortuna Sittard",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Feyenoord",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1149858,
+    "nome": "Kilian Nikièma",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1155091,
+    "nome": "Pascal Mulder",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 977506,
+    "nome": "Juho Kilo",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1047335,
+    "nome": "Evan Rottier",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1196518,
+    "nome": "Milan Hokke",
+    "pos": "D",
+    "min": 254,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1469998,
+    "nome": "Othniël Raterink",
+    "pos": "M",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1440627,
+    "nome": "Yannick Eduardo",
+    "pos": "F",
+    "min": 199,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 948720,
+    "nome": "Sekou Sylla",
+    "pos": "D",
+    "min": 141,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1113071,
+    "nome": "Jonas Jensen-Abbew",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1031523,
+    "nome": "Jalen Hawkins",
+    "pos": "M",
+    "min": 134,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 916952,
+    "nome": "Nigel Thomas",
+    "pos": "M",
+    "min": 134,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 6
+   }
+  ],
+  "banco": [
+   {
+    "id": 163539,
+    "nome": "Daryl van Mieghem",
+    "pos": "F",
+    "min": 130,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1012922,
+    "nome": "Mylian Jimenez",
+    "pos": "M",
+    "min": 121,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1064454,
+    "nome": "Matteo Waem",
+    "pos": "D",
+    "min": 100,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1470013,
+    "nome": "Jesse Bal",
+    "pos": "F",
+    "min": 88,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1962142,
+    "nome": "Illaijh de Ruijter",
+    "pos": "D",
+    "min": 46,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1627783,
+    "nome": "Finn de Bruin",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1170900,
+    "nome": "Matěj Šín",
+    "pos": "M",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "NEC Nijmegen",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "SC Telstar",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "FC Twente",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1087782,
+    "nome": "Thijs Jansen",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1213381,
+    "nome": "Billy van Duijl",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 886960,
+    "nome": "Nicky Souren",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1190941,
+    "nome": "Rafik El Arguioui",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 8
+   },
+   {
+    "id": 1425326,
+    "nome": "Ismaël Baouf",
+    "pos": "D",
+    "min": 222,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1977011,
+    "nome": "Morgan Costarelli",
+    "pos": "D",
+    "min": 206,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 2110358,
+    "nome": "Fabian Kvam",
+    "pos": "M",
+    "min": 185,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 962285,
+    "nome": "Nicolas Binder",
+    "pos": "F",
+    "min": 184,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1130984,
+    "nome": "Ilyes Hamache",
+    "pos": "M",
+    "min": 182,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 6
+   },
+   {
+    "id": 928933,
+    "nome": "Devid Bouah",
+    "pos": "D",
+    "min": 181,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1049653,
+    "nome": "Jamal Amofa",
+    "pos": "D",
+    "min": 181,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1545279,
+    "nome": "Sami Bouhoudane",
+    "pos": "F",
+    "min": 112,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1586637,
+    "nome": "Lucas Jetten",
+    "pos": "D",
+    "min": 108,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1537512,
+    "nome": "Iwan Henstra",
+    "pos": "F",
+    "min": 103,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 360652,
+    "nome": "Mathieu Maertens",
+    "pos": "M",
+    "min": 86,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1050822,
+    "nome": "Jorn Berkhout",
+    "pos": "M",
+    "min": 77,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1403093,
+    "nome": "Skye Vink",
+    "pos": "F",
+    "min": 25,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877798,
+    "nome": "Jason Ceka",
+    "pos": "M",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

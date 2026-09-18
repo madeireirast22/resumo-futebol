@@ -1,0 +1,382 @@
+{
+ "eventoId": 16667333,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-09-20T00:15:00.000Z",
+ "rodada": 10,
+ "casa": "Instituto De Córdoba",
+ "casaId": 4937,
+ "fora": "CA Talleres",
+ "foraId": 3210,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-08",
+    "adv": "Club Atlético Unión de Santa Fe",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-01",
+    "adv": "San Lorenzo",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-22",
+    "adv": "Atlético Tucumán",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 757762,
+    "nome": "Marcos Ledesma",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 824157,
+    "nome": "Leonel Mosevich",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 797020,
+    "nome": "Fernando Alarcón",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 850995,
+    "nome": "Diego Alejandro Sosa",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1183795,
+    "nome": "Giuliano Cerato",
+    "pos": "M",
+    "min": 253,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1482281,
+    "nome": "Matías Gallardo",
+    "pos": "M",
+    "min": 253,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 789271,
+    "nome": "Jonathan Galván",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 939950,
+    "nome": "Gustavo Abregú",
+    "pos": "M",
+    "min": 244,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 859997,
+    "nome": "Matías Tissera",
+    "pos": "F",
+    "min": 203,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 961647,
+    "nome": "Jhon Córdoba",
+    "pos": "F",
+    "min": 196,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1094228,
+    "nome": "Alex Luna",
+    "pos": "F",
+    "min": 165,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 6
+   }
+  ],
+  "banco": [
+   {
+    "id": 1649316,
+    "nome": "Jeremías Lázaro",
+    "pos": "M",
+    "min": 144,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 992068,
+    "nome": "Facundo Suárez",
+    "pos": "F",
+    "min": 52,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 881170,
+    "nome": "Ignacio Méndez",
+    "pos": "M",
+    "min": 43,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 924518,
+    "nome": "Nicolás Guerra",
+    "pos": "F",
+    "min": 42,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 875895,
+    "nome": "Jonas Acevedo",
+    "pos": "M",
+    "min": 25,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 912936,
+    "nome": "Hernán de la Fuente",
+    "pos": "D",
+    "min": 17,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1650441,
+    "nome": "Agustín Massaccesi",
+    "pos": "D",
+    "min": 11,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Club Atlético Unión de Santa Fe",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "San Lorenzo",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Central Córdoba",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 790756,
+    "nome": "Ezequiel Unsaín",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 940689,
+    "nome": "Augusto Schott",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 249643,
+    "nome": "Matías Catalán",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 797030,
+    "nome": "Gabriel Báez",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 7
+   },
+   {
+    "id": 1092322,
+    "nome": "Valentín Depietri",
+    "pos": "M",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
+   },
+   {
+    "id": 984900,
+    "nome": "Rick",
+    "pos": "M",
+    "min": 223,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 11
+   },
+   {
+    "id": 1065937,
+    "nome": "Agustín Álvarez",
+    "pos": "F",
+    "min": 217,
+    "jogos": 3,
+    "chHt": 10,
+    "chFt": 13
+   },
+   {
+    "id": 558820,
+    "nome": "Franco Cristaldo",
+    "pos": "M",
+    "min": 193,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1003013,
+    "nome": "Juan Sforza",
+    "pos": "M",
+    "min": 190,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1537838,
+    "nome": "Valentín Fascendini",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1086924,
+    "nome": "Matias Galarza",
+    "pos": "M",
+    "min": 148,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 1117101,
+    "nome": "Román Riquelme",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 789640,
+    "nome": "Federico Fattori",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2076942,
+    "nome": "Timoteo Chamorro",
+    "pos": "M",
+    "min": 82,
+    "jogos": 1,
+    "chHt": 3,
+    "chFt": 3
+   },
+   {
+    "id": 2450916,
+    "nome": "Lautaro Ortiz",
+    "pos": "M",
+    "min": 80,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1885940,
+    "nome": "Valentin Davila",
+    "pos": "F",
+    "min": 53,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2110313,
+    "nome": "Giovanni Baroni",
+    "pos": "M",
+    "min": 47,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2110311,
+    "nome": "Emiliano Chiavassa",
+    "pos": "F",
+    "min": 20,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

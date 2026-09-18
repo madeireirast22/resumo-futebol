@@ -1,0 +1,382 @@
+{
+ "eventoId": 16667327,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-09-19T22:00:00.000Z",
+ "rodada": 10,
+ "casa": "River Plate",
+ "casaId": 3211,
+ "fora": "Huracán",
+ "foraId": 7629,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "Atlético Tucumán",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Independiente Rivadavia",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-30",
+    "adv": "Banfield",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1485255,
+    "nome": "Santiago Beltrán",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 74915,
+    "nome": "Nicolás Otamendi",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 930690,
+    "nome": "Fausto Vera",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 944660,
+    "nome": "Thiago Almada",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 12
+   },
+   {
+    "id": 795297,
+    "nome": "Lucas Martínez Quarta",
+    "pos": "D",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 316152,
+    "nome": "Ángel Correa",
+    "pos": "M",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 12
+   },
+   {
+    "id": 578560,
+    "nome": "Marcos Acuña",
+    "pos": "D",
+    "min": 253,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1065613,
+    "nome": "Tomás Galván",
+    "pos": "M",
+    "min": 252,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 7
+   },
+   {
+    "id": 822933,
+    "nome": "Gonzalo Montiel",
+    "pos": "D",
+    "min": 249,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 2110330,
+    "nome": "Tobías Andrada",
+    "pos": "M",
+    "min": 218,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 358938,
+    "nome": "Sebastián Driussi",
+    "pos": "F",
+    "min": 218,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   }
+  ],
+  "banco": [
+   {
+    "id": 962029,
+    "nome": "Lucas Beltrán",
+    "pos": "M",
+    "min": 51,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 385888,
+    "nome": "Mauro Arambarri",
+    "pos": "M",
+    "min": 46,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2082116,
+    "nome": "Juan Cruz Meza",
+    "pos": "M",
+    "min": 31,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 590404,
+    "nome": "Giovanni González",
+    "pos": "D",
+    "min": 21,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 913647,
+    "nome": "Francisco Ortega",
+    "pos": "D",
+    "min": 17,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1835781,
+    "nome": "Lautaro Rivero",
+    "pos": "D",
+    "min": 8,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 560116,
+    "nome": "Rafael Borré",
+    "pos": "F",
+    "min": 2,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-04",
+    "adv": "Club Atlético Belgrano",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Estudiantes de Río Cuarto",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-23",
+    "adv": "Deportivo Riestra",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 588618,
+    "nome": "Hernán Galíndez",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 860003,
+    "nome": "Lucas Blondel",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 6
+   },
+   {
+    "id": 122638,
+    "nome": "Hugo Nervo",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1997478,
+    "nome": "Máximo Palazzo",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 988327,
+    "nome": "César Ibáñez",
+    "pos": "D",
+    "min": 266,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 1173564,
+    "nome": "Oscar Cortés",
+    "pos": "M",
+    "min": 266,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 877599,
+    "nome": "Rodrigo Fernández",
+    "pos": "M",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 1104322,
+    "nome": "Juan Bisanz",
+    "pos": "F",
+    "min": 196,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 846766,
+    "nome": "Facundo Waller",
+    "pos": "M",
+    "min": 154,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 2110718,
+    "nome": "Lautaro Mora",
+    "pos": "M",
+    "min": 138,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 340509,
+    "nome": "Ignacio Pussetto",
+    "pos": "F",
+    "min": 138,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 2110706,
+    "nome": "Facundo Kalinger",
+    "pos": "M",
+    "min": 100,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 340775,
+    "nome": "Leonardo Gil",
+    "pos": "M",
+    "min": 93,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 804770,
+    "nome": "Jordy Caicedo",
+    "pos": "F",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 2669306,
+    "nome": "Tomás Uribe",
+    "pos": "M",
+    "min": 83,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 2110739,
+    "nome": "Thaiel Peralta",
+    "pos": "M",
+    "min": 30,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2110728,
+    "nome": "Martín Soto",
+    "pos": "D",
+    "min": 27,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 857488,
+    "nome": "Emmanuel Ojeda",
+    "pos": "M",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

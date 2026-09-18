@@ -1,0 +1,382 @@
+{
+ "eventoId": 16434034,
+ "competicao": "bundesliga",
+ "competicaoNome": "Bundesliga (ALE)",
+ "data": "2026-09-19T16:30:00.000Z",
+ "rodada": 4,
+ "casa": "VfB Stuttgart",
+ "casaId": 2677,
+ "fora": "Borussia Dortmund",
+ "foraId": 2673,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "TSG Hoffenheim",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-04",
+    "adv": "1. FC Köln",
+    "mando": "C"
+   },
+   {
+    "data": "2026-08-28",
+    "adv": "FC Bayern München",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 152463,
+    "nome": "Fabian Bredlow",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1418649,
+    "nome": "Finn Jeltsch",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 6
+   },
+   {
+    "id": 253993,
+    "nome": "Grischa Prömel",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 8
+   },
+   {
+    "id": 906278,
+    "nome": "Josha Vagnoman",
+    "pos": "M",
+    "min": 261,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 788949,
+    "nome": "Maximilian Mittelstädt",
+    "pos": "M",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 863271,
+    "nome": "Jeff Chabot",
+    "pos": "D",
+    "min": 254,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 5
+   },
+   {
+    "id": 1127790,
+    "nome": "Dženan Pejčinović",
+    "pos": "F",
+    "min": 243,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 8
+   },
+   {
+    "id": 901882,
+    "nome": "Angelo Stiller",
+    "pos": "M",
+    "min": 212,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 916943,
+    "nome": "Ramon Hendriks",
+    "pos": "D",
+    "min": 183,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 794298,
+    "nome": "Deniz Undav",
+    "pos": "F",
+    "min": 169,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 891510,
+    "nome": "Chris Führich",
+    "pos": "F",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 1126569,
+    "nome": "Bilal El Khannouss",
+    "pos": "M",
+    "min": 119,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 878081,
+    "nome": "Ermedin Demirović",
+    "pos": "F",
+    "min": 112,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 983540,
+    "nome": "Tiago Tomás",
+    "pos": "F",
+    "min": 62,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 990201,
+    "nome": "Jamie Leweling",
+    "pos": "F",
+    "min": 57,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1566307,
+    "nome": "Yanik Spalt",
+    "pos": "D",
+    "min": 56,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1150938,
+    "nome": "Leo Sauer",
+    "pos": "F",
+    "min": 21,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 962898,
+    "nome": "Leonidas Stergiou",
+    "pos": "D",
+    "min": 16,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-12",
+    "adv": "SC Paderborn 07",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-05",
+    "adv": "TSG Hoffenheim",
+    "mando": "F"
+   },
+   {
+    "data": "2026-08-29",
+    "adv": "Hamburger SV",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 556866,
+    "nome": "Gregor Kobel",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 799046,
+    "nome": "Waldemar Anton",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1134083,
+    "nome": "Jobe Bellingham",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1021272,
+    "nome": "Daniel Svensson",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 328027,
+    "nome": "Serhou Guirassy",
+    "pos": "F",
+    "min": 267,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 10
+   },
+   {
+    "id": 1471049,
+    "nome": "Joane Gadou",
+    "pos": "D",
+    "min": 243,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 800951,
+    "nome": "Julian Ryerson",
+    "pos": "M",
+    "min": 241,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 980628,
+    "nome": "Maximilian Beier",
+    "pos": "F",
+    "min": 187,
+    "jogos": 3,
+    "chHt": 6,
+    "chFt": 7
+   },
+   {
+    "id": 907463,
+    "nome": "Felix Nmecha",
+    "pos": "M",
+    "min": 144,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1468744,
+    "nome": "Konstantinos Karetsas",
+    "pos": "F",
+    "min": 136,
+    "jogos": 2,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 850816,
+    "nome": "Joey Veerman",
+    "pos": "M",
+    "min": 126,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 1401702,
+    "nome": "Ethan Nwaneri",
+    "pos": "F",
+    "min": 123,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 954076,
+    "nome": "Fábio Silva",
+    "pos": "F",
+    "min": 93,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 940871,
+    "nome": "Nico Schlotterbeck",
+    "pos": "D",
+    "min": 77,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 133908,
+    "nome": "Marcel Sabitzer",
+    "pos": "M",
+    "min": 70,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1002007,
+    "nome": "Giannis Konstantelias",
+    "pos": "F",
+    "min": 54,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1137131,
+    "nome": "Filippo Mané",
+    "pos": "D",
+    "min": 48,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1937833,
+    "nome": "Luca Reggiani",
+    "pos": "D",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "confirmada": null
+}

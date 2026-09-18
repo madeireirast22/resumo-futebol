@@ -53,6 +53,23 @@ não é Champions no sentido que interessa. Use a temporada anterior.
   sem o turno.
 - Não há jogos futuros nem odds.
 
+## Próximos jogos e escalações
+
+- `proximos.json` (~40 KB) — os jogos dos **próximos 7 dias** em todas as
+  competições em curso: data, times, id do evento, e as flags `temProvavel` e
+  `temConfirmada`. Regenerado às 08:00 e 23:30.
+- `escalacoes/<eventoId>.json` (~6 KB) — um por jogo. Traz:
+  - `provavelCasa` / `provavelFora`: os **11 com mais minutos nos últimos 3
+    jogos** do time (`baseadoEm` diz quais), mais 7 do banco. É o provável
+    titular, calculado do scout — âncora até sair a oficial.
+  - `confirmada`: a **escalação oficial**, quando existe. A SofaScore publica
+    ~1 h antes do apito; um vigia busca a cada 15 min e publica na hora. Tem
+    formação, titulares, banco e desfalques. `null` = ainda não saiu.
+
+Fluxo para um jogo de hoje: `proximos.json` → acha o `eventoId` → puxa
+`escalacoes/<eventoId>.json`. Se `confirmada` for `null` e faltar mais de 1 h,
+use `provavelCasa`/`provavelFora` e diga que é provável, não oficial.
+
 ## Cache
 
 O `raw.githubusercontent.com` guarda cada arquivo por uns 5 minutos. Logo
