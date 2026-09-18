@@ -378,5 +378,210 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T17:30:20.809Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 827362,
+     "nome": "Caoimhin Kelleher",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 966869,
+     "nome": "Aaron Hickey",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1474198,
+     "nome": "Jannik Schuster",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 576384,
+     "nome": "Kristoffer Ajer",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 972421,
+     "nome": "Keane Lewis-Potter",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 1064697,
+     "nome": "Mamadou Sangare",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 814873,
+     "nome": "Vitaly Janelt",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1020680,
+     "nome": "Jaidon Anthony",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 1031258,
+     "nome": "Yehor Yarmoliuk",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 1006387,
+     "nome": "Kevin Schade",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1016907,
+     "nome": "Igor Thiago",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1126692,
+     "nome": "Antoni Milambo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 856260,
+     "nome": "Josh Dasilva",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1403098,
+     "nome": "Kaye Furo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 799251,
+     "nome": "Mathias Jensen",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 958916,
+     "nome": "Nathan Collins",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 924378,
+     "nome": "Sepp van den Berg",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 158263,
+     "nome": "Emiliano Martínez",
+     "pos": "G",
+     "camisa": 26
+    },
+    {
+     "id": 879674,
+     "nome": "Maxence Lacroix",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 923894,
+     "nome": "Wesley Fofana",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 996911,
+     "nome": "Levi Colwill",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 879349,
+     "nome": "Pedro Neto",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 885908,
+     "nome": "Reece James",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 1069488,
+     "nome": "Roméo Lavia",
+     "pos": "M",
+     "camisa": 45
+    },
+    {
+     "id": 1010421,
+     "nome": "Pep Chavarría",
+     "pos": "D",
+     "camisa": 29
+    },
+    {
+     "id": 982780,
+     "nome": "Cole Palmer",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 948261,
+     "nome": "Morgan Rogers",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 33902,
+     "nome": "Danny Welbeck",
+     "pos": "F",
+     "camisa": 18
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 975079,
+     "nome": "João Pedro",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1048333,
+     "nome": "Emmanuel Emegha",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    },
+    {
+     "id": 885908,
+     "nome": "Reece James",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }

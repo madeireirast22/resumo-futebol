@@ -378,5 +378,203 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T17:30:17.790Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1064266,
+     "nome": "Sam Tickle",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1469007,
+     "nome": "Rio Cardines",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 802697,
+     "nome": "Rob Dickie",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1167389,
+     "nome": "Lisav Naif Eissat",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 909763,
+     "nome": "Cameron Pring",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 958918,
+     "nome": "Jason Knight",
+     "pos": "M",
+     "camisa": 12
+    },
+    {
+     "id": 784501,
+     "nome": "Joe Williams",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 839416,
+     "nome": "Scott Twine",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 1398557,
+     "nome": "Dominic Ballard",
+     "pos": "F",
+     "camisa": 23
+    },
+    {
+     "id": 1166844,
+     "nome": "Yu Hirakawa",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 910079,
+     "nome": "Lorent Tolaj",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": []
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 850952,
+     "nome": "Federico Ravaglia",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1102504,
+     "nome": "Kévin Keben Biakolo",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 959208,
+     "nome": "Matthew Pollock",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 1001858,
+     "nome": "Soumaila Coulibaly",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 920022,
+     "nome": "Omar Haktab Traore",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 987346,
+     "nome": "Hector Kyprianou",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 917305,
+     "nome": "Edo Kayembe",
+     "pos": "M",
+     "camisa": 39
+    },
+    {
+     "id": 1515917,
+     "nome": "Othmane Maamma",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1155571,
+     "nome": "Iker Bravo",
+     "pos": "F",
+     "camisa": 17
+    },
+    {
+     "id": 605338,
+     "nome": "Stephy Mavididi",
+     "pos": "M",
+     "camisa": 45
+    },
+    {
+     "id": 1542789,
+     "nome": "Mamadou Doumbia",
+     "pos": "F",
+     "camisa": 20
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1831525,
+     "nome": "Branimir Mlačić",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 986352,
+     "nome": "Edoardo Bove",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1214696,
+     "nome": "Jack Grieves",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 991595,
+     "nome": "Jeremy Ngakia",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 964119,
+     "nome": "Jordan Zemura",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 998357,
+     "nome": "Kwadwo Baah",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 862083,
+     "nome": "Marc Bola",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 856744,
+     "nome": "Myron Boadu",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
