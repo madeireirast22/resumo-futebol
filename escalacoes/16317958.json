@@ -378,5 +378,174 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T23:30:15.124Z",
+  "casa": {
+   "formacao": "4-1-4-1",
+   "titulares": [
+    {
+     "id": 942710,
+     "nome": "Daniel Gutierrez",
+     "pos": "G",
+     "camisa": 28
+    },
+    {
+     "id": 1199110,
+     "nome": "Iker Moreno",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 966187,
+     "nome": "Facundo Almada",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 865783,
+     "nome": "Juan Pablo Vargas",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 987038,
+     "nome": "Fernando Monarrez",
+     "pos": "D",
+     "camisa": 7
+    },
+    {
+     "id": 2024675,
+     "nome": "Sergio Sanabria",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 818016,
+     "nome": "Brayan Garnica",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1457530,
+     "nome": "Mathías Tomás",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 987031,
+     "nome": "Alejandro Organista",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 909295,
+     "nome": "Carlos Baltazar",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 1096798,
+     "nome": "Ignacio Maestro Puch",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1082842,
+     "nome": "Eduardo Mustre Torres",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 940989,
+     "nome": "Kevin Velasco",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "5-3-2",
+   "titulares": [
+    {
+     "id": 344981,
+     "nome": "Óscar Jiménez",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1035635,
+     "nome": "Walter Portales",
+     "pos": "D",
+     "camisa": 29
+    },
+    {
+     "id": 1002554,
+     "nome": "Nicolas Carrera",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 888944,
+     "nome": "Eduardo Tercero",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1113232,
+     "nome": "Aarón Quirós",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 1106917,
+     "nome": "Luis Calzadilla",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 1002426,
+     "nome": "Eugenio Pizzuto",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 981588,
+     "nome": "Martín Fernández",
+     "pos": "M",
+     "camisa": 25
+    },
+    {
+     "id": 789677,
+     "nome": "Martín Sarrafiore",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 1469040,
+     "nome": "Joaquin Moxica",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 925741,
+     "nome": "Jhojan Julio",
+     "pos": "M",
+     "camisa": 7
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 977798,
+     "nome": "Hardy Meza",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
