@@ -364,7 +364,303 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-18T17:45:10.951Z",
+  "minutosAntesDoJogo": 45,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 8959,
+     "nome": "Manuel Neuer",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 927407,
+     "nome": "Josip Stanišić",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 798583,
+     "nome": "Dayot Upamecano",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 227672,
+     "nome": "Jonathan Tah",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 843665,
+     "nome": "Alphonso Davies",
+     "pos": "D",
+     "camisa": 19
+    },
+    {
+     "id": 259117,
+     "nome": "Joshua Kimmich",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 1142251,
+     "nome": "Aleksandar Pavlović",
+     "pos": "M",
+     "camisa": 45
+    },
+    {
+     "id": 978838,
+     "nome": "Michael Olise",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 1010231,
+     "nome": "Jamal Musiala",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 883537,
+     "nome": "Luis Díaz",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 108579,
+     "nome": "Harry Kane",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 1130647,
+     "nome": "Jonas Urbig",
+     "pos": "G",
+     "camisa": 40
+    },
+    {
+     "id": 1159759,
+     "nome": "Nathaniel Brown",
+     "pos": "D",
+     "camisa": 11
+    },
+    {
+     "id": 896569,
+     "nome": "Kim Min-jae",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 873106,
+     "nome": "Hiroki Itō",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 2427970,
+     "nome": "Bara Sapoko Ndiaye",
+     "pos": "M",
+     "camisa": 39
+    },
+    {
+     "id": 1861975,
+     "nome": "Lennart Karl",
+     "pos": "M",
+     "camisa": 42
+    },
+    {
+     "id": 1129935,
+     "nome": "Tom Bischof",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1063767,
+     "nome": "Ismael Saibari",
+     "pos": "M",
+     "camisa": 34
+    },
+    {
+     "id": 187433,
+     "nome": "Serge Gnabry",
+     "pos": "F",
+     "camisa": 7
+    }
+   ],
+   "desfalques": []
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 137692,
+     "nome": "Frederik Rønnow",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 48557,
+     "nome": "Christopher Trimmel",
+     "pos": "D",
+     "camisa": 28
+    },
+    {
+     "id": 1086547,
+     "nome": "Leopold Querfeld",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 792142,
+     "nome": "Felix Uduokhai",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1210666,
+     "nome": "Tom Alexander Rothe",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 850891,
+     "nome": "Michel Aebischer",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 149479,
+     "nome": "Rani Khedira",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 168985,
+     "nome": "Janik Haberer",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 877302,
+     "nome": "András Schäfer",
+     "pos": "M",
+     "camisa": 13
+    },
+    {
+     "id": 927405,
+     "nome": "Woo-Yeong Jeong",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 848074,
+     "nome": "Emmanuel Latte Lath",
+     "pos": "F",
+     "camisa": 29
+    }
+   ],
+   "banco": [
+    {
+     "id": 842718,
+     "nome": "Matheo Raab",
+     "pos": "G",
+     "camisa": 31
+    },
+    {
+     "id": 1103765,
+     "nome": "Zeno Van Den Bosch",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1198074,
+     "nome": "Aljoscha Kemlein",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 865520,
+     "nome": "Kastriot Imeri",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 886737,
+     "nome": "Derrick Köhn",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 327863,
+     "nome": "Robert Skov",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 800252,
+     "nome": "Tim Skarke",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 1090010,
+     "nome": "Marin Ljubičić",
+     "pos": "F",
+     "camisa": 27
+    },
+    {
+     "id": 1513469,
+     "nome": "Livan Burcu",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 953767,
+     "nome": "Andrej Ilić",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1534045,
+     "nome": "Andrik Markgraf",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 791642,
+     "nome": "Josip Juranović",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 254449,
+     "nome": "Marvin Friedrich",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 608362,
+     "nome": "Oliver Burke",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 904991,
+     "nome": "Stanley Nsoki",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-18T17:30:13.345Z",
   "casa": {
