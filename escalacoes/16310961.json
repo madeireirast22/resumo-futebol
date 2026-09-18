@@ -378,7 +378,304 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-18T18:15:15.004Z",
+  "minutosAntesDoJogo": 30,
+  "casa": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 15219,
+     "nome": "Lukáš Hrádecký",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1471683,
+     "nome": "Sadibou Sané",
+     "pos": "D",
+     "camisa": 72
+    },
+    {
+     "id": 770677,
+     "nome": "Denis Zakaria",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 146101,
+     "nome": "Eric Dier",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 1090694,
+     "nome": "Vanderson",
+     "pos": "M",
+     "camisa": 2
+    },
+    {
+     "id": 1389846,
+     "nome": "Lamine Camara",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1390575,
+     "nome": "Edan Diop",
+     "pos": "M",
+     "camisa": 37
+    },
+    {
+     "id": 1006113,
+     "nome": "Nazinho",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 999070,
+     "nome": "Matthis Abline",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 318963,
+     "nome": "Aleksandr Golovin",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 1403216,
+     "nome": "Paris Brunner",
+     "pos": "F",
+     "camisa": 29
+    }
+   ],
+   "banco": [
+    {
+     "id": 868964,
+     "nome": "Philipp Köhn",
+     "pos": "G",
+     "camisa": 16
+    },
+    {
+     "id": 946158,
+     "nome": "Mohammed Salisu",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1407848,
+     "nome": "Christian Mawissa",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 1925480,
+     "nome": "Ilane Touré",
+     "pos": "M",
+     "camisa": 49
+    },
+    {
+     "id": 1823956,
+     "nome": "Mathys Detourbet",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 155818,
+     "nome": "Takumi Minamino",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1606641,
+     "nome": "Pape Cabral",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 934237,
+     "nome": "Folarin Balogun",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 2270569,
+     "nome": "Safouane Benzahra",
+     "pos": "M",
+     "camisa": 47
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 2676521,
+     "nome": "Anis Soubeir",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1149152,
+     "nome": "Stanis Idumbo Muzambo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1387161,
+     "nome": "Robin Risser",
+     "pos": "G",
+     "camisa": 40
+    },
+    {
+     "id": 579576,
+     "nome": "Ruben Aguilar",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1546405,
+     "nome": "Kyllian Antonio",
+     "pos": "D",
+     "camisa": 32
+    },
+    {
+     "id": 945217,
+     "nome": "Jean-Clair Todibo",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 787827,
+     "nome": "Matthieu Udol",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 826208,
+     "nome": "Michaël Cuisance",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 822708,
+     "nome": "Amadou Haidara",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 2199216,
+     "nome": "Mezian Mesloub",
+     "pos": "M",
+     "camisa": 38
+    },
+    {
+     "id": 148824,
+     "nome": "Florian Thauvin",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 999033,
+     "nome": "Junior Kadile",
+     "pos": "M",
+     "camisa": 28
+    },
+    {
+     "id": 1029018,
+     "nome": "Abdallah Sima",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "banco": [
+    {
+     "id": 123226,
+     "nome": "Mathieu Gorgelin",
+     "pos": "G",
+     "camisa": 16
+    },
+    {
+     "id": 369650,
+     "nome": "Jonathan Gradit",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 1545381,
+     "nome": "Souleymane Sagnan",
+     "pos": "D",
+     "camisa": 31
+    },
+    {
+     "id": 942479,
+     "nome": "Michal Skoras",
+     "pos": "F",
+     "camisa": 22
+    },
+    {
+     "id": 94286,
+     "nome": "Thorgan Hazard",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 1423504,
+     "nome": "Andrija Bulatović",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 788921,
+     "nome": "Florian Sotoca",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 1103333,
+     "nome": "Franjo Ivanović",
+     "pos": "F",
+     "camisa": 29
+    },
+    {
+     "id": 795228,
+     "nome": "Odsonne Édouard",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1002458,
+     "nome": "Jhoanner Chávez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 984183,
+     "nome": "Maik Nawrocki",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1099117,
+     "nome": "Samson Baidoo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1094538,
+     "nome": "Yassine Titraoui",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-18T18:00:10.426Z",
   "casa": {
