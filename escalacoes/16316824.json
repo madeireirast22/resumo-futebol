@@ -369,5 +369,180 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T16:30:17.020Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 809408,
+     "nome": "Etienne Vaessen",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1424404,
+     "nome": "Jorg Schreuders",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 1121401,
+     "nome": "Thijmen Blokzijl",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1012661,
+     "nome": "Márk Csinger",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 827103,
+     "nome": "Marco Rente",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1121402,
+     "nome": "Tika de Jonge",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1441117,
+     "nome": "Tygo Land",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1878212,
+     "nome": "David van der Werff",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 1413536,
+     "nome": "Thom van Bergen",
+     "pos": "F",
+     "camisa": 26
+    },
+    {
+     "id": 795135,
+     "nome": "Pelle Clement",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 907520,
+     "nome": "Brynjólfur Darri Willumsson",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1977230,
+     "nome": "Elvis Van der Laan",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1150951,
+     "nome": "Nikolas Brandis",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1481249,
+     "nome": "Wouter Prins",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 856636,
+     "nome": "Jasper Schendelaar",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1049446,
+     "nome": "Olivier Aertssen",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 927155,
+     "nome": "Simon Graves",
+     "pos": "D",
+     "camisa": 28
+    },
+    {
+     "id": 46900,
+     "nome": "Nick Viergever",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 1172732,
+     "nome": "Damian van der Haar",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 1509752,
+     "nome": "Nick Fichtinger",
+     "pos": "M",
+     "camisa": 34
+    },
+    {
+     "id": 1017654,
+     "nome": "Tobias Sommer",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 923968,
+     "nome": "Dylan Mbayo",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 846003,
+     "nome": "Odysseus Velanas",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1128902,
+     "nome": "Ibrahim Cissoko",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 847073,
+     "nome": "Koen Kostons",
+     "pos": "F",
+     "camisa": 10
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 803021,
+     "nome": "Sherel Constancio Floranus",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
