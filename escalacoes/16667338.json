@@ -378,5 +378,186 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T22:45:16.691Z",
+  "casa": {
+   "formacao": "3-5-2",
+   "titulares": [
+    {
+     "id": 836159,
+     "nome": "Facundo Cambeses",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 2082109,
+     "nome": "Mateo Martinez",
+     "pos": "D",
+     "camisa": 38
+    },
+    {
+     "id": 46998,
+     "nome": "Marcos Rojo",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 1482416,
+     "nome": "Gonzalo Escudero",
+     "pos": "D",
+     "camisa": 43
+    },
+    {
+     "id": 859970,
+     "nome": "Matías Zaracho",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 1471214,
+     "nome": "Leonel Pérez",
+     "pos": "M",
+     "camisa": 33
+    },
+    {
+     "id": 1146881,
+     "nome": "Matko Miljevic",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1169586,
+     "nome": "Ulises Ortegoza",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1113236,
+     "nome": "Ignacio Rodríguez",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 992093,
+     "nome": "Lautaro Díaz",
+     "pos": "F",
+     "camisa": 32
+    },
+    {
+     "id": 906811,
+     "nome": "Adrián Martínez",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1094180,
+     "nome": "Ezequiel Cannavo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 974729,
+     "nome": "Juan Barinaga",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1017460,
+     "nome": "Marco Di Cesare",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 989208,
+     "nome": "Matías Pérez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-4-2",
+   "titulares": [
+    {
+     "id": 1511998,
+     "nome": "Thyago Ayala",
+     "pos": "G",
+     "camisa": 12
+    },
+    {
+     "id": 1461801,
+     "nome": "Santiago Salle",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 941402,
+     "nome": "Renzo Orihuela",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 93196,
+     "nome": "Juan Manuel Insaurralde",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 295161,
+     "nome": "Nicolás Pasquini",
+     "pos": "D",
+     "camisa": 77
+    },
+    {
+     "id": 1485098,
+     "nome": "Julian Contrera",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 789402,
+     "nome": "Mauricio Martínez",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 971172,
+     "nome": "Cristian Zabala",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 1650569,
+     "nome": "Julián Mavilla",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 1085452,
+     "nome": "Junior Marabel",
+     "pos": "F",
+     "camisa": 27
+    },
+    {
+     "id": 873763,
+     "nome": "Jonathan Herrera",
+     "pos": "F",
+     "camisa": 24
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1870182,
+     "nome": "Joel Godoy",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
