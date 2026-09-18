@@ -378,5 +378,216 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T17:15:17.506Z",
+  "casa": {
+   "formacao": "3-4-3",
+   "titulares": [
+    {
+     "id": 1014583,
+     "nome": "Noel Törnqvist",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1526933,
+     "nome": "Eddy Kouadio",
+     "pos": "D",
+     "camisa": 60
+    },
+    {
+     "id": 972567,
+     "nome": "Lorenzo Lucchesi",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 970978,
+     "nome": "Andrea Carboni",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 856729,
+     "nome": "Samuele Birindelli",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 1525367,
+     "nome": "Ebenezer Akinsanmiro",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 869795,
+     "nome": "Michael Folorunsho",
+     "pos": "M",
+     "camisa": 90
+    },
+    {
+     "id": 878496,
+     "nome": "Ricardo Mangas",
+     "pos": "D",
+     "camisa": 7
+    },
+    {
+     "id": 795044,
+     "nome": "Patrick Cutrone",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 1146305,
+     "nome": "Gustavo Varela",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 1440673,
+     "nome": "Jay Robinson",
+     "pos": "F",
+     "camisa": 46
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 826326,
+     "nome": "Idrissa Touré",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1499991,
+     "nome": "Jan Ziółkowski",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 350210,
+     "nome": "Matteo Pessina",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 888971,
+     "nome": "Arijanet Murić",
+     "pos": "G",
+     "camisa": 49
+    },
+    {
+     "id": 1461516,
+     "nome": "Simone Cinquegrano",
+     "pos": "D",
+     "camisa": 46
+    },
+    {
+     "id": 257091,
+     "nome": "Duje Ćaleta-Car",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 1088899,
+     "nome": "Fedde Leysen",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 989276,
+     "nome": "Josh Doig",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 924973,
+     "nome": "Kristian Thorstvedt",
+     "pos": "M",
+     "camisa": 42
+    },
+    {
+     "id": 44241,
+     "nome": "Nemanja Matić",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1149288,
+     "nome": "Vasilije Adžić",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 253367,
+     "nome": "Domenico Berardi",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 965008,
+     "nome": "Sebastiano Esposito",
+     "pos": "F",
+     "camisa": 94
+    },
+    {
+     "id": 932643,
+     "nome": "Armand Laurienté",
+     "pos": "F",
+     "camisa": 45
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1155625,
+     "nome": "Cristian Volpato",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 882592,
+     "nome": "Daniel Boloca",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1069028,
+     "nome": "Edoardo Pieragnolo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 892430,
+     "nome": "Fali Candé",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1134351,
+     "nome": "Ismael Koné",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 933641,
+     "nome": "Jay Idzes",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1000252,
+     "nome": "Yeferson Paz",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
