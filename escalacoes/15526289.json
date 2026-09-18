@@ -378,5 +378,33 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T22:30:41.649Z",
+  "casa": {
+   "formacao": null,
+   "titulares": [],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 345789,
+     "nome": "Matheus Salustiano",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 874398,
+     "nome": "Rodrigo Andrade",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": null,
+   "titulares": [],
+   "banco": [],
+   "desfalques": []
+  }
+ }
 }
