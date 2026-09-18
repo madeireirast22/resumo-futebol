@@ -1,7 +1,8 @@
 # resumo-futebol
 
 Resumo agregado de estatísticas de futebol, com foco em **1º tempo**.
-Espelho de leitura, atualizado por um robô uma vez por dia.
+Espelho de leitura, atualizado por um robô às 08:00 e 23:30 (Brasília), e a
+cada 15 min quando sai escalação de jogo próximo.
 
 Só números agregados e derivados: média por competição, linha de cada time
 separada por mando, e a sequência crua dos últimos 10 jogos. A base
@@ -51,7 +52,7 @@ não é Champions no sentido que interessa. Use a temporada anterior.
 - Copas não: por time são 2 a 6 jogos. Ali use só a régua da competição.
 - Série B 2025 está incompleta, e o que falta não é aleatório: é o returno
   sem o turno.
-- Não há jogos futuros nem odds.
+- Não há odds. Jogos futuros e escalações: seção abaixo.
 
 ## Scout por jogador
 
@@ -85,13 +86,16 @@ Sul-Americana, `car` é o número real.
   - `provavelCasa` / `provavelFora`: os **11 com mais minutos nos últimos 3
     jogos** do time (`baseadoEm` diz quais), mais 7 do banco. É o provável
     titular, calculado do scout — âncora até sair a oficial.
+  - `prevista`: a escalação **prevista pela própria SofaScore**, que ela
+    publica ~1 h 30 antes do jogo. Melhor que a por minutos; ainda não é a
+    oficial. `null` = ainda não saiu.
   - `confirmada`: a **escalação oficial**, quando existe. A SofaScore publica
     ~1 h antes do apito; um vigia busca a cada 15 min e publica na hora. Tem
     formação, titulares, banco e desfalques. `null` = ainda não saiu.
 
 Fluxo para um jogo de hoje: `proximos.json` → acha o `eventoId` → puxa
-`escalacoes/<eventoId>.json`. Se `confirmada` for `null` e faltar mais de 1 h,
-use `provavelCasa`/`provavelFora` e diga que é provável, não oficial.
+`escalacoes/<eventoId>.json`. Ordem de confiança: `confirmada` > `prevista` >
+`provavelCasa`/`provavelFora`. Use a melhor que não for `null`, e diga qual é.
 
 ## Cache
 
