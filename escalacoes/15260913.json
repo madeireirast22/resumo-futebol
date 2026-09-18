@@ -369,7 +369,304 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-18T16:15:34.283Z",
+  "minutosAntesDoJogo": 44,
+  "casa": {
+   "formacao": "4-4-2",
+   "titulares": [
+    {
+     "id": 1127159,
+     "nome": "Leander Øy",
+     "pos": "G",
+     "camisa": 87
+    },
+    {
+     "id": 1200367,
+     "nome": "Claus Niyukuri",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 232068,
+     "nome": "Bjorn Utvik",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 228348,
+     "nome": "Marius Lode",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1191167,
+     "nome": "Anders Hiim",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 548762,
+     "nome": "Sondre Sörli",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1063370,
+     "nome": "Sander Christiansen",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 981574,
+     "nome": "Aimar Sher",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 841424,
+     "nome": "Olaus Skarsem",
+     "pos": "M",
+     "camisa": 77
+    },
+    {
+     "id": 1173573,
+     "nome": "Daniel Karlsbakk",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 1200398,
+     "nome": "Victor Emanuel Halvorsen",
+     "pos": "F",
+     "camisa": 22
+    }
+   ],
+   "banco": [
+    {
+     "id": 798462,
+     "nome": "Jacob Pryts",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 2474021,
+     "nome": "Magnus Mevik Eidal",
+     "pos": "D",
+     "camisa": 50
+    },
+    {
+     "id": 1598265,
+     "nome": "Luca Hoyland",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 942464,
+     "nome": "Peter Reinhardsen",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 794371,
+     "nome": "Eirik Wichne",
+     "pos": "D",
+     "camisa": 32
+    },
+    {
+     "id": 793518,
+     "nome": "Sigurd Rosted",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 1026365,
+     "nome": "Noa Williams",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 1188121,
+     "nome": "Andreas Hansen",
+     "pos": "M",
+     "camisa": 33
+    },
+    {
+     "id": 2214971,
+     "nome": "Bop Guèye",
+     "pos": "M",
+     "camisa": 18
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1103172,
+     "nome": "Frederik Carstensen",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1799505,
+     "nome": "Michael Opoku",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "3-4-3",
+   "titulares": [
+    {
+     "id": 793867,
+     "nome": "Emil Odegaard",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1162162,
+     "nome": "Håkon Røsten",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 981269,
+     "nome": "Fredrik Tobias Berglie",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1020277,
+     "nome": "Brage Skaret",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 1021593,
+     "nome": "Hakon Helland Hoseth",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 841385,
+     "nome": "Martin Tangen Vinjor",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 900096,
+     "nome": "Eirik Franke Saunes",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 1471771,
+     "nome": "Jonas Lange Hjorth",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1486451,
+     "nome": "Ola Visted",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 1121293,
+     "nome": "Bjorn Martin Kristensen",
+     "pos": "F",
+     "camisa": 22
+    },
+    {
+     "id": 900079,
+     "nome": "Bilal Njie",
+     "pos": "F",
+     "camisa": 10
+    }
+   ],
+   "banco": [
+    {
+     "id": 313700,
+     "nome": "Havar Jensen",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 980454,
+     "nome": "Sander Hansen Sjøkvist",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 19221,
+     "nome": "Amin Nouri",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 1200864,
+     "nome": "Jacob Blixt Flaten",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 1585992,
+     "nome": "Brage Tobiassen",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1145254,
+     "nome": "Julian Bakkeli Gonstad",
+     "pos": "F",
+     "camisa": 17
+    },
+    {
+     "id": 1200592,
+     "nome": "Rasmus Eggen Vinge",
+     "pos": "F",
+     "camisa": 18
+    },
+    {
+     "id": 100744,
+     "nome": "Magnus Wolff Eikrem",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 894198,
+     "nome": "David Hickson Gyedu",
+     "pos": "F",
+     "camisa": 42
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1487023,
+     "nome": "Daniel Schneider",
+     "situacao": "fora",
+     "motivo": "seleção"
+    },
+    {
+     "id": 894194,
+     "nome": "Ayoub Aleesami",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 242881,
+     "nome": "Robin Rasch",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 841619,
+     "nome": "Tore Andre Soras",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-18T16:00:16.093Z",
   "casa": {

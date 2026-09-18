@@ -378,7 +378,304 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-18T16:15:36.016Z",
+  "minutosAntesDoJogo": 44,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 236746,
+     "nome": "Andreas Gianniotis",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 155998,
+     "nome": "Cláudio Winck",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 962404,
+     "nome": "Kevin Mouanga",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 1005347,
+     "nome": "Matei Ilie",
+     "pos": "D",
+     "camisa": 27
+    },
+    {
+     "id": 1133228,
+     "nome": "Jakob Jessen",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1625623,
+     "nome": "Elson Mendes",
+     "pos": "M",
+     "camisa": 51
+    },
+    {
+     "id": 142619,
+     "nome": "Kerem Demirbay",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 826162,
+     "nome": "Güven Yalçın",
+     "pos": "M",
+     "camisa": 50
+    },
+    {
+     "id": 1145731,
+     "nome": "Marcus Rafferty",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 910091,
+     "nome": "Ali Yavuz Kol",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 928295,
+     "nome": "Adrian Benedyczak",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 840297,
+     "nome": "Ali Emre Yanar",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 1395701,
+     "nome": "Ayberk Karapo",
+     "pos": "D",
+     "camisa": 45
+    },
+    {
+     "id": 2430362,
+     "nome": "Ahmet Taha Dağbaşı",
+     "pos": "D",
+     "camisa": 30
+    },
+    {
+     "id": 2018238,
+     "nome": "Adem Arous",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 2010104,
+     "nome": "Emirhan Boz",
+     "pos": "M",
+     "camisa": 66
+    },
+    {
+     "id": 254979,
+     "nome": "Haris Hajradinović",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1427156,
+     "nome": "Thiemoko Diarra",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 1134704,
+     "nome": "Atakan Mujde",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 2287517,
+     "nome": "Muhammed Bektaş",
+     "pos": "F",
+     "camisa": 99
+    },
+    {
+     "id": 2010186,
+     "nome": "Mecit Deniz",
+     "pos": "F",
+     "camisa": 35
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 124728,
+     "nome": "Kamil Ahmet Çörekçi",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 919225,
+     "nome": "Mortadha Ben Ouanes",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 932856,
+     "nome": "Andri Fannar Baldursson",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 807289,
+     "nome": "Bahadır Han Güngördü",
+     "pos": "G",
+     "camisa": 13
+    },
+    {
+     "id": 904303,
+     "nome": "Uğurcan Yazğılı",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 929739,
+     "nome": "Rayyan Baniya",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 787949,
+     "nome": "Adil Demirbağ",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 174975,
+     "nome": "Arthur Masuaku",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 1434416,
+     "nome": "Rajmund Tóth",
+     "pos": "M",
+     "camisa": 66
+    },
+    {
+     "id": 310068,
+     "nome": "Marko Jevtović",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 252207,
+     "nome": "Deniz Türüç",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 357746,
+     "nome": "Diogo Gonçalves",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 998462,
+     "nome": "Melih İbrahimoğlu",
+     "pos": "M",
+     "camisa": 77
+    },
+    {
+     "id": 927649,
+     "nome": "Jackson Muleka",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "banco": [
+    {
+     "id": 1195772,
+     "nome": "Deniz Ertaş",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 804764,
+     "nome": "Chidozie Awaziem",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 603902,
+     "nome": "Ahmet Oğuz",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1138095,
+     "nome": "Arif Boşluk",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 355024,
+     "nome": "Enis Bardhi",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1148996,
+     "nome": "Emir Bars",
+     "pos": "F",
+     "camisa": 45
+    },
+    {
+     "id": 2486668,
+     "nome": "Omer Cobanoglu",
+     "pos": "M",
+     "camisa": 25
+    },
+    {
+     "id": 873551,
+     "nome": "Mostafa Mohamed",
+     "pos": "F",
+     "camisa": 42
+    },
+    {
+     "id": 928106,
+     "nome": "Ebrima Colley",
+     "pos": "F",
+     "camisa": 19
+    },
+    {
+     "id": 789192,
+     "nome": "Jean-Luc Dompé",
+     "pos": "F",
+     "camisa": 91
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1149209,
+     "nome": "Mücahit Ibrahimoglu",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-18T16:00:17.675Z",
   "casa": {
