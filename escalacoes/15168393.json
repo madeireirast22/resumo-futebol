@@ -378,5 +378,191 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-18T22:01:48.526Z",
+  "casa": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 973436,
+     "nome": "Matthew Freese",
+     "pos": "G",
+     "camisa": 49
+    },
+    {
+     "id": 1002365,
+     "nome": "Tayvon Gray",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 551568,
+     "nome": "Thiago Martins",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 885892,
+     "nome": "James Sands",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 2053193,
+     "nome": "Nico Cavallo",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1468393,
+     "nome": "Jonathan Shore",
+     "pos": "M",
+     "camisa": 32
+    },
+    {
+     "id": 962411,
+     "nome": "Nicolás Fernández",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 887154,
+     "nome": "Andrés Perea",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1191921,
+     "nome": "Agustin Ojeda",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 1597267,
+     "nome": "Luighi Hanri",
+     "pos": "F",
+     "camisa": 20
+    },
+    {
+     "id": 832411,
+     "nome": "Hannes Wolf",
+     "pos": "M",
+     "camisa": 17
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1515403,
+     "nome": "Andrew Baiera",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 2245459,
+     "nome": "Arnau  Farnos",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 991364,
+     "nome": "Kai Trewin",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 845780,
+     "nome": "Keaton Parks",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 48472,
+     "nome": "Maxi Moralez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 985860,
+     "nome": "Talles Magno",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 343013,
+     "nome": "Ethan Horvath",
+     "pos": "G",
+     "camisa": 34
+    },
+    {
+     "id": 1017957,
+     "nome": "Dylan Nealis",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 1046097,
+     "nome": "Justin Che",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1485232,
+     "nome": "Julián Bazán",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 1190740,
+     "nome": "Devin Padelford",
+     "pos": "D",
+     "camisa": 59
+    },
+    {
+     "id": 1802297,
+     "nome": "Mohammed Sofo",
+     "pos": "F",
+     "camisa": 37
+    },
+    {
+     "id": 996930,
+     "nome": "David Ruiz Montero",
+     "pos": "D",
+     "camisa": 8
+    },
+    {
+     "id": 51785,
+     "nome": "Emil Forsberg",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 974792,
+     "nome": "Cade Cowell",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 21626,
+     "nome": "Eric Maxim Choupo-Moting",
+     "pos": "F",
+     "camisa": 13
+    },
+    {
+     "id": 2074788,
+     "nome": "Dennis Nelich",
+     "pos": "F",
+     "camisa": 92
+    }
+   ],
+   "banco": [],
+   "desfalques": []
+  }
+ }
 }
