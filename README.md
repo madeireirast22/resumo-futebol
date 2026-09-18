@@ -53,6 +53,29 @@ não é Champions no sentido que interessa. Use a temporada anterior.
   sem o turno.
 - Não há jogos futuros nem odds.
 
+## Scout por jogador
+
+Dois níveis, listados em `indice.json` → `scout[]`:
+
+- `scout-<liga>-<ano>.json` (60 a 140 KB) — o **ranking** da competição,
+  só quem passa do piso de minutos (`pisoDeMinutos`). Por jogador: chutes
+  e no gol (HT/FT e por 90), xG, **gols, gols no 1º tempo, assistências,
+  cartões amarelos (FT e HT), vermelhos**, desarmes, faltas, faltas
+  sofridas, defesas, posição.
+- `scout-times/<liga>-<ano>/<time>.json` (10 a 60 KB) — **o elenco inteiro
+  de um time, sem piso**, com os mesmos totais, **separados por casa/fora**,
+  por-90 já calculado, e os **últimos 5 jogos de cada jogador** (chutes,
+  no gol, gol, assistência, cartão, desarme, falta, minutos, adversário,
+  mando). O `<time>` é o mesmo apelido de `times/`: pegue em
+  `indice.json` → `competicoes[].times`.
+
+Para projetar um jogador num jogo: arquivo do time dele. Para achar quem
+mais chuta na liga: o ranking. Cada arquivo traz `legenda` com os campos.
+
+`cartoes: false` (Dinamarca, Noruega, Suécia) = a base não tem cartão ali,
+e `car` vem `null`. Em toda outra competição, inclusive Libertadores e
+Sul-Americana, `car` é o número real.
+
 ## Próximos jogos e escalações
 
 - `proximos.json` (~40 KB) — os jogos dos **próximos 7 dias** em todas as

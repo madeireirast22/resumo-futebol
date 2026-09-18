@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-18T12:58:51.796Z",
+ "gerado": "2026-09-18T13:02:19.159Z",
  "competicoes": [
   {
    "chave": "argentina-2026",
@@ -1606,172 +1606,240 @@
   {
    "competicao": "argentina-2026",
    "arquivo": "scout-argentina-2026.json",
-   "jogadores": 681
+   "jogadores": 460,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/argentina-2026/"
   },
   {
    "competicao": "brasileirao-a-2025",
    "arquivo": "scout-brasileirao-a-2025.json",
-   "jogadores": 565
+   "jogadores": 492,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/brasileirao-a-2025/"
   },
   {
    "competicao": "brasileirao-a-2026",
    "arquivo": "scout-brasileirao-a-2026.json",
-   "jogadores": 481
+   "jogadores": 481,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/brasileirao-a-2026/"
   },
   {
    "competicao": "brasileirao-b-2026",
    "arquivo": "scout-brasileirao-b-2026.json",
-   "jogadores": 498
+   "jogadores": 476,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/brasileirao-b-2026/"
   },
   {
    "competicao": "bundesliga-2025",
    "arquivo": "scout-bundesliga-2025.json",
-   "jogadores": 391
+   "jogadores": 391,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/bundesliga-2025/"
   },
   {
    "competicao": "bundesliga-2026",
    "arquivo": "scout-bundesliga-2026.json",
-   "jogadores": 221
+   "jogadores": 221,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/bundesliga-2026/"
   },
   {
    "competicao": "champions-2025",
    "arquivo": "scout-champions-2025.json",
-   "jogadores": 619
+   "jogadores": 458,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/champions-2025/"
   },
   {
    "competicao": "champions-2026",
    "arquivo": "scout-champions-2026.json",
-   "jogadores": 109
+   "jogadores": 109,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/champions-2026/"
   },
   {
    "competicao": "championship-2026",
    "arquivo": "scout-championship-2026.json",
-   "jogadores": 275
+   "jogadores": 275,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/championship-2026/"
   },
   {
    "competicao": "copa-do-brasil-2025",
    "arquivo": "scout-copa-do-brasil-2025.json",
-   "jogadores": 150
+   "jogadores": 150,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/copa-do-brasil-2025/"
   },
   {
    "competicao": "copa-do-brasil-2026",
    "arquivo": "scout-copa-do-brasil-2026.json",
-   "jogadores": 206
+   "jogadores": 206,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/copa-do-brasil-2026/"
   },
   {
    "competicao": "dinamarca-2026",
    "arquivo": "scout-dinamarca-2026.json",
-   "jogadores": 159
+   "jogadores": 159,
+   "cartoes": false,
+   "pastaDoScoutPorTime": "scout-times/dinamarca-2026/"
   },
   {
    "competicao": "eredivisie-2025",
    "arquivo": "scout-eredivisie-2025.json",
-   "jogadores": 417
+   "jogadores": 417,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/eredivisie-2025/"
   },
   {
    "competicao": "eredivisie-2026",
    "arquivo": "scout-eredivisie-2026.json",
-   "jogadores": 220
+   "jogadores": 220,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/eredivisie-2026/"
   },
   {
    "competicao": "europa-2025",
    "arquivo": "scout-europa-2025.json",
-   "jogadores": 582
+   "jogadores": 444,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/europa-2025/"
   },
   {
    "competicao": "laliga-2025",
    "arquivo": "scout-laliga-2025.json",
-   "jogadores": 462
+   "jogadores": 462,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/laliga-2025/"
   },
   {
    "competicao": "laliga-2026",
    "arquivo": "scout-laliga-2026.json",
-   "jogadores": 249
+   "jogadores": 249,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/laliga-2026/"
   },
   {
    "competicao": "libertadores-2025",
    "arquivo": "scout-libertadores-2025.json",
-   "jogadores": 473
+   "jogadores": 473,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/libertadores-2025/"
   },
   {
    "competicao": "libertadores-2026",
    "arquivo": "scout-libertadores-2026.json",
-   "jogadores": 465
+   "jogadores": 465,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/libertadores-2026/"
   },
   {
    "competicao": "ligue1-2025",
    "arquivo": "scout-ligue1-2025.json",
-   "jogadores": 416
+   "jogadores": 416,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/ligue1-2025/"
   },
   {
    "competicao": "ligue1-2026",
    "arquivo": "scout-ligue1-2026.json",
-   "jogadores": 225
+   "jogadores": 225,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/ligue1-2026/"
   },
   {
    "competicao": "mexico-2026",
    "arquivo": "scout-mexico-2026.json",
-   "jogadores": 223
+   "jogadores": 223,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/mexico-2026/"
   },
   {
    "competicao": "mls-2025",
    "arquivo": "scout-mls-2025.json",
-   "jogadores": 683
+   "jogadores": 471,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/mls-2025/"
   },
   {
    "competicao": "mls-2026",
    "arquivo": "scout-mls-2026.json",
-   "jogadores": 615
+   "jogadores": 475,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/mls-2026/"
   },
   {
    "competicao": "noruega-2026",
    "arquivo": "scout-noruega-2026.json",
-   "jogadores": 307
+   "jogadores": 307,
+   "cartoes": false,
+   "pastaDoScoutPorTime": "scout-times/noruega-2026/"
   },
   {
    "competicao": "portugal-2026",
    "arquivo": "scout-portugal-2026.json",
-   "jogadores": 210
+   "jogadores": 210,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/portugal-2026/"
   },
   {
    "competicao": "premier-2025",
    "arquivo": "scout-premier-2025.json",
-   "jogadores": 432
+   "jogadores": 432,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/premier-2025/"
   },
   {
    "competicao": "premier-2026",
    "arquivo": "scout-premier-2026.json",
-   "jogadores": 246
+   "jogadores": 246,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/premier-2026/"
   },
   {
    "competicao": "seriea-2025",
    "arquivo": "scout-seriea-2025.json",
-   "jogadores": 464
+   "jogadores": 464,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/seriea-2025/"
   },
   {
    "competicao": "seriea-2026",
    "arquivo": "scout-seriea-2026.json",
-   "jogadores": 243
+   "jogadores": 243,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/seriea-2026/"
   },
   {
    "competicao": "suecia-2026",
    "arquivo": "scout-suecia-2026.json",
-   "jogadores": 301
+   "jogadores": 301,
+   "cartoes": false,
+   "pastaDoScoutPorTime": "scout-times/suecia-2026/"
   },
   {
    "competicao": "sul-americana-2025",
    "arquivo": "scout-sul-americana-2025.json",
-   "jogadores": 455
+   "jogadores": 455,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/sul-americana-2025/"
   },
   {
    "competicao": "sul-americana-2026",
    "arquivo": "scout-sul-americana-2026.json",
-   "jogadores": 459
+   "jogadores": 459,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/sul-americana-2026/"
   },
   {
    "competicao": "turquia-2026",
    "arquivo": "scout-turquia-2026.json",
-   "jogadores": 225
+   "jogadores": 225,
+   "cartoes": true,
+   "pastaDoScoutPorTime": "scout-times/turquia-2026/"
   }
  ]
 }
