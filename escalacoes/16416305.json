@@ -378,7 +378,340 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-19T11:00:26.065Z",
+  "minutosAntesDoJogo": 60,
+  "casa": {
+   "formacao": "4-5-1",
+   "titulares": [
+    {
+     "id": 99516,
+     "nome": "Aitor Fernández",
+     "pos": "G",
+     "camisa": 13
+    },
+    {
+     "id": 1495856,
+     "nome": "Iñigo Arguibide",
+     "pos": "D",
+     "camisa": 27
+    },
+    {
+     "id": 900792,
+     "nome": "Alejandro Catena",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 1917864,
+     "nome": "Unai Santos",
+     "pos": "D",
+     "camisa": 35
+    },
+    {
+     "id": 350560,
+     "nome": "Diego Rico",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 260031,
+     "nome": "Rubén García",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 976141,
+     "nome": "Jon Moncayola",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1119586,
+     "nome": "Iker Muñoz",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1399702,
+     "nome": "Asier Osambela",
+     "pos": "M",
+     "camisa": 29
+    },
+    {
+     "id": 591132,
+     "nome": "Kike Barja",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 37318,
+     "nome": "Ante Budimir",
+     "pos": "F",
+     "camisa": 17
+    }
+   ],
+   "banco": [
+    {
+     "id": 294377,
+     "nome": "Sergio Herrera",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 2030379,
+     "nome": "Rafa Fernandez",
+     "pos": "G",
+     "camisa": 31
+    },
+    {
+     "id": 1067582,
+     "nome": "Enzo Boyomo",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1010165,
+     "nome": "Abel Bretones",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 1507914,
+     "nome": "Rockson Yeboah",
+     "pos": "D",
+     "camisa": 48
+    },
+    {
+     "id": 825681,
+     "nome": "Romain Del Castillo",
+     "pos": "F",
+     "camisa": 20
+    },
+    {
+     "id": 980383,
+     "nome": "Raúl Moro",
+     "pos": "F",
+     "camisa": 18
+    },
+    {
+     "id": 1094517,
+     "nome": "Jonathan Dubasin",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 1512107,
+     "nome": "Mauro Echegoyen",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 187313,
+     "nome": "Lucas Torró",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 997280,
+     "nome": "Raúl García de Haro",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 1917868,
+     "nome": "Asier Bonel",
+     "pos": "F",
+     "camisa": 30
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 985329,
+     "nome": "Aimar Oroz",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 944225,
+     "nome": "Jorge Herrando",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 149370,
+     "nome": "Moi Gómez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 318603,
+     "nome": "Emil Audero",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 965031,
+     "nome": "Andrei Rațiu",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 935309,
+     "nome": "Mujaid Sadick",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 88528,
+     "nome": "Florian Lejeune",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 928672,
+     "nome": "Adrià Pedrosa",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 900008,
+     "nome": "Óscar Valentín",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 913679,
+     "nome": "Pathé Ismaël Ciss",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 588566,
+     "nome": "Unai López",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 900003,
+     "nome": "Jorge de Frutos",
+     "pos": "F",
+     "camisa": 19
+    },
+    {
+     "id": 910024,
+     "nome": "Sergio Camello",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 345111,
+     "nome": "Álvaro García",
+     "pos": "F",
+     "camisa": 18
+    }
+   ],
+   "banco": [
+    {
+     "id": 965832,
+     "nome": "Dani Cárdenas",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1893146,
+     "nome": "Marco de las Sias",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 1139724,
+     "nome": "Pelayo Fernández",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 893642,
+     "nome": "Marash Kumbulla",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 152446,
+     "nome": "Iván Balliu",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 1179148,
+     "nome": "Rayane Belaid",
+     "pos": "F",
+     "camisa": 37
+    },
+    {
+     "id": 966637,
+     "nome": "Fran Pérez",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 875677,
+     "nome": "Giorgi Tsitaishvili",
+     "pos": "F",
+     "camisa": 14
+    },
+    {
+     "id": 900669,
+     "nome": "Pedro Díaz",
+     "pos": "M",
+     "camisa": 4
+    },
+    {
+     "id": 2038238,
+     "nome": "Gnangoro Bouaré",
+     "pos": "M",
+     "camisa": 36
+    },
+    {
+     "id": 981604,
+     "nome": "Alemão",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 358910,
+     "nome": "Augusto Batalla",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1120947,
+     "nome": "Jozhua Vertrouwd",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 850035,
+     "nome": "Luiz Felipe",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 932764,
+     "nome": "Randy Nteka",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-19T10:45:29.117Z",
   "casa": {
