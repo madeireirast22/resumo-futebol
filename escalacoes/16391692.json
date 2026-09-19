@@ -378,5 +378,228 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-19T10:00:16.004Z",
+  "casa": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 561430,
+     "nome": "Viktor Johansson",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 862796,
+     "nome": "Ben Wilmot",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 990355,
+     "nome": "Maksym Talovierov",
+     "pos": "D",
+     "camisa": 40
+    },
+    {
+     "id": 1502260,
+     "nome": "Luke Graham",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 914412,
+     "nome": "Ben Johnson",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1394929,
+     "nome": "Djibril Soumaré",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 158661,
+     "nome": "Ethan Galbraith",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1017684,
+     "nome": "Eric Bocat",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 1025196,
+     "nome": "Jack McGlynn",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1119480,
+     "nome": "Lamine Cissé",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 1084311,
+     "nome": "Justin Devenny",
+     "pos": "M",
+     "camisa": 13
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 43443,
+     "nome": "Aaron Cresswell",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1403042,
+     "nome": "Ato Ampah",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1093070,
+     "nome": "Junior Tchamadeu",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 801483,
+     "nome": "Svante Ingelsson",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1005710,
+     "nome": "Bosun Lawal",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    },
+    {
+     "id": 362704,
+     "nome": "Sam Gallagher",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "3-4-3",
+   "titulares": [
+    {
+     "id": 896209,
+     "nome": "Michael Cooper",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 836693,
+     "nome": "Japhet Tanganga",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 988343,
+     "nome": "Mark McGuinness",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 921006,
+     "nome": "Liam Kitching",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 833057,
+     "nome": "Hamza Choudhury",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1391824,
+     "nome": "Sydie Peck",
+     "pos": "M",
+     "camisa": 42
+    },
+    {
+     "id": 786028,
+     "nome": "Kalvin Phillips",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 911708,
+     "nome": "Rhys Norrington-Davies",
+     "pos": "D",
+     "camisa": 30
+    },
+    {
+     "id": 1586020,
+     "nome": "Romelle Donovan",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 867583,
+     "nome": "Ben Brereton Díaz",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 204336,
+     "nome": "Patrick Bamford",
+     "pos": "F",
+     "camisa": 45
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 966458,
+     "nome": "Femi Seriki",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 897565,
+     "nome": "Harrison Burrows",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1389768,
+     "nome": "Ryan One",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 952461,
+     "nome": "Sam McCallum",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 825845,
+     "nome": "Tahith Chong",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 826145,
+     "nome": "Tyrese Campbell",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
