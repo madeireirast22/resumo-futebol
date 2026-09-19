@@ -378,7 +378,340 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-19T10:30:23.818Z",
+  "minutosAntesDoJogo": 60,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1031251,
+     "nome": "Antonín Kinský",
+     "pos": "G",
+     "camisa": 31
+    },
+    {
+     "id": 913654,
+     "nome": "Pedro Porro",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 962012,
+     "nome": "Jan Paul van Hecke",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 998247,
+     "nome": "Micky van de Ven",
+     "pos": "D",
+     "camisa": 37
+    },
+    {
+     "id": 262911,
+     "nome": "Andy Robertson",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 791190,
+     "nome": "Rodrigo Bentancur",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 892673,
+     "nome": "Sandro Tonali",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1046795,
+     "nome": "Sávio",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 1142562,
+     "nome": "Mateus Fernandes",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 873554,
+     "nome": "Omar Marmoush",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 361420,
+     "nome": "Dominic Solanke",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "banco": [
+    {
+     "id": 42209,
+     "nome": "Martin Dúbravka",
+     "pos": "G",
+     "camisa": 39
+    },
+    {
+     "id": 352668,
+     "nome": "Tosin Adarabioyo",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 830659,
+     "nome": "Marcos Senesi",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 983572,
+     "nome": "Destiny Udogie",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 904970,
+     "nome": "Conor Gallagher",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 356398,
+     "nome": "James Maddison",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1142335,
+     "nome": "Archie Gray",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 1391251,
+     "nome": "Lucas Bergvall",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 905163,
+     "nome": "Mohammed Kudus",
+     "pos": "M",
+     "camisa": 20
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 840217,
+     "nome": "Richarlison",
+     "situacao": "fora",
+     "motivo": "código 4"
+    },
+    {
+     "id": 958966,
+     "nome": "Mykhailo Mudryk",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1142679,
+     "nome": "Wilson Odobert",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 997183,
+     "nome": "Xavi Simons",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 913654,
+     "nome": "Pedro Porro",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    },
+    {
+     "id": 892673,
+     "nome": "Sandro Tonali",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 905351,
+     "nome": "Zion Suzuki",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 863653,
+     "nome": "Aaron Wan-Bissaka",
+     "pos": "D",
+     "camisa": 29
+    },
+    {
+     "id": 143334,
+     "nome": "Victor Lindelöf",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 303638,
+     "nome": "Tyrone Mings",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 965011,
+     "nome": "Matteo Ruggeri",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 826204,
+     "nome": "Boubacar Kamara",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1015267,
+     "nome": "João Gomes",
+     "pos": "M",
+     "camisa": 35
+    },
+    {
+     "id": 250223,
+     "nome": "John McGinn",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 783126,
+     "nome": "Emiliano Buendía",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1518931,
+     "nome": "Johan Manzambi",
+     "pos": "M",
+     "camisa": 44
+    },
+    {
+     "id": 1085381,
+     "nome": "Nicolas Jackson",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "banco": [
+    {
+     "id": 1138445,
+     "nome": "James Wright",
+     "pos": "G",
+     "camisa": 42
+    },
+    {
+     "id": 833956,
+     "nome": "Matty Cash",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 980637,
+     "nome": "Taylor Harwood-Bellis",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 98435,
+     "nome": "Ross Barkley",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 1089388,
+     "nome": "Lamare Bogarde",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 1398204,
+     "nome": "George Hemmings",
+     "pos": "M",
+     "camisa": 53
+    },
+    {
+     "id": 1135873,
+     "nome": "Alejandro Garnacho",
+     "pos": "F",
+     "camisa": 17
+    },
+    {
+     "id": 610766,
+     "nome": "Tammy Abraham",
+     "pos": "F",
+     "camisa": 18
+    },
+    {
+     "id": 1590918,
+     "nome": "Ibrahim Mbaye",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 923973,
+     "nome": "Amadou Onana",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 2070311,
+     "nome": "Brian Madjo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 976263,
+     "nome": "Ian Maatsen",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 184661,
+     "nome": "Leon Goretzka",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 864169,
+     "nome": "Pau Torres",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 100390,
+     "nome": "Marco Bizot",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-19T10:15:20.527Z",
   "casa": {

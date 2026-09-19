@@ -369,7 +369,322 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-19T10:30:22.095Z",
+  "minutosAntesDoJogo": 60,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 885907,
+     "nome": "Nathan Trott",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 582190,
+     "nome": "Perry Ng",
+     "pos": "D",
+     "camisa": 38
+    },
+    {
+     "id": 573812,
+     "nome": "Krystian Bielik",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 920680,
+     "nome": "Gabriel Osho",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1018684,
+     "nome": "Joel Bagan",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1067119,
+     "nome": "Alex Robertson",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1388529,
+     "nome": "Joel Colwill",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1002190,
+     "nome": "Ollie Tanner",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 999227,
+     "nome": "Jack Moylan",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 356334,
+     "nome": "Chris Willock",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1082336,
+     "nome": "Yousef Salech",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 993438,
+     "nome": "Harry Tyrer",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 1424648,
+     "nome": "Ronan Kpakio",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 1424627,
+     "nome": "Dylan Lawlor",
+     "pos": "D",
+     "camisa": 48
+    },
+    {
+     "id": 1188167,
+     "nome": "Calum Scanlon",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 2334654,
+     "nome": "Paul Moreno",
+     "pos": "M",
+     "camisa": 43
+    },
+    {
+     "id": 2077081,
+     "nome": "Rob Tankiewicz",
+     "pos": "M",
+     "camisa": 33
+    },
+    {
+     "id": 1084268,
+     "nome": "David Turnbull",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 1520800,
+     "nome": "Cian Ashford",
+     "pos": "F",
+     "camisa": 45
+    },
+    {
+     "id": 190851,
+     "nome": "Callum Robinson",
+     "pos": "F",
+     "camisa": 47
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 227942,
+     "nome": "Calum Chambers",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1005908,
+     "nome": "Isaak Davies",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1101169,
+     "nome": "Rubin Colwill",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 966654,
+     "nome": "William Fish",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1109561,
+     "nome": "Arthur Okonkwo",
+     "pos": "G",
+     "camisa": 13
+    },
+    {
+     "id": 995670,
+     "nome": "Danny McNamara",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 1096460,
+     "nome": "Lloyd Jones",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1514870,
+     "nome": "Tyler Bindon",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 918484,
+     "nome": "Ivan Mesík",
+     "pos": "D",
+     "camisa": 18
+    },
+    {
+     "id": 931257,
+     "nome": "Conor Coventry",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 859901,
+     "nome": "Oliver Skipp",
+     "pos": "M",
+     "camisa": 34
+    },
+    {
+     "id": 1386414,
+     "nome": "Millenic Alli",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 609596,
+     "nome": "Karlan Grant",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 1186345,
+     "nome": "Tyreece Campbell",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1391785,
+     "nome": "Miles Leaburn",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "banco": [
+    {
+     "id": 1131881,
+     "nome": "Tiernan Brooks",
+     "pos": "G",
+     "camisa": 21
+    },
+    {
+     "id": 926762,
+     "nome": "Josh Edwards",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 369674,
+     "nome": "Amari'i Bell",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 2457871,
+     "nome": "Junior Nkeng",
+     "pos": "F",
+     "camisa": 35
+    },
+    {
+     "id": 1159176,
+     "nome": "Timothy Ouma",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 886651,
+     "nome": "Harvey Knibbs",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 905789,
+     "nome": "Joe Rankin-Costello",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 1020336,
+     "nome": "Sonny Carey",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 964422,
+     "nome": "Charlie Kelman",
+     "pos": "F",
+     "camisa": 23
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1003679,
+     "nome": "Billy Koumetio",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1198768,
+     "nome": "Collins Sichenje",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 967457,
+     "nome": "Kayne Ramsay",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 73409,
+     "nome": "Matt Godden",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 848457,
+     "nome": "William Mannion",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-19T10:15:18.983Z",
   "casa": {
