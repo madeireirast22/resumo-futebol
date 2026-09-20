@@ -378,7 +378,352 @@
    }
   ]
  },
- "confirmada": null,
+ "confirmada": {
+  "obtidaEm": "2026-09-20T19:45:11.235Z",
+  "minutosAntesDoJogo": 15,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 874969,
+     "nome": "Juan Cozzani",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 993929,
+     "nome": "Agustín Lagos",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 883922,
+     "nome": "Ignacio Vazquez",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 587148,
+     "nome": "Víctor Cuesta",
+     "pos": "D",
+     "camisa": 31
+    },
+    {
+     "id": 2186558,
+     "nome": "Celías Ingenthron",
+     "pos": "D",
+     "camisa": 38
+    },
+    {
+     "id": 1210807,
+     "nome": "Pablo Ferreira",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 930196,
+     "nome": "Martín Barrios",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 895232,
+     "nome": "Guido Mainero",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 830722,
+     "nome": "Bautista Merlini",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1190103,
+     "nome": "Nicolás Retamar",
+     "pos": "M",
+     "camisa": 43
+    },
+    {
+     "id": 981451,
+     "nome": "Bruno Sepúlveda",
+     "pos": "F",
+     "camisa": 79
+    }
+   ],
+   "banco": [
+    {
+     "id": 1087017,
+     "nome": "Nicolás Sumavil",
+     "pos": "G",
+     "camisa": 22
+    },
+    {
+     "id": 1104325,
+     "nome": "Juan Ignacio Saborido",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 1537927,
+     "nome": "Mateo Mendia",
+     "pos": "D",
+     "camisa": 34
+    },
+    {
+     "id": 1654532,
+     "nome": "Tomás Ariel Silva",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 849136,
+     "nome": "Ivan Gómez",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 1187883,
+     "nome": "Maximiliano Amarfil",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 868361,
+     "nome": "Gastón Togni",
+     "pos": "F",
+     "camisa": 16
+    },
+    {
+     "id": 1212545,
+     "nome": "Franco Zapiola",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1018426,
+     "nome": "Juan Gauto",
+     "pos": "F",
+     "camisa": 33
+    },
+    {
+     "id": 974691,
+     "nome": "Gonzalo Lencina",
+     "pos": "F",
+     "camisa": 99
+    },
+    {
+     "id": 824456,
+     "nome": "Augusto Lotti",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 255881,
+     "nome": "Nico López",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 871805,
+     "nome": "Gonzalo Goñi",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1138071,
+     "nome": "Héctor Bobadilla",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1182435,
+     "nome": "Luciano Giménez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1464535,
+     "nome": "Santiago Quiros",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1485097,
+     "nome": "Josué Reinatti",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 1020498,
+     "nome": "Martín Ortega",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 233856,
+     "nome": "Lautaro Giannetti",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 871798,
+     "nome": "Lucas Carrizo",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1485095,
+     "nome": "Jeronimo Russo",
+     "pos": "D",
+     "camisa": 28
+    },
+    {
+     "id": 1067815,
+     "nome": "Rodrigo Herrera",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 2017667,
+     "nome": "Luca Regiardo",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 861339,
+     "nome": "Walter Mazzantti",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 2054539,
+     "nome": "Facundo Guch",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 1104323,
+     "nome": "Santiago Solari",
+     "pos": "M",
+     "camisa": 32
+    },
+    {
+     "id": 903286,
+     "nome": "Matías Cóccaro",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 581782,
+     "nome": "Gabriel Arias",
+     "pos": "G",
+     "camisa": 21
+    },
+    {
+     "id": 992226,
+     "nome": "Óscar Salomón",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1092313,
+     "nome": "Bruno Cabrera",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 1114869,
+     "nome": "Martín Luciano",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1384966,
+     "nome": "Ian Glavinovich",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 985002,
+     "nome": "Alan Soñora",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 1485237,
+     "nome": "Lucas Gómez",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 2082133,
+     "nome": "Jerónimo Gómez Mattar",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 1218016,
+     "nome": "Walter Nuñez",
+     "pos": "F",
+     "camisa": 33
+    },
+    {
+     "id": 877630,
+     "nome": "Juan Ignacio Ramírez",
+     "pos": "F",
+     "camisa": 99
+    },
+    {
+     "id": 2073009,
+     "nome": "Francisco Scarpeccio",
+     "pos": "F",
+     "camisa": 36
+    },
+    {
+     "id": 2317412,
+     "nome": "Lautaro Rios",
+     "pos": "M",
+     "camisa": 39
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 922442,
+     "nome": "Alejo Montero",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 595300,
+     "nome": "Franco Escobar",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 846773,
+     "nome": "Mateo García",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1092353,
+     "nome": "Nicolás Goitea",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "prevista": {
   "obtidaEm": "2026-09-20T19:30:16.245Z",
   "casa": {
