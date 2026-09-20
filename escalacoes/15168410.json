@@ -11,6 +11,11 @@
  "provavelCasa": {
   "baseadoEm": [
    {
+    "data": "2026-09-12",
+    "adv": "Nashville SC",
+    "mando": "C"
+   },
+   {
     "data": "2026-09-10",
     "adv": "Chicago Fire",
     "mando": "F"
@@ -18,11 +23,6 @@
    {
     "data": "2026-09-06",
     "adv": "Atlanta United",
-    "mando": "C"
-   },
-   {
-    "data": "2026-08-29",
-    "adv": "CF Montréal",
     "mando": "C"
    }
   ],
@@ -42,8 +42,8 @@
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 4
+    "chHt": 1,
+    "chFt": 2
    },
    {
     "id": 249399,
@@ -52,7 +52,7 @@
     "min": 270,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 4
+    "chFt": 5
    },
    {
     "id": 1012476,
@@ -64,31 +64,22 @@
     "chFt": 0
    },
    {
-    "id": 822606,
-    "nome": "Germán Berterame",
-    "pos": "M",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 5,
-    "chFt": 9
-   },
-   {
     "id": 12994,
     "nome": "Lionel Messi",
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 13,
-    "chFt": 24
+    "chHt": 10,
+    "chFt": 23
    },
    {
-    "id": 1036290,
-    "nome": "Ian Fray",
-    "pos": "D",
-    "min": 266,
+    "id": 822606,
+    "nome": "Germán Berterame",
+    "pos": "F",
+    "min": 270,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
+    "chHt": 4,
+    "chFt": 8
    },
    {
     "id": 16943,
@@ -97,7 +88,25 @@
     "min": 264,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 5
+    "chFt": 3
+   },
+   {
+    "id": 2020022,
+    "nome": "Fricio Caicedo",
+    "pos": "D",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1036290,
+    "nome": "Ian Fray",
+    "pos": "D",
+    "min": 246,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
    },
    {
     "id": 805079,
@@ -112,36 +121,18 @@
     "id": 1106549,
     "nome": "Telasco Segovia",
     "pos": "M",
-    "min": 223,
+    "min": 213,
     "jogos": 3,
     "chHt": 0,
     "chFt": 1
-   },
-   {
-    "id": 2020022,
-    "nome": "Fricio Caicedo",
-    "pos": "D",
-    "min": 168,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
    }
   ],
   "banco": [
    {
-    "id": 1069642,
-    "nome": "Noah Allen",
-    "pos": "D",
-    "min": 86,
-    "jogos": 1,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
     "id": 974664,
     "nome": "Facundo Mura",
     "pos": "D",
-    "min": 68,
+    "min": 81,
     "jogos": 3,
     "chHt": 0,
     "chFt": 0
@@ -150,25 +141,25 @@
     "id": 2187895,
     "nome": "Alexander Shaw",
     "pos": "M",
-    "min": 47,
-    "jogos": 3,
+    "min": 33,
+    "jogos": 2,
     "chHt": 0,
-    "chFt": 2
+    "chFt": 1
+   },
+   {
+    "id": 1105836,
+    "nome": "Matías Galarza",
+    "pos": "M",
+    "min": 24,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
    },
    {
     "id": 1893583,
     "nome": "Mateo Silvetti",
     "pos": "F",
     "min": 12,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1859977,
-    "nome": "Ezequiel Abadia-Reda",
-    "pos": "D",
-    "min": 11,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
@@ -187,6 +178,11 @@
  "provavelFora": {
   "baseadoEm": [
    {
+    "data": "2026-09-14",
+    "adv": "Philadelphia Union",
+    "mando": "C"
+   },
+   {
     "data": "2026-09-10",
     "adv": "San Jose Earthquakes",
     "mando": "C"
@@ -195,11 +191,6 @@
     "data": "2026-09-05",
     "adv": "Orlando City SC",
     "mando": "F"
-   },
-   {
-    "data": "2026-08-30",
-    "adv": "LA Galaxy",
-    "mando": "C"
    }
   ],
   "titulares": [
@@ -209,8 +200,8 @@
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 1
+    "chHt": 0,
+    "chFt": 0
    },
    {
     "id": 809280,
@@ -218,26 +209,17 @@
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 6,
-    "chFt": 10
-   },
-   {
-    "id": 906020,
-    "nome": "CJ Dos Santos",
-    "pos": "G",
-    "min": 260,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 0
+    "chHt": 4,
+    "chFt": 5
    },
    {
     "id": 945204,
     "nome": "Elias Achouri",
     "pos": "F",
-    "min": 247,
+    "min": 253,
     "jogos": 3,
-    "chHt": 5,
-    "chFt": 9
+    "chHt": 1,
+    "chFt": 7
    },
    {
     "id": 1469017,
@@ -245,26 +227,8 @@
     "pos": "D",
     "min": 242,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 877391,
-    "nome": "Onni Valakari",
-    "pos": "F",
-    "min": 234,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 156102,
-    "nome": "Aníbal Godoy",
-    "pos": "M",
-    "min": 225,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 3
+    "chHt": 0,
+    "chFt": 1
    },
    {
     "id": 1799676,
@@ -273,42 +237,49 @@
     "min": 225,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 2
+    "chFt": 1
    },
    {
-    "id": 1065962,
-    "nome": "Gabriel Pirani",
+    "id": 877391,
+    "nome": "Onni Valakari",
     "pos": "M",
-    "min": 185,
+    "min": 207,
     "jogos": 3,
     "chHt": 2,
-    "chFt": 3
-   },
-   {
-    "id": 881876,
-    "nome": "Christopher McVey",
-    "pos": "D",
-    "min": 141,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 0
+    "chFt": 2
    },
    {
     "id": 303602,
     "nome": "Jeppe Tverskov",
     "pos": "M",
-    "min": 140,
+    "min": 180,
     "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 906020,
+    "nome": "CJ Dos Santos",
+    "pos": "G",
+    "min": 170,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 156102,
+    "nome": "Aníbal Godoy",
+    "pos": "M",
+    "min": 165,
+    "jogos": 3,
     "chHt": 1,
-    "chFt": 1
-   }
-  ],
-  "banco": [
+    "chFt": 2
+   },
    {
     "id": 1025305,
     "nome": "Alejandro Alvarado Jr",
-    "pos": "F",
-    "min": 137,
+    "pos": "M",
+    "min": 159,
     "jogos": 3,
     "chHt": 0,
     "chFt": 0
@@ -317,26 +288,55 @@
     "id": 1172491,
     "nome": "Ian Murphy",
     "pos": "D",
-    "min": 129,
+    "min": 143,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 228336,
+    "nome": "Amahl Pellegrino",
+    "pos": "F",
+    "min": 134,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1065962,
+    "nome": "Gabriel Pirani",
+    "pos": "M",
+    "min": 133,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 881876,
+    "nome": "Christopher McVey",
+    "pos": "D",
+    "min": 118,
     "jogos": 2,
     "chHt": 0,
     "chFt": 0
    },
    {
-    "id": 228336,
-    "nome": "Amahl Pellegrino",
-    "pos": "F",
-    "min": 97,
-    "jogos": 3,
+    "id": 1190389,
+    "nome": "Duran Ferree",
+    "pos": "G",
+    "min": 98,
+    "jogos": 2,
     "chHt": 0,
-    "chFt": 3
+    "chFt": 0
    },
    {
     "id": 862550,
     "nome": "Dagur Dan Þórhallsson",
     "pos": "D",
-    "min": 73,
-    "jogos": 2,
+    "min": 82,
+    "jogos": 3,
     "chHt": 0,
     "chFt": 0
    },
@@ -344,30 +344,22 @@
     "id": 115665,
     "nome": "Cédric Bakambu",
     "pos": "F",
-    "min": 22,
-    "jogos": 1,
+    "min": 52,
+    "jogos": 2,
     "chHt": 0,
-    "chFt": 1
-   },
-   {
-    "id": 2043669,
-    "nome": "Ian Pilcher",
-    "pos": "D",
-    "min": 14,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
+    "chFt": 2
    },
    {
     "id": 1469013,
     "nome": "David Vazquez",
     "pos": "M",
-    "min": 11,
-    "jogos": 1,
+    "min": 41,
+    "jogos": 2,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 3
    }
   ]
  },
+ "prevista": null,
  "confirmada": null
 }

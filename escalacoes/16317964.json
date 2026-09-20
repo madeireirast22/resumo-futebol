@@ -11,40 +11,22 @@
  "provavelCasa": {
   "baseadoEm": [
    {
-    "data": "2026-08-31",
-    "adv": "FC Juárez",
+    "data": "2026-09-16",
+    "adv": "Club Puebla",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-12",
+    "adv": "Atlas FC",
     "mando": "C"
    },
    {
-    "data": "2026-08-22",
-    "adv": "Querétaro FC",
-    "mando": "F"
-   },
-   {
-    "data": "2026-08-15",
-    "adv": "Atlante FC",
-    "mando": "F"
+    "data": "2026-08-31",
+    "adv": "FC Juárez",
+    "mando": "C"
    }
   ],
   "titulares": [
-   {
-    "id": 1199256,
-    "nome": "Everardo López",
-    "pos": "D",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 1086987,
-    "nome": "Franco Romero",
-    "pos": "M",
-    "min": 250,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 2
-   },
    {
     "id": 982552,
     "nome": "Federico Pereira",
@@ -52,88 +34,41 @@
     "min": 225,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 976104,
-    "nome": "Federico Viñas",
-    "pos": "F",
-    "min": 200,
-    "jogos": 3,
-    "chHt": 4,
-    "chFt": 14
-   },
-   {
-    "id": 127485,
-    "nome": "Hugo Gonzalez",
-    "pos": "G",
-    "min": 195,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 920826,
-    "nome": "Jorge Díaz",
-    "pos": "F",
-    "min": 188,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 6
-   },
-   {
-    "id": 923000,
-    "nome": "Bruno Méndez",
-    "pos": "D",
-    "min": 175,
-    "jogos": 2,
-    "chHt": 1,
     "chFt": 1
    },
    {
-    "id": 906837,
-    "nome": "Helinho",
+    "id": 770253,
+    "nome": "Jesús Gallardo",
     "pos": "M",
-    "min": 173,
+    "min": 225,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 9
-   },
-   {
-    "id": 941181,
-    "nome": "Brian García",
-    "pos": "D",
-    "min": 135,
-    "jogos": 2,
-    "chHt": 0,
+    "chHt": 2,
     "chFt": 2
    },
    {
-    "id": 829624,
-    "nome": "Jesús Ricardo Angulo",
+    "id": 989877,
+    "nome": "Nicolás Castro",
     "pos": "M",
-    "min": 134,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 1
-   },
-   {
-    "id": 795275,
-    "nome": "Víctor Guzmán",
-    "pos": "M",
-    "min": 111,
+    "min": 207,
     "jogos": 3,
     "chHt": 1,
     "chFt": 3
-   }
-  ],
-  "banco": [
+   },
    {
-    "id": 250351,
-    "nome": "Luan",
+    "id": 1086987,
+    "nome": "Franco Romero",
+    "pos": "M",
+    "min": 205,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1199256,
+    "nome": "Everardo López",
     "pos": "D",
-    "min": 107,
-    "jogos": 2,
+    "min": 181,
+    "jogos": 3,
     "chHt": 1,
     "chFt": 1
    },
@@ -141,53 +76,118 @@
     "id": 869210,
     "nome": "Diego Barbosa",
     "pos": "D",
-    "min": 91,
+    "min": 180,
     "jogos": 2,
     "chHt": 1,
     "chFt": 2
    },
    {
-    "id": 2193603,
-    "nome": "Sebastian Aceves",
+    "id": 923000,
+    "nome": "Bruno Méndez",
     "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 906837,
+    "nome": "Helinho",
+    "pos": "F",
+    "min": 159,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 795275,
+    "nome": "Víctor Guzmán",
+    "pos": "M",
+    "min": 153,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 976104,
+    "nome": "Federico Viñas",
+    "pos": "M",
+    "min": 142,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 8
+   },
+   {
+    "id": 205790,
+    "nome": "Paulinho",
+    "pos": "F",
+    "min": 134,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 829624,
+    "nome": "Jesús Ricardo Angulo",
+    "pos": "M",
+    "min": 131,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 815637,
+    "nome": "Alexis Vega",
+    "pos": "M",
+    "min": 128,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 920826,
+    "nome": "Jorge Díaz",
+    "pos": "M",
+    "min": 121,
+    "jogos": 2,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 250351,
+    "nome": "Luan",
+    "pos": "D",
+    "min": 121,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 313184,
+    "nome": "Luis García",
+    "pos": "G",
     "min": 90,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
    {
-    "id": 815637,
-    "nome": "Alexis Vega",
-    "pos": "M",
+    "id": 1191401,
+    "nome": "Ronaldo Beltran",
+    "pos": "G",
     "min": 90,
-    "jogos": 2,
-    "chHt": 4,
-    "chFt": 4
-   },
-   {
-    "id": 989877,
-    "nome": "Nicolás Castro",
-    "pos": "M",
-    "min": 90,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 3
-   },
-   {
-    "id": 1215277,
-    "nome": "Oswaldo Virgen",
-    "pos": "F",
-    "min": 81,
     "jogos": 1,
-    "chHt": 5,
-    "chFt": 6
+    "chHt": 0,
+    "chFt": 0
    },
    {
-    "id": 818657,
-    "nome": "Fernando Arce Juárez",
-    "pos": "M",
-    "min": 81,
-    "jogos": 3,
+    "id": 127485,
+    "nome": "Hugo Gonzalez",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
     "chHt": 0,
     "chFt": 0
    }
@@ -195,6 +195,11 @@
  },
  "provavelFora": {
   "baseadoEm": [
+   {
+    "data": "2026-09-14",
+    "adv": "FC Juárez",
+    "mando": "C"
+   },
    {
     "data": "2026-09-06",
     "adv": "Cruz Azul",
@@ -204,11 +209,6 @@
     "data": "2026-08-30",
     "adv": "Tigres UANL",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-23",
-    "adv": "Club Puebla",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -222,22 +222,22 @@
     "chFt": 0
    },
    {
-    "id": 1025301,
-    "nome": "Mauricio Cuevas",
-    "pos": "D",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 1
-   },
-   {
     "id": 1467314,
     "nome": "Felipe Sánchez",
     "pos": "D",
     "min": 270,
     "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1025301,
+    "nome": "Mauricio Cuevas",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 1
    },
    {
     "id": 960077,
@@ -245,62 +245,53 @@
     "pos": "F",
     "min": 264,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 7
-   },
-   {
-    "id": 1022960,
-    "nome": "Aldo Lopez Vargas",
-    "pos": "M",
-    "min": 254,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
+    "chHt": 4,
+    "chFt": 10
    },
    {
     "id": 1131653,
     "nome": "Kevin Palacios",
-    "pos": "M",
-    "min": 200,
+    "pos": "F",
+    "min": 259,
     "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
+    "chHt": 1,
+    "chFt": 3
    },
    {
     "id": 1106593,
     "nome": "Diego González",
     "pos": "M",
-    "min": 197,
+    "min": 234,
     "jogos": 3,
-    "chHt": 2,
-    "chFt": 3
-   },
-   {
-    "id": 1110198,
-    "nome": "Salvador Mariscal",
-    "pos": "M",
-    "min": 180,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 1
-   },
-   {
-    "id": 794952,
-    "nome": "Fran Villalba",
-    "pos": "M",
-    "min": 178,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 4
+    "chHt": 4,
+    "chFt": 7
    },
    {
     "id": 870370,
     "nome": "Efrain Orona",
     "pos": "D",
-    "min": 177,
-    "jogos": 2,
+    "min": 210,
+    "jogos": 3,
     "chHt": 3,
     "chFt": 6
+   },
+   {
+    "id": 1022960,
+    "nome": "Aldo Lopez Vargas",
+    "pos": "M",
+    "min": 174,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 794952,
+    "nome": "Fran Villalba",
+    "pos": "M",
+    "min": 170,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
    },
    {
     "id": 879962,
@@ -308,19 +299,8 @@
     "pos": "D",
     "min": 158,
     "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   }
-  ],
-  "banco": [
-   {
-    "id": 1087008,
-    "nome": "Ramiro Sordo",
-    "pos": "M",
-    "min": 122,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 4
+    "chHt": 1,
+    "chFt": 3
    },
    {
     "id": 1410211,
@@ -330,31 +310,60 @@
     "jogos": 2,
     "chHt": 0,
     "chFt": 4
-   },
+   }
+  ],
+  "banco": [
    {
     "id": 1130643,
     "nome": "Emmanuel Echeverría",
     "pos": "D",
-    "min": 101,
+    "min": 91,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 1
+   },
+   {
+    "id": 989837,
+    "nome": "Facundo Cáseres",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
    },
    {
     "id": 804348,
     "nome": "Eduardo Aguirre",
     "pos": "F",
-    "min": 101,
+    "min": 90,
     "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1110198,
+    "nome": "Salvador Mariscal",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
    {
+    "id": 1087008,
+    "nome": "Ramiro Sordo",
+    "pos": "M",
+    "min": 85,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
     "id": 1818914,
     "nome": "Luis Gómez",
-    "pos": "D",
-    "min": 73,
-    "jogos": 2,
+    "pos": "M",
+    "min": 81,
+    "jogos": 3,
     "chHt": 1,
     "chFt": 2
    },
@@ -362,21 +371,13 @@
     "id": 1218825,
     "nome": "Esteban Lozano",
     "pos": "M",
-    "min": 29,
-    "jogos": 1,
+    "min": 63,
+    "jogos": 2,
     "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1444494,
-    "nome": "Kevin Picon",
-    "pos": "D",
-    "min": 23,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
+    "chFt": 3
    }
   ]
  },
+ "prevista": null,
  "confirmada": null
 }

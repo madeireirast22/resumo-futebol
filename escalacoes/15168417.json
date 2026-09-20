@@ -1,0 +1,383 @@
+{
+ "eventoId": 15168417,
+ "competicao": "mls",
+ "competicaoNome": "MLS (EUA)",
+ "data": "2026-09-27T00:30:00.000Z",
+ "rodada": null,
+ "casa": "FC Dallas",
+ "casaId": 2512,
+ "fora": "Los Angeles FC",
+ "foraId": 274650,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-20",
+    "adv": "Austin FC",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-13",
+    "adv": "Portland Timbers",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-10",
+    "adv": "Minnesota United",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 577012,
+    "nome": "Sebastien Ibeagha",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 813511,
+    "nome": "Shaq Moore",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1631872,
+    "nome": "Kaick",
+    "pos": "F",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 1118141,
+    "nome": "Bernard Kamungo",
+    "pos": "M",
+    "min": 264,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 5
+   },
+   {
+    "id": 1049223,
+    "nome": "Joaquín Valiente",
+    "pos": "F",
+    "min": 260,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 330693,
+    "nome": "Ramiro",
+    "pos": "M",
+    "min": 257,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1392847,
+    "nome": "Ran Binyamin",
+    "pos": "M",
+    "min": 203,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 850038,
+    "nome": "Daniel",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 915129,
+    "nome": "Osaze Urhoghide",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1647759,
+    "nome": "Logan Farrington",
+    "pos": "F",
+    "min": 171,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 966456,
+    "nome": "Christian Cappis",
+    "pos": "M",
+    "min": 167,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ],
+  "banco": [
+   {
+    "id": 827668,
+    "nome": "Petar Musa",
+    "pos": "F",
+    "min": 103,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 100203,
+    "nome": "Santiago Moreno",
+    "pos": "F",
+    "min": 103,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1435240,
+    "nome": "Nolan Norris",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1022962,
+    "nome": "Jonathan Sirois",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1099794,
+    "nome": "Herman Johansson",
+    "pos": "M",
+    "min": 67,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 2060299,
+    "nome": "Sam Sarver",
+    "pos": "F",
+    "min": 27,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1002530,
+    "nome": "Patrickson Delgado",
+    "pos": "M",
+    "min": 13,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-19",
+    "adv": "San Jose Earthquakes",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-13",
+    "adv": "Sporting Kansas City",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-10",
+    "adv": "New York Red Bulls",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 9048,
+    "nome": "Hugo Lloris",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 111505,
+    "nome": "Son Heung-min",
+    "pos": "F",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 8,
+    "chFt": 13
+   },
+   {
+    "id": 760618,
+    "nome": "Denis Bouanga",
+    "pos": "F",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 8
+   },
+   {
+    "id": 844594,
+    "nome": "Yevhen Cheberko",
+    "pos": "D",
+    "min": 261,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 937255,
+    "nome": "Mathieu Choinière",
+    "pos": "M",
+    "min": 258,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1020459,
+    "nome": "Nkosi Tafari",
+    "pos": "D",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 869993,
+    "nome": "Eddie Segura",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 793323,
+    "nome": "Sergi Palencia",
+    "pos": "D",
+    "min": 157,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1005834,
+    "nome": "Armindo Sieb",
+    "pos": "F",
+    "min": 141,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 234890,
+    "nome": "Mark Delgado",
+    "pos": "M",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 539882,
+    "nome": "Aaron Long",
+    "pos": "D",
+    "min": 126,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 976313,
+    "nome": "Jacob Shaffelburg",
+    "pos": "F",
+    "min": 120,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 539390,
+    "nome": "Ryan Hollingshead",
+    "pos": "D",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 1847619,
+    "nome": "Jude Terry",
+    "pos": "M",
+    "min": 106,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 889776,
+    "nome": "Ryan Porteous",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1887643,
+    "nome": "Kenny Nielsen",
+    "pos": "D",
+    "min": 75,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1170912,
+    "nome": "Igor Jesus",
+    "pos": "M",
+    "min": 74,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 277437,
+    "nome": "Tyler Boyd",
+    "pos": "F",
+    "min": 36,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "prevista": null,
+ "confirmada": null
+}
