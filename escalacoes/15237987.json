@@ -583,5 +583,344 @@
    ]
   }
  },
- "confirmada": null
+ "confirmada": {
+  "obtidaEm": "2026-09-20T22:00:10.773Z",
+  "minutosAntesDoJogo": 30,
+  "casa": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 1128850,
+     "nome": "Mycael",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1476558,
+     "nome": "Dantas",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 925173,
+     "nome": "Juan Felipe Aguirre",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 2063956,
+     "nome": "Arthur Dias",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 261687,
+     "nome": "Gilberto",
+     "pos": "M",
+     "camisa": 12
+    },
+    {
+     "id": 243651,
+     "nome": "Jádson",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 29735,
+     "nome": "Luiz Gustavo",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 1087079,
+     "nome": "Lucas Esquivel",
+     "pos": "M",
+     "camisa": 37
+    },
+    {
+     "id": 1546647,
+     "nome": "Leozinho",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 354510,
+     "nome": "Steven Mendoza",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 1131136,
+     "nome": "Kerwin Vargas",
+     "pos": "F",
+     "camisa": 18
+    }
+   ],
+   "banco": [
+    {
+     "id": 166491,
+     "nome": "Santos",
+     "pos": "G",
+     "camisa": 23
+    },
+    {
+     "id": 974512,
+     "nome": "Carlos Terán",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1199277,
+     "nome": "Leonardo Derik",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 1941312,
+     "nome": "Gilberto Junior",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 360940,
+     "nome": "Léo",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1107060,
+     "nome": "Felipinho",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 1092354,
+     "nome": "Bruno Zapelli",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1482354,
+     "nome": "Dudu",
+     "pos": "M",
+     "camisa": 53
+    },
+    {
+     "id": 980580,
+     "nome": "Juan Portilla",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1459788,
+     "nome": "Chiqueti",
+     "pos": "M",
+     "camisa": 47
+    },
+    {
+     "id": 2436885,
+     "nome": "Renan Peixoto Nepomuceno",
+     "pos": "F",
+     "camisa": 70
+    },
+    {
+     "id": 1628441,
+     "nome": "Jorge Rivaldo",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1485226,
+     "nome": "João Cruz",
+     "situacao": "fora",
+     "motivo": "seleção"
+    },
+    {
+     "id": 925124,
+     "nome": "Kevin Viveros",
+     "situacao": "fora",
+     "motivo": "seleção"
+    },
+    {
+     "id": 1633871,
+     "nome": "Claudinho",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 981452,
+     "nome": "Gastón Benavídez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 840106,
+     "nome": "Ronaldo",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1174196,
+     "nome": "Marcos Victor",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 810715,
+     "nome": "David Duarte",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 871705,
+     "nome": "Kanu",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1017264,
+     "nome": "Luciano Juba",
+     "pos": "D",
+     "camisa": 46
+    },
+    {
+     "id": 874063,
+     "nome": "Erick",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 959620,
+     "nome": "Nicolás Acevedo",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 905461,
+     "nome": "Rodrigo Nestor",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 922546,
+     "nome": "Ademir",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 1116987,
+     "nome": "Alejo Véliz",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 1104070,
+     "nome": "Erick Pulga",
+     "pos": "F",
+     "camisa": 16
+    }
+   ],
+   "banco": [
+    {
+     "id": 248977,
+     "nome": "Guido Herrera",
+     "pos": "G",
+     "camisa": 17
+    },
+    {
+     "id": 1476894,
+     "nome": "José Guilherme",
+     "pos": "D",
+     "camisa": 66
+    },
+    {
+     "id": 1807816,
+     "nome": "Román Gómez",
+     "pos": "D",
+     "camisa": 31
+    },
+    {
+     "id": 997094,
+     "nome": "Marco Moreno",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1182233,
+     "nome": "Mateo Sanabria",
+     "pos": "F",
+     "camisa": 23
+    },
+    {
+     "id": 1633616,
+     "nome": "Ruan Pablo",
+     "pos": "F",
+     "camisa": 77
+    },
+    {
+     "id": 2063705,
+     "nome": "Kauê Furquim",
+     "pos": "M",
+     "camisa": 57
+    },
+    {
+     "id": 1008832,
+     "nome": "Caio Alexandre",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 927975,
+     "nome": "Jean Lucas",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 145063,
+     "nome": "Everton Ribeiro",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 123223,
+     "nome": "Willian José",
+     "pos": "F",
+     "camisa": 12
+    },
+    {
+     "id": 386212,
+     "nome": "Everaldo",
+     "pos": "F",
+     "camisa": 27
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1068987,
+     "nome": "Cristian Olivera",
+     "situacao": "fora",
+     "motivo": "seleção"
+    },
+    {
+     "id": 166279,
+     "nome": "Léo Vieira",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 924857,
+     "nome": "Michel Araújo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
