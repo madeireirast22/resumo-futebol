@@ -378,5 +378,168 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-20T18:38:11.927Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 341097,
+     "nome": "Jeremías Ledesma",
+     "pos": "G",
+     "camisa": 23
+    },
+    {
+     "id": 2353018,
+     "nome": "Elías Verón",
+     "pos": "D",
+     "camisa": 42
+    },
+    {
+     "id": 2048634,
+     "nome": "Ignacio Ovando",
+     "pos": "D",
+     "camisa": 46
+    },
+    {
+     "id": 975526,
+     "nome": "Gastón Ávila",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 1066556,
+     "nome": "Agustín Sández",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 989796,
+     "nome": "Franco Ibarra",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 986754,
+     "nome": "Vicente Pizarro",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 874576,
+     "nome": "Alan Rodríguez",
+     "pos": "M",
+     "camisa": 88
+    },
+    {
+     "id": 30027,
+     "nome": "Ángel Di María",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 877299,
+     "nome": "Jaminton Campaz",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 860045,
+     "nome": "Enzo Copetti",
+     "pos": "F",
+     "camisa": 22
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 895593,
+     "nome": "Emanuel Coronel",
+     "situacao": "fora",
+     "motivo": "dúvida"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-4-2",
+   "titulares": [
+    {
+     "id": 247959,
+     "nome": "Brayan Cortés",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 1485234,
+     "nome": "Kevin Coronel",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 871788,
+     "nome": "Francisco Álvarez",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1485215,
+     "nome": "Franco Vázquez",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 830603,
+     "nome": "Claudio Bravo",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 981007,
+     "nome": "Hernán López Muñoz",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 914145,
+     "nome": "Kevin Gutiérrez",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 558790,
+     "nome": "Nicolas Oroz",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 985008,
+     "nome": "Gabriel Florentín",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 924198,
+     "nome": "Gastón Verón",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 833194,
+     "nome": "Tomás Molina",
+     "pos": "F",
+     "camisa": 27
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 946305,
+     "nome": "Sebastián Prieto",
+     "situacao": "fora",
+     "motivo": "código 13"
+    }
+   ]
+  }
+ }
 }

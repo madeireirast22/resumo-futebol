@@ -378,5 +378,204 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": null,
+ "prevista": {
+  "obtidaEm": "2026-09-20T18:38:13.607Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 874969,
+     "nome": "Juan Cozzani",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 1104325,
+     "nome": "Juan Ignacio Saborido",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 587148,
+     "nome": "Víctor Cuesta",
+     "pos": "D",
+     "camisa": 31
+    },
+    {
+     "id": 1537927,
+     "nome": "Mateo Mendia",
+     "pos": "D",
+     "camisa": 34
+    },
+    {
+     "id": 1654532,
+     "nome": "Tomás Ariel Silva",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 849136,
+     "nome": "Ivan Gómez",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 1187883,
+     "nome": "Maximiliano Amarfil",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 895232,
+     "nome": "Guido Mainero",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1212545,
+     "nome": "Franco Zapiola",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 868361,
+     "nome": "Gastón Togni",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 974691,
+     "nome": "Gonzalo Lencina",
+     "pos": "F",
+     "camisa": 99
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 871805,
+     "nome": "Gonzalo Goñi",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1138071,
+     "nome": "Héctor Bobadilla",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1182435,
+     "nome": "Luciano Giménez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1464535,
+     "nome": "Santiago Quiros",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1485097,
+     "nome": "Josué Reinatti",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 1020498,
+     "nome": "Martín Ortega",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 233856,
+     "nome": "Lautaro Giannetti",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 871798,
+     "nome": "Lucas Carrizo",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1485095,
+     "nome": "Jeronimo Russo",
+     "pos": "D",
+     "camisa": 28
+    },
+    {
+     "id": 1067815,
+     "nome": "Rodrigo Herrera",
+     "pos": "M",
+     "camisa": 26
+    },
+    {
+     "id": 2017667,
+     "nome": "Luca Regiardo",
+     "pos": "M",
+     "camisa": 5
+    },
+    {
+     "id": 861339,
+     "nome": "Walter Mazzantti",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 2054539,
+     "nome": "Facundo Guch",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 1104323,
+     "nome": "Santiago Solari",
+     "pos": "F",
+     "camisa": 32
+    },
+    {
+     "id": 903286,
+     "nome": "Matías Cóccaro",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 922442,
+     "nome": "Alejo Montero",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 595300,
+     "nome": "Franco Escobar",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 846773,
+     "nome": "Mateo García",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1092353,
+     "nome": "Nicolás Goitea",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }

@@ -378,5 +378,332 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": {
+  "obtidaEm": "2026-09-20T18:38:09.982Z",
+  "minutosAntesDoJogo": 22,
+  "casa": {
+   "formacao": "4-4-2",
+   "titulares": [
+    {
+     "id": 97951,
+     "nome": "Stole Dimitrievski",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 788216,
+     "nome": "Pablo Maffeo",
+     "pos": "D",
+     "camisa": 24
+    },
+    {
+     "id": 826948,
+     "nome": "Pepelu",
+     "pos": "D",
+     "camisa": 18
+    },
+    {
+     "id": 876255,
+     "nome": "Justin De Haas",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 227922,
+     "nome": "José Luis Gayà",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 2468733,
+     "nome": "Aaron Mayol",
+     "pos": "M",
+     "camisa": 33
+    },
+    {
+     "id": 857482,
+     "nome": "Filip Ugrinić",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 609752,
+     "nome": "Guido Rodríguez",
+     "pos": "M",
+     "camisa": 2
+    },
+    {
+     "id": 827064,
+     "nome": "Arnaut Danjuma",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1122610,
+     "nome": "Javier Guerra",
+     "pos": "F",
+     "camisa": 8
+    },
+    {
+     "id": 909119,
+     "nome": "Hugo Duro",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [
+    {
+     "id": 1393970,
+     "nome": "Kayne van Oevelen",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 996929,
+     "nome": "Jesús Vázquez",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 1084081,
+     "nome": "Arnau Martínez",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1563953,
+     "nome": "Iker Cordoba",
+     "pos": "D",
+     "camisa": 36
+    },
+    {
+     "id": 1614476,
+     "nome": "Alejandro Panach Olmo",
+     "pos": "D",
+     "camisa": 29
+    },
+    {
+     "id": 900433,
+     "nome": "Luis Rioja",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 955245,
+     "nome": "Harvey Elliott",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 933780,
+     "nome": "Aliou Dieng",
+     "pos": "M",
+     "camisa": 15
+    },
+    {
+     "id": 1476200,
+     "nome": "Ryunosuke Sato",
+     "pos": "M",
+     "camisa": 39
+    },
+    {
+     "id": 873947,
+     "nome": "Dani Raba",
+     "pos": "F",
+     "camisa": 19
+    },
+    {
+     "id": 1580022,
+     "nome": "David Otorbi",
+     "pos": "F",
+     "camisa": 27
+    },
+    {
+     "id": 1967732,
+     "nome": "Aimar Blazquez",
+     "pos": "F",
+     "camisa": 37
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 996928,
+     "nome": "César Tárrega",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 797306,
+     "nome": "Mouctar Diakhaby",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 754710,
+     "nome": "Umar Sadiq",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-4-2",
+   "titulares": [
+    {
+     "id": 791773,
+     "nome": "Álex Remiro",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1116388,
+     "nome": "Jon Aramburu",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1539149,
+     "nome": "Luken Beitia",
+     "pos": "D",
+     "camisa": 34
+    },
+    {
+     "id": 1466116,
+     "nome": "Jon Martin",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 855835,
+     "nome": "Sergio Gómez",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 280979,
+     "nome": "Gonçalo Guedes",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 1216309,
+     "nome": "Jon Gorrotxategi",
+     "pos": "M",
+     "camisa": 4
+    },
+    {
+     "id": 832427,
+     "nome": "Carlos Soler",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 1111081,
+     "nome": "Job Ochieng",
+     "pos": "M",
+     "camisa": 12
+    },
+    {
+     "id": 949156,
+     "nome": "Luka Sučić",
+     "pos": "F",
+     "camisa": 24
+    },
+    {
+     "id": 823622,
+     "nome": "Mikel Oyarzabal",
+     "pos": "F",
+     "camisa": 10
+    }
+   ],
+   "banco": [
+    {
+     "id": 1094782,
+     "nome": "Unai Marrero",
+     "pos": "G",
+     "camisa": 13
+    },
+    {
+     "id": 1154657,
+     "nome": "Mamadou Sarr",
+     "pos": "D",
+     "camisa": 19
+    },
+    {
+     "id": 1402908,
+     "nome": "Héctor Fort",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 966441,
+     "nome": "Aihen Muñoz",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 934383,
+     "nome": "Jon Pacheco",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 880218,
+     "nome": "Takefusa Kubo",
+     "pos": "F",
+     "camisa": 14
+    },
+    {
+     "id": 1602590,
+     "nome": "Alex Marchal",
+     "pos": "F",
+     "camisa": 29
+    },
+    {
+     "id": 980410,
+     "nome": "Beñat Turrientes",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1066045,
+     "nome": "Arsen Zakharyan",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 966862,
+     "nome": "Ander Barrenetxea",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 839585,
+     "nome": "Yangel Herrera",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 1026015,
+     "nome": "Orri Óskarsson",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 838159,
+     "nome": "Igor Zubeldia",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 353250,
+     "nome": "Álvaro Odriozola",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }

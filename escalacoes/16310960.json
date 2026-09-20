@@ -378,5 +378,284 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": {
+  "obtidaEm": "2026-09-20T18:36:48.255Z",
+  "minutosAntesDoJogo": 8,
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 803034,
+     "nome": "Jeffrey De Lange",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 855810,
+     "nome": "Timothy Weah",
+     "pos": "D",
+     "camisa": 22
+    },
+    {
+     "id": 1131448,
+     "nome": "Conrad Jaden Egan-Riley",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 877102,
+     "nome": "Nayef Aguerd",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 155997,
+     "nome": "Emerson",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 945830,
+     "nome": "Himad Abdelli",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 149593,
+     "nome": "Pierre-Emile Højbjerg",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 827522,
+     "nome": "Amine Harit",
+     "pos": "M",
+     "camisa": 77
+    },
+    {
+     "id": 859026,
+     "nome": "Amine Gouiri",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 981815,
+     "nome": "Igor Paixão",
+     "pos": "M",
+     "camisa": 14
+    },
+    {
+     "id": 268903,
+     "nome": "Neal Maupay",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "banco": [
+    {
+     "id": 952626,
+     "nome": "Théo Vermot",
+     "pos": "G",
+     "camisa": 92
+    },
+    {
+     "id": 801411,
+     "nome": "Derek Cornelius",
+     "pos": "D",
+     "camisa": 13
+    },
+    {
+     "id": 558320,
+     "nome": "Ulisses Garcia",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 1913447,
+     "nome": "Alexi Koum",
+     "pos": "D",
+     "camisa": 46
+    },
+    {
+     "id": 1831803,
+     "nome": "Kelyann Bezahaf",
+     "pos": "D",
+     "camisa": 74
+    },
+    {
+     "id": 867441,
+     "nome": "Angel Gomes",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1844117,
+     "nome": "Keyliane Abdallah",
+     "pos": "F",
+     "camisa": 48
+    },
+    {
+     "id": 1029456,
+     "nome": "Faris Moumbagna",
+     "pos": "F",
+     "camisa": 29
+    },
+    {
+     "id": 2250107,
+     "nome": "Tadjidine Mmadi",
+     "pos": "F",
+     "camisa": 43
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1191892,
+     "nome": "Tochukwu Nnadi",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 800749,
+     "nome": "Matvey Safonov",
+     "pos": "G",
+     "camisa": 39
+    },
+    {
+     "id": 1142672,
+     "nome": "Warren Zaïre-Emery",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 155995,
+     "nome": "Marquinhos",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 979480,
+     "nome": "Willian Pacho",
+     "pos": "D",
+     "camisa": 51
+    },
+    {
+     "id": 989768,
+     "nome": "Nuno Mendes",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 1190933,
+     "nome": "João Neves",
+     "pos": "M",
+     "camisa": 87
+    },
+    {
+     "id": 902029,
+     "nome": "Vitinha",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 784655,
+     "nome": "Fabián Ruiz",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1154605,
+     "nome": "Désiré Doué",
+     "pos": "F",
+     "camisa": 14
+    },
+    {
+     "id": 818244,
+     "nome": "Ousmane Dembélé",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 889259,
+     "nome": "Khvicha Kvaratskhelia",
+     "pos": "F",
+     "camisa": 7
+    }
+   ],
+   "banco": [
+    {
+     "id": 996953,
+     "nome": "Lucas Chevalier",
+     "pos": "G",
+     "camisa": 30
+    },
+    {
+     "id": 96538,
+     "nome": "Lucas Digne",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 1108441,
+     "nome": "Lucas Beraldo",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1023567,
+     "nome": "Ilya Zabarnyi",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 1926085,
+     "nome": "Dro Fernández",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1130939,
+     "nome": "Maghnes Akliouche",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 1473491,
+     "nome": "Senny Mayulu",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 855833,
+     "nome": "Ferran Torres",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 1149146,
+     "nome": "Mika Godts",
+     "pos": "F",
+     "camisa": 22
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 352370,
+     "nome": "Lucas Hernández",
+     "situacao": "fora",
+     "motivo": "código 4"
+    },
+    {
+     "id": 814594,
+     "nome": "Achraf Hakimi",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }

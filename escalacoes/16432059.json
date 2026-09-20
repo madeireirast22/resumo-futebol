@@ -378,5 +378,326 @@
    }
   ]
  },
- "confirmada": null
+ "confirmada": {
+  "obtidaEm": "2026-09-20T18:38:10.475Z",
+  "minutosAntesDoJogo": 52,
+  "casa": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 843115,
+     "nome": "Diogo Costa",
+     "pos": "G",
+     "camisa": 99
+    },
+    {
+     "id": 1160957,
+     "nome": "Alberto Costa",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 286085,
+     "nome": "Jan Bednarek",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 976037,
+     "nome": "Jakub Kiwior",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1142585,
+     "nome": "Martim Fernandes",
+     "pos": "D",
+     "camisa": 52
+    },
+    {
+     "id": 1406639,
+     "nome": "Victor Froholdt",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 804472,
+     "nome": "Pablo Rosario",
+     "pos": "M",
+     "camisa": 13
+    },
+    {
+     "id": 1010505,
+     "nome": "Gabri Veiga",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1639250,
+     "nome": "William Gomes",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 190159,
+     "nome": "André Silva",
+     "pos": "F",
+     "camisa": 19
+    },
+    {
+     "id": 882664,
+     "nome": "Pepê",
+     "pos": "F",
+     "camisa": 11
+    }
+   ],
+   "banco": [
+    {
+     "id": 116372,
+     "nome": "Cláudio Ramos",
+     "pos": "G",
+     "camisa": 14
+    },
+    {
+     "id": 1158427,
+     "nome": "Luis Gomes",
+     "pos": "D",
+     "camisa": 64
+    },
+    {
+     "id": 1146484,
+     "nome": "Dominik Prpić",
+     "pos": "D",
+     "camisa": 21
+    },
+    {
+     "id": 985138,
+     "nome": "Francisco Moura",
+     "pos": "D",
+     "camisa": 74
+    },
+    {
+     "id": 1482340,
+     "nome": "Souza",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 889689,
+     "nome": "Hwang In-beom",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1066560,
+     "nome": "Alan Varela",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 1895377,
+     "nome": "Gabriel Mec",
+     "pos": "M",
+     "camisa": 37
+    },
+    {
+     "id": 892141,
+     "nome": "Santiago Giménez",
+     "pos": "F",
+     "camisa": 29
+    },
+    {
+     "id": 992567,
+     "nome": "Borja Sainz",
+     "pos": "F",
+     "camisa": 17
+    },
+    {
+     "id": 1503836,
+     "nome": "Samu Aghehowa",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 1548929,
+     "nome": "Oskar Pietuszewski",
+     "pos": "F",
+     "camisa": 77
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 788365,
+     "nome": "João Costa",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 913401,
+     "nome": "Nehuén Pérez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 191188,
+     "nome": "Seko Fofana",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 983550,
+     "nome": "Samuel Soares",
+     "pos": "G",
+     "camisa": 24
+    },
+    {
+     "id": 850976,
+     "nome": "Alexander Bah",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 983542,
+     "nome": "Tomás Araújo",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 580550,
+     "nome": "Clément Lenglet",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 993101,
+     "nome": "Samuel Dahl",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 228364,
+     "nome": "Fredrik Aursnes",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 364612,
+     "nome": "João Palhinha",
+     "pos": "M",
+     "camisa": 36
+    },
+    {
+     "id": 252577,
+     "nome": "Rafa Silva",
+     "pos": "M",
+     "camisa": 27
+    },
+    {
+     "id": 1123925,
+     "nome": "Georgiy Sudakov",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1201395,
+     "nome": "Gianluca Prestianni",
+     "pos": "M",
+     "camisa": 25
+    },
+    {
+     "id": 795236,
+     "nome": "Vangelis Pavlidis",
+     "pos": "F",
+     "camisa": 14
+    }
+   ],
+   "banco": [
+    {
+     "id": 966616,
+     "nome": "Anatoliy Trubin",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 991679,
+     "nome": "Souffian El Karouani",
+     "pos": "D",
+     "camisa": 34
+    },
+    {
+     "id": 1155423,
+     "nome": "Alessandro Circati",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1961109,
+     "nome": "Daniel Banjaqui",
+     "pos": "D",
+     "camisa": 58
+    },
+    {
+     "id": 823631,
+     "nome": "Dodi Lukebakio",
+     "pos": "F",
+     "camisa": 11
+    },
+    {
+     "id": 801263,
+     "nome": "Jakub Kamiński",
+     "pos": "F",
+     "camisa": 13
+    },
+    {
+     "id": 1100952,
+     "nome": "Andreas Schjelderup",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 1085740,
+     "nome": "Manu Silva",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1482424,
+     "nome": "Claudio Echeverri",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 906800,
+     "nome": "Leandro Barreiro",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 974577,
+     "nome": "Jhon Durán",
+     "pos": "F",
+     "camisa": 22
+    },
+    {
+     "id": 2163561,
+     "nome": "Anísio Cabral",
+     "pos": "F",
+     "camisa": 72
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1087316,
+     "nome": "Enzo Barrenechea",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }
