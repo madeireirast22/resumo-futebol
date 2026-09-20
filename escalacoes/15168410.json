@@ -541,5 +541,284 @@
    ]
   }
  },
- "confirmada": null
+ "confirmada": {
+  "obtidaEm": "2026-09-20T22:30:06.464Z",
+  "minutosAntesDoJogo": 30,
+  "casa": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 973286,
+     "nome": "Dayne St. Clair",
+     "pos": "G",
+     "camisa": 97
+    },
+    {
+     "id": 974664,
+     "nome": "Facundo Mura",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 122951,
+     "nome": "Casemiro",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 805079,
+     "nome": "Maximiliano Falcón",
+     "pos": "D",
+     "camisa": 37
+    },
+    {
+     "id": 2020022,
+     "nome": "Fricio Caicedo",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 249399,
+     "nome": "Rodrigo De Paul",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1012476,
+     "nome": "Yannick Bright",
+     "pos": "M",
+     "camisa": 42
+    },
+    {
+     "id": 1105836,
+     "nome": "Matías Galarza",
+     "pos": "M",
+     "camisa": 80
+    },
+    {
+     "id": 12994,
+     "nome": "Lionel Messi",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 16943,
+     "nome": "Luis Suárez",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 822606,
+     "nome": "Germán Berterame",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "banco": [
+    {
+     "id": 1003017,
+     "nome": "Rocco Ríos Novo",
+     "pos": "G",
+     "camisa": 34
+    },
+    {
+     "id": 1105341,
+     "nome": "Micael",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1106584,
+     "nome": "Gonzalo Luján",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 858195,
+     "nome": "Sergio Reguilón",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 989830,
+     "nome": "David Ayala",
+     "pos": "M",
+     "camisa": 22
+    },
+    {
+     "id": 1546886,
+     "nome": "Santiago Morales",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 2066022,
+     "nome": "Preston Plambeck",
+     "pos": "M",
+     "camisa": 59
+    },
+    {
+     "id": 2187895,
+     "nome": "Alexander Shaw",
+     "pos": "M",
+     "camisa": 88
+    },
+    {
+     "id": 1856143,
+     "nome": "Daniel Pinter",
+     "pos": "F",
+     "camisa": 56
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1108451,
+     "nome": "Tadeo Allende",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-3-3",
+   "titulares": [
+    {
+     "id": 906020,
+     "nome": "CJ Dos Santos",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 2043669,
+     "nome": "Ian Pilcher",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 2040230,
+     "nome": "Manu Duah",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 1172491,
+     "nome": "Ian Murphy",
+     "pos": "D",
+     "camisa": 32
+    },
+    {
+     "id": 1799676,
+     "nome": "Kieran Sargeant",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 862550,
+     "nome": "Dagur Dan Þórhallsson",
+     "pos": "M",
+     "camisa": 3
+    },
+    {
+     "id": 303602,
+     "nome": "Jeppe Tverskov",
+     "pos": "M",
+     "camisa": 6
+    },
+    {
+     "id": 156102,
+     "nome": "Aníbal Godoy",
+     "pos": "M",
+     "camisa": 20
+    },
+    {
+     "id": 809280,
+     "nome": "Anders Dreyer",
+     "pos": "F",
+     "camisa": 10
+    },
+    {
+     "id": 280721,
+     "nome": "Marcus Ingvartsen",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 945204,
+     "nome": "Elias Achouri",
+     "pos": "F",
+     "camisa": 99
+    }
+   ],
+   "banco": [
+    {
+     "id": 1190389,
+     "nome": "Duran Ferree",
+     "pos": "G",
+     "camisa": 18
+    },
+    {
+     "id": 894157,
+     "nome": "Sam Vines",
+     "pos": "D",
+     "camisa": 23
+    },
+    {
+     "id": 881876,
+     "nome": "Christopher McVey",
+     "pos": "D",
+     "camisa": 97
+    },
+    {
+     "id": 1025305,
+     "nome": "Alejandro Alvarado Jr",
+     "pos": "F",
+     "camisa": 70
+    },
+    {
+     "id": 877391,
+     "nome": "Onni Valakari",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1469013,
+     "nome": "David Vazquez",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 228336,
+     "nome": "Amahl Pellegrino",
+     "pos": "F",
+     "camisa": 90
+    },
+    {
+     "id": 115665,
+     "nome": "Cédric Bakambu",
+     "pos": "F",
+     "camisa": 94
+    },
+    {
+     "id": 2474187,
+     "nome": "Bryan Zamblé",
+     "pos": "F",
+     "camisa": 14
+    }
+   ],
+   "desfalques": [
+    {
+     "id": 1469017,
+     "nome": "Oscar Verhoeven",
+     "situacao": "fora",
+     "motivo": "seleção"
+    },
+    {
+     "id": 1065962,
+     "nome": "Gabriel Pirani",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ }
 }

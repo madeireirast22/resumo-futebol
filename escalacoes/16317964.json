@@ -378,6 +378,186 @@
    }
   ]
  },
- "prevista": null,
+ "prevista": {
+  "obtidaEm": "2026-09-20T22:30:07.864Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 313184,
+     "nome": "Luis García",
+     "pos": "G",
+     "camisa": 22
+    },
+    {
+     "id": 941181,
+     "nome": "Brian García",
+     "pos": "D",
+     "camisa": 17
+    },
+    {
+     "id": 923000,
+     "nome": "Bruno Méndez",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 982552,
+     "nome": "Federico Pereira",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 770253,
+     "nome": "Jesús Gallardo",
+     "pos": "D",
+     "camisa": 20
+    },
+    {
+     "id": 818657,
+     "nome": "Fernando Arce Juárez",
+     "pos": "M",
+     "camisa": 24
+    },
+    {
+     "id": 795275,
+     "nome": "Víctor Guzmán",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 906837,
+     "nome": "Helinho",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 829624,
+     "nome": "Jesús Ricardo Angulo",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 815637,
+     "nome": "Alexis Vega",
+     "pos": "M",
+     "camisa": 9
+    },
+    {
+     "id": 205790,
+     "nome": "Paulinho",
+     "pos": "F",
+     "camisa": 26
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 942167,
+     "nome": "Marcel Ruíz",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1086987,
+     "nome": "Franco Romero",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    },
+    {
+     "id": 127485,
+     "nome": "Hugo Gonzalez",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "3-4-3",
+   "titulares": [
+    {
+     "id": 840519,
+     "nome": "Carlos Acevedo",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 879962,
+     "nome": "Franco Pardo",
+     "pos": "D",
+     "camisa": 18
+    },
+    {
+     "id": 1467314,
+     "nome": "Felipe Sánchez",
+     "pos": "D",
+     "camisa": 25
+    },
+    {
+     "id": 870370,
+     "nome": "Efrain Orona",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 1025301,
+     "nome": "Mauricio Cuevas",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 989837,
+     "nome": "Facundo Cáseres",
+     "pos": "M",
+     "camisa": 23
+    },
+    {
+     "id": 794952,
+     "nome": "Fran Villalba",
+     "pos": "M",
+     "camisa": 21
+    },
+    {
+     "id": 1106593,
+     "nome": "Diego González",
+     "pos": "F",
+     "camisa": 7
+    },
+    {
+     "id": 1131653,
+     "nome": "Kevin Palacios",
+     "pos": "M",
+     "camisa": 77
+    },
+    {
+     "id": 960077,
+     "nome": "Ezequiel Bullaude",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 804348,
+     "nome": "Eduardo Aguirre",
+     "pos": "F",
+     "camisa": 19
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 990050,
+     "nome": "Bruno Amione",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 838303,
+     "nome": "Lucas Di Yorio",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "confirmada": null
 }

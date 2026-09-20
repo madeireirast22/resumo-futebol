@@ -378,6 +378,192 @@
    }
   ]
  },
- "prevista": null,
+ "prevista": {
+  "obtidaEm": "2026-09-20T22:30:09.309Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 886780,
+     "nome": "Carlos Moreno",
+     "pos": "G",
+     "camisa": 25
+    },
+    {
+     "id": 1638695,
+     "nome": "Carlos Sánchez",
+     "pos": "D",
+     "camisa": 14
+    },
+    {
+     "id": 358530,
+     "nome": "Eduardo Bauermann",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 915162,
+     "nome": "Sergio Barreto",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 845329,
+     "nome": "Francisco Venegas",
+     "pos": "D",
+     "camisa": 15
+    },
+    {
+     "id": 2203620,
+     "nome": "Sergio Rodríguez",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 832662,
+     "nome": "Christian Rivera",
+     "pos": "M",
+     "camisa": 16
+    },
+    {
+     "id": 1199242,
+     "nome": "Nicolás Vallejo",
+     "pos": "F",
+     "camisa": 21
+    },
+    {
+     "id": 380802,
+     "nome": "Rodolfo Pizarro",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 823963,
+     "nome": "Oussama Idrissi",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 35532,
+     "nome": "Salomón Rondón",
+     "pos": "F",
+     "camisa": 23
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1510870,
+     "nome": "Alexei Domínguez",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 978706,
+     "nome": "Andrés Arroyo",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1503703,
+     "nome": "Jorge Berlanga",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 801391,
+     "nome": "Kenedy",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-1-4-1",
+   "titulares": [
+    {
+     "id": 159865,
+     "nome": "Antonio Rodríguez",
+     "pos": "G",
+     "camisa": 2
+    },
+    {
+     "id": 1482052,
+     "nome": "Ramiro Árciga",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 978518,
+     "nome": "Jackson Porozo",
+     "pos": "D",
+     "camisa": 12
+    },
+    {
+     "id": 972391,
+     "nome": "Jesús Gómez",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 1132927,
+     "nome": "Jesús Vega",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 974227,
+     "nome": "Iván Tona",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 983528,
+     "nome": "Francisco González",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 1914576,
+     "nome": "Gilberto Mora",
+     "pos": "M",
+     "camisa": 10
+    },
+    {
+     "id": 1409360,
+     "nome": "Yael Padilla",
+     "pos": "F",
+     "camisa": 31
+    },
+    {
+     "id": 975536,
+     "nome": "Adonis Preciado",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1010891,
+     "nome": "Mourad El Ghezouani",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 865796,
+     "nome": "Frank Boya",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    },
+    {
+     "id": 992118,
+     "nome": "Rafael Fernández",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "confirmada": null
 }
