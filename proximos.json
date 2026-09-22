@@ -1,173 +1,8 @@
 {
- "gerado": "2026-09-20T20:26:14.609Z",
+ "gerado": "2026-09-22T21:11:49.147Z",
  "janelaDias": 7,
  "aviso": "Escalação CONFIRMADA só existe ~1 h antes do jogo: o vigia (escalacoes.mjs) busca a cada 15 min e grava em escalacoes/<eventoId>.json quando sai (temConfirmada vira true). Até lá, provavelCasa/provavelFora = os 11 com mais minutos nos últimos 3 jogos do time.",
  "jogos": [
-  {
-   "eventoId": 15235478,
-   "data": "2026-09-20T21:30:00.000Z",
-   "competicao": "brasileirao-a",
-   "casa": "Flamengo",
-   "fora": "Red Bull Bragantino",
-   "arquivo": "escalacoes/15235478.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": true
-  },
-  {
-   "eventoId": 15526291,
-   "data": "2026-09-20T21:30:00.000Z",
-   "competicao": "brasileirao-b",
-   "casa": "Londrina",
-   "fora": "Fortaleza",
-   "arquivo": "escalacoes/15526291.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": true
-  },
-  {
-   "eventoId": 16667326,
-   "data": "2026-09-20T22:15:00.000Z",
-   "competicao": "argentina",
-   "casa": "Club Atlético Belgrano",
-   "fora": "Estudiantes de Río Cuarto",
-   "arquivo": "escalacoes/16667326.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": true
-  },
-  {
-   "eventoId": 15237987,
-   "data": "2026-09-20T22:30:00.000Z",
-   "competicao": "brasileirao-a",
-   "casa": "Athletico",
-   "fora": "Bahia",
-   "arquivo": "escalacoes/15237987.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": true
-  },
-  {
-   "eventoId": 15168410,
-   "data": "2026-09-20T23:00:00.000Z",
-   "competicao": "mls",
-   "casa": "Inter Miami CF",
-   "fora": "San Diego FC",
-   "arquivo": "escalacoes/15168410.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": true
-  },
-  {
-   "eventoId": 16317964,
-   "data": "2026-09-21T00:00:00.000Z",
-   "competicao": "mexico",
-   "casa": "CD Toluca",
-   "fora": "Santos Laguna",
-   "arquivo": "escalacoes/16317964.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16317965,
-   "data": "2026-09-21T00:00:00.000Z",
-   "competicao": "mexico",
-   "casa": "CF Pachuca",
-   "fora": "Club Tijuana",
-   "arquivo": "escalacoes/16317965.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16671623,
-   "data": "2026-09-21T00:30:00.000Z",
-   "competicao": "argentina",
-   "casa": "Vélez Sarsfield",
-   "fora": "Tigre",
-   "arquivo": "escalacoes/16671623.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16317967,
-   "data": "2026-09-21T02:00:00.000Z",
-   "competicao": "mexico",
-   "casa": "Querétaro FC",
-   "fora": "Club León",
-   "arquivo": "escalacoes/16317967.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16667335,
-   "data": "2026-09-21T17:30:00.000Z",
-   "competicao": "argentina",
-   "casa": "Aldosivi",
-   "fora": "Atlético Tucumán",
-   "arquivo": "escalacoes/16667335.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16667331,
-   "data": "2026-09-21T22:00:00.000Z",
-   "competicao": "argentina",
-   "casa": "Barracas Central",
-   "fora": "Independiente Rivadavia",
-   "arquivo": "escalacoes/16667331.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 15526294,
-   "data": "2026-09-21T22:30:00.000Z",
-   "competicao": "brasileirao-b",
-   "casa": "Criciúma",
-   "fora": "Operário-PR",
-   "arquivo": "escalacoes/15526294.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16667337,
-   "data": "2026-09-22T00:15:00.000Z",
-   "competicao": "argentina",
-   "casa": "CA Lanús",
-   "fora": "Estudiantes de La Plata",
-   "arquivo": "escalacoes/16667337.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 15526296,
-   "data": "2026-09-22T00:30:00.000Z",
-   "competicao": "brasileirao-b",
-   "casa": "Cuiabá",
-   "fora": "Náutico",
-   "arquivo": "escalacoes/15526296.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16278737,
-   "data": "2026-09-23T17:00:00.000Z",
-   "competicao": "dinamarca",
-   "casa": "Randers FC",
-   "fora": "Brøndby IF",
-   "arquivo": "escalacoes/16278737.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
   {
    "eventoId": 15956784,
    "data": "2026-09-24T01:30:00.000Z",
@@ -258,7 +93,7 @@
   },
   {
    "eventoId": 16317972,
-   "data": "2026-09-26T23:00:00.000Z",
+   "data": "2026-09-26T22:50:00.000Z",
    "competicao": "mexico",
    "casa": "Cruz Azul",
    "fora": "CD Toluca",
@@ -389,28 +224,6 @@
    "temConfirmada": false
   },
   {
-   "eventoId": 16318006,
-   "data": "2026-09-27T01:00:00.000Z",
-   "competicao": "mexico",
-   "casa": "Tigres UANL",
-   "fora": "Club Puebla",
-   "arquivo": "escalacoes/16318006.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
-   "eventoId": 16317970,
-   "data": "2026-09-27T01:00:00.000Z",
-   "competicao": "mexico",
-   "casa": "Santos Laguna",
-   "fora": "CF Pachuca",
-   "arquivo": "escalacoes/16317970.json",
-   "temProvavel": true,
-   "temPrevista": false,
-   "temConfirmada": false
-  },
-  {
    "eventoId": 15168423,
    "data": "2026-09-27T01:30:00.000Z",
    "competicao": "mls",
@@ -455,6 +268,28 @@
    "temConfirmada": false
   },
   {
+   "eventoId": 16317970,
+   "data": "2026-09-27T03:05:00.000Z",
+   "competicao": "mexico",
+   "casa": "Santos Laguna",
+   "fora": "CF Pachuca",
+   "arquivo": "escalacoes/16317970.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16318006,
+   "data": "2026-09-27T03:10:00.000Z",
+   "competicao": "mexico",
+   "casa": "Tigres UANL",
+   "fora": "Club Puebla",
+   "arquivo": "escalacoes/16318006.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
    "eventoId": 15526304,
    "data": "2026-09-27T14:00:00.000Z",
    "competicao": "brasileirao-b",
@@ -480,9 +315,64 @@
    "eventoId": 15526306,
    "data": "2026-09-27T19:00:00.000Z",
    "competicao": "brasileirao-b",
-   "casa": "Clube De Regatas Brasil",
+   "casa": "CRB",
    "fora": "Cuiabá",
    "arquivo": "escalacoes/15526306.json",
+   "temProvavel": false,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526302,
+   "data": "2026-09-27T21:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Fortaleza",
+   "fora": "Athletic Club",
+   "arquivo": "escalacoes/15526302.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15168422,
+   "data": "2026-09-27T23:00:00.000Z",
+   "competicao": "mls",
+   "casa": "Columbus Crew",
+   "fora": "Inter Miami CF",
+   "arquivo": "escalacoes/15168422.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317974,
+   "data": "2026-09-28T01:00:00.000Z",
+   "competicao": "mexico",
+   "casa": "Club León",
+   "fora": "FC Juárez",
+   "arquivo": "escalacoes/16317974.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16317973,
+   "data": "2026-09-28T03:10:00.000Z",
+   "competicao": "mexico",
+   "casa": "Club Necaxa",
+   "fora": "Club América",
+   "arquivo": "escalacoes/16317973.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526300,
+   "data": "2026-09-28T22:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "América Mineiro",
+   "fora": "Juventude",
+   "arquivo": "escalacoes/15526300.json",
    "temProvavel": true,
    "temPrevista": false,
    "temConfirmada": false

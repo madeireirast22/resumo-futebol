@@ -5,7 +5,7 @@
  "ano": "2026",
  "torneioId": 325,
  "temporadaId": 87678,
- "jogos": 273,
+ "jogos": 277,
  "jogosNaFonte": 245,
  "periodo": {
   "de": "2026-01-28",
@@ -13,116 +13,116 @@
  },
  "metricas": {
   "escanteios_ht": {
-   "jogos": 273,
-   "media": 4.76,
+   "jogos": 277,
+   "media": 4.74,
    "overs": {
-    "1.5": 94.1,
-    "2.5": 87.2,
-    "3.5": 68.5
+    "1.5": 94.2,
+    "2.5": 86.6,
+    "3.5": 68.2
    }
   },
   "escanteios_ft": {
-   "jogos": 273,
-   "media": 10.25,
+   "jogos": 277,
+   "media": 10.24,
    "overs": {
-    "7.5": 76.6,
-    "8.5": 69.2,
+    "7.5": 76.5,
+    "8.5": 69.3,
     "9.5": 56,
-    "10.5": 41.4
+    "10.5": 41.2
    }
   },
   "chutes_ht": {
-   "jogos": 273,
-   "media": 12.49,
+   "jogos": 277,
+   "media": 12.47,
    "overs": {
-    "7.5": 90.1,
-    "9.5": 78.8,
-    "11.5": 60.4
+    "7.5": 90.3,
+    "9.5": 78.7,
+    "11.5": 60.3
    }
   },
   "chutes_ft": {
-   "jogos": 273,
+   "jogos": 277,
    "media": 27.49,
    "overs": {
-    "19.5": 88.3,
-    "21.5": 83.2,
+    "19.5": 88.4,
+    "21.5": 83,
     "23.5": 72.9
    }
   },
   "alvo_ht": {
-   "jogos": 273,
-   "media": 4.05,
+   "jogos": 277,
+   "media": 4.06,
    "overs": {
-    "2.5": 74.4,
-    "3.5": 56.8,
-    "4.5": 36.6
+    "2.5": 74.7,
+    "3.5": 57.4,
+    "4.5": 36.8
    }
   },
   "alvo_ft": {
-   "jogos": 273,
-   "media": 8.94,
+   "jogos": 277,
+   "media": 8.98,
    "overs": {
-    "6.5": 77.3,
-    "7.5": 64.5,
-    "8.5": 53.1
+    "6.5": 77.6,
+    "7.5": 65,
+    "8.5": 53.8
    }
   },
   "cartoes_ht": {
-   "jogos": 268,
-   "media": 1.75,
+   "jogos": 272,
+   "media": 1.76,
    "overs": {
-    "0.5": 79.5,
-    "1.5": 50.4,
-    "2.5": 26.5
+    "0.5": 79.8,
+    "1.5": 50.7,
+    "2.5": 26.8
    }
   },
   "cartoes_ft": {
-   "jogos": 268,
-   "media": 4.79,
+   "jogos": 272,
+   "media": 4.81,
    "overs": {
     "3.5": 71.3,
-    "4.5": 52.2,
-    "5.5": 35.1
+    "4.5": 52.6,
+    "5.5": 35.7
    }
   },
   "faltas_ht": {
-   "jogos": 273,
-   "media": 12.66,
+   "jogos": 277,
+   "media": 12.65,
    "overs": {
     "9.5": 77.3,
-    "11.5": 61.9,
-    "13.5": 37.7
+    "11.5": 62.1,
+    "13.5": 37.5
    }
   },
   "faltas_ft": {
-   "jogos": 273,
-   "media": 26.42,
+   "jogos": 277,
+   "media": 26.44,
    "overs": {
-    "21.5": 78.8,
-    "23.5": 67.8,
+    "21.5": 78.7,
+    "23.5": 67.9,
     "25.5": 52
    }
   },
   "gols_ht": {
-   "jogos": 273,
+   "jogos": 277,
    "media": 1.18,
    "overs": {
-    "0.5": 74,
-    "1.5": 33.7,
-    "2.5": 8.8
+    "0.5": 74.4,
+    "1.5": 33.6,
+    "2.5": 8.7
    },
-   "ambasMarcam": 20.5
+   "ambasMarcam": 20.6
   },
   "gols_ft": {
-   "jogos": 273,
-   "media": 2.66,
+   "jogos": 277,
+   "media": 2.67,
    "overs": {
-    "1.5": 78,
-    "2.5": 50.9,
-    "3.5": 25.3,
-    "4.5": 12.5
+    "1.5": 78.3,
+    "2.5": 51.6,
+    "3.5": 25.6,
+    "4.5": 12.3
    },
-   "ambasMarcam": 59
+   "ambasMarcam": 59.6
   }
  },
  "times": {
@@ -734,73 +734,73 @@
   },
   "Fluminense": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 2.74,
-    "contraMedia": 1.67,
-    "totalMedia": 4.41,
+    "jogos": 28,
+    "proMedia": 2.68,
+    "contraMedia": 1.71,
+    "totalMedia": 4.39,
     "casa": {
      "jogos": 14,
      "pro": 2.64,
      "contra": 1.43
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.85,
-     "contra": 1.92
+     "jogos": 14,
+     "pro": 2.71,
+     "contra": 2
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 5.7,
-    "contraMedia": 4.44,
-    "totalMedia": 10.15,
+    "jogos": 28,
+    "proMedia": 5.54,
+    "contraMedia": 4.68,
+    "totalMedia": 10.21,
     "casa": {
      "jogos": 14,
      "pro": 6.43,
      "contra": 3.43
     },
     "fora": {
-     "jogos": 13,
-     "pro": 4.92,
-     "contra": 5.54
+     "jogos": 14,
+     "pro": 4.64,
+     "contra": 5.93
     }
    },
    "chutes_ht": {
-    "jogos": 27,
-    "proMedia": 6.3,
-    "contraMedia": 5.48,
-    "totalMedia": 11.78,
+    "jogos": 28,
+    "proMedia": 6.29,
+    "contraMedia": 5.46,
+    "totalMedia": 11.75,
     "casa": {
      "jogos": 14,
      "pro": 7.14,
      "contra": 4.29
     },
     "fora": {
-     "jogos": 13,
-     "pro": 5.38,
-     "contra": 6.77
+     "jogos": 14,
+     "pro": 5.43,
+     "contra": 6.64
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 14.81,
-    "contraMedia": 12.59,
-    "totalMedia": 27.41,
+    "jogos": 28,
+    "proMedia": 14.64,
+    "contraMedia": 12.86,
+    "totalMedia": 27.5,
     "casa": {
      "jogos": 14,
      "pro": 17.21,
      "contra": 10.57
     },
     "fora": {
-     "jogos": 13,
-     "pro": 12.23,
-     "contra": 14.77
+     "jogos": 14,
+     "pro": 12.07,
+     "contra": 15.14
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 2.19,
-    "contraMedia": 1.74,
+    "jogos": 28,
+    "proMedia": 2.21,
+    "contraMedia": 1.71,
     "totalMedia": 3.93,
     "casa": {
      "jogos": 14,
@@ -808,95 +808,95 @@
      "contra": 1.21
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.69,
-     "contra": 2.31
+     "jogos": 14,
+     "pro": 1.79,
+     "contra": 2.21
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 5.63,
-    "contraMedia": 4.7,
-    "totalMedia": 10.33,
+    "jogos": 28,
+    "proMedia": 5.64,
+    "contraMedia": 4.79,
+    "totalMedia": 10.43,
     "casa": {
      "jogos": 14,
      "pro": 6.71,
      "contra": 3.71
     },
     "fora": {
-     "jogos": 13,
-     "pro": 4.46,
-     "contra": 5.77
+     "jogos": 14,
+     "pro": 4.57,
+     "contra": 5.86
     }
    },
    "cartoes_ht": {
-    "jogos": 27,
-    "proMedia": 0.93,
-    "contraMedia": 0.93,
-    "totalMedia": 1.85,
+    "jogos": 28,
+    "proMedia": 0.96,
+    "contraMedia": 0.96,
+    "totalMedia": 1.93,
     "casa": {
      "jogos": 14,
      "pro": 0.93,
      "contra": 0.79
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.92,
-     "contra": 1.08
+     "jogos": 14,
+     "pro": 1,
+     "contra": 1.14
     }
    },
    "cartoes_ft": {
-    "jogos": 27,
-    "proMedia": 2.44,
-    "contraMedia": 2.78,
-    "totalMedia": 5.22,
+    "jogos": 28,
+    "proMedia": 2.54,
+    "contraMedia": 2.79,
+    "totalMedia": 5.32,
     "casa": {
      "jogos": 14,
      "pro": 2.57,
      "contra": 3.14
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.31,
-     "contra": 2.38
+     "jogos": 14,
+     "pro": 2.5,
+     "contra": 2.43
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 6.78,
-    "contraMedia": 5.89,
-    "totalMedia": 12.67,
+    "jogos": 28,
+    "proMedia": 6.75,
+    "contraMedia": 6,
+    "totalMedia": 12.75,
     "casa": {
      "jogos": 14,
      "pro": 6.29,
      "contra": 5.57
     },
     "fora": {
-     "jogos": 13,
-     "pro": 7.31,
-     "contra": 6.23
+     "jogos": 14,
+     "pro": 7.21,
+     "contra": 6.43
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 12.93,
-    "contraMedia": 12.56,
-    "totalMedia": 25.48,
+    "jogos": 28,
+    "proMedia": 13.21,
+    "contraMedia": 12.68,
+    "totalMedia": 25.89,
     "casa": {
      "jogos": 14,
      "pro": 12.21,
      "contra": 12.14
     },
     "fora": {
-     "jogos": 13,
-     "pro": 13.69,
-     "contra": 13
+     "jogos": 14,
+     "pro": 14.21,
+     "contra": 13.21
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.59,
-    "contraMedia": 0.44,
+    "jogos": 28,
+    "proMedia": 0.61,
+    "contraMedia": 0.43,
     "totalMedia": 1.04,
     "casa": {
      "jogos": 14,
@@ -904,69 +904,28 @@
      "contra": 0.36
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.54,
-     "contra": 0.54
+     "jogos": 14,
+     "pro": 0.57,
+     "contra": 0.5
     }
    },
    "gols_ft": {
-    "jogos": 27,
-    "proMedia": 1.52,
-    "contraMedia": 1.3,
-    "totalMedia": 2.81,
+    "jogos": 28,
+    "proMedia": 1.57,
+    "contraMedia": 1.29,
+    "totalMedia": 2.86,
     "casa": {
      "jogos": 14,
      "pro": 1.71,
      "contra": 1
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.31,
-     "contra": 1.62
+     "jogos": 14,
+     "pro": 1.43,
+     "contra": 1.57
     }
    },
    "ultimos": [
-    {
-     "data": "2026-05-31",
-     "adv": "Cruzeiro",
-     "mando": "F",
-     "golsHt": [
-      1,
-      0
-     ],
-     "golsFt": [
-      1,
-      1
-     ],
-     "ht": {
-      "esc": [
-       2,
-       3
-      ],
-      "ch": [
-       4,
-       10
-      ],
-      "car": [
-       0,
-       1
-      ]
-     },
-     "ft": {
-      "esc": [
-       4,
-       5
-      ],
-      "ch": [
-       10,
-       19
-      ],
-      "car": [
-       2,
-       2
-      ]
-     }
-    },
     {
      "data": "2026-07-17",
      "adv": "Red Bull Bragantino",
@@ -1335,19 +1294,60 @@
        1
       ]
      }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Corinthians",
+     "mando": "F",
+     "golsHt": [
+      1,
+      0
+     ],
+     "golsFt": [
+      3,
+      1
+     ],
+     "ht": {
+      "esc": [
+       1,
+       3
+      ],
+      "ch": [
+       6,
+       5
+      ],
+      "car": [
+       2,
+       2
+      ]
+     },
+     "ft": {
+      "esc": [
+       1,
+       11
+      ],
+      "ch": [
+       10,
+       20
+      ],
+      "car": [
+       5,
+       3
+      ]
+     }
     }
    ]
   },
   "Athletico": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 2.52,
-    "contraMedia": 2.37,
-    "totalMedia": 4.89,
+    "jogos": 28,
+    "proMedia": 2.5,
+    "contraMedia": 2.29,
+    "totalMedia": 4.79,
     "casa": {
-     "jogos": 13,
-     "pro": 3.69,
-     "contra": 1.31
+     "jogos": 14,
+     "pro": 3.57,
+     "contra": 1.21
     },
     "fora": {
      "jogos": 14,
@@ -1356,14 +1356,14 @@
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 4.67,
-    "contraMedia": 5.44,
-    "totalMedia": 10.11,
+    "jogos": 28,
+    "proMedia": 4.71,
+    "contraMedia": 5.36,
+    "totalMedia": 10.07,
     "casa": {
-     "jogos": 13,
+     "jogos": 14,
      "pro": 6,
-     "contra": 4.08
+     "contra": 4
     },
     "fora": {
      "jogos": 14,
@@ -1372,14 +1372,14 @@
     }
    },
    "chutes_ht": {
-    "jogos": 27,
-    "proMedia": 4.89,
-    "contraMedia": 6.41,
-    "totalMedia": 11.3,
+    "jogos": 28,
+    "proMedia": 4.86,
+    "contraMedia": 6.32,
+    "totalMedia": 11.18,
     "casa": {
-     "jogos": 13,
-     "pro": 5.85,
-     "contra": 4.69
+     "jogos": 14,
+     "pro": 5.71,
+     "contra": 4.64
     },
     "fora": {
      "jogos": 14,
@@ -1388,14 +1388,14 @@
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 12.33,
-    "contraMedia": 12.96,
-    "totalMedia": 25.3,
+    "jogos": 28,
+    "proMedia": 12.29,
+    "contraMedia": 12.86,
+    "totalMedia": 25.14,
     "casa": {
-     "jogos": 13,
-     "pro": 14.38,
-     "contra": 9.77
+     "jogos": 14,
+     "pro": 14.14,
+     "contra": 9.79
     },
     "fora": {
      "jogos": 14,
@@ -1404,14 +1404,14 @@
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 1.81,
-    "contraMedia": 2.11,
-    "totalMedia": 3.93,
+    "jogos": 28,
+    "proMedia": 1.89,
+    "contraMedia": 2.07,
+    "totalMedia": 3.96,
     "casa": {
-     "jogos": 13,
-     "pro": 1.92,
-     "contra": 1.23
+     "jogos": 14,
+     "pro": 2.07,
+     "contra": 1.21
     },
     "fora": {
      "jogos": 14,
@@ -1420,14 +1420,14 @@
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 4.85,
-    "contraMedia": 3.85,
-    "totalMedia": 8.7,
+    "jogos": 28,
+    "proMedia": 4.89,
+    "contraMedia": 3.82,
+    "totalMedia": 8.71,
     "casa": {
-     "jogos": 13,
-     "pro": 5.62,
-     "contra": 2.62
+     "jogos": 14,
+     "pro": 5.64,
+     "contra": 2.64
     },
     "fora": {
      "jogos": 14,
@@ -1436,13 +1436,13 @@
     }
    },
    "cartoes_ht": {
-    "jogos": 26,
-    "proMedia": 0.88,
+    "jogos": 27,
+    "proMedia": 0.93,
     "contraMedia": 1.04,
-    "totalMedia": 1.92,
+    "totalMedia": 1.96,
     "casa": {
-     "jogos": 12,
-     "pro": 0.67,
+     "jogos": 13,
+     "pro": 0.77,
      "contra": 1.08
     },
     "fora": {
@@ -1452,13 +1452,13 @@
     }
    },
    "cartoes_ft": {
-    "jogos": 26,
-    "proMedia": 2.12,
-    "contraMedia": 2.5,
-    "totalMedia": 4.62,
+    "jogos": 27,
+    "proMedia": 2.15,
+    "contraMedia": 2.52,
+    "totalMedia": 4.67,
     "casa": {
-     "jogos": 12,
-     "pro": 2,
+     "jogos": 13,
+     "pro": 2.08,
      "contra": 2.92
     },
     "fora": {
@@ -1468,14 +1468,14 @@
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 7.22,
-    "contraMedia": 5.81,
-    "totalMedia": 13.04,
+    "jogos": 28,
+    "proMedia": 7.07,
+    "contraMedia": 5.79,
+    "totalMedia": 12.86,
     "casa": {
-     "jogos": 13,
-     "pro": 7.31,
-     "contra": 5.85
+     "jogos": 14,
+     "pro": 7,
+     "contra": 5.79
     },
     "fora": {
      "jogos": 14,
@@ -1484,14 +1484,14 @@
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 14.07,
-    "contraMedia": 12.15,
-    "totalMedia": 26.22,
+    "jogos": 28,
+    "proMedia": 13.86,
+    "contraMedia": 12.18,
+    "totalMedia": 26.04,
     "casa": {
-     "jogos": 13,
-     "pro": 13.77,
-     "contra": 12.62
+     "jogos": 14,
+     "pro": 13.36,
+     "contra": 12.64
     },
     "fora": {
      "jogos": 14,
@@ -1500,14 +1500,14 @@
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.74,
-    "contraMedia": 0.63,
-    "totalMedia": 1.37,
+    "jogos": 28,
+    "proMedia": 0.75,
+    "contraMedia": 0.64,
+    "totalMedia": 1.39,
     "casa": {
-     "jogos": 13,
-     "pro": 0.77,
-     "contra": 0.38
+     "jogos": 14,
+     "pro": 0.79,
+     "contra": 0.43
     },
     "fora": {
      "jogos": 14,
@@ -1516,14 +1516,14 @@
     }
    },
    "gols_ft": {
-    "jogos": 27,
-    "proMedia": 1.52,
-    "contraMedia": 1.15,
-    "totalMedia": 2.67,
+    "jogos": 28,
+    "proMedia": 1.54,
+    "contraMedia": 1.14,
+    "totalMedia": 2.68,
     "casa": {
-     "jogos": 13,
-     "pro": 1.77,
-     "contra": 0.77
+     "jogos": 14,
+     "pro": 1.79,
+     "contra": 0.79
     },
     "fora": {
      "jogos": 14,
@@ -1532,47 +1532,6 @@
     }
    },
    "ultimos": [
-    {
-     "data": "2026-05-30",
-     "adv": "Mirassol",
-     "mando": "C",
-     "golsHt": [
-      0,
-      0
-     ],
-     "golsFt": [
-      1,
-      0
-     ],
-     "ht": {
-      "esc": [
-       2,
-       2
-      ],
-      "ch": [
-       3,
-       5
-      ],
-      "car": [
-       0,
-       1
-      ]
-     },
-     "ft": {
-      "esc": [
-       6,
-       4
-      ],
-      "ch": [
-       13,
-       10
-      ],
-      "car": [
-       2,
-       3
-      ]
-     }
-    },
     {
      "data": "2026-07-23",
      "adv": "São Paulo",
@@ -1930,6 +1889,47 @@
       ],
       "car": [
        4,
+       3
+      ]
+     }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Bahia",
+     "mando": "C",
+     "golsHt": [
+      1,
+      1
+     ],
+     "golsFt": [
+      2,
+      1
+     ],
+     "ht": {
+      "esc": [
+       2,
+       0
+      ],
+      "ch": [
+       4,
+       4
+      ],
+      "car": [
+       2,
+       1
+      ]
+     },
+     "ft": {
+      "esc": [
+       6,
+       3
+      ],
+      "ch": [
+       11,
+       10
+      ],
+      "car": [
+       3,
        3
       ]
      }
@@ -3748,14 +3748,14 @@
   },
   "Corinthians": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 2.04,
-    "contraMedia": 2.26,
-    "totalMedia": 4.3,
+    "jogos": 28,
+    "proMedia": 2.07,
+    "contraMedia": 2.21,
+    "totalMedia": 4.29,
     "casa": {
-     "jogos": 14,
-     "pro": 2.14,
-     "contra": 1.93
+     "jogos": 15,
+     "pro": 2.2,
+     "contra": 1.87
     },
     "fora": {
      "jogos": 13,
@@ -3764,14 +3764,14 @@
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 4.74,
-    "contraMedia": 5.04,
-    "totalMedia": 9.78,
+    "jogos": 28,
+    "proMedia": 4.96,
+    "contraMedia": 4.89,
+    "totalMedia": 9.86,
     "casa": {
-     "jogos": 14,
-     "pro": 5,
-     "contra": 4.21
+     "jogos": 15,
+     "pro": 5.4,
+     "contra": 4
     },
     "fora": {
      "jogos": 13,
@@ -3780,14 +3780,14 @@
     }
    },
    "chutes_ht": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 4.96,
-    "contraMedia": 5.26,
-    "totalMedia": 10.22,
+    "contraMedia": 5.29,
+    "totalMedia": 10.25,
     "casa": {
-     "jogos": 14,
-     "pro": 5.5,
-     "contra": 3.71
+     "jogos": 15,
+     "pro": 5.47,
+     "contra": 3.87
     },
     "fora": {
      "jogos": 13,
@@ -3796,14 +3796,14 @@
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 11.93,
-    "contraMedia": 11.81,
-    "totalMedia": 23.74,
+    "jogos": 28,
+    "proMedia": 12.21,
+    "contraMedia": 11.75,
+    "totalMedia": 23.96,
     "casa": {
-     "jogos": 14,
-     "pro": 13.21,
-     "contra": 9.57
+     "jogos": 15,
+     "pro": 13.67,
+     "contra": 9.6
     },
     "fora": {
      "jogos": 13,
@@ -3812,14 +3812,14 @@
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 1.63,
-    "contraMedia": 2,
-    "totalMedia": 3.63,
+    "jogos": 28,
+    "proMedia": 1.61,
+    "contraMedia": 2.04,
+    "totalMedia": 3.64,
     "casa": {
-     "jogos": 14,
-     "pro": 1.86,
-     "contra": 1.71
+     "jogos": 15,
+     "pro": 1.8,
+     "contra": 1.8
     },
     "fora": {
      "jogos": 13,
@@ -3828,14 +3828,14 @@
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 3.59,
-    "contraMedia": 3.89,
-    "totalMedia": 7.48,
+    "jogos": 28,
+    "proMedia": 3.71,
+    "contraMedia": 3.96,
+    "totalMedia": 7.68,
     "casa": {
-     "jogos": 14,
-     "pro": 4.21,
-     "contra": 3.5
+     "jogos": 15,
+     "pro": 4.4,
+     "contra": 3.67
     },
     "fora": {
      "jogos": 13,
@@ -3844,14 +3844,14 @@
     }
    },
    "cartoes_ht": {
-    "jogos": 27,
-    "proMedia": 0.96,
-    "contraMedia": 1.26,
-    "totalMedia": 2.22,
+    "jogos": 28,
+    "proMedia": 1,
+    "contraMedia": 1.29,
+    "totalMedia": 2.29,
     "casa": {
-     "jogos": 14,
-     "pro": 0.71,
-     "contra": 1.43
+     "jogos": 15,
+     "pro": 0.8,
+     "contra": 1.47
     },
     "fora": {
      "jogos": 13,
@@ -3860,14 +3860,14 @@
     }
    },
    "cartoes_ft": {
-    "jogos": 27,
-    "proMedia": 2.59,
-    "contraMedia": 3.07,
-    "totalMedia": 5.67,
+    "jogos": 28,
+    "proMedia": 2.61,
+    "contraMedia": 3.14,
+    "totalMedia": 5.75,
     "casa": {
-     "jogos": 14,
-     "pro": 2.29,
-     "contra": 3.14
+     "jogos": 15,
+     "pro": 2.33,
+     "contra": 3.27
     },
     "fora": {
      "jogos": 13,
@@ -3876,14 +3876,14 @@
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 6.93,
-    "contraMedia": 7.78,
-    "totalMedia": 14.7,
+    "jogos": 28,
+    "proMedia": 7,
+    "contraMedia": 7.71,
+    "totalMedia": 14.71,
     "casa": {
-     "jogos": 14,
-     "pro": 7.43,
-     "contra": 7.79
+     "jogos": 15,
+     "pro": 7.53,
+     "contra": 7.67
     },
     "fora": {
      "jogos": 13,
@@ -3892,14 +3892,14 @@
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 13.7,
-    "contraMedia": 15.93,
-    "totalMedia": 29.63,
+    "jogos": 28,
+    "proMedia": 13.79,
+    "contraMedia": 16.11,
+    "totalMedia": 29.89,
     "casa": {
-     "jogos": 14,
-     "pro": 14.43,
-     "contra": 16
+     "jogos": 15,
+     "pro": 14.53,
+     "contra": 16.33
     },
     "fora": {
      "jogos": 13,
@@ -3908,14 +3908,14 @@
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.48,
-    "contraMedia": 0.7,
-    "totalMedia": 1.19,
+    "jogos": 28,
+    "proMedia": 0.46,
+    "contraMedia": 0.71,
+    "totalMedia": 1.18,
     "casa": {
-     "jogos": 14,
-     "pro": 0.57,
-     "contra": 0.57
+     "jogos": 15,
+     "pro": 0.53,
+     "contra": 0.6
     },
     "fora": {
      "jogos": 13,
@@ -3924,14 +3924,14 @@
     }
    },
    "gols_ft": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 1.04,
-    "contraMedia": 1.07,
-    "totalMedia": 2.11,
+    "contraMedia": 1.14,
+    "totalMedia": 2.18,
     "casa": {
-     "jogos": 14,
+     "jogos": 15,
      "pro": 1,
-     "contra": 0.93
+     "contra": 1.07
     },
     "fora": {
      "jogos": 13,
@@ -3940,47 +3940,6 @@
     }
    },
    "ultimos": [
-    {
-     "data": "2026-05-30",
-     "adv": "Grêmio",
-     "mando": "F",
-     "golsHt": [
-      1,
-      1
-     ],
-     "golsFt": [
-      3,
-      1
-     ],
-     "ht": {
-      "esc": [
-       6,
-       1
-      ],
-      "ch": [
-       16,
-       4
-      ],
-      "car": [
-       1,
-       1
-      ]
-     },
-     "ft": {
-      "esc": [
-       8,
-       4
-      ],
-      "ch": [
-       24,
-       10
-      ],
-      "car": [
-       2,
-       3
-      ]
-     }
-    },
     {
      "data": "2026-07-23",
      "adv": "Remo",
@@ -4349,244 +4308,244 @@
        4
       ]
      }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Fluminense",
+     "mando": "C",
+     "golsHt": [
+      0,
+      1
+     ],
+     "golsFt": [
+      1,
+      3
+     ],
+     "ht": {
+      "esc": [
+       3,
+       1
+      ],
+      "ch": [
+       5,
+       6
+      ],
+      "car": [
+       2,
+       2
+      ]
+     },
+     "ft": {
+      "esc": [
+       11,
+       1
+      ],
+      "ch": [
+       20,
+       10
+      ],
+      "car": [
+       3,
+       5
+      ]
+     }
     }
    ]
   },
   "Red Bull Bragantino": {
    "escanteios_ht": {
-    "jogos": 26,
-    "proMedia": 2.35,
-    "contraMedia": 2.31,
-    "totalMedia": 4.65,
+    "jogos": 27,
+    "proMedia": 2.3,
+    "contraMedia": 2.26,
+    "totalMedia": 4.56,
     "casa": {
      "jogos": 13,
      "pro": 2.62,
      "contra": 1.62
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.08,
-     "contra": 3
+     "jogos": 14,
+     "pro": 2,
+     "contra": 2.86
     }
    },
    "escanteios_ft": {
-    "jogos": 26,
-    "proMedia": 5.73,
-    "contraMedia": 5.46,
-    "totalMedia": 11.19,
+    "jogos": 27,
+    "proMedia": 5.7,
+    "contraMedia": 5.33,
+    "totalMedia": 11.04,
     "casa": {
      "jogos": 13,
      "pro": 6.46,
      "contra": 4.77
     },
     "fora": {
-     "jogos": 13,
+     "jogos": 14,
      "pro": 5,
-     "contra": 6.15
+     "contra": 5.86
     }
    },
    "chutes_ht": {
-    "jogos": 26,
-    "proMedia": 7.27,
-    "contraMedia": 5.5,
-    "totalMedia": 12.77,
+    "jogos": 27,
+    "proMedia": 7.19,
+    "contraMedia": 5.59,
+    "totalMedia": 12.78,
     "casa": {
      "jogos": 13,
      "pro": 8.08,
      "contra": 3.92
     },
     "fora": {
-     "jogos": 13,
-     "pro": 6.46,
-     "contra": 7.08
+     "jogos": 14,
+     "pro": 6.36,
+     "contra": 7.14
     }
    },
    "chutes_ft": {
-    "jogos": 26,
-    "proMedia": 16.15,
-    "contraMedia": 12.42,
-    "totalMedia": 28.58,
+    "jogos": 27,
+    "proMedia": 16.11,
+    "contraMedia": 12.37,
+    "totalMedia": 28.48,
     "casa": {
      "jogos": 13,
      "pro": 17.85,
      "contra": 9
     },
     "fora": {
-     "jogos": 13,
-     "pro": 14.46,
-     "contra": 15.85
+     "jogos": 14,
+     "pro": 14.5,
+     "contra": 15.5
     }
    },
    "alvo_ht": {
-    "jogos": 26,
-    "proMedia": 2.31,
-    "contraMedia": 1.88,
-    "totalMedia": 4.19,
+    "jogos": 27,
+    "proMedia": 2.3,
+    "contraMedia": 1.96,
+    "totalMedia": 4.26,
     "casa": {
      "jogos": 13,
      "pro": 2.46,
      "contra": 1.08
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.15,
-     "contra": 2.69
+     "jogos": 14,
+     "pro": 2.14,
+     "contra": 2.79
     }
    },
    "alvo_ft": {
-    "jogos": 26,
+    "jogos": 27,
     "proMedia": 5.04,
-    "contraMedia": 4.08,
-    "totalMedia": 9.12,
+    "contraMedia": 4.15,
+    "totalMedia": 9.19,
     "casa": {
      "jogos": 13,
      "pro": 5,
      "contra": 2.92
     },
     "fora": {
-     "jogos": 13,
-     "pro": 5.08,
-     "contra": 5.23
+     "jogos": 14,
+     "pro": 5.07,
+     "contra": 5.29
     }
    },
    "cartoes_ht": {
-    "jogos": 26,
-    "proMedia": 1.12,
-    "contraMedia": 0.54,
-    "totalMedia": 1.65,
+    "jogos": 27,
+    "proMedia": 1.11,
+    "contraMedia": 0.56,
+    "totalMedia": 1.67,
     "casa": {
      "jogos": 13,
      "pro": 1.15,
      "contra": 0.77
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.08,
-     "contra": 0.31
+     "jogos": 14,
+     "pro": 1.07,
+     "contra": 0.36
     }
    },
    "cartoes_ft": {
-    "jogos": 26,
-    "proMedia": 2.92,
-    "contraMedia": 2.12,
-    "totalMedia": 5.04,
+    "jogos": 27,
+    "proMedia": 2.93,
+    "contraMedia": 2.15,
+    "totalMedia": 5.07,
     "casa": {
      "jogos": 13,
      "pro": 2.69,
      "contra": 2.38
     },
     "fora": {
-     "jogos": 13,
-     "pro": 3.15,
-     "contra": 1.85
+     "jogos": 14,
+     "pro": 3.14,
+     "contra": 1.93
     }
    },
    "faltas_ht": {
-    "jogos": 26,
-    "proMedia": 7.04,
-    "contraMedia": 5.23,
-    "totalMedia": 12.27,
+    "jogos": 27,
+    "proMedia": 7.07,
+    "contraMedia": 5.19,
+    "totalMedia": 12.26,
     "casa": {
      "jogos": 13,
      "pro": 7,
      "contra": 5.62
     },
     "fora": {
-     "jogos": 13,
-     "pro": 7.08,
-     "contra": 4.85
+     "jogos": 14,
+     "pro": 7.14,
+     "contra": 4.79
     }
    },
    "faltas_ft": {
-    "jogos": 26,
-    "proMedia": 14.23,
-    "contraMedia": 11.81,
-    "totalMedia": 26.04,
+    "jogos": 27,
+    "proMedia": 14.26,
+    "contraMedia": 11.7,
+    "totalMedia": 25.96,
     "casa": {
      "jogos": 13,
      "pro": 14.23,
      "contra": 12.38
     },
     "fora": {
-     "jogos": 13,
-     "pro": 14.23,
-     "contra": 11.23
+     "jogos": 14,
+     "pro": 14.29,
+     "contra": 11.07
     }
    },
    "gols_ht": {
-    "jogos": 26,
-    "proMedia": 0.69,
-    "contraMedia": 0.54,
-    "totalMedia": 1.23,
+    "jogos": 27,
+    "proMedia": 0.67,
+    "contraMedia": 0.56,
+    "totalMedia": 1.22,
     "casa": {
      "jogos": 13,
      "pro": 1,
      "contra": 0.46
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.38,
-     "contra": 0.62
+     "jogos": 14,
+     "pro": 0.36,
+     "contra": 0.64
     }
    },
    "gols_ft": {
-    "jogos": 26,
-    "proMedia": 1.23,
-    "contraMedia": 1.12,
-    "totalMedia": 2.35,
+    "jogos": 27,
+    "proMedia": 1.22,
+    "contraMedia": 1.15,
+    "totalMedia": 2.37,
     "casa": {
      "jogos": 13,
      "pro": 1.46,
      "contra": 1.08
     },
     "fora": {
-     "jogos": 13,
+     "jogos": 14,
      "pro": 1,
-     "contra": 1.15
+     "contra": 1.21
     }
    },
    "ultimos": [
-    {
-     "data": "2026-05-24",
-     "adv": "Vasco da Gama",
-     "mando": "F",
-     "golsHt": [
-      1,
-      0
-     ],
-     "golsFt": [
-      3,
-      0
-     ],
-     "ht": {
-      "esc": [
-       3,
-       2
-      ],
-      "ch": [
-       12,
-       3
-      ],
-      "car": [
-       1,
-       0
-      ]
-     },
-     "ft": {
-      "esc": [
-       6,
-       6
-      ],
-      "ch": [
-       21,
-       14
-      ],
-      "car": [
-       4,
-       1
-      ]
-     }
-    },
     {
      "data": "2026-05-31",
      "adv": "Internacional",
@@ -4955,244 +4914,244 @@
        3
       ]
      }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Flamengo",
+     "mando": "F",
+     "golsHt": [
+      0,
+      1
+     ],
+     "golsFt": [
+      1,
+      2
+     ],
+     "ht": {
+      "esc": [
+       1,
+       1
+      ],
+      "ch": [
+       5,
+       8
+      ],
+      "car": [
+       1,
+       1
+      ]
+     },
+     "ft": {
+      "esc": [
+       5,
+       2
+      ],
+      "ch": [
+       15,
+       11
+      ],
+      "car": [
+       3,
+       3
+      ]
+     }
     }
    ]
   },
   "Bahia": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 3,
-    "contraMedia": 2.22,
-    "totalMedia": 5.22,
+    "jogos": 28,
+    "proMedia": 2.89,
+    "contraMedia": 2.21,
+    "totalMedia": 5.11,
     "casa": {
      "jogos": 14,
      "pro": 2.79,
      "contra": 1.79
     },
     "fora": {
-     "jogos": 13,
-     "pro": 3.23,
-     "contra": 2.69
+     "jogos": 14,
+     "pro": 3,
+     "contra": 2.64
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 5.74,
-    "contraMedia": 5.56,
-    "totalMedia": 11.3,
+    "jogos": 28,
+    "proMedia": 5.64,
+    "contraMedia": 5.57,
+    "totalMedia": 11.21,
     "casa": {
      "jogos": 14,
      "pro": 6.36,
      "contra": 4.36
     },
     "fora": {
-     "jogos": 13,
-     "pro": 5.08,
-     "contra": 6.85
+     "jogos": 14,
+     "pro": 4.93,
+     "contra": 6.79
     }
    },
    "chutes_ht": {
-    "jogos": 27,
-    "proMedia": 7.22,
-    "contraMedia": 6.07,
-    "totalMedia": 13.3,
+    "jogos": 28,
+    "proMedia": 7.11,
+    "contraMedia": 6,
+    "totalMedia": 13.11,
     "casa": {
      "jogos": 14,
      "pro": 7.14,
      "contra": 4.71
     },
     "fora": {
-     "jogos": 13,
-     "pro": 7.31,
-     "contra": 7.54
+     "jogos": 14,
+     "pro": 7.07,
+     "contra": 7.29
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 14.59,
-    "contraMedia": 14.3,
-    "totalMedia": 28.89,
+    "jogos": 28,
+    "proMedia": 14.43,
+    "contraMedia": 14.18,
+    "totalMedia": 28.61,
     "casa": {
      "jogos": 14,
      "pro": 14.93,
      "contra": 11.07
     },
     "fora": {
-     "jogos": 13,
-     "pro": 14.23,
-     "contra": 17.77
+     "jogos": 14,
+     "pro": 13.93,
+     "contra": 17.29
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 2.63,
-    "contraMedia": 1.89,
-    "totalMedia": 4.52,
+    "jogos": 28,
+    "proMedia": 2.57,
+    "contraMedia": 1.96,
+    "totalMedia": 4.54,
     "casa": {
      "jogos": 14,
      "pro": 3.07,
      "contra": 1.64
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.15,
-     "contra": 2.15
+     "jogos": 14,
+     "pro": 2.07,
+     "contra": 2.29
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 5.04,
-    "contraMedia": 4.81,
-    "totalMedia": 9.85,
+    "jogos": 28,
+    "proMedia": 4.96,
+    "contraMedia": 4.86,
+    "totalMedia": 9.82,
     "casa": {
      "jogos": 14,
      "pro": 5.64,
      "contra": 3.57
     },
     "fora": {
-     "jogos": 13,
-     "pro": 4.38,
-     "contra": 6.15
+     "jogos": 14,
+     "pro": 4.29,
+     "contra": 6.14
     }
    },
    "cartoes_ht": {
-    "jogos": 27,
-    "proMedia": 0.81,
-    "contraMedia": 0.89,
-    "totalMedia": 1.7,
+    "jogos": 28,
+    "proMedia": 0.82,
+    "contraMedia": 0.93,
+    "totalMedia": 1.75,
     "casa": {
      "jogos": 14,
      "pro": 1,
      "contra": 0.93
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.62,
-     "contra": 0.85
+     "jogos": 14,
+     "pro": 0.64,
+     "contra": 0.93
     }
    },
    "cartoes_ft": {
-    "jogos": 27,
-    "proMedia": 2.33,
-    "contraMedia": 2.7,
-    "totalMedia": 5.04,
+    "jogos": 28,
+    "proMedia": 2.36,
+    "contraMedia": 2.71,
+    "totalMedia": 5.07,
     "casa": {
      "jogos": 14,
      "pro": 2.36,
      "contra": 2.79
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.31,
-     "contra": 2.62
+     "jogos": 14,
+     "pro": 2.36,
+     "contra": 2.64
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 6.96,
-    "contraMedia": 7.19,
-    "totalMedia": 14.15,
+    "jogos": 28,
+    "proMedia": 6.89,
+    "contraMedia": 7.04,
+    "totalMedia": 13.93,
     "casa": {
      "jogos": 14,
      "pro": 8.29,
      "contra": 7.86
     },
     "fora": {
-     "jogos": 13,
-     "pro": 5.54,
-     "contra": 6.46
+     "jogos": 14,
+     "pro": 5.5,
+     "contra": 6.21
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 14.07,
-    "contraMedia": 14.48,
-    "totalMedia": 28.56,
+    "jogos": 28,
+    "proMedia": 14.04,
+    "contraMedia": 14.25,
+    "totalMedia": 28.29,
     "casa": {
      "jogos": 14,
      "pro": 15.29,
      "contra": 15.79
     },
     "fora": {
-     "jogos": 13,
-     "pro": 12.77,
-     "contra": 13.08
+     "jogos": 14,
+     "pro": 12.79,
+     "contra": 12.71
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.85,
-    "contraMedia": 0.67,
-    "totalMedia": 1.52,
+    "jogos": 28,
+    "proMedia": 0.86,
+    "contraMedia": 0.68,
+    "totalMedia": 1.54,
     "casa": {
      "jogos": 14,
      "pro": 0.93,
      "contra": 0.64
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.77,
-     "contra": 0.69
+     "jogos": 14,
+     "pro": 0.79,
+     "contra": 0.71
     }
    },
    "gols_ft": {
-    "jogos": 27,
-    "proMedia": 1.56,
-    "contraMedia": 1.22,
-    "totalMedia": 2.78,
+    "jogos": 28,
+    "proMedia": 1.54,
+    "contraMedia": 1.25,
+    "totalMedia": 2.79,
     "casa": {
      "jogos": 14,
      "pro": 1.57,
      "contra": 1
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.54,
-     "contra": 1.46
+     "jogos": 14,
+     "pro": 1.5,
+     "contra": 1.5
     }
    },
    "ultimos": [
-    {
-     "data": "2026-07-17",
-     "adv": "Chapecoense",
-     "mando": "C",
-     "golsHt": [
-      2,
-      0
-     ],
-     "golsFt": [
-      2,
-      0
-     ],
-     "ht": {
-      "esc": [
-       6,
-       2
-      ],
-      "ch": [
-       8,
-       3
-      ],
-      "car": [
-       0,
-       0
-      ]
-     },
-     "ft": {
-      "esc": [
-       10,
-       6
-      ],
-      "ch": [
-       16,
-       10
-      ],
-      "car": [
-       2,
-       0
-      ]
-     }
-    },
     {
      "data": "2026-07-21",
      "adv": "Atlético Mineiro",
@@ -5559,6 +5518,47 @@
       "car": [
        2,
        1
+      ]
+     }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Athletico",
+     "mando": "F",
+     "golsHt": [
+      1,
+      1
+     ],
+     "golsFt": [
+      1,
+      2
+     ],
+     "ht": {
+      "esc": [
+       0,
+       2
+      ],
+      "ch": [
+       4,
+       4
+      ],
+      "car": [
+       1,
+       2
+      ]
+     },
+     "ft": {
+      "esc": [
+       3,
+       6
+      ],
+      "ch": [
+       10,
+       11
+      ],
+      "car": [
+       3,
+       3
       ]
      }
     }
@@ -6172,239 +6172,198 @@
   },
   "Cruzeiro": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 2.56,
-    "contraMedia": 1.89,
-    "totalMedia": 4.44,
+    "jogos": 28,
+    "proMedia": 2.5,
+    "contraMedia": 1.93,
+    "totalMedia": 4.43,
     "casa": {
      "jogos": 14,
      "pro": 3.07,
      "contra": 1.07
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2,
-     "contra": 2.77
+     "jogos": 14,
+     "pro": 1.93,
+     "contra": 2.79
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 5.26,
-    "contraMedia": 4.26,
-    "totalMedia": 9.52,
+    "jogos": 28,
+    "proMedia": 5.14,
+    "contraMedia": 4.39,
+    "totalMedia": 9.54,
     "casa": {
      "jogos": 14,
      "pro": 5.79,
      "contra": 2.64
     },
     "fora": {
-     "jogos": 13,
-     "pro": 4.69,
-     "contra": 6
+     "jogos": 14,
+     "pro": 4.5,
+     "contra": 6.14
     }
    },
    "chutes_ht": {
-    "jogos": 27,
-    "proMedia": 7.44,
-    "contraMedia": 5.78,
-    "totalMedia": 13.22,
+    "jogos": 28,
+    "proMedia": 7.32,
+    "contraMedia": 5.89,
+    "totalMedia": 13.21,
     "casa": {
      "jogos": 14,
      "pro": 8,
      "contra": 3.71
     },
     "fora": {
-     "jogos": 13,
-     "pro": 6.85,
-     "contra": 8
+     "jogos": 14,
+     "pro": 6.64,
+     "contra": 8.07
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 14.59,
-    "contraMedia": 13.15,
-    "totalMedia": 27.74,
+    "jogos": 28,
+    "proMedia": 14.54,
+    "contraMedia": 13.43,
+    "totalMedia": 27.96,
     "casa": {
      "jogos": 14,
      "pro": 16.07,
      "contra": 9.93
     },
     "fora": {
-     "jogos": 13,
+     "jogos": 14,
      "pro": 13,
-     "contra": 16.62
+     "contra": 16.93
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 2.59,
-    "contraMedia": 2.19,
-    "totalMedia": 4.78,
+    "jogos": 28,
+    "proMedia": 2.54,
+    "contraMedia": 2.21,
+    "totalMedia": 4.75,
     "casa": {
      "jogos": 14,
      "pro": 2.43,
      "contra": 1.57
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.77,
-     "contra": 2.85
+     "jogos": 14,
+     "pro": 2.64,
+     "contra": 2.86
     }
    },
    "alvo_ft": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 4.89,
-    "contraMedia": 4.33,
-    "totalMedia": 9.22,
+    "contraMedia": 4.46,
+    "totalMedia": 9.36,
     "casa": {
      "jogos": 14,
      "pro": 4.86,
      "contra": 3.5
     },
     "fora": {
-     "jogos": 13,
-     "pro": 4.92,
-     "contra": 5.23
+     "jogos": 14,
+     "pro": 4.93,
+     "contra": 5.43
     }
    },
    "cartoes_ht": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 0.96,
-    "contraMedia": 0.89,
-    "totalMedia": 1.85,
+    "contraMedia": 0.86,
+    "totalMedia": 1.82,
     "casa": {
      "jogos": 14,
      "pro": 0.79,
      "contra": 0.79
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.15,
-     "contra": 1
+     "jogos": 14,
+     "pro": 1.14,
+     "contra": 0.93
     }
    },
    "cartoes_ft": {
-    "jogos": 27,
-    "proMedia": 2.52,
-    "contraMedia": 2.44,
-    "totalMedia": 4.96,
+    "jogos": 28,
+    "proMedia": 2.54,
+    "contraMedia": 2.36,
+    "totalMedia": 4.89,
     "casa": {
      "jogos": 14,
      "pro": 2.43,
      "contra": 3
     },
     "fora": {
-     "jogos": 13,
-     "pro": 2.62,
-     "contra": 1.85
+     "jogos": 14,
+     "pro": 2.64,
+     "contra": 1.71
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 6.96,
-    "contraMedia": 7.41,
-    "totalMedia": 14.37,
+    "jogos": 28,
+    "proMedia": 7,
+    "contraMedia": 7.32,
+    "totalMedia": 14.32,
     "casa": {
      "jogos": 14,
      "pro": 6.64,
      "contra": 7
     },
     "fora": {
-     "jogos": 13,
-     "pro": 7.31,
-     "contra": 7.85
+     "jogos": 14,
+     "pro": 7.36,
+     "contra": 7.64
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 14.11,
-    "contraMedia": 15.74,
-    "totalMedia": 29.85,
+    "jogos": 28,
+    "proMedia": 14.29,
+    "contraMedia": 15.54,
+    "totalMedia": 29.82,
     "casa": {
      "jogos": 14,
      "pro": 13.43,
      "contra": 14.86
     },
     "fora": {
-     "jogos": 13,
-     "pro": 14.85,
-     "contra": 16.69
+     "jogos": 14,
+     "pro": 15.14,
+     "contra": 16.21
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.59,
-    "contraMedia": 0.74,
-    "totalMedia": 1.33,
+    "jogos": 28,
+    "proMedia": 0.57,
+    "contraMedia": 0.75,
+    "totalMedia": 1.32,
     "casa": {
      "jogos": 14,
      "pro": 0.71,
      "contra": 0.64
     },
     "fora": {
-     "jogos": 13,
-     "pro": 0.46,
-     "contra": 0.85
+     "jogos": 14,
+     "pro": 0.43,
+     "contra": 0.86
     }
    },
    "gols_ft": {
-    "jogos": 27,
-    "proMedia": 1.44,
-    "contraMedia": 1.44,
-    "totalMedia": 2.89,
+    "jogos": 28,
+    "proMedia": 1.5,
+    "contraMedia": 1.43,
+    "totalMedia": 2.93,
     "casa": {
      "jogos": 14,
      "pro": 1.71,
      "contra": 1.14
     },
     "fora": {
-     "jogos": 13,
-     "pro": 1.15,
-     "contra": 1.77
+     "jogos": 14,
+     "pro": 1.29,
+     "contra": 1.71
     }
    },
    "ultimos": [
-    {
-     "data": "2026-05-31",
-     "adv": "Fluminense",
-     "mando": "C",
-     "golsHt": [
-      0,
-      1
-     ],
-     "golsFt": [
-      1,
-      1
-     ],
-     "ht": {
-      "esc": [
-       3,
-       2
-      ],
-      "ch": [
-       10,
-       4
-      ],
-      "car": [
-       1,
-       0
-      ]
-     },
-     "ft": {
-      "esc": [
-       5,
-       4
-      ],
-      "ch": [
-       19,
-       10
-      ],
-      "car": [
-       2,
-       2
-      ]
-     }
-    },
     {
      "data": "2026-07-23",
      "adv": "Internacional",
@@ -6771,6 +6730,47 @@
       "car": [
        2,
        3
+      ]
+     }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Vitória",
+     "mando": "F",
+     "golsHt": [
+      0,
+      1
+     ],
+     "golsFt": [
+      3,
+      1
+     ],
+     "ht": {
+      "esc": [
+       1,
+       3
+      ],
+      "ch": [
+       4,
+       9
+      ],
+      "car": [
+       1,
+       0
+      ]
+     },
+     "ft": {
+      "esc": [
+       2,
+       8
+      ],
+      "ch": [
+       13,
+       21
+      ],
+      "car": [
+       3,
+       0
       ]
      }
     }
@@ -9808,14 +9808,14 @@
   },
   "Vitória": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 1.81,
-    "contraMedia": 2.63,
-    "totalMedia": 4.44,
+    "jogos": 28,
+    "proMedia": 1.86,
+    "contraMedia": 2.57,
+    "totalMedia": 4.43,
     "casa": {
-     "jogos": 13,
-     "pro": 1.92,
-     "contra": 1.77
+     "jogos": 14,
+     "pro": 2,
+     "contra": 1.71
     },
     "fora": {
      "jogos": 14,
@@ -9824,14 +9824,14 @@
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 4.44,
-    "contraMedia": 5.07,
-    "totalMedia": 9.52,
+    "jogos": 28,
+    "proMedia": 4.57,
+    "contraMedia": 4.96,
+    "totalMedia": 9.54,
     "casa": {
-     "jogos": 13,
-     "pro": 4.62,
-     "contra": 3.92
+     "jogos": 14,
+     "pro": 4.86,
+     "contra": 3.79
     },
     "fora": {
      "jogos": 14,
@@ -9840,14 +9840,14 @@
     }
    },
    "chutes_ht": {
-    "jogos": 27,
-    "proMedia": 5,
-    "contraMedia": 7.52,
-    "totalMedia": 12.52,
+    "jogos": 28,
+    "proMedia": 5.14,
+    "contraMedia": 7.39,
+    "totalMedia": 12.54,
     "casa": {
-     "jogos": 13,
-     "pro": 6.15,
-     "contra": 6.69
+     "jogos": 14,
+     "pro": 6.36,
+     "contra": 6.5
     },
     "fora": {
      "jogos": 14,
@@ -9856,14 +9856,14 @@
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 11.74,
-    "contraMedia": 15.59,
-    "totalMedia": 27.33,
+    "jogos": 28,
+    "proMedia": 12.07,
+    "contraMedia": 15.5,
+    "totalMedia": 27.57,
     "casa": {
-     "jogos": 13,
-     "pro": 13.85,
-     "contra": 13.77
+     "jogos": 14,
+     "pro": 14.36,
+     "contra": 13.71
     },
     "fora": {
      "jogos": 14,
@@ -9872,14 +9872,14 @@
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 1.85,
-    "contraMedia": 2.56,
-    "totalMedia": 4.41,
+    "jogos": 28,
+    "proMedia": 1.89,
+    "contraMedia": 2.5,
+    "totalMedia": 4.39,
     "casa": {
-     "jogos": 13,
-     "pro": 2,
-     "contra": 1.92
+     "jogos": 14,
+     "pro": 2.07,
+     "contra": 1.86
     },
     "fora": {
      "jogos": 14,
@@ -9888,14 +9888,14 @@
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 3.96,
+    "jogos": 28,
+    "proMedia": 4.11,
     "contraMedia": 4.93,
-    "totalMedia": 8.89,
+    "totalMedia": 9.04,
     "casa": {
-     "jogos": 13,
-     "pro": 4.38,
-     "contra": 3.23
+     "jogos": 14,
+     "pro": 4.64,
+     "contra": 3.36
     },
     "fora": {
      "jogos": 14,
@@ -9904,14 +9904,14 @@
     }
    },
    "cartoes_ht": {
-    "jogos": 26,
-    "proMedia": 0.96,
-    "contraMedia": 1.08,
-    "totalMedia": 2.04,
+    "jogos": 27,
+    "proMedia": 0.93,
+    "contraMedia": 1.07,
+    "totalMedia": 2,
     "casa": {
-     "jogos": 12,
-     "pro": 0.83,
-     "contra": 1.5
+     "jogos": 13,
+     "pro": 0.77,
+     "contra": 1.46
     },
     "fora": {
      "jogos": 14,
@@ -9920,13 +9920,13 @@
     }
    },
    "cartoes_ft": {
-    "jogos": 26,
-    "proMedia": 2.46,
-    "contraMedia": 2.73,
-    "totalMedia": 5.19,
+    "jogos": 27,
+    "proMedia": 2.37,
+    "contraMedia": 2.74,
+    "totalMedia": 5.11,
     "casa": {
-     "jogos": 12,
-     "pro": 2.42,
+     "jogos": 13,
+     "pro": 2.23,
      "contra": 3
     },
     "fora": {
@@ -9936,14 +9936,14 @@
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 6.22,
+    "jogos": 28,
+    "proMedia": 6.18,
     "contraMedia": 8.07,
-    "totalMedia": 14.3,
+    "totalMedia": 14.25,
     "casa": {
-     "jogos": 13,
-     "pro": 6.15,
-     "contra": 8.54
+     "jogos": 14,
+     "pro": 6.07,
+     "contra": 8.5
     },
     "fora": {
      "jogos": 14,
@@ -9952,14 +9952,14 @@
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 13.3,
-    "contraMedia": 15.04,
-    "totalMedia": 28.33,
+    "jogos": 28,
+    "proMedia": 13.18,
+    "contraMedia": 15.18,
+    "totalMedia": 28.36,
     "casa": {
-     "jogos": 13,
-     "pro": 13.85,
-     "contra": 14.62
+     "jogos": 14,
+     "pro": 13.57,
+     "contra": 14.93
     },
     "fora": {
      "jogos": 14,
@@ -9968,14 +9968,14 @@
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.41,
-    "contraMedia": 0.74,
-    "totalMedia": 1.15,
+    "jogos": 28,
+    "proMedia": 0.43,
+    "contraMedia": 0.71,
+    "totalMedia": 1.14,
     "casa": {
-     "jogos": 13,
-     "pro": 0.54,
-     "contra": 0.38
+     "jogos": 14,
+     "pro": 0.57,
+     "contra": 0.36
     },
     "fora": {
      "jogos": 14,
@@ -9984,14 +9984,14 @@
     }
    },
    "gols_ft": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 1,
-    "contraMedia": 1.44,
-    "totalMedia": 2.44,
+    "contraMedia": 1.5,
+    "totalMedia": 2.5,
     "casa": {
-     "jogos": 13,
-     "pro": 1.31,
-     "contra": 0.69
+     "jogos": 14,
+     "pro": 1.29,
+     "contra": 0.86
     },
     "fora": {
      "jogos": 14,
@@ -10000,39 +10000,6 @@
     }
    },
    "ultimos": [
-    {
-     "data": "2026-07-16",
-     "adv": "Vasco da Gama",
-     "mando": "C",
-     "golsHt": [
-      0,
-      0
-     ],
-     "golsFt": [
-      1,
-      0
-     ],
-     "ht": {
-      "esc": [
-       1,
-       1
-      ],
-      "ch": [
-       8,
-       5
-      ]
-     },
-     "ft": {
-      "esc": [
-       3,
-       2
-      ],
-      "ch": [
-       14,
-       13
-      ]
-     }
-    },
     {
      "data": "2026-07-23",
      "adv": "Botafogo",
@@ -10399,6 +10366,47 @@
       "car": [
        5,
        5
+      ]
+     }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Cruzeiro",
+     "mando": "C",
+     "golsHt": [
+      1,
+      0
+     ],
+     "golsFt": [
+      1,
+      3
+     ],
+     "ht": {
+      "esc": [
+       3,
+       1
+      ],
+      "ch": [
+       9,
+       4
+      ],
+      "car": [
+       0,
+       1
+      ]
+     },
+     "ft": {
+      "esc": [
+       8,
+       2
+      ],
+      "ch": [
+       21,
+       13
+      ],
+      "car": [
+       0,
+       3
       ]
      }
     }
@@ -11610,14 +11618,14 @@
   },
   "Flamengo": {
    "escanteios_ht": {
-    "jogos": 27,
-    "proMedia": 2.93,
-    "contraMedia": 2.04,
-    "totalMedia": 4.96,
+    "jogos": 28,
+    "proMedia": 2.86,
+    "contraMedia": 2,
+    "totalMedia": 4.86,
     "casa": {
-     "jogos": 13,
-     "pro": 3.69,
-     "contra": 1.46
+     "jogos": 14,
+     "pro": 3.5,
+     "contra": 1.43
     },
     "fora": {
      "jogos": 14,
@@ -11626,14 +11634,14 @@
     }
    },
    "escanteios_ft": {
-    "jogos": 27,
-    "proMedia": 5.37,
-    "contraMedia": 4.33,
-    "totalMedia": 9.7,
+    "jogos": 28,
+    "proMedia": 5.25,
+    "contraMedia": 4.36,
+    "totalMedia": 9.61,
     "casa": {
-     "jogos": 13,
-     "pro": 6.85,
-     "contra": 3.62
+     "jogos": 14,
+     "pro": 6.5,
+     "contra": 3.71
     },
     "fora": {
      "jogos": 14,
@@ -11642,14 +11650,14 @@
     }
    },
    "chutes_ht": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 8,
     "contraMedia": 5.04,
     "totalMedia": 13.04,
     "casa": {
-     "jogos": 13,
-     "pro": 9.69,
-     "contra": 4.46
+     "jogos": 14,
+     "pro": 9.57,
+     "contra": 4.5
     },
     "fora": {
      "jogos": 14,
@@ -11658,14 +11666,14 @@
     }
    },
    "chutes_ft": {
-    "jogos": 27,
-    "proMedia": 15.85,
-    "contraMedia": 12.3,
-    "totalMedia": 28.15,
+    "jogos": 28,
+    "proMedia": 15.68,
+    "contraMedia": 12.39,
+    "totalMedia": 28.07,
     "casa": {
-     "jogos": 13,
-     "pro": 18.46,
-     "contra": 10.54
+     "jogos": 14,
+     "pro": 17.93,
+     "contra": 10.86
     },
     "fora": {
      "jogos": 14,
@@ -11674,14 +11682,14 @@
     }
    },
    "alvo_ht": {
-    "jogos": 27,
-    "proMedia": 2.52,
-    "contraMedia": 1.3,
-    "totalMedia": 3.81,
+    "jogos": 28,
+    "proMedia": 2.57,
+    "contraMedia": 1.32,
+    "totalMedia": 3.89,
     "casa": {
-     "jogos": 13,
-     "pro": 2.69,
-     "contra": 1.15
+     "jogos": 14,
+     "pro": 2.79,
+     "contra": 1.21
     },
     "fora": {
      "jogos": 14,
@@ -11690,14 +11698,14 @@
     }
    },
    "alvo_ft": {
-    "jogos": 27,
-    "proMedia": 5.26,
-    "contraMedia": 3.56,
-    "totalMedia": 8.81,
+    "jogos": 28,
+    "proMedia": 5.29,
+    "contraMedia": 3.61,
+    "totalMedia": 8.89,
     "casa": {
-     "jogos": 13,
-     "pro": 5.85,
-     "contra": 3.08
+     "jogos": 14,
+     "pro": 5.86,
+     "contra": 3.21
     },
     "fora": {
      "jogos": 14,
@@ -11706,14 +11714,14 @@
     }
    },
    "cartoes_ht": {
-    "jogos": 26,
-    "proMedia": 0.73,
-    "contraMedia": 0.73,
-    "totalMedia": 1.46,
+    "jogos": 27,
+    "proMedia": 0.74,
+    "contraMedia": 0.74,
+    "totalMedia": 1.48,
     "casa": {
-     "jogos": 13,
-     "pro": 0.69,
-     "contra": 0.62
+     "jogos": 14,
+     "pro": 0.71,
+     "contra": 0.64
     },
     "fora": {
      "jogos": 13,
@@ -11722,14 +11730,14 @@
     }
    },
    "cartoes_ft": {
-    "jogos": 26,
-    "proMedia": 2.12,
-    "contraMedia": 2.23,
-    "totalMedia": 4.35,
+    "jogos": 27,
+    "proMedia": 2.15,
+    "contraMedia": 2.26,
+    "totalMedia": 4.41,
     "casa": {
-     "jogos": 13,
-     "pro": 2.15,
-     "contra": 2.23
+     "jogos": 14,
+     "pro": 2.21,
+     "contra": 2.29
     },
     "fora": {
      "jogos": 13,
@@ -11738,14 +11746,14 @@
     }
    },
    "faltas_ht": {
-    "jogos": 27,
-    "proMedia": 5.44,
-    "contraMedia": 6.07,
-    "totalMedia": 11.52,
+    "jogos": 28,
+    "proMedia": 5.39,
+    "contraMedia": 6.14,
+    "totalMedia": 11.54,
     "casa": {
-     "jogos": 13,
-     "pro": 5.38,
-     "contra": 5.15
+     "jogos": 14,
+     "pro": 5.29,
+     "contra": 5.36
     },
     "fora": {
      "jogos": 14,
@@ -11754,14 +11762,14 @@
     }
    },
    "faltas_ft": {
-    "jogos": 27,
-    "proMedia": 11.78,
-    "contraMedia": 11.96,
-    "totalMedia": 23.74,
+    "jogos": 28,
+    "proMedia": 11.68,
+    "contraMedia": 12.07,
+    "totalMedia": 23.75,
     "casa": {
-     "jogos": 13,
-     "pro": 12.23,
-     "contra": 11.62
+     "jogos": 14,
+     "pro": 12,
+     "contra": 11.86
     },
     "fora": {
      "jogos": 14,
@@ -11770,14 +11778,14 @@
     }
    },
    "gols_ht": {
-    "jogos": 27,
-    "proMedia": 0.81,
-    "contraMedia": 0.26,
+    "jogos": 28,
+    "proMedia": 0.82,
+    "contraMedia": 0.25,
     "totalMedia": 1.07,
     "casa": {
-     "jogos": 13,
-     "pro": 0.69,
-     "contra": 0.15
+     "jogos": 14,
+     "pro": 0.71,
+     "contra": 0.14
     },
     "fora": {
      "jogos": 14,
@@ -11786,14 +11794,14 @@
     }
    },
    "gols_ft": {
-    "jogos": 27,
+    "jogos": 28,
     "proMedia": 1.96,
-    "contraMedia": 0.81,
-    "totalMedia": 2.78,
+    "contraMedia": 0.82,
+    "totalMedia": 2.79,
     "casa": {
-     "jogos": 13,
+     "jogos": 14,
      "pro": 2,
-     "contra": 0.69
+     "contra": 0.71
     },
     "fora": {
      "jogos": 14,
@@ -11802,47 +11810,6 @@
     }
    },
    "ultimos": [
-    {
-     "data": "2026-07-23",
-     "adv": "Chapecoense",
-     "mando": "F",
-     "golsHt": [
-      2,
-      0
-     ],
-     "golsFt": [
-      4,
-      0
-     ],
-     "ht": {
-      "esc": [
-       3,
-       3
-      ],
-      "ch": [
-       3,
-       4
-      ],
-      "car": [
-       0,
-       0
-      ]
-     },
-     "ft": {
-      "esc": [
-       3,
-       5
-      ],
-      "ch": [
-       10,
-       13
-      ],
-      "car": [
-       0,
-       1
-      ]
-     }
-    },
     {
      "data": "2026-07-26",
      "adv": "São Paulo",
@@ -12208,6 +12175,47 @@
       ],
       "car": [
        4,
+       3
+      ]
+     }
+    },
+    {
+     "data": "2026-09-20",
+     "adv": "Red Bull Bragantino",
+     "mando": "C",
+     "golsHt": [
+      1,
+      0
+     ],
+     "golsFt": [
+      2,
+      1
+     ],
+     "ht": {
+      "esc": [
+       1,
+       1
+      ],
+      "ch": [
+       8,
+       5
+      ],
+      "car": [
+       1,
+       1
+      ]
+     },
+     "ft": {
+      "esc": [
+       2,
+       5
+      ],
+      "ch": [
+       11,
+       15
+      ],
+      "car": [
+       3,
        3
       ]
      }

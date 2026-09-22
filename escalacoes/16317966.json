@@ -11,6 +11,11 @@
  "provavelCasa": {
   "baseadoEm": [
    {
+    "data": "2026-09-21",
+    "adv": "CF Pachuca",
+    "mando": "F"
+   },
+   {
     "data": "2026-09-12",
     "adv": "Querétaro FC",
     "mando": "C"
@@ -19,11 +24,6 @@
     "data": "2026-08-29",
     "adv": "Pumas UNAM",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-23",
-    "adv": "CD Guadalajara",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -51,8 +51,8 @@
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 0,
-    "chFt": 5
+    "chHt": 1,
+    "chFt": 4
    },
    {
     "id": 974227,
@@ -61,7 +61,7 @@
     "min": 270,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 2
+    "chFt": 0
    },
    {
     "id": 975536,
@@ -73,112 +73,103 @@
     "chFt": 2
    },
    {
-    "id": 1914576,
-    "nome": "Gilberto Mora",
-    "pos": "M",
-    "min": 236,
+    "id": 1010891,
+    "nome": "Mourad El Ghezouani",
+    "pos": "F",
+    "min": 258,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 7
+    "chHt": 0,
+    "chFt": 8
    },
    {
     "id": 1132927,
     "nome": "Jesús Vega",
     "pos": "D",
-    "min": 212,
+    "min": 251,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 1914576,
+    "nome": "Gilberto Mora",
+    "pos": "M",
+    "min": 220,
+    "jogos": 3,
+    "chHt": 4,
+    "chFt": 9
+   },
+   {
+    "id": 1482052,
+    "nome": "Ramiro Árciga",
+    "pos": "D",
+    "min": 166,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 7
+    "chFt": 2
+   },
+   {
+    "id": 1409360,
+    "nome": "Yael Padilla",
+    "pos": "F",
+    "min": 160,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 4
    },
    {
     "id": 983528,
     "nome": "Francisco González",
     "pos": "M",
-    "min": 193,
-    "jogos": 3,
+    "min": 159,
+    "jogos": 2,
     "chHt": 1,
-    "chFt": 4
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 905194,
+    "nome": "Unai Bilbao",
+    "pos": "D",
+    "min": 103,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
    },
    {
     "id": 992118,
     "nome": "Rafael Fernández",
     "pos": "D",
-    "min": 180,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 1
-   },
-   {
-    "id": 1409360,
-    "nome": "Yael Padilla",
-    "pos": "M",
-    "min": 178,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 5
-   },
-   {
-    "id": 1010891,
-    "nome": "Mourad El Ghezouani",
-    "pos": "F",
-    "min": 174,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 6
-   }
-  ],
-  "banco": [
-   {
-    "id": 1482052,
-    "nome": "Ramiro Árciga",
-    "pos": "D",
-    "min": 159,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 3
-   },
-   {
-    "id": 1150127,
-    "nome": "Diego Abreu",
-    "pos": "F",
     "min": 90,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 5
-   },
-   {
-    "id": 1507502,
-    "nome": "Pablo Nicolás Ortíz",
-    "pos": "D",
-    "min": 53,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 789308,
-    "nome": "José Rivero",
-    "pos": "M",
-    "min": 45,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
-   },
-   {
-    "id": 1066681,
-    "nome": "Elias Manoel",
-    "pos": "F",
-    "min": 45,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 3
    },
    {
     "id": 1046410,
     "nome": "Ángel Zapata",
     "pos": "M",
-    "min": 24,
+    "min": 84,
     "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1150127,
+    "nome": "Diego Abreu",
+    "pos": "F",
+    "min": 58,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 789308,
+    "nome": "José Rivero",
+    "pos": "M",
+    "min": 27,
+    "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
@@ -190,11 +181,25 @@
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
+   },
+   {
+    "id": 1507502,
+    "nome": "Pablo Nicolás Ortíz",
+    "pos": "D",
+    "min": 21,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
    }
   ]
  },
  "provavelFora": {
   "baseadoEm": [
+   {
+    "data": "2026-09-19",
+    "adv": "Pumas UNAM",
+    "mando": "C"
+   },
    {
     "data": "2026-09-12",
     "adv": "CD Toluca",
@@ -203,11 +208,6 @@
    {
     "data": "2026-09-06",
     "adv": "Atlante FC",
-    "mando": "C"
-   },
-   {
-    "data": "2026-08-29",
-    "adv": "Querétaro FC",
     "mando": "C"
    }
   ],
@@ -227,42 +227,78 @@
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 8
+    "chHt": 4,
+    "chFt": 7
    },
    {
     "id": 1097527,
     "nome": "Luís Esteves",
-    "pos": "M",
+    "pos": "F",
     "min": 260,
     "jogos": 3,
-    "chHt": 5,
-    "chFt": 6
+    "chHt": 7,
+    "chFt": 9
+   },
+   {
+    "id": 832868,
+    "nome": "Jorge Sánchez",
+    "pos": "M",
+    "min": 242,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
    },
    {
     "id": 940611,
     "nome": "Manuel Capasso",
     "pos": "D",
-    "min": 228,
+    "min": 221,
     "jogos": 3,
-    "chHt": 2,
-    "chFt": 5
+    "chHt": 3,
+    "chFt": 4
    },
    {
-    "id": 830889,
-    "nome": "Milton Valenzuela",
+    "id": 1097708,
+    "nome": "Jorge Rodríguez",
     "pos": "D",
-    "min": 199,
+    "min": 193,
     "jogos": 3,
-    "chHt": 0,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 2003201,
+    "nome": "Sergio Hernandez",
+    "pos": "M",
+    "min": 159,
+    "jogos": 3,
+    "chHt": 1,
     "chFt": 1
    },
    {
-    "id": 832868,
-    "nome": "Jorge Sánchez",
-    "pos": "D",
-    "min": 184,
+    "id": 1897528,
+    "nome": "Paulo Ramírez",
+    "pos": "M",
+    "min": 145,
     "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 829733,
+    "nome": "Gaddi Aguirre",
+    "pos": "D",
+    "min": 136,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 940699,
+    "nome": "Adonis Frías",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
     "chHt": 1,
     "chFt": 2
    },
@@ -270,75 +306,39 @@
     "id": 155633,
     "nome": "Arturo González",
     "pos": "M",
-    "min": 184,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 2
-   },
-   {
-    "id": 874084,
-    "nome": "Rodrigo Schlegel",
-    "pos": "D",
-    "min": 180,
+    "min": 126,
     "jogos": 2,
     "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 305732,
-    "nome": "Aldo Rocha",
-    "pos": "M",
-    "min": 164,
-    "jogos": 2,
-    "chHt": 2,
-    "chFt": 3
-   },
-   {
-    "id": 1097708,
-    "nome": "Jorge Rodríguez",
-    "pos": "D",
-    "min": 161,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 1897528,
-    "nome": "Paulo Ramírez",
-    "pos": "M",
-    "min": 133,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
+    "chFt": 1
    }
   ],
   "banco": [
    {
-    "id": 2003201,
-    "nome": "Sergio Hernandez",
-    "pos": "M",
-    "min": 110,
-    "jogos": 3,
+    "id": 830889,
+    "nome": "Milton Valenzuela",
+    "pos": "D",
+    "min": 122,
+    "jogos": 2,
     "chHt": 0,
     "chFt": 0
    },
    {
-    "id": 1390389,
-    "nome": "Duk",
-    "pos": "F",
-    "min": 103,
+    "id": 1503702,
+    "nome": "Elías Montiel",
+    "pos": "M",
+    "min": 109,
     "jogos": 2,
-    "chHt": 0,
-    "chFt": 3
+    "chHt": 1,
+    "chFt": 1
    },
    {
-    "id": 829733,
-    "nome": "Gaddi Aguirre",
+    "id": 897734,
+    "nome": "Juan José Purata",
     "pos": "D",
     "min": 90,
     "jogos": 1,
     "chHt": 1,
-    "chFt": 1
+    "chFt": 3
    },
    {
     "id": 1516877,
@@ -350,8 +350,8 @@
     "chFt": 2
    },
    {
-    "id": 940699,
-    "nome": "Adonis Frías",
+    "id": 874084,
+    "nome": "Rodrigo Schlegel",
     "pos": "D",
     "min": 90,
     "jogos": 1,
@@ -359,22 +359,22 @@
     "chFt": 1
    },
    {
-    "id": 897734,
-    "nome": "Juan José Purata",
-    "pos": "D",
-    "min": 90,
+    "id": 305732,
+    "nome": "Aldo Rocha",
+    "pos": "M",
+    "min": 87,
     "jogos": 1,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 1
    },
    {
-    "id": 825274,
-    "nome": "Ryan Mmaee",
+    "id": 1390389,
+    "nome": "Duk",
     "pos": "F",
-    "min": 57,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
+    "min": 80,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 5
    }
   ]
  },

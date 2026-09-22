@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-20T20:26:15.221Z",
+ "gerado": "2026-09-22T21:11:49.260Z",
  "competicoes": [
   {
    "chave": "argentina-2026",
@@ -8,11 +8,11 @@
    "ano": "2026",
    "torneioId": 155,
    "temporadaId": 87913,
-   "jogos": 391,
+   "jogos": 398,
    "jogosNaFonte": 379,
    "periodo": {
     "de": "2026-01-22",
-    "ate": "2026-09-20"
+    "ate": "2026-09-22"
    },
    "arquivo": "argentina-2026.json",
    "pastaDosTimes": "times/argentina-2026/",
@@ -94,7 +94,7 @@
    "ano": "2026",
    "torneioId": 325,
    "temporadaId": 87678,
-   "jogos": 273,
+   "jogos": 277,
    "jogosNaFonte": 245,
    "periodo": {
     "de": "2026-01-28",
@@ -171,11 +171,11 @@
    "ano": "2026",
    "torneioId": 390,
    "temporadaId": 89840,
-   "jogos": 286,
+   "jogos": 289,
    "jogosNaFonte": 254,
    "periodo": {
     "de": "2026-03-21",
-    "ate": "2026-09-20"
+    "ate": "2026-09-22"
    },
    "arquivo": "brasileirao-b-2026.json",
    "pastaDosTimes": "times/brasileirao-b-2026/",
@@ -593,11 +593,11 @@
    "ano": "2026",
    "torneioId": 39,
    "temporadaId": 95785,
-   "jogos": 49,
+   "jogos": 54,
    "jogosNaFonte": 43,
    "periodo": {
     "de": "2026-07-24",
-    "ate": "2026-09-18"
+    "ate": "2026-09-20"
    },
    "arquivo": "dinamarca-2026.json",
    "pastaDosTimes": "times/dinamarca-2026/",
@@ -847,7 +847,7 @@
    "ano": "2026",
    "torneioId": 8,
    "temporadaId": 97268,
-   "jogos": 68,
+   "jogos": 69,
    "jogosNaFonte": 35,
    "periodo": {
     "de": "2026-08-15",
@@ -1054,7 +1054,7 @@
    "ano": "2026",
    "torneioId": 34,
    "temporadaId": 96127,
-   "jogos": 44,
+   "jogos": 45,
    "jogosNaFonte": 27,
    "periodo": {
     "de": "2026-08-21",
@@ -1090,11 +1090,11 @@
    "ano": "2026",
    "torneioId": 11621,
    "temporadaId": 96191,
-   "jogos": 67,
+   "jogos": 76,
    "jogosNaFonte": 60,
    "periodo": {
     "de": "2026-07-17",
-    "ate": "2026-09-16"
+    "ate": "2026-09-21"
    },
    "arquivo": "mexico-2026.json",
    "pastaDosTimes": "times/mexico-2026/",
@@ -1174,7 +1174,7 @@
    "ano": "2026",
    "torneioId": 242,
    "temporadaId": 86668,
-   "jogos": 386,
+   "jogos": 387,
    "jogosNaFonte": 330,
    "periodo": {
     "de": "2026-02-21",
@@ -1256,7 +1256,7 @@
    "ano": "2026",
    "torneioId": 238,
    "temporadaId": 97436,
-   "jogos": 61,
+   "jogos": 62,
    "jogosNaFonte": 47,
    "periodo": {
     "de": "2026-08-07",
@@ -1406,7 +1406,7 @@
    "ano": "2026",
    "torneioId": 23,
    "temporadaId": 95836,
-   "jogos": 49,
+   "jogos": 50,
    "jogosNaFonte": 30,
    "periodo": {
     "de": "2026-08-22",
@@ -1660,7 +1660,7 @@
   {
    "competicao": "argentina-2026",
    "arquivo": "scout-argentina-2026.json",
-   "jogadores": 478,
+   "jogadores": 463,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/argentina-2026/"
   },
@@ -1674,7 +1674,7 @@
   {
    "competicao": "brasileirao-a-2026",
    "arquivo": "scout-brasileirao-a-2026.json",
-   "jogadores": 485,
+   "jogadores": 488,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/brasileirao-a-2026/"
   },
@@ -1716,7 +1716,7 @@
   {
    "competicao": "championship-2026",
    "arquivo": "scout-championship-2026.json",
-   "jogadores": 275,
+   "jogadores": 299,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/championship-2026/"
   },
@@ -1737,7 +1737,7 @@
   {
    "competicao": "dinamarca-2026",
    "arquivo": "scout-dinamarca-2026.json",
-   "jogadores": 159,
+   "jogadores": 172,
    "cartoes": false,
    "pastaDoScoutPorTime": "scout-times/dinamarca-2026/"
   },
@@ -1779,7 +1779,7 @@
   {
    "competicao": "laliga-2026",
    "arquivo": "scout-laliga-2026.json",
-   "jogadores": 250,
+   "jogadores": 256,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/laliga-2026/"
   },
@@ -1807,14 +1807,14 @@
   {
    "competicao": "ligue1-2026",
    "arquivo": "scout-ligue1-2026.json",
-   "jogadores": 224,
+   "jogadores": 226,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/ligue1-2026/"
   },
   {
    "competicao": "mexico-2026",
    "arquivo": "scout-mexico-2026.json",
-   "jogadores": 230,
+   "jogadores": 250,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/mexico-2026/"
   },
@@ -1835,14 +1835,14 @@
   {
    "competicao": "noruega-2026",
    "arquivo": "scout-noruega-2026.json",
-   "jogadores": 307,
+   "jogadores": 311,
    "cartoes": false,
    "pastaDoScoutPorTime": "scout-times/noruega-2026/"
   },
   {
    "competicao": "portugal-2026",
    "arquivo": "scout-portugal-2026.json",
-   "jogadores": 200,
+   "jogadores": 209,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/portugal-2026/"
   },
@@ -1870,14 +1870,14 @@
   {
    "competicao": "seriea-2026",
    "arquivo": "scout-seriea-2026.json",
-   "jogadores": 246,
+   "jogadores": 249,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/seriea-2026/"
   },
   {
    "competicao": "suecia-2026",
    "arquivo": "scout-suecia-2026.json",
-   "jogadores": 301,
+   "jogadores": 308,
    "cartoes": false,
    "pastaDoScoutPorTime": "scout-times/suecia-2026/"
   },
@@ -1898,7 +1898,7 @@
   {
    "competicao": "turquia-2026",
    "arquivo": "scout-turquia-2026.json",
-   "jogadores": 225,
+   "jogadores": 220,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/turquia-2026/"
   }

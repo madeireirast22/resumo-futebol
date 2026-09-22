@@ -2,7 +2,7 @@
  "eventoId": 16317970,
  "competicao": "mexico",
  "competicaoNome": "Liga MX Apertura (MEX)",
- "data": "2026-09-27T01:00:00.000Z",
+ "data": "2026-09-27T03:05:00.000Z",
  "rodada": 10,
  "casa": "Santos Laguna",
  "casaId": 1948,
@@ -10,6 +10,11 @@
  "foraId": 1936,
  "provavelCasa": {
   "baseadoEm": [
+   {
+    "data": "2026-09-21",
+    "adv": "CD Toluca",
+    "mando": "F"
+   },
    {
     "data": "2026-09-14",
     "adv": "FC Juárez",
@@ -19,11 +24,6 @@
     "data": "2026-09-06",
     "adv": "Cruz Azul",
     "mando": "F"
-   },
-   {
-    "data": "2026-08-30",
-    "adv": "Tigres UANL",
-    "mando": "C"
    }
   ],
   "titulares": [
@@ -37,83 +37,47 @@
     "chFt": 0
    },
    {
+    "id": 1025301,
+    "nome": "Mauricio Cuevas",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
     "id": 1467314,
     "nome": "Felipe Sánchez",
     "pos": "D",
     "min": 270,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 1025301,
-    "nome": "Mauricio Cuevas",
-    "pos": "M",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 1
+    "chFt": 2
    },
    {
     "id": 960077,
     "nome": "Ezequiel Bullaude",
-    "pos": "F",
-    "min": 264,
+    "pos": "M",
+    "min": 243,
     "jogos": 3,
-    "chHt": 4,
-    "chFt": 10
-   },
-   {
-    "id": 1131653,
-    "nome": "Kevin Palacios",
-    "pos": "F",
-    "min": 259,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
+    "chHt": 7,
+    "chFt": 12
    },
    {
     "id": 1106593,
     "nome": "Diego González",
-    "pos": "M",
-    "min": 234,
+    "pos": "F",
+    "min": 211,
     "jogos": 3,
-    "chHt": 4,
+    "chHt": 3,
     "chFt": 7
    },
    {
-    "id": 870370,
-    "nome": "Efrain Orona",
-    "pos": "D",
-    "min": 210,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 6
-   },
-   {
-    "id": 1022960,
-    "nome": "Aldo Lopez Vargas",
+    "id": 1131653,
+    "nome": "Kevin Palacios",
     "pos": "M",
-    "min": 174,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 3
-   },
-   {
-    "id": 794952,
-    "nome": "Fran Villalba",
-    "pos": "M",
-    "min": 170,
+    "min": 190,
     "jogos": 3,
-    "chHt": 2,
-    "chFt": 5
-   },
-   {
-    "id": 879962,
-    "nome": "Franco Pardo",
-    "pos": "D",
-    "min": 158,
-    "jogos": 2,
     "chHt": 1,
     "chFt": 3
    },
@@ -121,80 +85,121 @@
     "id": 1410211,
     "nome": "Jonathan Pérez",
     "pos": "D",
-    "min": 112,
+    "min": 180,
     "jogos": 2,
     "chHt": 0,
-    "chFt": 4
-   }
-  ],
-  "banco": [
+    "chFt": 3
+   },
    {
-    "id": 1130643,
-    "nome": "Emmanuel Echeverría",
+    "id": 879962,
+    "nome": "Franco Pardo",
     "pos": "D",
-    "min": 91,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 1
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 4
    },
    {
     "id": 989837,
     "nome": "Facundo Cáseres",
     "pos": "M",
-    "min": 90,
-    "jogos": 1,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 804348,
-    "nome": "Eduardo Aguirre",
-    "pos": "F",
-    "min": 90,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 2
-   },
-   {
-    "id": 1110198,
-    "nome": "Salvador Mariscal",
-    "pos": "M",
-    "min": 90,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1087008,
-    "nome": "Ramiro Sordo",
-    "pos": "M",
-    "min": 85,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 4
-   },
-   {
-    "id": 1818914,
-    "nome": "Luis Gómez",
-    "pos": "M",
-    "min": 81,
-    "jogos": 3,
+    "min": 165,
+    "jogos": 2,
     "chHt": 1,
     "chFt": 2
    },
    {
     "id": 1218825,
     "nome": "Esteban Lozano",
+    "pos": "F",
+    "min": 153,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   },
+   {
+    "id": 794952,
+    "nome": "Fran Villalba",
     "pos": "M",
-    "min": 63,
+    "min": 139,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 1818914,
+    "nome": "Luis Gómez",
+    "pos": "M",
+    "min": 138,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1110198,
+    "nome": "Salvador Mariscal",
+    "pos": "M",
+    "min": 135,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 870370,
+    "nome": "Efrain Orona",
+    "pos": "D",
+    "min": 123,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1130643,
+    "nome": "Emmanuel Echeverría",
+    "pos": "D",
+    "min": 114,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 804348,
+    "nome": "Eduardo Aguirre",
+    "pos": "F",
+    "min": 89,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 4
+   },
+   {
+    "id": 1022960,
+    "nome": "Aldo Lopez Vargas",
+    "pos": "M",
+    "min": 84,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 341939,
+    "nome": "Javier Güemez",
+    "pos": "M",
+    "min": 23,
     "jogos": 2,
     "chHt": 0,
-    "chFt": 3
+    "chFt": 1
    }
   ]
  },
  "provavelFora": {
   "baseadoEm": [
+   {
+    "data": "2026-09-21",
+    "adv": "Club Tijuana",
+    "mando": "C"
+   },
    {
     "data": "2026-09-12",
     "adv": "Atlante FC",
@@ -204,11 +209,6 @@
     "data": "2026-09-05",
     "adv": "FC Juárez",
     "mando": "F"
-   },
-   {
-    "data": "2026-08-29",
-    "adv": "CD Guadalajara",
-    "mando": "C"
    }
   ],
   "titulares": [
@@ -222,13 +222,13 @@
     "chFt": 0
    },
    {
-    "id": 1638695,
-    "nome": "Carlos Sánchez",
+    "id": 358530,
+    "nome": "Eduardo Bauermann",
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
+    "chHt": 2,
+    "chFt": 6
    },
    {
     "id": 915162,
@@ -237,16 +237,7 @@
     "min": 270,
     "jogos": 3,
     "chHt": 2,
-    "chFt": 2
-   },
-   {
-    "id": 845329,
-    "nome": "Francisco Venegas",
-    "pos": "D",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 4
+    "chFt": 3
    },
    {
     "id": 832662,
@@ -254,8 +245,35 @@
     "pos": "M",
     "min": 270,
     "jogos": 3,
-    "chHt": 3,
+    "chHt": 2,
     "chFt": 4
+   },
+   {
+    "id": 1638695,
+    "nome": "Carlos Sánchez",
+    "pos": "D",
+    "min": 260,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 845329,
+    "nome": "Francisco Venegas",
+    "pos": "D",
+    "min": 248,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 2203620,
+    "nome": "Sergio Rodríguez",
+    "pos": "M",
+    "min": 236,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
    },
    {
     "id": 35532,
@@ -263,89 +281,80 @@
     "pos": "F",
     "min": 236,
     "jogos": 3,
-    "chHt": 4,
-    "chFt": 13
+    "chHt": 8,
+    "chFt": 19
    },
    {
     "id": 823963,
     "nome": "Oussama Idrissi",
     "pos": "M",
-    "min": 207,
+    "min": 187,
     "jogos": 3,
-    "chHt": 2,
+    "chHt": 3,
     "chFt": 5
-   },
-   {
-    "id": 801391,
-    "nome": "Kenedy",
-    "pos": "M",
-    "min": 195,
-    "jogos": 3,
-    "chHt": 5,
-    "chFt": 6
-   },
-   {
-    "id": 358530,
-    "nome": "Eduardo Bauermann",
-    "pos": "D",
-    "min": 180,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 2
    },
    {
     "id": 1137870,
     "nome": "Alan Bautista",
     "pos": "M",
-    "min": 154,
+    "min": 142,
     "jogos": 3,
-    "chHt": 2,
-    "chFt": 5
-   },
-   {
-    "id": 2203620,
-    "nome": "Sergio Rodríguez",
-    "pos": "M",
-    "min": 146,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   }
-  ],
-  "banco": [
-   {
-    "id": 1503702,
-    "nome": "Elías Montiel",
-    "pos": "M",
-    "min": 130,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
+    "chHt": 1,
+    "chFt": 3
    },
    {
     "id": 380802,
     "nome": "Rodolfo Pizarro",
     "pos": "M",
-    "min": 96,
+    "min": 108,
     "jogos": 3,
     "chHt": 0,
     "chFt": 1
-   },
+   }
+  ],
+  "banco": [
    {
-    "id": 1503703,
-    "nome": "Jorge Berlanga",
-    "pos": "D",
-    "min": 90,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 2
+    "id": 801391,
+    "nome": "Kenedy",
+    "pos": "M",
+    "min": 108,
+    "jogos": 2,
+    "chHt": 4,
+    "chFt": 4
    },
    {
     "id": 1199242,
     "nome": "Nicolás Vallejo",
     "pos": "F",
-    "min": 74,
+    "min": 94,
     "jogos": 3,
+    "chHt": 0,
+    "chFt": 6
+   },
+   {
+    "id": 1172470,
+    "nome": "Adrián Alcaraz",
+    "pos": "M",
+    "min": 79,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 1503702,
+    "nome": "Elías Montiel",
+    "pos": "M",
+    "min": 65,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1387301,
+    "nome": "Mauricio Isais",
+    "pos": "D",
+    "min": 58,
+    "jogos": 2,
     "chHt": 0,
     "chFt": 1
    },
@@ -353,28 +362,19 @@
     "id": 978706,
     "nome": "Andrés Arroyo",
     "pos": "M",
-    "min": 50,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 2
-   },
-   {
-    "id": 1172470,
-    "nome": "Adrián Alcaraz",
-    "pos": "M",
-    "min": 44,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
-   },
-   {
-    "id": 1387301,
-    "nome": "Mauricio Isais",
-    "pos": "D",
-    "min": 13,
+    "min": 25,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
+   },
+   {
+    "id": 1410175,
+    "nome": "Gael Álvarez",
+    "pos": "F",
+    "min": 22,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
    }
   ]
  },

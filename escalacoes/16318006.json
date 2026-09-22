@@ -2,7 +2,7 @@
  "eventoId": 16318006,
  "competicao": "mexico",
  "competicaoNome": "Liga MX Apertura (MEX)",
- "data": "2026-09-27T01:00:00.000Z",
+ "data": "2026-09-27T03:10:00.000Z",
  "rodada": 10,
  "casa": "Tigres UANL",
  "casaId": 1940,
@@ -10,6 +10,11 @@
  "foraId": 1941,
  "provavelCasa": {
   "baseadoEm": [
+   {
+    "data": "2026-09-19",
+    "adv": "FC Juárez",
+    "mando": "F"
+   },
    {
     "data": "2026-09-13",
     "adv": "CF Monterrey",
@@ -19,11 +24,6 @@
     "data": "2026-09-06",
     "adv": "Club Necaxa",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-30",
-    "adv": "Santos Laguna",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -37,13 +37,13 @@
     "chFt": 0
    },
    {
-    "id": 1047740,
-    "nome": "Joaquim",
+    "id": 991427,
+    "nome": "Jesus Garza",
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
+    "chHt": 0,
+    "chFt": 2
    },
    {
     "id": 155974,
@@ -51,17 +51,8 @@
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 3,
+    "chHt": 2,
     "chFt": 6
-   },
-   {
-    "id": 991427,
-    "nome": "Jesus Garza",
-    "pos": "D",
-    "min": 269,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
    },
    {
     "id": 851070,
@@ -69,8 +60,17 @@
     "pos": "M",
     "min": 265,
     "jogos": 3,
-    "chHt": 7,
-    "chFt": 10
+    "chHt": 4,
+    "chFt": 7
+   },
+   {
+    "id": 1047740,
+    "nome": "Joaquim",
+    "pos": "D",
+    "min": 263,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
    },
    {
     "id": 875402,
@@ -78,41 +78,14 @@
     "pos": "D",
     "min": 261,
     "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
-   },
-   {
-    "id": 989384,
-    "nome": "Rômulo Zwarg",
-    "pos": "M",
-    "min": 250,
-    "jogos": 3,
     "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 874535,
-    "nome": "Diego Lainez",
-    "pos": "M",
-    "min": 224,
-    "jogos": 3,
-    "chHt": 6,
-    "chFt": 8
-   },
-   {
-    "id": 339141,
-    "nome": "Fernando Gorriarán",
-    "pos": "M",
-    "min": 175,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 2
+    "chFt": 3
    },
    {
     "id": 795283,
     "nome": "Mauro Laínez",
     "pos": "D",
-    "min": 170,
+    "min": 228,
     "jogos": 3,
     "chHt": 0,
     "chFt": 0
@@ -121,48 +94,75 @@
     "id": 889813,
     "nome": "Ricardo Monreal",
     "pos": "M",
-    "min": 165,
+    "min": 203,
     "jogos": 3,
     "chHt": 2,
-    "chFt": 3
+    "chFt": 2
+   },
+   {
+    "id": 339141,
+    "nome": "Fernando Gorriarán",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 989384,
+    "nome": "Rômulo Zwarg",
+    "pos": "M",
+    "min": 160,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 874535,
+    "nome": "Diego Lainez",
+    "pos": "M",
+    "min": 159,
+    "jogos": 2,
+    "chHt": 5,
+    "chFt": 7
    }
   ],
   "banco": [
    {
-    "id": 1654600,
-    "nome": "Diego Sánchez",
-    "pos": "F",
-    "min": 116,
+    "id": 990808,
+    "nome": "César Araújo",
+    "pos": "M",
+    "min": 141,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 1111637,
-    "nome": "Francisco Reyes",
-    "pos": "D",
-    "min": 63,
-    "jogos": 1,
     "chHt": 0,
     "chFt": 0
+   },
+   {
+    "id": 1654600,
+    "nome": "Diego Sánchez",
+    "pos": "M",
+    "min": 113,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
    },
    {
     "id": 1828965,
     "nome": "Henrique Simeone Koifman",
     "pos": "M",
-    "min": 60,
-    "jogos": 2,
+    "min": 59,
+    "jogos": 1,
     "chHt": 1,
     "chFt": 1
    },
    {
-    "id": 990808,
-    "nome": "César Araújo",
-    "pos": "M",
-    "min": 51,
+    "id": 962034,
+    "nome": "Ozziel Herrera",
+    "pos": "F",
+    "min": 39,
     "jogos": 2,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 1
    },
    {
     "id": 1475212,
@@ -174,20 +174,20 @@
     "chFt": 1
    },
    {
-    "id": 932685,
-    "nome": "Vladimir Loroña",
-    "pos": "D",
-    "min": 26,
+    "id": 795282,
+    "nome": "Guillermo Martínez",
+    "pos": "F",
+    "min": 28,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
    {
-    "id": 962034,
-    "nome": "Ozziel Herrera",
-    "pos": "F",
-    "min": 12,
-    "jogos": 1,
+    "id": 1141150,
+    "nome": "Rafael Guerrero",
+    "pos": "D",
+    "min": 23,
+    "jogos": 2,
     "chHt": 0,
     "chFt": 0
    }
@@ -196,6 +196,11 @@
  "provavelFora": {
   "baseadoEm": [
    {
+    "data": "2026-09-19",
+    "adv": "Atlante FC",
+    "mando": "C"
+   },
+   {
     "data": "2026-09-16",
     "adv": "CD Toluca",
     "mando": "C"
@@ -203,11 +208,6 @@
    {
     "data": "2026-09-12",
     "adv": "Club Necaxa",
-    "mando": "F"
-   },
-   {
-    "data": "2026-08-30",
-    "adv": "Club América",
     "mando": "F"
    }
   ],
@@ -228,7 +228,7 @@
     "min": 270,
     "jogos": 3,
     "chHt": 2,
-    "chFt": 4
+    "chFt": 5
    },
    {
     "id": 865783,
@@ -237,7 +237,25 @@
     "min": 270,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 3
+    "chFt": 2
+   },
+   {
+    "id": 2024675,
+    "nome": "Sergio Sanabria",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 987031,
+    "nome": "Alejandro Organista",
+    "pos": "M",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
    },
    {
     "id": 909295,
@@ -245,50 +263,79 @@
     "pos": "M",
     "min": 251,
     "jogos": 3,
-    "chHt": 5,
+    "chHt": 4,
+    "chFt": 4
+   },
+   {
+    "id": 1096798,
+    "nome": "Ignacio Maestro Puch",
+    "pos": "F",
+    "min": 208,
+    "jogos": 3,
+    "chHt": 2,
     "chFt": 5
    },
    {
-    "id": 987031,
-    "nome": "Alejandro Organista",
+    "id": 1457530,
+    "nome": "Mathías Tomás",
     "pos": "M",
-    "min": 249,
+    "min": 203,
     "jogos": 3,
-    "chHt": 0,
-    "chFt": 0
+    "chHt": 3,
+    "chFt": 11
    },
    {
     "id": 818016,
     "nome": "Brayan Garnica",
     "pos": "M",
-    "min": 239,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
-   },
-   {
-    "id": 2024675,
-    "nome": "Sergio Sanabria",
-    "pos": "M",
-    "min": 225,
+    "min": 201,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 1
+    "chFt": 2
    },
    {
     "id": 987038,
     "nome": "Fernando Monarrez",
     "pos": "D",
-    "min": 224,
+    "min": 179,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1507314,
+    "nome": "Jose Pachuca",
+    "pos": "D",
+    "min": 142,
     "jogos": 3,
     "chHt": 1,
-    "chFt": 4
-   },
+    "chFt": 3
+   }
+  ],
+  "banco": [
    {
     "id": 1199110,
     "nome": "Iker Moreno",
     "pos": "M",
-    "min": 178,
+    "min": 136,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1446616,
+    "nome": "Omar Moreno",
+    "pos": "F",
+    "min": 105,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1152223,
+    "nome": "Óscar Villa",
+    "pos": "D",
+    "min": 91,
     "jogos": 3,
     "chHt": 0,
     "chFt": 1
@@ -297,84 +344,37 @@
     "id": 940989,
     "nome": "Kevin Velasco",
     "pos": "M",
-    "min": 152,
-    "jogos": 2,
-    "chHt": 2,
-    "chFt": 7
-   },
-   {
-    "id": 1457530,
-    "nome": "Mathías Tomás",
-    "pos": "M",
-    "min": 138,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 10
-   }
-  ],
-  "banco": [
-   {
-    "id": 1096798,
-    "nome": "Ignacio Maestro Puch",
-    "pos": "F",
-    "min": 135,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 3
-   },
-   {
-    "id": 1507314,
-    "nome": "Jose Pachuca",
-    "pos": "D",
-    "min": 106,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 4
-   },
-   {
-    "id": 1446616,
-    "nome": "Omar Moreno",
-    "pos": "F",
-    "min": 73,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 1082839,
-    "nome": "Eduardo Mustre",
-    "pos": "F",
-    "min": 69,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 2
-   },
-   {
-    "id": 1152223,
-    "nome": "Óscar Villa",
-    "pos": "D",
-    "min": 46,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 1
-   },
-   {
-    "id": 1188330,
-    "nome": "Alonso Ramirez",
-    "pos": "M",
-    "min": 45,
+    "min": 62,
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
    {
+    "id": 1153538,
+    "nome": "Heriberto Jurado",
+    "pos": "F",
+    "min": 32,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
     "id": 1108718,
     "nome": "Luifer Hernández",
     "pos": "F",
-    "min": 21,
+    "min": 17,
     "jogos": 1,
     "chHt": 0,
     "chFt": 1
+   },
+   {
+    "id": 1482356,
+    "nome": "Lucas Camilo",
+    "pos": "M",
+    "min": 9,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
    }
   ]
  },

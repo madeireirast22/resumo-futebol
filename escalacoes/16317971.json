@@ -11,6 +11,11 @@
  "provavelCasa": {
   "baseadoEm": [
    {
+    "data": "2026-09-19",
+    "adv": "Atlas FC",
+    "mando": "F"
+   },
+   {
     "data": "2026-09-14",
     "adv": "CD Guadalajara",
     "mando": "F"
@@ -19,11 +24,6 @@
     "data": "2026-09-11",
     "adv": "Club León",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-29",
-    "adv": "Club Tijuana",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -42,16 +42,7 @@
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 253415,
-    "nome": "Rubén Duarte",
-    "pos": "D",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 1,
+    "chHt": 0,
     "chFt": 1
    },
    {
@@ -60,8 +51,8 @@
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 4
+    "chHt": 4,
+    "chFt": 5
    },
    {
     "id": 1114494,
@@ -69,7 +60,7 @@
     "pos": "M",
     "min": 269,
     "jogos": 3,
-    "chHt": 3,
+    "chHt": 4,
     "chFt": 7
    },
    {
@@ -79,31 +70,13 @@
     "min": 254,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1475220,
-    "nome": "Victor Arteaga",
-    "pos": "M",
-    "min": 229,
-    "jogos": 3,
-    "chHt": 5,
-    "chFt": 5
-   },
-   {
-    "id": 843198,
-    "nome": "Uriel Antuna",
-    "pos": "D",
-    "min": 210,
-    "jogos": 3,
-    "chHt": 4,
-    "chFt": 5
+    "chFt": 1
    },
    {
     "id": 1002524,
     "nome": "Pedro Vite",
     "pos": "M",
-    "min": 175,
+    "min": 241,
     "jogos": 3,
     "chHt": 2,
     "chFt": 4
@@ -112,55 +85,91 @@
     "id": 833236,
     "nome": "Juninho",
     "pos": "F",
-    "min": 169,
+    "min": 214,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 843198,
+    "nome": "Uriel Antuna",
+    "pos": "M",
+    "min": 213,
     "jogos": 3,
     "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 1475220,
+    "nome": "Victor Arteaga",
+    "pos": "M",
+    "min": 203,
+    "jogos": 3,
+    "chHt": 4,
     "chFt": 4
    },
    {
-    "id": 979180,
-    "nome": "Pablo Bennevendo",
+    "id": 253415,
+    "nome": "Rubén Duarte",
     "pos": "D",
-    "min": 149,
+    "min": 180,
     "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   }
-  ],
-  "banco": [
-   {
-    "id": 1172770,
-    "nome": "Alan Medina",
-    "pos": "F",
-    "min": 120,
-    "jogos": 3,
-    "chHt": 0,
+    "chHt": 1,
     "chFt": 1
-   },
-   {
-    "id": 796330,
-    "nome": "Adalberto Carrasquilla",
-    "pos": "M",
-    "min": 111,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 3
    },
    {
     "id": 2053607,
     "nome": "Angel Azuaje",
     "pos": "D",
-    "min": 68,
-    "jogos": 1,
+    "min": 155,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 979180,
+    "nome": "Pablo Bennevendo",
+    "pos": "D",
+    "min": 135,
+    "jogos": 2,
     "chHt": 0,
     "chFt": 0
+   },
+   {
+    "id": 796330,
+    "nome": "Adalberto Carrasquilla",
+    "pos": "M",
+    "min": 74,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1172770,
+    "nome": "Alan Medina",
+    "pos": "F",
+    "min": 65,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 824511,
+    "nome": "Álvaro Angulo",
+    "pos": "D",
+    "min": 45,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
    },
    {
     "id": 1002455,
     "nome": "Israel Luna",
     "pos": "M",
-    "min": 46,
-    "jogos": 3,
+    "min": 35,
+    "jogos": 2,
     "chHt": 0,
     "chFt": 3
    },
@@ -168,33 +177,29 @@
     "id": 869894,
     "nome": "Cristian Calderón",
     "pos": "D",
-    "min": 33,
-    "jogos": 2,
+    "min": 22,
+    "jogos": 1,
     "chHt": 1,
     "chFt": 1
    },
    {
-    "id": 1150026,
-    "nome": "Santiago Trigos",
+    "id": 905257,
+    "nome": "César Huerta",
     "pos": "M",
-    "min": 19,
+    "min": 21,
     "jogos": 1,
     "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1001172,
-    "nome": "Jesús Rivas",
-    "pos": "D",
-    "min": 16,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
+    "chFt": 1
    }
   ]
  },
  "provavelFora": {
   "baseadoEm": [
+   {
+    "data": "2026-09-19",
+    "adv": "Club Necaxa",
+    "mando": "C"
+   },
    {
     "data": "2026-09-15",
     "adv": "Club León",
@@ -204,11 +209,6 @@
     "data": "2026-09-05",
     "adv": "CD Guadalajara",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-31",
-    "adv": "CF Monterrey",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -218,26 +218,26 @@
     "pos": "D",
     "min": 270,
     "jogos": 3,
-    "chHt": 1,
+    "chHt": 0,
     "chFt": 1
    },
    {
     "id": 908524,
     "nome": "Oscar Macías",
     "pos": "M",
-    "min": 264,
+    "min": 270,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 2
+    "chFt": 1
    },
    {
     "id": 828610,
     "nome": "Sébastien Salles-Lamonge",
     "pos": "M",
-    "min": 257,
+    "min": 256,
     "jogos": 3,
     "chHt": 4,
-    "chFt": 4
+    "chFt": 7
    },
    {
     "id": 1218839,
@@ -252,90 +252,43 @@
     "id": 1090771,
     "nome": "Rafa Llorente",
     "pos": "F",
-    "min": 235,
+    "min": 245,
     "jogos": 3,
-    "chHt": 7,
-    "chFt": 12
-   },
-   {
-    "id": 1046074,
-    "nome": "David Rodriguez",
-    "pos": "F",
-    "min": 213,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 4
-   },
-   {
-    "id": 1210593,
-    "nome": "Anderson Duarte",
-    "pos": "M",
-    "min": 194,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 4
-   },
-   {
-    "id": 923186,
-    "nome": "Robson Bambu",
-    "pos": "D",
-    "min": 180,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
+    "chHt": 4,
+    "chFt": 8
    },
    {
     "id": 330001,
     "nome": "Gibran Lajud",
     "pos": "G",
-    "min": 147,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1385864,
-    "nome": "Miguel García Álvarez",
-    "pos": "D",
-    "min": 141,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 1170681,
-    "nome": "Johan Caicedo",
-    "pos": "M",
-    "min": 135,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   }
-  ],
-  "banco": [
-   {
-    "id": 943254,
-    "nome": "Andrés Sánchez",
-    "pos": "G",
-    "min": 123,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 1211937,
-    "nome": "Leonardo Flores",
-    "pos": "F",
-    "min": 112,
+    "min": 237,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 1
+    "chFt": 0
+   },
+   {
+    "id": 1046074,
+    "nome": "David Rodriguez",
+    "pos": "F",
+    "min": 217,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 5
+   },
+   {
+    "id": 1210593,
+    "nome": "Anderson Duarte",
+    "pos": "M",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
    },
    {
     "id": 888753,
     "nome": "Benjamín Galindo",
     "pos": "D",
-    "min": 110,
+    "min": 180,
     "jogos": 2,
     "chHt": 1,
     "chFt": 1
@@ -344,18 +297,65 @@
     "id": 913142,
     "nome": "Aldo Cruz",
     "pos": "D",
-    "min": 106,
+    "min": 180,
     "jogos": 2,
     "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1211937,
+    "nome": "Leonardo Flores",
+    "pos": "F",
+    "min": 102,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   }
+  ],
+  "banco": [
+   {
+    "id": 923186,
+    "nome": "Robson Bambu",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 333415,
+    "nome": "Felipe Mora",
+    "pos": "F",
+    "min": 85,
+    "jogos": 2,
+    "chHt": 1,
     "chFt": 1
    },
    {
     "id": 1171720,
     "nome": "Sebastián Pérez Bouquet",
-    "pos": "F",
-    "min": 77,
+    "pos": "M",
+    "min": 76,
     "jogos": 3,
     "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1385864,
+    "nome": "Miguel García Álvarez",
+    "pos": "D",
+    "min": 71,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1170681,
+    "nome": "Johan Caicedo",
+    "pos": "M",
+    "min": 63,
+    "jogos": 2,
+    "chHt": 0,
     "chFt": 1
    },
    {

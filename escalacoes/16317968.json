@@ -11,6 +11,11 @@
  "provavelCasa": {
   "baseadoEm": [
    {
+    "data": "2026-09-19",
+    "adv": "Club Puebla",
+    "mando": "F"
+   },
+   {
     "data": "2026-09-12",
     "adv": "CF Pachuca",
     "mando": "C"
@@ -19,11 +24,6 @@
     "data": "2026-09-06",
     "adv": "Atlas FC",
     "mando": "F"
-   },
-   {
-    "data": "2026-08-29",
-    "adv": "Club León",
-    "mando": "C"
    }
   ],
   "titulares": [
@@ -37,27 +37,27 @@
     "chFt": 0
    },
    {
-    "id": 925741,
-    "nome": "Jhojan Julio",
+    "id": 1106917,
+    "nome": "Luis Calzadilla",
     "pos": "F",
     "min": 270,
     "jogos": 3,
-    "chHt": 4,
-    "chFt": 9
+    "chHt": 2,
+    "chFt": 5
    },
    {
     "id": 1035635,
     "nome": "Walter Portales",
-    "pos": "D",
+    "pos": "M",
     "min": 269,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 4
+    "chHt": 3,
+    "chFt": 5
    },
    {
     "id": 789677,
     "nome": "Martín Sarrafiore",
-    "pos": "M",
+    "pos": "F",
     "min": 269,
     "jogos": 3,
     "chHt": 4,
@@ -70,7 +70,16 @@
     "min": 258,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 1
+   },
+   {
+    "id": 925741,
+    "nome": "Jhojan Julio",
+    "pos": "F",
+    "min": 252,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 9
    },
    {
     "id": 1113232,
@@ -82,49 +91,40 @@
     "chFt": 2
    },
    {
-    "id": 2245575,
-    "nome": "Cristobal Alfaro",
-    "pos": "D",
-    "min": 224,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
     "id": 1002426,
     "nome": "Eugenio Pizzuto",
     "pos": "M",
-    "min": 224,
+    "min": 225,
     "jogos": 3,
     "chHt": 3,
     "chFt": 4
    },
    {
-    "id": 1002450,
-    "nome": "Luis Puente",
-    "pos": "F",
-    "min": 205,
-    "jogos": 3,
-    "chHt": 4,
-    "chFt": 6
-   },
-   {
-    "id": 1106917,
-    "nome": "Luis Calzadilla",
+    "id": 1002554,
+    "nome": "Nicolas Carrera",
     "pos": "D",
-    "min": 180,
-    "jogos": 2,
+    "min": 136,
+    "jogos": 3,
     "chHt": 1,
     "chFt": 3
    },
    {
-    "id": 1046706,
-    "nome": "Armando Escobar",
+    "id": 2245575,
+    "nome": "Cristobal Alfaro",
     "pos": "D",
-    "min": 144,
+    "min": 134,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1002450,
+    "nome": "Luis Puente",
+    "pos": "F",
+    "min": 133,
     "jogos": 3,
-    "chHt": 1,
-    "chFt": 1
+    "chHt": 2,
+    "chFt": 5
    }
   ],
   "banco": [
@@ -132,46 +132,55 @@
     "id": 1134903,
     "nome": "José González",
     "pos": "M",
-    "min": 132,
+    "min": 123,
     "jogos": 2,
-    "chHt": 2,
-    "chFt": 7
-   },
-   {
-    "id": 1469040,
-    "nome": "Joaquin Moxica",
-    "pos": "F",
-    "min": 94,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
+    "chHt": 0,
+    "chFt": 4
    },
    {
     "id": 981588,
     "nome": "Martín Fernández",
     "pos": "M",
-    "min": 91,
-    "jogos": 3,
+    "min": 90,
+    "jogos": 2,
     "chHt": 1,
     "chFt": 1
    },
    {
-    "id": 1002554,
-    "nome": "Nicolas Carrera",
+    "id": 1469040,
+    "nome": "Joaquin Moxica",
+    "pos": "F",
+    "min": 86,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1046706,
+    "nome": "Armando Escobar",
     "pos": "D",
-    "min": 46,
-    "jogos": 2,
+    "min": 75,
+    "jogos": 3,
     "chHt": 0,
-    "chFt": 1
+    "chFt": 2
+   },
+   {
+    "id": 846362,
+    "nome": "Walter Clar",
+    "pos": "M",
+    "min": 72,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 3
    },
    {
     "id": 1116608,
     "nome": "Jairón Charcopa",
     "pos": "F",
-    "min": 34,
-    "jogos": 2,
+    "min": 25,
+    "jogos": 1,
     "chHt": 0,
-    "chFt": 4
+    "chFt": 3
    },
    {
     "id": 1470458,
@@ -181,20 +190,16 @@
     "jogos": 1,
     "chHt": 0,
     "chFt": 0
-   },
-   {
-    "id": 1488222,
-    "nome": "Gilberto Adame",
-    "pos": "M",
-    "min": 1,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
    }
   ]
  },
  "provavelFora": {
   "baseadoEm": [
+   {
+    "data": "2026-09-20",
+    "adv": "Cruz Azul",
+    "mando": "C"
+   },
    {
     "data": "2026-09-13",
     "adv": "Tigres UANL",
@@ -204,11 +209,6 @@
     "data": "2026-08-31",
     "adv": "Atlético San Luis",
     "mando": "C"
-   },
-   {
-    "data": "2026-08-22",
-    "adv": "Club León",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -216,19 +216,19 @@
     "id": 850404,
     "nome": "Orbelín Pineda",
     "pos": "M",
-    "min": 216,
+    "min": 225,
     "jogos": 3,
     "chHt": 1,
     "chFt": 7
    },
    {
-    "id": 831809,
-    "nome": "Diego Rossi",
-    "pos": "M",
-    "min": 203,
+    "id": 231776,
+    "nome": "Óliver Torres",
+    "pos": "F",
+    "min": 222,
     "jogos": 3,
-    "chHt": 3,
-    "chFt": 6
+    "chHt": 1,
+    "chFt": 3
    },
    {
     "id": 836289,
@@ -236,8 +236,26 @@
     "pos": "F",
     "min": 203,
     "jogos": 3,
-    "chHt": 1,
+    "chHt": 2,
     "chFt": 4
+   },
+   {
+    "id": 965764,
+    "nome": "Luca Orellano",
+    "pos": "M",
+    "min": 189,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 7
+   },
+   {
+    "id": 79822,
+    "nome": "Esteban Andrada",
+    "pos": "G",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
    },
    {
     "id": 1002375,
@@ -249,70 +267,32 @@
     "chFt": 1
    },
    {
-    "id": 322691,
-    "nome": "Luis Cárdenas",
-    "pos": "G",
-    "min": 180,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 856129,
-    "nome": "Gerardo Arteaga",
+    "id": 817753,
+    "nome": "Ricardo Chávez",
     "pos": "D",
-    "min": 171,
+    "min": 166,
     "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
+    "chHt": 1,
+    "chFt": 2
    },
    {
     "id": 155702,
     "nome": "Lucas Ocampos",
-    "pos": "M",
+    "pos": "F",
     "min": 166,
     "jogos": 2,
-    "chHt": 1,
-    "chFt": 7
-   },
-   {
-    "id": 1005192,
-    "nome": "Fidel Ambríz",
-    "pos": "M",
-    "min": 159,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
-   },
-   {
-    "id": 965764,
-    "nome": "Luca Orellano",
-    "pos": "F",
-    "min": 158,
-    "jogos": 3,
-    "chHt": 3,
-    "chFt": 11
-   },
-   {
-    "id": 231776,
-    "nome": "Óliver Torres",
-    "pos": "M",
-    "min": 156,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 2
+    "chHt": 4,
+    "chFt": 10
    },
    {
     "id": 123906,
     "nome": "Jesús Corona",
     "pos": "M",
-    "min": 155,
+    "min": 143,
     "jogos": 2,
-    "chHt": 2,
+    "chHt": 3,
     "chFt": 5
-   }
-  ],
-  "banco": [
+   },
    {
     "id": 314096,
     "nome": "Carlos Salcedo",
@@ -323,44 +303,55 @@
     "chFt": 3
    },
    {
-    "id": 583332,
-    "nome": "Jorge Rodríguez",
+    "id": 831809,
+    "nome": "Diego Rossi",
+    "pos": "M",
+    "min": 113,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 1089135,
+    "nome": "Alonso Aceves",
     "pos": "D",
-    "min": 135,
+    "min": 106,
     "jogos": 2,
     "chHt": 0,
-    "chFt": 0
+    "chFt": 2
    },
    {
-    "id": 817753,
-    "nome": "Ricardo Chávez",
-    "pos": "D",
-    "min": 121,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 1
-   },
-   {
-    "id": 893089,
-    "nome": "Roberto de la Rosa",
+    "id": 1005192,
+    "nome": "Fidel Ambríz",
     "pos": "M",
-    "min": 100,
-    "jogos": 2,
-    "chHt": 1,
-    "chFt": 3
+    "min": 105,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
    },
    {
     "id": 843154,
     "nome": "Luis Reyes",
     "pos": "D",
-    "min": 99,
+    "min": 98,
     "jogos": 2,
     "chHt": 1,
-    "chFt": 3
+    "chFt": 2
    },
    {
-    "id": 79822,
-    "nome": "Esteban Andrada",
+    "id": 856129,
+    "nome": "Gerardo Arteaga",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 322691,
+    "nome": "Luis Cárdenas",
     "pos": "G",
     "min": 90,
     "jogos": 1,
@@ -368,13 +359,22 @@
     "chFt": 0
    },
    {
-    "id": 359070,
-    "nome": "Érick Aguirre",
+    "id": 893089,
+    "nome": "Roberto de la Rosa",
     "pos": "M",
-    "min": 81,
-    "jogos": 2,
-    "chHt": 0,
-    "chFt": 0
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1587040,
+    "nome": "Cesar Garza",
+    "pos": "M",
+    "min": 88,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
    }
   ]
  },
