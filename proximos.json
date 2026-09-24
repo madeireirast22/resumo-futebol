@@ -1,19 +1,8 @@
 {
- "gerado": "2026-09-23T19:47:44.716Z",
+ "gerado": "2026-09-24T02:43:22.585Z",
  "janelaDias": 7,
  "aviso": "Escalação CONFIRMADA só existe ~1 h antes do jogo: o vigia (escalacoes.mjs) busca a cada 15 min e grava em escalacoes/<eventoId>.json quando sai (temConfirmada vira true). Até lá, provavelCasa/provavelFora = os 11 com mais minutos nos últimos 3 jogos do time.",
  "jogos": [
-  {
-   "eventoId": 15956784,
-   "data": "2026-09-24T01:30:00.000Z",
-   "competicao": "mls",
-   "casa": "Seattle Sounders FC",
-   "fora": "Real Salt Lake",
-   "arquivo": "escalacoes/15956784.json",
-   "temProvavel": true,
-   "temPrevista": true,
-   "temConfirmada": false
-  },
   {
    "eventoId": 15526299,
    "data": "2026-09-25T22:30:00.000Z",
