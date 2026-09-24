@@ -378,6 +378,222 @@
    }
   ]
  },
- "prevista": null,
+ "prevista": {
+  "obtidaEm": "2026-09-24T00:00:26.680Z",
+  "casa": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 1126470,
+     "nome": "Andrew Thomas",
+     "pos": "G",
+     "camisa": 26
+    },
+    {
+     "id": 1653003,
+     "nome": "Kalani Kossa-Rienzi",
+     "pos": "D",
+     "camisa": 85
+    },
+    {
+     "id": 882537,
+     "nome": "Alex Roldán",
+     "pos": "D",
+     "camisa": 16
+    },
+    {
+     "id": 1468931,
+     "nome": "Stuart Hawkins",
+     "pos": "D",
+     "camisa": 39
+    },
+    {
+     "id": 869038,
+     "nome": "Nouhou Tolo",
+     "pos": "D",
+     "camisa": 5
+    },
+    {
+     "id": 976223,
+     "nome": "Hassani Dotson",
+     "pos": "M",
+     "camisa": 31
+    },
+    {
+     "id": 790171,
+     "nome": "Cristian Roldán",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 1025348,
+     "nome": "Peter Kingston",
+     "pos": "M",
+     "camisa": 45
+    },
+    {
+     "id": 134903,
+     "nome": "Albert Rusnák",
+     "pos": "M",
+     "camisa": 11
+    },
+    {
+     "id": 772421,
+     "nome": "Jordan Morris",
+     "pos": "F",
+     "camisa": 13
+    },
+    {
+     "id": 885663,
+     "nome": "Dejan Joveljić",
+     "pos": "F",
+     "camisa": 9
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 869853,
+     "nome": "Jesús Ferreira",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1121628,
+     "nome": "Nikola Petković",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1122223,
+     "nome": "Paul Rothrock",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 953844,
+     "nome": "Pedro de la Vega",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 124980,
+     "nome": "Rafael Cabral",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 314040,
+     "nome": "DeAndre Yedlin",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 1035512,
+     "nome": "Kobi Henry",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 1172487,
+     "nome": "Philip Quinton",
+     "pos": "D",
+     "camisa": 26
+    },
+    {
+     "id": 286923,
+     "nome": "Saba Lobzhanidze",
+     "pos": "M",
+     "camisa": 12
+    },
+    {
+     "id": 1902649,
+     "nome": "Colin Guske",
+     "pos": "M",
+     "camisa": 25
+    },
+    {
+     "id": 1489304,
+     "nome": "Noel Caliskan",
+     "pos": "M",
+     "camisa": 92
+    },
+    {
+     "id": 874568,
+     "nome": "Juan Sanabria",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1880077,
+     "nome": "Aiden  Hezarkhani",
+     "pos": "F",
+     "camisa": 39
+    },
+    {
+     "id": 990743,
+     "nome": "Morgan Guilavogui",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 2456862,
+     "nome": "Sergi Solans",
+     "pos": "F",
+     "camisa": 22
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 1647295,
+     "nome": "Ariath Piol",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1138450,
+     "nome": "Zach Booth",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1117904,
+     "nome": "Diego Luna",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1120366,
+     "nome": "Griffin Dillon",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 1187272,
+     "nome": "Juan Jose Arias",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 583670,
+     "nome": "Justen Glad",
+     "situacao": "fora",
+     "motivo": "lesão"
+    },
+    {
+     "id": 945477,
+     "nome": "Lukas Engel",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "confirmada": null
 }
