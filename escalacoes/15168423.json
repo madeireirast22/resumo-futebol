@@ -11,6 +11,11 @@
  "provavelCasa": {
   "baseadoEm": [
    {
+    "data": "2026-09-24",
+    "adv": "Seattle Sounders FC",
+    "mando": "F"
+   },
+   {
     "data": "2026-09-20",
     "adv": "Vancouver Whitecaps",
     "mando": "C"
@@ -19,11 +24,6 @@
     "data": "2026-09-13",
     "adv": "New York City FC",
     "mando": "C"
-   },
-   {
-    "data": "2026-09-10",
-    "adv": "Houston Dynamo",
-    "mando": "F"
    }
   ],
   "titulares": [
@@ -37,49 +37,49 @@
     "chFt": 0
    },
    {
-    "id": 1489304,
-    "nome": "Noel Caliskan",
-    "pos": "M",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 1,
-    "chFt": 3
-   },
-   {
-    "id": 874568,
-    "nome": "Juan Sanabria",
-    "pos": "M",
-    "min": 270,
-    "jogos": 3,
-    "chHt": 2,
-    "chFt": 3
-   },
-   {
     "id": 314040,
     "nome": "DeAndre Yedlin",
     "pos": "D",
-    "min": 250,
+    "min": 270,
     "jogos": 3,
     "chHt": 0,
-    "chFt": 1
+    "chFt": 2
+   },
+   {
+    "id": 1489304,
+    "nome": "Noel Caliskan",
+    "pos": "M",
+    "min": 268,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
    },
    {
     "id": 1172487,
     "nome": "Philip Quinton",
     "pos": "D",
-    "min": 202,
+    "min": 247,
     "jogos": 3,
     "chHt": 0,
     "chFt": 1
    },
    {
-    "id": 1902649,
-    "nome": "Colin Guske",
-    "pos": "M",
-    "min": 187,
+    "id": 990743,
+    "nome": "Morgan Guilavogui",
+    "pos": "F",
+    "min": 244,
     "jogos": 3,
-    "chHt": 0,
-    "chFt": 3
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 2456862,
+    "nome": "Sergi Solans",
+    "pos": "F",
+    "min": 217,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
    },
    {
     "id": 1035512,
@@ -91,105 +91,105 @@
     "chFt": 0
    },
    {
-    "id": 1880077,
-    "nome": "Aiden  Hezarkhani",
-    "pos": "F",
-    "min": 178,
-    "jogos": 3,
-    "chHt": 0,
-    "chFt": 3
+    "id": 874568,
+    "nome": "Juan Sanabria",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
    },
    {
     "id": 286923,
     "nome": "Saba Lobzhanidze",
     "pos": "M",
-    "min": 169,
+    "min": 168,
     "jogos": 3,
     "chHt": 3,
-    "chFt": 5
+    "chFt": 4
    },
    {
-    "id": 990743,
-    "nome": "Morgan Guilavogui",
+    "id": 1800522,
+    "nome": "Luca Moisa",
     "pos": "F",
-    "min": 166,
+    "min": 128,
     "jogos": 2,
     "chHt": 2,
     "chFt": 2
    },
    {
-    "id": 1187272,
-    "nome": "Juan Jose Arias",
-    "pos": "D",
-    "min": 147,
+    "id": 882422,
+    "nome": "Sam Junqua",
+    "pos": "M",
+    "min": 122,
     "jogos": 2,
-    "chHt": 1,
+    "chHt": 0,
     "chFt": 1
    }
   ],
   "banco": [
    {
-    "id": 2456862,
-    "nome": "Sergi Solans",
-    "pos": "F",
-    "min": 139,
+    "id": 1090059,
+    "nome": "Dominik Marczuk",
+    "pos": "M",
+    "min": 121,
     "jogos": 2,
-    "chHt": 1,
+    "chHt": 0,
     "chFt": 3
+   },
+   {
+    "id": 1902649,
+    "nome": "Colin Guske",
+    "pos": "M",
+    "min": 110,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
    },
    {
     "id": 827449,
     "nome": "Alexandros Katranis",
     "pos": "M",
-    "min": 110,
-    "jogos": 2,
+    "min": 90,
+    "jogos": 1,
     "chHt": 0,
     "chFt": 0
    },
    {
-    "id": 1807962,
-    "nome": "Jason Shokalook",
+    "id": 1880077,
+    "nome": "Aiden  Hezarkhani",
     "pos": "F",
     "min": 88,
     "jogos": 2,
-    "chHt": 1,
-    "chFt": 2
-   },
-   {
-    "id": 1117904,
-    "nome": "Diego Luna",
-    "pos": "F",
-    "min": 70,
-    "jogos": 1,
     "chHt": 0,
     "chFt": 2
    },
    {
-    "id": 1800522,
-    "nome": "Luca Moisa",
+    "id": 788977,
+    "nome": "Stijn Spierings",
     "pos": "M",
+    "min": 78,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1187272,
+    "nome": "Juan Jose Arias",
+    "pos": "D",
     "min": 57,
     "jogos": 1,
-    "chHt": 2,
-    "chFt": 2
+    "chHt": 1,
+    "chFt": 1
    },
    {
-    "id": 945477,
-    "nome": "Lukas Engel",
-    "pos": "D",
-    "min": 45,
-    "jogos": 1,
-    "chHt": 0,
-    "chFt": 0
-   },
-   {
-    "id": 2073978,
-    "nome": "Lineker Rodrigues",
+    "id": 906024,
+    "nome": "Taylor Booth",
     "pos": "F",
-    "min": 43,
-    "jogos": 2,
+    "min": 51,
+    "jogos": 3,
     "chHt": 0,
-    "chFt": 2
+    "chFt": 3
    }
   ]
  },
