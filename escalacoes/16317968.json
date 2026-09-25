@@ -378,6 +378,168 @@
    }
   ]
  },
- "prevista": null,
+ "prevista": {
+  "obtidaEm": "2026-09-25T23:30:36.628Z",
+  "casa": {
+   "formacao": "3-4-2-1",
+   "titulares": [
+    {
+     "id": 344981,
+     "nome": "Óscar Jiménez",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 1113232,
+     "nome": "Aarón Quirós",
+     "pos": "D",
+     "camisa": 44
+    },
+    {
+     "id": 1002554,
+     "nome": "Nicolas Carrera",
+     "pos": "D",
+     "camisa": 6
+    },
+    {
+     "id": 888944,
+     "nome": "Eduardo Tercero",
+     "pos": "D",
+     "camisa": 4
+    },
+    {
+     "id": 1035635,
+     "nome": "Walter Portales",
+     "pos": "D",
+     "camisa": 29
+    },
+    {
+     "id": 2654345,
+     "nome": "Daniel González",
+     "pos": "F",
+     "camisa": 16
+    },
+    {
+     "id": 1002426,
+     "nome": "Eugenio Pizzuto",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 846362,
+     "nome": "Walter Clar",
+     "pos": "M",
+     "camisa": 37
+    },
+    {
+     "id": 1106917,
+     "nome": "Luis Calzadilla",
+     "pos": "M",
+     "camisa": 19
+    },
+    {
+     "id": 789677,
+     "nome": "Martín Sarrafiore",
+     "pos": "M",
+     "camisa": 30
+    },
+    {
+     "id": 925741,
+     "nome": "Jhojan Julio",
+     "pos": "M",
+     "camisa": 7
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 977798,
+     "nome": "Hardy Meza",
+     "situacao": "fora",
+     "motivo": "lesão"
+    }
+   ]
+  },
+  "fora": {
+   "formacao": "4-2-3-1",
+   "titulares": [
+    {
+     "id": 79822,
+     "nome": "Esteban Andrada",
+     "pos": "G",
+     "camisa": 1
+    },
+    {
+     "id": 817753,
+     "nome": "Ricardo Chávez",
+     "pos": "D",
+     "camisa": 2
+    },
+    {
+     "id": 221148,
+     "nome": "Stefan Medina",
+     "pos": "D",
+     "camisa": 33
+    },
+    {
+     "id": 1089135,
+     "nome": "Alonso Aceves",
+     "pos": "D",
+     "camisa": 19
+    },
+    {
+     "id": 856129,
+     "nome": "Gerardo Arteaga",
+     "pos": "D",
+     "camisa": 3
+    },
+    {
+     "id": 231776,
+     "nome": "Óliver Torres",
+     "pos": "M",
+     "camisa": 8
+    },
+    {
+     "id": 1587040,
+     "nome": "Cesar Garza",
+     "pos": "M",
+     "camisa": 18
+    },
+    {
+     "id": 155702,
+     "nome": "Lucas Ocampos",
+     "pos": "M",
+     "camisa": 7
+    },
+    {
+     "id": 831809,
+     "nome": "Diego Rossi",
+     "pos": "F",
+     "camisa": 9
+    },
+    {
+     "id": 123906,
+     "nome": "Jesús Corona",
+     "pos": "M",
+     "camisa": 17
+    },
+    {
+     "id": 836289,
+     "nome": "Hugo Cuypers",
+     "pos": "F",
+     "camisa": 99
+    }
+   ],
+   "banco": [],
+   "desfalques": [
+    {
+     "id": 314096,
+     "nome": "Carlos Salcedo",
+     "situacao": "dúvida",
+     "motivo": "lesão"
+    }
+   ]
+  }
+ },
  "confirmada": null
 }
