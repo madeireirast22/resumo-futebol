@@ -1,0 +1,366 @@
+{
+ "time": "Netherlands",
+ "competicao": {
+  "chave": "liga-das-nacoes-2026",
+  "nome": "UEFA Liga das Nações",
+  "apelido": "liga-das-nacoes",
+  "ano": "2026",
+  "torneioId": 10783,
+  "temporadaId": 89945,
+  "jogos": 16,
+  "jogosNaFonte": 16,
+  "periodo": {
+   "de": "2026-09-24",
+   "ate": "2026-09-25"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 16,
+   "media": 4.06,
+   "overs": {
+    "1.5": 87.5,
+    "2.5": 62.5,
+    "3.5": 43.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 16,
+   "media": 8.13,
+   "overs": {
+    "7.5": 62.5,
+    "8.5": 43.8,
+    "9.5": 37.5,
+    "10.5": 31.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 16,
+   "media": 11.88,
+   "overs": {
+    "7.5": 87.5,
+    "9.5": 56.3,
+    "11.5": 50
+   }
+  },
+  "chutes_ft": {
+   "jogos": 16,
+   "media": 26.44,
+   "overs": {
+    "19.5": 93.8,
+    "21.5": 81.3,
+    "23.5": 68.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 16,
+   "media": 3.38,
+   "overs": {
+    "2.5": 56.3,
+    "3.5": 50,
+    "4.5": 25
+   }
+  },
+  "alvo_ft": {
+   "jogos": 16,
+   "media": 9.06,
+   "overs": {
+    "6.5": 75,
+    "7.5": 56.3,
+    "8.5": 50
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 16,
+   "media": 1.31,
+   "overs": {
+    "0.5": 68.8,
+    "1.5": 50,
+    "2.5": 12.5
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 16,
+   "media": 4.75,
+   "overs": {
+    "3.5": 68.8,
+    "4.5": 50,
+    "5.5": 31.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 16,
+   "media": 10.81,
+   "overs": {
+    "9.5": 75,
+    "11.5": 37.5,
+    "13.5": 18.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 16,
+   "media": 25.19,
+   "overs": {
+    "21.5": 75,
+    "23.5": 56.3,
+    "25.5": 50
+   }
+  },
+  "gols_ht": {
+   "jogos": 16,
+   "media": 0.94,
+   "overs": {
+    "0.5": 62.5,
+    "1.5": 18.8,
+    "2.5": 12.5
+   },
+   "ambasMarcam": 18.8
+  },
+  "gols_ft": {
+   "jogos": 16,
+   "media": 2.13,
+   "overs": {
+    "1.5": 62.5,
+    "2.5": 37.5,
+    "3.5": 12.5,
+    "4.5": 6.3
+   },
+   "ambasMarcam": 43.8
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 0,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 12,
+  "contraMedia": 1,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 8,
+  "contraMedia": 5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 22,
+  "contraMedia": 10,
+  "totalMedia": 32,
+  "casa": {
+   "jogos": 1,
+   "pro": 22,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 2,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 10,
+  "contraMedia": 2,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 0,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 1,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 11,
+  "contraMedia": 16,
+  "totalMedia": 27,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 1,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-09-24",
+   "adv": "Germany",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     1
+    ],
+    "ch": [
+     22,
+     10
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  }
+ ]
+}

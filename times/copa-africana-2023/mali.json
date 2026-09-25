@@ -1,0 +1,505 @@
+{
+ "time": "Mali",
+ "competicao": {
+  "chave": "copa-africana-2023",
+  "nome": "Copa Africana de Nações",
+  "apelido": "copa-africana",
+  "ano": "2023",
+  "torneioId": 270,
+  "temporadaId": 56021,
+  "jogos": 52,
+  "jogosNaFonte": 52,
+  "periodo": {
+   "de": "2024-01-13",
+   "ate": "2024-02-11"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 52,
+   "media": 3.81,
+   "overs": {
+    "1.5": 90.4,
+    "2.5": 71.2,
+    "3.5": 48.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 52,
+   "media": 8.87,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.1,
+    "9.5": 36.5,
+    "10.5": 32.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 52,
+   "media": 9.13,
+   "overs": {
+    "7.5": 71.2,
+    "9.5": 40.4,
+    "11.5": 19.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 52,
+   "media": 22.5,
+   "overs": {
+    "19.5": 67.3,
+    "21.5": 53.8,
+    "23.5": 32.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 52,
+   "media": 2.81,
+   "overs": {
+    "2.5": 51.9,
+    "3.5": 30.8,
+    "4.5": 7.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 52,
+   "media": 6.81,
+   "overs": {
+    "6.5": 55.8,
+    "7.5": 40.4,
+    "8.5": 23.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 49,
+   "media": 1.22,
+   "overs": {
+    "0.5": 71.4,
+    "1.5": 32.7,
+    "2.5": 12.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 49,
+   "media": 3.61,
+   "overs": {
+    "3.5": 49,
+    "4.5": 26.5,
+    "5.5": 16.3
+   }
+  },
+  "faltas_ft": {
+   "jogos": 52,
+   "media": 30.21,
+   "overs": {
+    "21.5": 90.4,
+    "23.5": 84.6,
+    "25.5": 75
+   }
+  },
+  "gols_ht": {
+   "jogos": 52,
+   "media": 0.85,
+   "overs": {
+    "0.5": 65.4,
+    "1.5": 17.3,
+    "2.5": 1.9
+   },
+   "ambasMarcam": 13.5
+  },
+  "gols_ft": {
+   "jogos": 52,
+   "media": 2.27,
+   "overs": {
+    "1.5": 69.2,
+    "2.5": 36.5,
+    "3.5": 23.1,
+    "4.5": 5.8
+   },
+   "ambasMarcam": 46.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 5,
+  "proMedia": 1.2,
+  "contraMedia": 1.8,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 5,
+  "proMedia": 4,
+  "contraMedia": 3.8,
+  "totalMedia": 7.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 5,
+  "proMedia": 4.6,
+  "contraMedia": 4,
+  "totalMedia": 8.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 5,
+  "proMedia": 12.6,
+  "contraMedia": 8.2,
+  "totalMedia": 20.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.67,
+   "contra": 10.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 5,
+  "proMedia": 1.6,
+  "contraMedia": 1.8,
+  "totalMedia": 3.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 5,
+  "proMedia": 3.6,
+  "contraMedia": 3,
+  "totalMedia": 6.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 0.8,
+  "contraMedia": 1.2,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 1.4,
+  "contraMedia": 3,
+  "totalMedia": 4.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 5,
+  "proMedia": 18.4,
+  "contraMedia": 15,
+  "totalMedia": 33.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 21,
+   "contra": 15.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 14.5,
+   "contra": 14
+  }
+ },
+ "gols_ht": {
+  "jogos": 5,
+  "proMedia": 0.4,
+  "contraMedia": 0.2,
+  "totalMedia": 0.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  }
+ },
+ "gols_ft": {
+  "jogos": 5,
+  "proMedia": 1.2,
+  "contraMedia": 0.6,
+  "totalMedia": 1.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-01-16",
+   "adv": "South Africa",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     16,
+     12
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-01-20",
+   "adv": "Tunisia",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     3,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     12,
+     5
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-01-24",
+   "adv": "Namibia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     3,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     9
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-01-30",
+   "adv": "Burkina Faso",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     8,
+     3
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     14,
+     8
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-02-03",
+   "adv": "Côte d'Ivoire",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     3,
+     2
+    ],
+    "car": [
+     2,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     2
+    ],
+    "ch": [
+     11,
+     11
+    ],
+    "car": [
+     3,
+     7
+    ]
+   }
+  }
+ ]
+}

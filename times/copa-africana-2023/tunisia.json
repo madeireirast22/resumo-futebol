@@ -1,0 +1,407 @@
+{
+ "time": "Tunisia",
+ "competicao": {
+  "chave": "copa-africana-2023",
+  "nome": "Copa Africana de Nações",
+  "apelido": "copa-africana",
+  "ano": "2023",
+  "torneioId": 270,
+  "temporadaId": 56021,
+  "jogos": 52,
+  "jogosNaFonte": 52,
+  "periodo": {
+   "de": "2024-01-13",
+   "ate": "2024-02-11"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 52,
+   "media": 3.81,
+   "overs": {
+    "1.5": 90.4,
+    "2.5": 71.2,
+    "3.5": 48.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 52,
+   "media": 8.87,
+   "overs": {
+    "7.5": 61.5,
+    "8.5": 48.1,
+    "9.5": 36.5,
+    "10.5": 32.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 52,
+   "media": 9.13,
+   "overs": {
+    "7.5": 71.2,
+    "9.5": 40.4,
+    "11.5": 19.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 52,
+   "media": 22.5,
+   "overs": {
+    "19.5": 67.3,
+    "21.5": 53.8,
+    "23.5": 32.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 52,
+   "media": 2.81,
+   "overs": {
+    "2.5": 51.9,
+    "3.5": 30.8,
+    "4.5": 7.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 52,
+   "media": 6.81,
+   "overs": {
+    "6.5": 55.8,
+    "7.5": 40.4,
+    "8.5": 23.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 49,
+   "media": 1.22,
+   "overs": {
+    "0.5": 71.4,
+    "1.5": 32.7,
+    "2.5": 12.2
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 49,
+   "media": 3.61,
+   "overs": {
+    "3.5": 49,
+    "4.5": 26.5,
+    "5.5": 16.3
+   }
+  },
+  "faltas_ft": {
+   "jogos": 52,
+   "media": 30.21,
+   "overs": {
+    "21.5": 90.4,
+    "23.5": 84.6,
+    "25.5": 75
+   }
+  },
+  "gols_ht": {
+   "jogos": 52,
+   "media": 0.85,
+   "overs": {
+    "0.5": 65.4,
+    "1.5": 17.3,
+    "2.5": 1.9
+   },
+   "ambasMarcam": 13.5
+  },
+  "gols_ft": {
+   "jogos": 52,
+   "media": 2.27,
+   "overs": {
+    "1.5": 69.2,
+    "2.5": 36.5,
+    "3.5": 23.1,
+    "4.5": 5.8
+   },
+   "ambasMarcam": 46.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 3.67,
+  "contraMedia": 1.33,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 5.33,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 4,
+  "contraMedia": 4.33,
+  "totalMedia": 8.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 8.67,
+  "contraMedia": 12,
+  "totalMedia": 20.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 12.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 11
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 1.33,
+  "totalMedia": 2.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 3,
+  "totalMedia": 5.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 0,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 11.33,
+  "contraMedia": 13.33,
+  "totalMedia": 24.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 12.5,
+   "contra": 13.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 13
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 0.33,
+  "totalMedia": 0.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 0.67,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-01-16",
+   "adv": "Namibia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     2,
+     5
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     7
+    ],
+    "ch": [
+     10,
+     13
+    ]
+   }
+  },
+  {
+   "data": "2024-01-20",
+   "adv": "Mali",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     5,
+     12
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2024-01-24",
+   "adv": "South Africa",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     6,
+     5
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     11,
+     11
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "time": "Cuba",
+ "competicao": {
+  "chave": "mundial-eliminatorias-concacaf-2025",
+  "nome": "Eliminatórias da Copa do Mundo — CONCACAF",
+  "apelido": "mundial-eliminatorias-concacaf",
+  "ano": "2025",
+  "torneioId": 14,
+  "temporadaId": 58146,
+  "jogos": 95,
+  "jogosNaFonte": 100,
+  "periodo": {
+   "de": "2024-06-05",
+   "ate": "2025-11-19"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 95,
+   "media": 4.78,
+   "overs": {
+    "1.5": 92.6,
+    "2.5": 86.3,
+    "3.5": 69.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 95,
+   "media": 9.61,
+   "overs": {
+    "7.5": 70.5,
+    "8.5": 62.1,
+    "9.5": 49.5,
+    "10.5": 35.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 95,
+   "media": 12.39,
+   "overs": {
+    "7.5": 84.2,
+    "9.5": 77.9,
+    "11.5": 57.9
+   }
+  },
+  "chutes_ft": {
+   "jogos": 95,
+   "media": 26.91,
+   "overs": {
+    "19.5": 83.2,
+    "21.5": 78.9,
+    "23.5": 69.5
+   }
+  },
+  "alvo_ht": {
+   "jogos": 95,
+   "media": 4.58,
+   "overs": {
+    "2.5": 80,
+    "3.5": 58.9,
+    "4.5": 50.5
+   }
+  },
+  "alvo_ft": {
+   "jogos": 95,
+   "media": 9.93,
+   "overs": {
+    "6.5": 81.1,
+    "7.5": 67.4,
+    "8.5": 58.9
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 95,
+   "media": 3.23,
+   "overs": {
+    "3.5": 40,
+    "4.5": 24.2,
+    "5.5": 13.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 26,
+   "media": 13,
+   "overs": {
+    "9.5": 80.8,
+    "11.5": 53.8,
+    "13.5": 46.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 92,
+   "media": 24.76,
+   "overs": {
+    "21.5": 67.4,
+    "23.5": 51.1,
+    "25.5": 43.5
+   }
+  },
+  "gols_ht": {
+   "jogos": 95,
+   "media": 1.42,
+   "overs": {
+    "0.5": 75.8,
+    "1.5": 46.3,
+    "2.5": 15.8
+   },
+   "ambasMarcam": 15.8
+  },
+  "gols_ft": {
+   "jogos": 95,
+   "media": 3.21,
+   "overs": {
+    "1.5": 78.9,
+    "2.5": 60,
+    "3.5": 42.1,
+    "4.5": 24.2
+   },
+   "ambasMarcam": 40
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 4,
+  "contraMedia": 3.67,
+  "totalMedia": 7.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 7.33,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 7.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 5.67,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 8
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 9.67,
+  "contraMedia": 11.33,
+  "totalMedia": 21,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 10.5,
+   "contra": 14
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 1.67,
+  "totalMedia": 2.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 4,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 4.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2.33,
+  "contraMedia": 2.33,
+  "totalMedia": 4.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 12.33,
+  "contraMedia": 11.67,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 1,
+   "pro": 14,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 9.5
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 0.67,
+  "contraMedia": 1,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 1.67,
+  "totalMedia": 2.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-06-07",
+   "adv": "Honduras",
+   "mando": "F",
+   "golsHt": [
+    1,
+    2
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     2,
+     15
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     12
+    ],
+    "ch": [
+     2,
+     24
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-06-06",
+   "adv": "Antigua and Barbuda",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     12,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     3
+    ],
+    "ch": [
+     19,
+     4
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-06-10",
+   "adv": "Bermuda",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     3,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     7
+    ],
+    "ch": [
+     8,
+     6
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,305 @@
+{
+ "time": "Uganda",
+ "competicao": {
+  "chave": "mundial-eliminatorias-caf-2025",
+  "nome": "Eliminatórias da Copa do Mundo — CAF",
+  "apelido": "mundial-eliminatorias-caf",
+  "ano": "2025",
+  "torneioId": 13,
+  "temporadaId": 56249,
+  "jogos": 27,
+  "jogosNaFonte": 260,
+  "periodo": {
+   "de": "2023-11-18",
+   "ate": "2025-10-14"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 27,
+   "media": 4.67,
+   "overs": {
+    "1.5": 100,
+    "2.5": 85.2,
+    "3.5": 70.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 27,
+   "media": 8.67,
+   "overs": {
+    "7.5": 48.1,
+    "8.5": 37,
+    "9.5": 33.3,
+    "10.5": 25.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 27,
+   "media": 10.7,
+   "overs": {
+    "7.5": 81.5,
+    "9.5": 59.3,
+    "11.5": 40.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 27,
+   "media": 21.52,
+   "overs": {
+    "19.5": 66.7,
+    "21.5": 51.9,
+    "23.5": 44.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 27,
+   "media": 3.67,
+   "overs": {
+    "2.5": 66.7,
+    "3.5": 51.9,
+    "4.5": 40.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 27,
+   "media": 7.33,
+   "overs": {
+    "6.5": 55.6,
+    "7.5": 40.7,
+    "8.5": 29.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 27,
+   "media": 3.59,
+   "overs": {
+    "3.5": 44.4,
+    "4.5": 29.6,
+    "5.5": 14.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 5,
+   "media": 16.6,
+   "overs": {
+    "9.5": 100,
+    "11.5": 100,
+    "13.5": 100
+   }
+  },
+  "faltas_ft": {
+   "jogos": 22,
+   "media": 28.14,
+   "overs": {
+    "21.5": 95.5,
+    "23.5": 86.4,
+    "25.5": 77.3
+   }
+  },
+  "gols_ht": {
+   "jogos": 27,
+   "media": 1.41,
+   "overs": {
+    "0.5": 81.5,
+    "1.5": 44.4,
+    "2.5": 11.1
+   },
+   "ambasMarcam": 14.8
+  },
+  "gols_ft": {
+   "jogos": 27,
+   "media": 3.07,
+   "overs": {
+    "1.5": 92.6,
+    "2.5": 63,
+    "3.5": 29.6,
+    "4.5": 18.5
+   },
+   "ambasMarcam": 33.3
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 7,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 7
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 6,
+  "contraMedia": 10,
+  "totalMedia": 16,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 10
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 9,
+  "contraMedia": 18,
+  "totalMedia": 27,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 18
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 3,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 6,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 6
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 1,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "gols_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-10-14",
+   "adv": "Algeria",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     6,
+     10
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     7
+    ],
+    "ch": [
+     9,
+     18
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  }
+ ]
+}

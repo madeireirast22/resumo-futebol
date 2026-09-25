@@ -1,0 +1,571 @@
+{
+ "time": "Gibraltar",
+ "competicao": {
+  "chave": "liga-das-nacoes-2024",
+  "nome": "UEFA Liga das Nações",
+  "apelido": "liga-das-nacoes",
+  "ano": "2024",
+  "torneioId": 10783,
+  "temporadaId": 58337,
+  "jogos": 187,
+  "jogosNaFonte": 187,
+  "periodo": {
+   "de": "2024-09-05",
+   "ate": "2026-03-31"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 187,
+   "media": 4.3,
+   "overs": {
+    "1.5": 89.3,
+    "2.5": 73.8,
+    "3.5": 58.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 187,
+   "media": 8.97,
+   "overs": {
+    "7.5": 61,
+    "8.5": 51.9,
+    "9.5": 43.3,
+    "10.5": 32.1
+   }
+  },
+  "chutes_ht": {
+   "jogos": 187,
+   "media": 11.33,
+   "overs": {
+    "7.5": 82.9,
+    "9.5": 64.7,
+    "11.5": 46
+   }
+  },
+  "chutes_ft": {
+   "jogos": 187,
+   "media": 24.88,
+   "overs": {
+    "19.5": 79.7,
+    "21.5": 70.1,
+    "23.5": 54
+   }
+  },
+  "alvo_ht": {
+   "jogos": 187,
+   "media": 3.93,
+   "overs": {
+    "2.5": 69.5,
+    "3.5": 51.3,
+    "4.5": 36.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 187,
+   "media": 8.62,
+   "overs": {
+    "6.5": 71.7,
+    "7.5": 62,
+    "8.5": 49.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 184,
+   "media": 1.59,
+   "overs": {
+    "0.5": 76.1,
+    "1.5": 44.6,
+    "2.5": 22.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 184,
+   "media": 4.74,
+   "overs": {
+    "3.5": 66.8,
+    "4.5": 53.3,
+    "5.5": 36.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 4,
+   "media": 14.25,
+   "overs": {
+    "9.5": 100,
+    "11.5": 75,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 187,
+   "media": 24.6,
+   "overs": {
+    "21.5": 64.7,
+    "23.5": 54,
+    "25.5": 39
+   }
+  },
+  "gols_ht": {
+   "jogos": 187,
+   "media": 1.19,
+   "overs": {
+    "0.5": 66.8,
+    "1.5": 35.3,
+    "2.5": 14.4
+   },
+   "ambasMarcam": 18.7
+  },
+  "gols_ft": {
+   "jogos": 187,
+   "media": 2.67,
+   "overs": {
+    "1.5": 73.3,
+    "2.5": 51.3,
+    "3.5": 29.4,
+    "4.5": 13.9
+   },
+   "ambasMarcam": 46
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 1.17,
+  "contraMedia": 2.67,
+  "totalMedia": 3.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 3.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 3.17,
+  "contraMedia": 4.5,
+  "totalMedia": 7.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 4.67,
+  "contraMedia": 3.83,
+  "totalMedia": 8.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 7.67,
+  "contraMedia": 9.67,
+  "totalMedia": 17.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 9.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 9.67
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 1.33,
+  "contraMedia": 1.17,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 2.5,
+  "contraMedia": 3.17,
+  "totalMedia": 5.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 3,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 4
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 1,
+  "contraMedia": 1.5,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 4.17,
+  "contraMedia": 4.5,
+  "totalMedia": 8.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.67,
+   "contra": 3
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 5.5,
+  "contraMedia": 6.5,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 7
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 12.5,
+  "contraMedia": 16.67,
+  "totalMedia": 29.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 12.33,
+   "contra": 17
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 12.67,
+   "contra": 16.33
+  }
+ },
+ "gols_ht": {
+  "jogos": 6,
+  "proMedia": 0.33,
+  "contraMedia": 0,
+  "totalMedia": 0.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 6,
+  "proMedia": 0.67,
+  "contraMedia": 0.83,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.67
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-09-08",
+   "adv": "Liechtenstein",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     6,
+     2
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     15,
+     6
+    ],
+    "car": [
+     6,
+     8
+    ]
+   }
+  },
+  {
+   "data": "2024-10-10",
+   "adv": "San Marino",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     6
+    ],
+    "ch": [
+     11,
+     11
+    ],
+    "car": [
+     3,
+     8
+    ]
+   }
+  },
+  {
+   "data": "2024-10-13",
+   "adv": "Liechtenstein",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     2,
+     3
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-11-15",
+   "adv": "San Marino",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     3,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     4,
+     11
+    ],
+    "car": [
+     6,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2026-03-26",
+   "adv": "Latvia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     5,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     5,
+     12
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2026-03-31",
+   "adv": "Latvia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     9
+    ],
+    "ch": [
+     6,
+     14
+    ],
+    "car": [
+     5,
+     2
+    ]
+   }
+  }
+ ]
+}

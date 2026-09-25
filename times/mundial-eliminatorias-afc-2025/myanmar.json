@@ -1,0 +1,391 @@
+{
+ "time": "Myanmar",
+ "competicao": {
+  "chave": "mundial-eliminatorias-afc-2025",
+  "nome": "Eliminatórias da Copa do Mundo — AFC",
+  "apelido": "mundial-eliminatorias-afc",
+  "ano": "2025",
+  "torneioId": 308,
+  "temporadaId": 53508,
+  "jogos": 136,
+  "jogosNaFonte": 225,
+  "periodo": {
+   "de": "2023-11-16",
+   "ate": "2025-11-18"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 136,
+   "media": 4.18,
+   "overs": {
+    "1.5": 91.2,
+    "2.5": 78.7,
+    "3.5": 61.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 136,
+   "media": 8.93,
+   "overs": {
+    "7.5": 61,
+    "8.5": 51.5,
+    "9.5": 40.4,
+    "10.5": 30.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 136,
+   "media": 10.21,
+   "overs": {
+    "7.5": 78.7,
+    "9.5": 52.2,
+    "11.5": 35.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 136,
+   "media": 22.54,
+   "overs": {
+    "19.5": 66.2,
+    "21.5": 52.9,
+    "23.5": 40.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 136,
+   "media": 3.46,
+   "overs": {
+    "2.5": 64,
+    "3.5": 45.6,
+    "4.5": 28.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 136,
+   "media": 7.65,
+   "overs": {
+    "6.5": 61.8,
+    "7.5": 52.2,
+    "8.5": 36
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 127,
+   "media": 1.24,
+   "overs": {
+    "0.5": 73.2,
+    "1.5": 34.6,
+    "2.5": 9.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 127,
+   "media": 3.68,
+   "overs": {
+    "3.5": 50.4,
+    "4.5": 32.3,
+    "5.5": 15
+   }
+  },
+  "faltas_ht": {
+   "jogos": 5,
+   "media": 12,
+   "overs": {
+    "9.5": 100,
+    "11.5": 40,
+    "13.5": 20
+   }
+  },
+  "faltas_ft": {
+   "jogos": 135,
+   "media": 22.33,
+   "overs": {
+    "21.5": 48.9,
+    "23.5": 36.3,
+    "25.5": 25.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 136,
+   "media": 1.25,
+   "overs": {
+    "0.5": 73.5,
+    "1.5": 34.6,
+    "2.5": 11.8
+   },
+   "ambasMarcam": 16.2
+  },
+  "gols_ft": {
+   "jogos": 136,
+   "media": 2.7,
+   "overs": {
+    "1.5": 71.3,
+    "2.5": 50,
+    "3.5": 33.8,
+    "4.5": 16.2
+   },
+   "ambasMarcam": 41.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 4.5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 6
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 11.5,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 14
+  }
+ },
+ "chutes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 12.5,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 13
+  }
+ },
+ "chutes_ft": {
+  "jogos": 2,
+  "proMedia": 1.5,
+  "contraMedia": 26.5,
+  "totalMedia": 28,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 21
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 32
+  }
+ },
+ "alvo_ht": {
+  "jogos": 2,
+  "proMedia": 0,
+  "contraMedia": 5.5,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 7
+  }
+ },
+ "alvo_ft": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 12,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 15
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 2,
+  "proMedia": 0.5,
+  "contraMedia": 0,
+  "totalMedia": 0.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 2,
+  "proMedia": 1,
+  "contraMedia": 0.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 8,
+  "contraMedia": 9.5,
+  "totalMedia": 17.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 12
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 7
+  }
+ },
+ "gols_ht": {
+  "jogos": 2,
+  "proMedia": 0,
+  "contraMedia": 2.5,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 3
+  }
+ },
+ "gols_ft": {
+  "jogos": 2,
+  "proMedia": 0,
+  "contraMedia": 5,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2023-11-16",
+   "adv": "Japan",
+   "mando": "F",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    5
+   ],
+   "ht": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     0,
+     13
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     14
+    ],
+    "ch": [
+     0,
+     32
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2024-06-06",
+   "adv": "Japan",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    5
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     1,
+     12
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     9
+    ],
+    "ch": [
+     3,
+     21
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,464 @@
+{
+ "time": "United Arab Emirates",
+ "competicao": {
+  "chave": "copa-asiatica-2023",
+  "nome": "Copa Asiática AFC",
+  "apelido": "copa-asiatica",
+  "ano": "2023",
+  "torneioId": 246,
+  "temporadaId": 51384,
+  "jogos": 51,
+  "jogosNaFonte": 51,
+  "periodo": {
+   "de": "2024-01-12",
+   "ate": "2024-02-10"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 51,
+   "media": 4.1,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 70.6,
+    "3.5": 54.9
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 51,
+   "media": 9.57,
+   "overs": {
+    "7.5": 62.7,
+    "8.5": 52.9,
+    "9.5": 45.1,
+    "10.5": 35.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 51,
+   "media": 10.82,
+   "overs": {
+    "7.5": 80.4,
+    "9.5": 60.8,
+    "11.5": 41.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 51,
+   "media": 24.41,
+   "overs": {
+    "19.5": 80.4,
+    "21.5": 66.7,
+    "23.5": 52.9
+   }
+  },
+  "alvo_ht": {
+   "jogos": 51,
+   "media": 3.61,
+   "overs": {
+    "2.5": 68.6,
+    "3.5": 52.9,
+    "4.5": 33.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 51,
+   "media": 7.8,
+   "overs": {
+    "6.5": 66.7,
+    "7.5": 47.1,
+    "8.5": 35.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 50,
+   "media": 1.34,
+   "overs": {
+    "0.5": 74,
+    "1.5": 36,
+    "2.5": 16
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 50,
+   "media": 3.44,
+   "overs": {
+    "3.5": 46,
+    "4.5": 32,
+    "5.5": 14
+   }
+  },
+  "faltas_ft": {
+   "jogos": 51,
+   "media": 24.18,
+   "overs": {
+    "21.5": 60.8,
+    "23.5": 52.9,
+    "25.5": 43.1
+   }
+  },
+  "gols_ht": {
+   "jogos": 51,
+   "media": 1.12,
+   "overs": {
+    "0.5": 72.5,
+    "1.5": 19.6,
+    "2.5": 13.7
+   },
+   "ambasMarcam": 11.8
+  },
+  "gols_ft": {
+   "jogos": 51,
+   "media": 2.57,
+   "overs": {
+    "1.5": 72.5,
+    "2.5": 49,
+    "3.5": 29.4,
+    "4.5": 11.8
+   },
+   "ambasMarcam": 54.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 4.5,
+  "totalMedia": 6.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 5.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 4.5,
+  "contraMedia": 9,
+  "totalMedia": 13.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 10.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 5.75,
+  "contraMedia": 7.5,
+  "totalMedia": 13.25,
+  "casa": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 13.75,
+  "contraMedia": 17.75,
+  "totalMedia": 31.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 21,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.33,
+   "contra": 18.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 2.5,
+  "totalMedia": 4.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.33
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 5,
+  "contraMedia": 5,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4.33,
+   "contra": 5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.75,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 1.5,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1.33
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 10.25,
+  "contraMedia": 15.25,
+  "totalMedia": 25.5,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 21
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.33,
+   "contra": 13.33
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.5,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0.67
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 1.25,
+  "totalMedia": 2.75,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1.33
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-01-14",
+   "adv": "Hong Kong",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     8,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     4
+    ],
+    "ch": [
+     21,
+     16
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-01-18",
+   "adv": "Palestine",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     8
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     16
+    ],
+    "ch": [
+     5,
+     24
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-01-23",
+   "adv": "Iran",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     7
+    ],
+    "ch": [
+     11,
+     15
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-01-28",
+   "adv": "Tajikistan",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     9
+    ],
+    "ch": [
+     18,
+     16
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  }
+ ]
+}

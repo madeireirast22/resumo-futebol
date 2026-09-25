@@ -1,0 +1,432 @@
+{
+ "time": "Haiti",
+ "competicao": {
+  "chave": "copa-ouro-2025",
+  "nome": "CONCACAF Gold Cup",
+  "apelido": "copa-ouro",
+  "ano": "2025",
+  "torneioId": 140,
+  "temporadaId": 72840,
+  "jogos": 31,
+  "jogosNaFonte": 45,
+  "periodo": {
+   "de": "2025-06-15",
+   "ate": "2025-07-06"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 31,
+   "media": 4.48,
+   "overs": {
+    "1.5": 100,
+    "2.5": 93.5,
+    "3.5": 74.2
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 31,
+   "media": 9.35,
+   "overs": {
+    "7.5": 61.3,
+    "8.5": 48.4,
+    "9.5": 41.9,
+    "10.5": 38.7
+   }
+  },
+  "chutes_ht": {
+   "jogos": 31,
+   "media": 10.71,
+   "overs": {
+    "7.5": 77.4,
+    "9.5": 64.5,
+    "11.5": 38.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 31,
+   "media": 22.06,
+   "overs": {
+    "19.5": 64.5,
+    "21.5": 54.8,
+    "23.5": 45.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 31,
+   "media": 3.87,
+   "overs": {
+    "2.5": 71,
+    "3.5": 48.4,
+    "4.5": 38.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 31,
+   "media": 8.1,
+   "overs": {
+    "6.5": 61.3,
+    "7.5": 54.8,
+    "8.5": 45.2
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 30,
+   "media": 1.43,
+   "overs": {
+    "0.5": 80,
+    "1.5": 36.7,
+    "2.5": 20
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 30,
+   "media": 4,
+   "overs": {
+    "3.5": 56.7,
+    "4.5": 33.3,
+    "5.5": 23.3
+   }
+  },
+  "faltas_ht": {
+   "jogos": 1,
+   "media": 12,
+   "overs": {
+    "9.5": 100,
+    "11.5": 100,
+    "13.5": 0
+   }
+  },
+  "faltas_ft": {
+   "jogos": 31,
+   "media": 25.16,
+   "overs": {
+    "21.5": 77.4,
+    "23.5": 64.5,
+    "25.5": 45.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 31,
+   "media": 1.39,
+   "overs": {
+    "0.5": 71,
+    "1.5": 41.9,
+    "2.5": 16.1
+   },
+   "ambasMarcam": 29
+  },
+  "gols_ft": {
+   "jogos": 31,
+   "media": 2.74,
+   "overs": {
+    "1.5": 74.2,
+    "2.5": 45.2,
+    "3.5": 25.8,
+    "4.5": 22.6
+   },
+   "ambasMarcam": 54.8
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 4.33,
+  "contraMedia": 1,
+  "totalMedia": 5.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 1.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 6.67,
+  "contraMedia": 3.33,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 4.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 8,
+  "contraMedia": 3.33,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 4.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 12.33,
+  "contraMedia": 11.33,
+  "totalMedia": 23.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 12,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12.5,
+   "contra": 13.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 1.67,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 3.67,
+  "contraMedia": 4,
+  "totalMedia": 7.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 0.33,
+  "totalMedia": 0.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 1,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 12.33,
+  "contraMedia": 11.67,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 1,
+   "pro": 15,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11,
+   "contra": 11
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 0.67,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 0.67,
+  "contraMedia": 1.33,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-06-16",
+   "adv": "Saudi Arabia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     10,
+     1
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     1
+    ],
+    "ch": [
+     12,
+     7
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-06-19",
+   "adv": "Trinidad and Tobago",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     8,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     16,
+     9
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-06-22",
+   "adv": "USA",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     6
+    ],
+    "ch": [
+     9,
+     18
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  }
+ ]
+}

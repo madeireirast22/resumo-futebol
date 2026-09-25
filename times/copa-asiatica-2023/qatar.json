@@ -1,0 +1,587 @@
+{
+ "time": "Qatar",
+ "competicao": {
+  "chave": "copa-asiatica-2023",
+  "nome": "Copa Asiática AFC",
+  "apelido": "copa-asiatica",
+  "ano": "2023",
+  "torneioId": 246,
+  "temporadaId": 51384,
+  "jogos": 51,
+  "jogosNaFonte": 51,
+  "periodo": {
+   "de": "2024-01-12",
+   "ate": "2024-02-10"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 51,
+   "media": 4.1,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 70.6,
+    "3.5": 54.9
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 51,
+   "media": 9.57,
+   "overs": {
+    "7.5": 62.7,
+    "8.5": 52.9,
+    "9.5": 45.1,
+    "10.5": 35.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 51,
+   "media": 10.82,
+   "overs": {
+    "7.5": 80.4,
+    "9.5": 60.8,
+    "11.5": 41.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 51,
+   "media": 24.41,
+   "overs": {
+    "19.5": 80.4,
+    "21.5": 66.7,
+    "23.5": 52.9
+   }
+  },
+  "alvo_ht": {
+   "jogos": 51,
+   "media": 3.61,
+   "overs": {
+    "2.5": 68.6,
+    "3.5": 52.9,
+    "4.5": 33.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 51,
+   "media": 7.8,
+   "overs": {
+    "6.5": 66.7,
+    "7.5": 47.1,
+    "8.5": 35.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 50,
+   "media": 1.34,
+   "overs": {
+    "0.5": 74,
+    "1.5": 36,
+    "2.5": 16
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 50,
+   "media": 3.44,
+   "overs": {
+    "3.5": 46,
+    "4.5": 32,
+    "5.5": 14
+   }
+  },
+  "faltas_ft": {
+   "jogos": 51,
+   "media": 24.18,
+   "overs": {
+    "21.5": 60.8,
+    "23.5": 52.9,
+    "25.5": 43.1
+   }
+  },
+  "gols_ht": {
+   "jogos": 51,
+   "media": 1.12,
+   "overs": {
+    "0.5": 72.5,
+    "1.5": 19.6,
+    "2.5": 13.7
+   },
+   "ambasMarcam": 11.8
+  },
+  "gols_ft": {
+   "jogos": 51,
+   "media": 2.57,
+   "overs": {
+    "1.5": 72.5,
+    "2.5": 49,
+    "3.5": 29.4,
+    "4.5": 11.8
+   },
+   "ambasMarcam": 54.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 7,
+  "proMedia": 2,
+  "contraMedia": 2.86,
+  "totalMedia": 4.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 2.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 7,
+  "proMedia": 4,
+  "contraMedia": 7.14,
+  "totalMedia": 11.14,
+  "casa": {
+   "jogos": 4,
+   "pro": 4.5,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 8.67
+  }
+ },
+ "chutes_ht": {
+  "jogos": 7,
+  "proMedia": 5.71,
+  "contraMedia": 5,
+  "totalMedia": 10.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 5.25,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 6.33,
+   "contra": 4.33
+  }
+ },
+ "chutes_ft": {
+  "jogos": 7,
+  "proMedia": 11.43,
+  "contraMedia": 12.71,
+  "totalMedia": 24.14,
+  "casa": {
+   "jogos": 4,
+   "pro": 11.25,
+   "contra": 11.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11.67,
+   "contra": 14.67
+  }
+ },
+ "alvo_ht": {
+  "jogos": 7,
+  "proMedia": 2.71,
+  "contraMedia": 2,
+  "totalMedia": 4.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 7,
+  "proMedia": 4.71,
+  "contraMedia": 4.29,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 4,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 7,
+   "contra": 4.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 7,
+  "proMedia": 0.29,
+  "contraMedia": 0.86,
+  "totalMedia": 1.14,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 1.67
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 7,
+  "proMedia": 2.29,
+  "contraMedia": 2.29,
+  "totalMedia": 4.57,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.25,
+   "contra": 1.75
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 7,
+  "proMedia": 12.71,
+  "contraMedia": 15.14,
+  "totalMedia": 27.86,
+  "casa": {
+   "jogos": 4,
+   "pro": 11,
+   "contra": 15.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 15,
+   "contra": 15
+  }
+ },
+ "gols_ht": {
+  "jogos": 7,
+  "proMedia": 1,
+  "contraMedia": 0.29,
+  "totalMedia": 1.29,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 0.25
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 0.33
+  }
+ },
+ "gols_ft": {
+  "jogos": 7,
+  "proMedia": 2,
+  "contraMedia": 0.71,
+  "totalMedia": 2.71,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 1
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-01-12",
+   "adv": "Lebanon",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     9,
+     5
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     16,
+     9
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-01-17",
+   "adv": "Tajikistan",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     12,
+     5
+    ],
+    "car": [
+     3,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-01-22",
+   "adv": "China",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     4,
+     8
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     10,
+     10
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2024-01-29",
+   "adv": "Palestine",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     4,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     9,
+     11
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-02-03",
+   "adv": "Uzbekistan",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     4,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     9
+    ],
+    "ch": [
+     10,
+     15
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-02-07",
+   "adv": "Iran",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     8,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     12
+    ],
+    "ch": [
+     15,
+     23
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-02-10",
+   "adv": "Jordan",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     5,
+     4
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     7
+    ],
+    "ch": [
+     8,
+     16
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  }
+ ]
+}

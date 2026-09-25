@@ -1,0 +1,530 @@
+{
+ "time": "Portugal",
+ "competicao": {
+  "chave": "mundial-2022",
+  "nome": "Copa do Mundo FIFA",
+  "apelido": "mundial",
+  "ano": "2022",
+  "torneioId": 16,
+  "temporadaId": 41087,
+  "jogos": 64,
+  "jogosNaFonte": 64,
+  "periodo": {
+   "de": "2022-11-20",
+   "ate": "2022-12-18"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 64,
+   "media": 3.95,
+   "overs": {
+    "1.5": 90.6,
+    "2.5": 73.4,
+    "3.5": 59.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 64,
+   "media": 8.92,
+   "overs": {
+    "7.5": 64.1,
+    "8.5": 51.6,
+    "9.5": 37.5,
+    "10.5": 26.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 64,
+   "media": 9.44,
+   "overs": {
+    "7.5": 62.5,
+    "9.5": 40.6,
+    "11.5": 28.1
+   }
+  },
+  "chutes_ft": {
+   "jogos": 64,
+   "media": 22.75,
+   "overs": {
+    "19.5": 65.6,
+    "21.5": 51.6,
+    "23.5": 45.3
+   }
+  },
+  "alvo_ht": {
+   "jogos": 64,
+   "media": 3.22,
+   "overs": {
+    "2.5": 56.3,
+    "3.5": 37.5,
+    "4.5": 21.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 64,
+   "media": 8.08,
+   "overs": {
+    "6.5": 64.1,
+    "7.5": 51.6,
+    "8.5": 35.9
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 62,
+   "media": 1.29,
+   "overs": {
+    "0.5": 67.7,
+    "1.5": 32.3,
+    "2.5": 19.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 62,
+   "media": 3.66,
+   "overs": {
+    "3.5": 41.9,
+    "4.5": 27.4,
+    "5.5": 19.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 64,
+   "media": 11.28,
+   "overs": {
+    "9.5": 60.9,
+    "11.5": 48.4,
+    "13.5": 26.6
+   }
+  },
+  "faltas_ft": {
+   "jogos": 64,
+   "media": 24.98,
+   "overs": {
+    "21.5": 67.2,
+    "23.5": 56.3,
+    "25.5": 40.6
+   }
+  },
+  "gols_ht": {
+   "jogos": 64,
+   "media": 1.05,
+   "overs": {
+    "0.5": 59.4,
+    "1.5": 28.1,
+    "2.5": 14.1
+   },
+   "ambasMarcam": 10.9
+  },
+  "gols_ft": {
+   "jogos": 64,
+   "media": 2.63,
+   "overs": {
+    "1.5": 71.9,
+    "2.5": 46.9,
+    "3.5": 25,
+    "4.5": 17.2
+   },
+   "ambasMarcam": 46.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 5,
+  "proMedia": 2.8,
+  "contraMedia": 2,
+  "totalMedia": 4.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 5,
+  "proMedia": 5.6,
+  "contraMedia": 3.8,
+  "totalMedia": 9.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 3.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 4
+  }
+ },
+ "chutes_ht": {
+  "jogos": 5,
+  "proMedia": 7.2,
+  "contraMedia": 4,
+  "totalMedia": 11.2,
+  "casa": {
+   "jogos": 3,
+   "pro": 7,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 5,
+  "proMedia": 13.2,
+  "contraMedia": 10.4,
+  "totalMedia": 23.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.67,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12.5,
+   "contra": 11
+  }
+ },
+ "alvo_ht": {
+  "jogos": 5,
+  "proMedia": 2.8,
+  "contraMedia": 1.6,
+  "totalMedia": 4.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 2.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 5,
+  "proMedia": 5.2,
+  "contraMedia": 3.6,
+  "totalMedia": 8.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 4.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 0.2,
+  "contraMedia": 1,
+  "totalMedia": 1.2,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 1.2,
+  "contraMedia": 2.6,
+  "totalMedia": 3.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 2.5
+  }
+ },
+ "faltas_ht": {
+  "jogos": 5,
+  "proMedia": 5,
+  "contraMedia": 6.6,
+  "totalMedia": 11.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 5,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 4.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 5,
+  "proMedia": 11,
+  "contraMedia": 13.8,
+  "totalMedia": 24.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 12,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 9.5,
+   "contra": 12
+  }
+ },
+ "gols_ht": {
+  "jogos": 5,
+  "proMedia": 0.6,
+  "contraMedia": 0.4,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  }
+ },
+ "gols_ft": {
+  "jogos": 5,
+  "proMedia": 2.4,
+  "contraMedia": 1.2,
+  "totalMedia": 3.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2022-11-24",
+   "adv": "Ghana",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     7,
+     0
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     11,
+     9
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2022-11-28",
+   "adv": "Uruguay",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     15,
+     11
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2022-12-02",
+   "adv": "South Korea",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     5
+    ],
+    "ch": [
+     13,
+     13
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2022-12-06",
+   "adv": "Switzerland",
+   "mando": "C",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    6,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     6
+    ],
+    "ch": [
+     15,
+     10
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2022-12-10",
+   "adv": "Morocco",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     5,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     3
+    ],
+    "ch": [
+     12,
+     9
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  }
+ ]
+}

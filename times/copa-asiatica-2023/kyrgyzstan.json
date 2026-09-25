@@ -1,0 +1,423 @@
+{
+ "time": "Kyrgyzstan",
+ "competicao": {
+  "chave": "copa-asiatica-2023",
+  "nome": "Copa Asiática AFC",
+  "apelido": "copa-asiatica",
+  "ano": "2023",
+  "torneioId": 246,
+  "temporadaId": 51384,
+  "jogos": 51,
+  "jogosNaFonte": 51,
+  "periodo": {
+   "de": "2024-01-12",
+   "ate": "2024-02-10"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 51,
+   "media": 4.1,
+   "overs": {
+    "1.5": 94.1,
+    "2.5": 70.6,
+    "3.5": 54.9
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 51,
+   "media": 9.57,
+   "overs": {
+    "7.5": 62.7,
+    "8.5": 52.9,
+    "9.5": 45.1,
+    "10.5": 35.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 51,
+   "media": 10.82,
+   "overs": {
+    "7.5": 80.4,
+    "9.5": 60.8,
+    "11.5": 41.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 51,
+   "media": 24.41,
+   "overs": {
+    "19.5": 80.4,
+    "21.5": 66.7,
+    "23.5": 52.9
+   }
+  },
+  "alvo_ht": {
+   "jogos": 51,
+   "media": 3.61,
+   "overs": {
+    "2.5": 68.6,
+    "3.5": 52.9,
+    "4.5": 33.3
+   }
+  },
+  "alvo_ft": {
+   "jogos": 51,
+   "media": 7.8,
+   "overs": {
+    "6.5": 66.7,
+    "7.5": 47.1,
+    "8.5": 35.3
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 50,
+   "media": 1.34,
+   "overs": {
+    "0.5": 74,
+    "1.5": 36,
+    "2.5": 16
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 50,
+   "media": 3.44,
+   "overs": {
+    "3.5": 46,
+    "4.5": 32,
+    "5.5": 14
+   }
+  },
+  "faltas_ft": {
+   "jogos": 51,
+   "media": 24.18,
+   "overs": {
+    "21.5": 60.8,
+    "23.5": 52.9,
+    "25.5": 43.1
+   }
+  },
+  "gols_ht": {
+   "jogos": 51,
+   "media": 1.12,
+   "overs": {
+    "0.5": 72.5,
+    "1.5": 19.6,
+    "2.5": 13.7
+   },
+   "ambasMarcam": 11.8
+  },
+  "gols_ft": {
+   "jogos": 51,
+   "media": 2.57,
+   "overs": {
+    "1.5": 72.5,
+    "2.5": 49,
+    "3.5": 29.4,
+    "4.5": 11.8
+   },
+   "ambasMarcam": 54.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 2,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 7.67,
+  "totalMedia": 9.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 2.67,
+  "contraMedia": 7.67,
+  "totalMedia": 10.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 6.67,
+  "contraMedia": 19,
+  "totalMedia": 25.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 22.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 12
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 1.67,
+  "totalMedia": 2.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 5,
+  "totalMedia": 6.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 4
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 0.67,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 2,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 3
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 12.67,
+  "contraMedia": 12,
+  "totalMedia": 24.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 13.5,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 15
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 0,
+  "contraMedia": 1,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 1.67,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-01-16",
+   "adv": "Thailand",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     6,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     13,
+     12
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-01-21",
+   "adv": "Saudi Arabia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     0,
+     11
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     8
+    ],
+    "ch": [
+     1,
+     28
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-01-25",
+   "adv": "Oman",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     12
+    ],
+    "ch": [
+     6,
+     17
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "time": "Bermuda",
+ "competicao": {
+  "chave": "mundial-eliminatorias-concacaf-2025",
+  "nome": "Eliminatórias da Copa do Mundo — CONCACAF",
+  "apelido": "mundial-eliminatorias-concacaf",
+  "ano": "2025",
+  "torneioId": 14,
+  "temporadaId": 58146,
+  "jogos": 95,
+  "jogosNaFonte": 100,
+  "periodo": {
+   "de": "2024-06-05",
+   "ate": "2025-11-19"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 95,
+   "media": 4.78,
+   "overs": {
+    "1.5": 92.6,
+    "2.5": 86.3,
+    "3.5": 69.5
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 95,
+   "media": 9.61,
+   "overs": {
+    "7.5": 70.5,
+    "8.5": 62.1,
+    "9.5": 49.5,
+    "10.5": 35.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 95,
+   "media": 12.39,
+   "overs": {
+    "7.5": 84.2,
+    "9.5": 77.9,
+    "11.5": 57.9
+   }
+  },
+  "chutes_ft": {
+   "jogos": 95,
+   "media": 26.91,
+   "overs": {
+    "19.5": 83.2,
+    "21.5": 78.9,
+    "23.5": 69.5
+   }
+  },
+  "alvo_ht": {
+   "jogos": 95,
+   "media": 4.58,
+   "overs": {
+    "2.5": 80,
+    "3.5": 58.9,
+    "4.5": 50.5
+   }
+  },
+  "alvo_ft": {
+   "jogos": 95,
+   "media": 9.93,
+   "overs": {
+    "6.5": 81.1,
+    "7.5": 67.4,
+    "8.5": 58.9
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 95,
+   "media": 3.23,
+   "overs": {
+    "3.5": 40,
+    "4.5": 24.2,
+    "5.5": 13.7
+   }
+  },
+  "faltas_ht": {
+   "jogos": 26,
+   "media": 13,
+   "overs": {
+    "9.5": 80.8,
+    "11.5": 53.8,
+    "13.5": 46.2
+   }
+  },
+  "faltas_ft": {
+   "jogos": 92,
+   "media": 24.76,
+   "overs": {
+    "21.5": 67.4,
+    "23.5": 51.1,
+    "25.5": 43.5
+   }
+  },
+  "gols_ht": {
+   "jogos": 95,
+   "media": 1.42,
+   "overs": {
+    "0.5": 75.8,
+    "1.5": 46.3,
+    "2.5": 15.8
+   },
+   "ambasMarcam": 15.8
+  },
+  "gols_ft": {
+   "jogos": 95,
+   "media": 3.21,
+   "overs": {
+    "1.5": 78.9,
+    "2.5": 60,
+    "3.5": 42.1,
+    "4.5": 24.2
+   },
+   "ambasMarcam": 40
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 10,
+  "proMedia": 1.6,
+  "contraMedia": 3.2,
+  "totalMedia": 4.8,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.4,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1.8,
+   "contra": 4.4
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 10,
+  "proMedia": 3.6,
+  "contraMedia": 6.8,
+  "totalMedia": 10.4,
+  "casa": {
+   "jogos": 5,
+   "pro": 3.2,
+   "contra": 4.4
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4,
+   "contra": 9.2
+  }
+ },
+ "chutes_ht": {
+  "jogos": 10,
+  "proMedia": 4.6,
+  "contraMedia": 8.7,
+  "totalMedia": 13.3,
+  "casa": {
+   "jogos": 5,
+   "pro": 4.6,
+   "contra": 9.2
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4.6,
+   "contra": 8.2
+  }
+ },
+ "chutes_ft": {
+  "jogos": 10,
+  "proMedia": 9.6,
+  "contraMedia": 18.2,
+  "totalMedia": 27.8,
+  "casa": {
+   "jogos": 5,
+   "pro": 8.8,
+   "contra": 19.6
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 10.4,
+   "contra": 16.8
+  }
+ },
+ "alvo_ht": {
+  "jogos": 10,
+  "proMedia": 2.2,
+  "contraMedia": 4.1,
+  "totalMedia": 6.3,
+  "casa": {
+   "jogos": 5,
+   "pro": 2.4,
+   "contra": 3.8
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2,
+   "contra": 4.4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 10,
+  "proMedia": 4.4,
+  "contraMedia": 8.1,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 5,
+   "pro": 4,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 4.8,
+   "contra": 7.2
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 10,
+  "proMedia": 1.9,
+  "contraMedia": 1.3,
+  "totalMedia": 3.2,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.4,
+   "contra": 1.4
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 2.4,
+   "contra": 1.2
+  }
+ },
+ "faltas_ht": {
+  "jogos": 4,
+  "proMedia": 6,
+  "contraMedia": 5,
+  "totalMedia": 11,
+  "casa": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 9,
+  "proMedia": 12.56,
+  "contraMedia": 10.56,
+  "totalMedia": 23.11,
+  "casa": {
+   "jogos": 4,
+   "pro": 11.75,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 13.2,
+   "contra": 10.2
+  }
+ },
+ "gols_ht": {
+  "jogos": 10,
+  "proMedia": 0.5,
+  "contraMedia": 1.4,
+  "totalMedia": 1.9,
+  "casa": {
+   "jogos": 5,
+   "pro": 0.4,
+   "contra": 1.4
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 0.6,
+   "contra": 1.4
+  }
+ },
+ "gols_ft": {
+  "jogos": 10,
+  "proMedia": 1.3,
+  "contraMedia": 3.1,
+  "totalMedia": 4.4,
+  "casa": {
+   "jogos": 5,
+   "pro": 1.2,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 5,
+   "pro": 1.4,
+   "contra": 2.2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-06-05",
+   "adv": "Antigua and Barbuda",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     13,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     23,
+     7
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-06-09",
+   "adv": "Honduras",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    6
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     4,
+     10
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     4,
+     26
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-06-04",
+   "adv": "Cayman Islands",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    5,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     7,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     1
+    ],
+    "ch": [
+     17,
+     5
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-06-10",
+   "adv": "Cuba",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     8
+    ],
+    "ch": [
+     6,
+     8
+    ],
+    "car": [
+     5,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-09-05",
+   "adv": "Jamaica",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     3,
+     11
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     8,
+     18
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-09-10",
+   "adv": "Curaçao",
+   "mando": "F",
+   "golsHt": [
+    2,
+    2
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     3,
+     14
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     10
+    ],
+    "ch": [
+     6,
+     22
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-10",
+   "adv": "Trinidad and Tobago",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     5,
+     12
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     10,
+     22
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-10-15",
+   "adv": "Jamaica",
+   "mando": "F",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     2,
+     12
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     9
+    ],
+    "ch": [
+     5,
+     26
+    ],
+    "car": [
+     3,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-11-14",
+   "adv": "Curaçao",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    7
+   ],
+   "ht": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     4,
+     13
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     7
+    ],
+    "ch": [
+     5,
+     27
+    ],
+    "car": [
+     5,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-11-19",
+   "adv": "Trinidad and Tobago",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     4,
+     8
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     17
+    ],
+    "ch": [
+     12,
+     21
+    ],
+    "car": [
+     0,
+     0
+    ]
+   }
+  }
+ ]
+}

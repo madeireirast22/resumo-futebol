@@ -1,0 +1,464 @@
+{
+ "time": "Brazil",
+ "competicao": {
+  "chave": "copa-america-2024",
+  "nome": "Copa América",
+  "apelido": "copa-america",
+  "ano": "2024",
+  "torneioId": 133,
+  "temporadaId": 57114,
+  "jogos": 32,
+  "jogosNaFonte": 32,
+  "periodo": {
+   "de": "2024-06-21",
+   "ate": "2024-07-15"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 32,
+   "media": 3.91,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 75,
+    "3.5": 53.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 32,
+   "media": 8.47,
+   "overs": {
+    "7.5": 56.3,
+    "8.5": 46.9,
+    "9.5": 40.6,
+    "10.5": 31.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 32,
+   "media": 11.47,
+   "overs": {
+    "7.5": 81.3,
+    "9.5": 65.6,
+    "11.5": 46.9
+   }
+  },
+  "chutes_ft": {
+   "jogos": 32,
+   "media": 23.41,
+   "overs": {
+    "19.5": 75,
+    "21.5": 56.3,
+    "23.5": 40.6
+   }
+  },
+  "alvo_ht": {
+   "jogos": 32,
+   "media": 3.28,
+   "overs": {
+    "2.5": 65.6,
+    "3.5": 34.4,
+    "4.5": 25
+   }
+  },
+  "alvo_ft": {
+   "jogos": 32,
+   "media": 7.91,
+   "overs": {
+    "6.5": 68.8,
+    "7.5": 53.1,
+    "8.5": 40.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 31,
+   "media": 1.65,
+   "overs": {
+    "0.5": 83.9,
+    "1.5": 51.6,
+    "2.5": 19.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 31,
+   "media": 4,
+   "overs": {
+    "3.5": 64.5,
+    "4.5": 29,
+    "5.5": 19.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 32,
+   "media": 26.47,
+   "overs": {
+    "21.5": 78.1,
+    "23.5": 68.8,
+    "25.5": 50
+   }
+  },
+  "gols_ht": {
+   "jogos": 32,
+   "media": 0.94,
+   "overs": {
+    "0.5": 56.3,
+    "1.5": 31.3,
+    "2.5": 6.3
+   },
+   "ambasMarcam": 9.4
+  },
+  "gols_ft": {
+   "jogos": 32,
+   "media": 2.16,
+   "overs": {
+    "1.5": 62.5,
+    "2.5": 40.6,
+    "3.5": 21.9,
+    "4.5": 9.4
+   },
+   "ambasMarcam": 37.5
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 3.5,
+  "contraMedia": 2,
+  "totalMedia": 5.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 2.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 5.75,
+  "contraMedia": 4,
+  "totalMedia": 9.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 6.75,
+  "contraMedia": 5.25,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 6.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 12.5,
+  "contraMedia": 10.5,
+  "totalMedia": 23,
+  "casa": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 7.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 12,
+   "contra": 13.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 1.75,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 1.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 3.75,
+  "contraMedia": 3.25,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 3.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 0.75,
+  "totalMedia": 1.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2.25,
+  "contraMedia": 2,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 2
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 13.75,
+  "contraMedia": 16.75,
+  "totalMedia": 30.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 13.5,
+   "contra": 14.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 14,
+   "contra": 19
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 0.25,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 0.5,
+  "totalMedia": 1.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 0.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-06-25",
+   "adv": "Costa Rica",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     9,
+     0
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     1
+    ],
+    "ch": [
+     19,
+     2
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-06-29",
+   "adv": "Paraguay",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    4,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     11,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     17,
+     15
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-07-03",
+   "adv": "Colombia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     5
+    ],
+    "ch": [
+     7,
+     13
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-07-07",
+   "adv": "Uruguay",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     4,
+     5
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     7,
+     12
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "time": "Bolivia",
+ "competicao": {
+  "chave": "copa-america-2024",
+  "nome": "Copa América",
+  "apelido": "copa-america",
+  "ano": "2024",
+  "torneioId": 133,
+  "temporadaId": 57114,
+  "jogos": 32,
+  "jogosNaFonte": 32,
+  "periodo": {
+   "de": "2024-06-21",
+   "ate": "2024-07-15"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 32,
+   "media": 3.91,
+   "overs": {
+    "1.5": 93.8,
+    "2.5": 75,
+    "3.5": 53.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 32,
+   "media": 8.47,
+   "overs": {
+    "7.5": 56.3,
+    "8.5": 46.9,
+    "9.5": 40.6,
+    "10.5": 31.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 32,
+   "media": 11.47,
+   "overs": {
+    "7.5": 81.3,
+    "9.5": 65.6,
+    "11.5": 46.9
+   }
+  },
+  "chutes_ft": {
+   "jogos": 32,
+   "media": 23.41,
+   "overs": {
+    "19.5": 75,
+    "21.5": 56.3,
+    "23.5": 40.6
+   }
+  },
+  "alvo_ht": {
+   "jogos": 32,
+   "media": 3.28,
+   "overs": {
+    "2.5": 65.6,
+    "3.5": 34.4,
+    "4.5": 25
+   }
+  },
+  "alvo_ft": {
+   "jogos": 32,
+   "media": 7.91,
+   "overs": {
+    "6.5": 68.8,
+    "7.5": 53.1,
+    "8.5": 40.6
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 31,
+   "media": 1.65,
+   "overs": {
+    "0.5": 83.9,
+    "1.5": 51.6,
+    "2.5": 19.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 31,
+   "media": 4,
+   "overs": {
+    "3.5": 64.5,
+    "4.5": 29,
+    "5.5": 19.4
+   }
+  },
+  "faltas_ft": {
+   "jogos": 32,
+   "media": 26.47,
+   "overs": {
+    "21.5": 78.1,
+    "23.5": 68.8,
+    "25.5": 50
+   }
+  },
+  "gols_ht": {
+   "jogos": 32,
+   "media": 0.94,
+   "overs": {
+    "0.5": 56.3,
+    "1.5": 31.3,
+    "2.5": 6.3
+   },
+   "ambasMarcam": 9.4
+  },
+  "gols_ft": {
+   "jogos": 32,
+   "media": 2.16,
+   "overs": {
+    "1.5": 62.5,
+    "2.5": 40.6,
+    "3.5": 21.9,
+    "4.5": 9.4
+   },
+   "ambasMarcam": 37.5
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 1.33,
+  "contraMedia": 2.67,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 4,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 5.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 3,
+  "contraMedia": 8.33,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 10
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 17,
+  "totalMedia": 22.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 13
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 19
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 3.33,
+  "totalMedia": 4.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 4
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 2.67,
+  "contraMedia": 7.67,
+  "totalMedia": 10.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 8.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 0.33,
+  "totalMedia": 1.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 2,
+  "contraMedia": 0.67,
+  "totalMedia": 2.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 0.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 3,
+  "proMedia": 16,
+  "contraMedia": 9.33,
+  "totalMedia": 25.33,
+  "casa": {
+   "jogos": 1,
+   "pro": 17,
+   "contra": 8
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 15.5,
+   "contra": 10
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 0,
+  "contraMedia": 1.67,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 2
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 0.33,
+  "contraMedia": 3.33,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 3.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-06-23",
+   "adv": "USA",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     6,
+     20
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-06-28",
+   "adv": "Uruguay",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    5
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     3,
+     13
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     4,
+     18
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2024-07-02",
+   "adv": "Panama",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     4,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     7,
+     13
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  }
+ ]
+}

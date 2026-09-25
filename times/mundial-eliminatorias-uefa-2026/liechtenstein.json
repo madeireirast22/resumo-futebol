@@ -1,0 +1,653 @@
+{
+ "time": "Liechtenstein",
+ "competicao": {
+  "chave": "mundial-eliminatorias-uefa-2026",
+  "nome": "Eliminatórias da Copa do Mundo — UEFA",
+  "apelido": "mundial-eliminatorias-uefa",
+  "ano": "2026",
+  "torneioId": 11,
+  "temporadaId": 69427,
+  "jogos": 204,
+  "jogosNaFonte": 204,
+  "periodo": {
+   "de": "2025-03-21",
+   "ate": "2026-03-31"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 204,
+   "media": 4.6,
+   "overs": {
+    "1.5": 92.2,
+    "2.5": 80.9,
+    "3.5": 64.2
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 204,
+   "media": 9.47,
+   "overs": {
+    "7.5": 70.6,
+    "8.5": 55.9,
+    "9.5": 47.1,
+    "10.5": 36.8
+   }
+  },
+  "chutes_ht": {
+   "jogos": 204,
+   "media": 11.87,
+   "overs": {
+    "7.5": 86.3,
+    "9.5": 74.5,
+    "11.5": 52.5
+   }
+  },
+  "chutes_ft": {
+   "jogos": 204,
+   "media": 25.18,
+   "overs": {
+    "19.5": 83.3,
+    "21.5": 67.6,
+    "23.5": 57.8
+   }
+  },
+  "alvo_ht": {
+   "jogos": 204,
+   "media": 4.13,
+   "overs": {
+    "2.5": 74.5,
+    "3.5": 60.8,
+    "4.5": 42.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 204,
+   "media": 9.1,
+   "overs": {
+    "6.5": 77.5,
+    "7.5": 66.7,
+    "8.5": 55.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 195,
+   "media": 1.25,
+   "overs": {
+    "0.5": 71.8,
+    "1.5": 35.9,
+    "2.5": 11.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 195,
+   "media": 3.64,
+   "overs": {
+    "3.5": 46.7,
+    "4.5": 31.8,
+    "5.5": 13.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 80,
+   "media": 10.86,
+   "overs": {
+    "9.5": 60,
+    "11.5": 42.5,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 197,
+   "media": 23.38,
+   "overs": {
+    "21.5": 56.9,
+    "23.5": 43.1,
+    "25.5": 33.5
+   }
+  },
+  "gols_ht": {
+   "jogos": 204,
+   "media": 1.48,
+   "overs": {
+    "0.5": 76,
+    "1.5": 41.2,
+    "2.5": 19.6
+   },
+   "ambasMarcam": 18.6
+  },
+  "gols_ft": {
+   "jogos": 204,
+   "media": 3.3,
+   "overs": {
+    "1.5": 81.4,
+    "2.5": 58.3,
+    "3.5": 43.6,
+    "4.5": 23.5
+   },
+   "ambasMarcam": 42.6
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 8,
+  "proMedia": 0.25,
+  "contraMedia": 4.63,
+  "totalMedia": 4.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 6.25
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 8,
+  "proMedia": 0.75,
+  "contraMedia": 9.13,
+  "totalMedia": 9.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 7.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 10.75
+  }
+ },
+ "chutes_ht": {
+  "jogos": 8,
+  "proMedia": 1.13,
+  "contraMedia": 9.63,
+  "totalMedia": 10.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.75,
+   "contra": 8.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 10.75
+  }
+ },
+ "chutes_ft": {
+  "jogos": 8,
+  "proMedia": 2.38,
+  "contraMedia": 20.88,
+  "totalMedia": 23.25,
+  "casa": {
+   "jogos": 4,
+   "pro": 2.75,
+   "contra": 18.75
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 23
+  }
+ },
+ "alvo_ht": {
+  "jogos": 8,
+  "proMedia": 0.63,
+  "contraMedia": 4.13,
+  "totalMedia": 4.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 3.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.5,
+   "contra": 5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 8,
+  "proMedia": 0.88,
+  "contraMedia": 8.88,
+  "totalMedia": 9.75,
+  "casa": {
+   "jogos": 4,
+   "pro": 0.75,
+   "contra": 7.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1,
+   "contra": 10.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 8,
+  "proMedia": 0.75,
+  "contraMedia": 0.63,
+  "totalMedia": 1.38,
+  "casa": {
+   "jogos": 4,
+   "pro": 1.25,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0.25,
+   "contra": 0.75
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 8,
+  "proMedia": 1.75,
+  "contraMedia": 1.25,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 4,
+   "pro": 2,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 1.5,
+   "contra": 1.25
+  }
+ },
+ "faltas_ht": {
+  "jogos": 2,
+  "proMedia": 5.5,
+  "contraMedia": 2.5,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 4
+  }
+ },
+ "faltas_ft": {
+  "jogos": 8,
+  "proMedia": 10.75,
+  "contraMedia": 9.38,
+  "totalMedia": 20.13,
+  "casa": {
+   "jogos": 4,
+   "pro": 9.5,
+   "contra": 8.5
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 12,
+   "contra": 10.25
+  }
+ },
+ "gols_ht": {
+  "jogos": 8,
+  "proMedia": 0,
+  "contraMedia": 1.5,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 1.25
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 1.75
+  }
+ },
+ "gols_ft": {
+  "jogos": 8,
+  "proMedia": 0,
+  "contraMedia": 3.88,
+  "totalMedia": 3.88,
+  "casa": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 4,
+   "pro": 0,
+   "contra": 4.75
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-03-22",
+   "adv": "North Macedonia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     3,
+     9
+    ],
+    "car": [
+     2,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     7
+    ],
+    "ch": [
+     5,
+     17
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-03-25",
+   "adv": "Kazakhstan",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     3,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     6
+    ],
+    "ch": [
+     3,
+     16
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-06-06",
+   "adv": "Wales",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     0,
+     8
+    ],
+    "ch": [
+     0,
+     14
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     12
+    ],
+    "ch": [
+     0,
+     26
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-09-04",
+   "adv": "Belgium",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    6
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     0,
+     11
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     10
+    ],
+    "ch": [
+     0,
+     24
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-09-07",
+   "adv": "North Macedonia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    5
+   ],
+   "ht": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     0,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     3,
+     18
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-10",
+   "adv": "Kazakhstan",
+   "mando": "F",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    4
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     2,
+     11
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     9
+    ],
+    "ch": [
+     3,
+     25
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-11-15",
+   "adv": "Wales",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     1,
+     9
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     3,
+     18
+    ],
+    "car": [
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-11-18",
+   "adv": "Belgium",
+   "mando": "F",
+   "golsHt": [
+    0,
+    3
+   ],
+   "golsFt": [
+    0,
+    7
+   ],
+   "ht": {
+    "esc": [
+     0,
+     8
+    ],
+    "ch": [
+     0,
+     12
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     15
+    ],
+    "ch": [
+     2,
+     23
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  }
+ ]
+}

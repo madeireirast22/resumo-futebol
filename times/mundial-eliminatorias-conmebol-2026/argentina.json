@@ -1,0 +1,710 @@
+{
+ "time": "Argentina",
+ "competicao": {
+  "chave": "mundial-eliminatorias-conmebol-2026",
+  "nome": "Eliminatórias da Copa do Mundo — CONMEBOL",
+  "apelido": "mundial-eliminatorias-conmebol",
+  "ano": "2026",
+  "torneioId": 295,
+  "temporadaId": 53820,
+  "jogos": 90,
+  "jogosNaFonte": 90,
+  "periodo": {
+   "de": "2023-09-07",
+   "ate": "2025-09-09"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 90,
+   "media": 4.04,
+   "overs": {
+    "1.5": 91.1,
+    "2.5": 80,
+    "3.5": 61.1
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 90,
+   "media": 8.17,
+   "overs": {
+    "7.5": 46.7,
+    "8.5": 38.9,
+    "9.5": 31.1,
+    "10.5": 23.3
+   }
+  },
+  "chutes_ht": {
+   "jogos": 90,
+   "media": 10.38,
+   "overs": {
+    "7.5": 80,
+    "9.5": 62.2,
+    "11.5": 30
+   }
+  },
+  "chutes_ft": {
+   "jogos": 90,
+   "media": 22.07,
+   "overs": {
+    "19.5": 62.2,
+    "21.5": 50,
+    "23.5": 41.1
+   }
+  },
+  "alvo_ht": {
+   "jogos": 90,
+   "media": 3.6,
+   "overs": {
+    "2.5": 68.9,
+    "3.5": 47.8,
+    "4.5": 26.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 90,
+   "media": 7.63,
+   "overs": {
+    "6.5": 62.2,
+    "7.5": 47.8,
+    "8.5": 31.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 85,
+   "media": 1.64,
+   "overs": {
+    "0.5": 78.8,
+    "1.5": 50.6,
+    "2.5": 24.7
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 86,
+   "media": 4.12,
+   "overs": {
+    "3.5": 58.1,
+    "4.5": 43,
+    "5.5": 26.7
+   }
+  },
+  "faltas_ft": {
+   "jogos": 90,
+   "media": 25.54,
+   "overs": {
+    "21.5": 80,
+    "23.5": 61.1,
+    "25.5": 51.1
+   }
+  },
+  "gols_ht": {
+   "jogos": 90,
+   "media": 0.92,
+   "overs": {
+    "0.5": 61.1,
+    "1.5": 20,
+    "2.5": 6.7
+   },
+   "ambasMarcam": 10
+  },
+  "gols_ft": {
+   "jogos": 90,
+   "media": 2.03,
+   "overs": {
+    "1.5": 54.4,
+    "2.5": 36.7,
+    "3.5": 16.7,
+    "4.5": 6.7
+   },
+   "ambasMarcam": 30
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 18,
+  "proMedia": 1.89,
+  "contraMedia": 1.39,
+  "totalMedia": 3.28,
+  "casa": {
+   "jogos": 9,
+   "pro": 2.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 1.11,
+   "contra": 2.11
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 18,
+  "proMedia": 4.33,
+  "contraMedia": 2.44,
+  "totalMedia": 6.78,
+  "casa": {
+   "jogos": 9,
+   "pro": 5,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 3.67,
+   "contra": 3.22
+  }
+ },
+ "chutes_ht": {
+  "jogos": 18,
+  "proMedia": 5.94,
+  "contraMedia": 3.28,
+  "totalMedia": 9.22,
+  "casa": {
+   "jogos": 9,
+   "pro": 6.56,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 5.33,
+   "contra": 4.22
+  }
+ },
+ "chutes_ft": {
+  "jogos": 18,
+  "proMedia": 11.83,
+  "contraMedia": 6.67,
+  "totalMedia": 18.5,
+  "casa": {
+   "jogos": 9,
+   "pro": 13.33,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 10.33,
+   "contra": 8.33
+  }
+ },
+ "alvo_ht": {
+  "jogos": 18,
+  "proMedia": 2.22,
+  "contraMedia": 1.11,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 9,
+   "pro": 2.78,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 1.67,
+   "contra": 1.56
+  }
+ },
+ "alvo_ft": {
+  "jogos": 18,
+  "proMedia": 4.5,
+  "contraMedia": 2.33,
+  "totalMedia": 6.83,
+  "casa": {
+   "jogos": 9,
+   "pro": 5.67,
+   "contra": 1.56
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 3.33,
+   "contra": 3.11
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 18,
+  "proMedia": 0.44,
+  "contraMedia": 1.17,
+  "totalMedia": 1.61,
+  "casa": {
+   "jogos": 9,
+   "pro": 0.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 0.22,
+   "contra": 1.33
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 18,
+  "proMedia": 1.44,
+  "contraMedia": 2.72,
+  "totalMedia": 4.17,
+  "casa": {
+   "jogos": 9,
+   "pro": 1.78,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 1.11,
+   "contra": 2.78
+  }
+ },
+ "faltas_ft": {
+  "jogos": 18,
+  "proMedia": 10.72,
+  "contraMedia": 16.06,
+  "totalMedia": 26.78,
+  "casa": {
+   "jogos": 9,
+   "pro": 10.56,
+   "contra": 15.89
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 10.89,
+   "contra": 16.22
+  }
+ },
+ "gols_ht": {
+  "jogos": 18,
+  "proMedia": 0.83,
+  "contraMedia": 0.33,
+  "totalMedia": 1.17,
+  "casa": {
+   "jogos": 9,
+   "pro": 0.89,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 0.78,
+   "contra": 0.33
+  }
+ },
+ "gols_ft": {
+  "jogos": 18,
+  "proMedia": 1.72,
+  "contraMedia": 0.56,
+  "totalMedia": 2.28,
+  "casa": {
+   "jogos": 9,
+   "pro": 2.22,
+   "contra": 0.44
+  },
+  "fora": {
+   "jogos": 9,
+   "pro": 1.22,
+   "contra": 0.67
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-10-10",
+   "adv": "Venezuela",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     5
+    ],
+    "ch": [
+     6,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     8
+    ],
+    "ch": [
+     8,
+     16
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-10-16",
+   "adv": "Bolivia",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    6,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     0
+    ],
+    "ch": [
+     7,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     14,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-11-14",
+   "adv": "Paraguay",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     6
+    ],
+    "ch": [
+     9,
+     8
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-11-20",
+   "adv": "Peru",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     1
+    ],
+    "ch": [
+     7,
+     0
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     11,
+     2
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2025-03-21",
+   "adv": "Uruguay",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     5,
+     1
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     12,
+     6
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-03-26",
+   "adv": "Brazil",
+   "mando": "C",
+   "golsHt": [
+    3,
+    1
+   ],
+   "golsFt": [
+    4,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     4,
+     1
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     12,
+     3
+    ],
+    "car": [
+     5,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2025-06-06",
+   "adv": "Chile",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     6,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     10,
+     7
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-06-11",
+   "adv": "Colombia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     4,
+     6
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     6
+    ],
+    "ch": [
+     10,
+     11
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-09-04",
+   "adv": "Venezuela",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     0
+    ],
+    "ch": [
+     8,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     17,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-09-09",
+   "adv": "Ecuador",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     1,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     2
+    ],
+    "ch": [
+     8,
+     11
+    ],
+    "car": [
+     3,
+     4
+    ]
+   }
+  }
+ ]
+}

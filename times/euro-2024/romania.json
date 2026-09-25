@@ -1,0 +1,464 @@
+{
+ "time": "Romania",
+ "competicao": {
+  "chave": "euro-2024",
+  "nome": "Eurocopa",
+  "apelido": "euro",
+  "ano": "2024",
+  "torneioId": 1,
+  "temporadaId": 56953,
+  "jogos": 51,
+  "jogosNaFonte": 51,
+  "periodo": {
+   "de": "2024-06-14",
+   "ate": "2024-07-14"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 51,
+   "media": 4.92,
+   "overs": {
+    "1.5": 92.2,
+    "2.5": 80.4,
+    "3.5": 64.7
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 51,
+   "media": 10.02,
+   "overs": {
+    "7.5": 72.5,
+    "8.5": 60.8,
+    "9.5": 56.9,
+    "10.5": 39.2
+   }
+  },
+  "chutes_ht": {
+   "jogos": 51,
+   "media": 11.12,
+   "overs": {
+    "7.5": 82.4,
+    "9.5": 66.7,
+    "11.5": 41.2
+   }
+  },
+  "chutes_ft": {
+   "jogos": 51,
+   "media": 25.73,
+   "overs": {
+    "19.5": 86.3,
+    "21.5": 78.4,
+    "23.5": 66.7
+   }
+  },
+  "alvo_ht": {
+   "jogos": 51,
+   "media": 3.76,
+   "overs": {
+    "2.5": 70.6,
+    "3.5": 52.9,
+    "4.5": 41.2
+   }
+  },
+  "alvo_ft": {
+   "jogos": 51,
+   "media": 8.47,
+   "overs": {
+    "6.5": 72.5,
+    "7.5": 56.9,
+    "8.5": 45.1
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 51,
+   "media": 1.53,
+   "overs": {
+    "0.5": 80.4,
+    "1.5": 43.1,
+    "2.5": 17.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 51,
+   "media": 4.49,
+   "overs": {
+    "3.5": 62.7,
+    "4.5": 33.3,
+    "5.5": 21.6
+   }
+  },
+  "faltas_ft": {
+   "jogos": 51,
+   "media": 22.31,
+   "overs": {
+    "21.5": 51,
+    "23.5": 39.2,
+    "25.5": 25.5
+   }
+  },
+  "gols_ht": {
+   "jogos": 51,
+   "media": 1,
+   "overs": {
+    "0.5": 64.7,
+    "1.5": 27.5,
+    "2.5": 7.8
+   },
+   "ambasMarcam": 19.6
+  },
+  "gols_ft": {
+   "jogos": 51,
+   "media": 2.25,
+   "overs": {
+    "1.5": 74.5,
+    "2.5": 41.2,
+    "3.5": 13.7,
+    "4.5": 5.9
+   },
+   "ambasMarcam": 56.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 5.75,
+  "totalMedia": 7.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 4,
+  "contraMedia": 8.25,
+  "totalMedia": 12.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 5,
+  "contraMedia": 7.5,
+  "totalMedia": 12.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 5.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 6.5,
+   "contra": 9.5
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 9.25,
+  "contraMedia": 17.25,
+  "totalMedia": 26.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 18
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 11.5,
+   "contra": 16.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 2.25,
+  "contraMedia": 2,
+  "totalMedia": 4.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 4,
+  "contraMedia": 5.25,
+  "totalMedia": 9.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 6.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.25,
+  "totalMedia": 0.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2,
+  "contraMedia": 1.25,
+  "totalMedia": 3.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 9.5,
+  "contraMedia": 9.25,
+  "totalMedia": 18.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 8.5,
+   "contra": 8.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 10.5,
+   "contra": 10
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 0.5,
+  "contraMedia": 0.75,
+  "totalMedia": 1.25,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 1.5,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-06-17",
+   "adv": "Ukraine",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     3,
+     3
+    ],
+    "ch": [
+     3,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     8
+    ],
+    "ch": [
+     9,
+     13
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-06-22",
+   "adv": "Belgium",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     7
+    ],
+    "ch": [
+     6,
+     10
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     7
+    ],
+    "ch": [
+     14,
+     20
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-06-26",
+   "adv": "Slovakia",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     5
+    ],
+    "ch": [
+     9,
+     13
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2024-07-02",
+   "adv": "Netherlands",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     10
+    ],
+    "ch": [
+     4,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     13
+    ],
+    "ch": [
+     5,
+     23
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  }
+ ]
+}

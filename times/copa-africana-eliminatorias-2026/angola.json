@@ -1,0 +1,366 @@
+{
+ "time": "Angola",
+ "competicao": {
+  "chave": "copa-africana-eliminatorias-2026",
+  "nome": "Eliminatórias da Copa Africana",
+  "apelido": "copa-africana-eliminatorias",
+  "ano": "2026",
+  "torneioId": 1848,
+  "temporadaId": 90940,
+  "jogos": 20,
+  "jogosNaFonte": 34,
+  "periodo": {
+   "de": "2026-09-24",
+   "ate": "2026-09-25"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 20,
+   "media": 4.45,
+   "overs": {
+    "1.5": 90,
+    "2.5": 80,
+    "3.5": 60
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 20,
+   "media": 8.9,
+   "overs": {
+    "7.5": 45,
+    "8.5": 45,
+    "9.5": 45,
+    "10.5": 40
+   }
+  },
+  "chutes_ht": {
+   "jogos": 20,
+   "media": 12.5,
+   "overs": {
+    "7.5": 95,
+    "9.5": 80,
+    "11.5": 65
+   }
+  },
+  "chutes_ft": {
+   "jogos": 20,
+   "media": 25.1,
+   "overs": {
+    "19.5": 90,
+    "21.5": 70,
+    "23.5": 55
+   }
+  },
+  "alvo_ht": {
+   "jogos": 20,
+   "media": 3.5,
+   "overs": {
+    "2.5": 80,
+    "3.5": 40,
+    "4.5": 25
+   }
+  },
+  "alvo_ft": {
+   "jogos": 20,
+   "media": 7.45,
+   "overs": {
+    "6.5": 75,
+    "7.5": 40,
+    "8.5": 30
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 20,
+   "media": 1.05,
+   "overs": {
+    "0.5": 70,
+    "1.5": 25,
+    "2.5": 5
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 20,
+   "media": 3.15,
+   "overs": {
+    "3.5": 25,
+    "4.5": 10,
+    "5.5": 5
+   }
+  },
+  "faltas_ht": {
+   "jogos": 20,
+   "media": 14.6,
+   "overs": {
+    "9.5": 100,
+    "11.5": 80,
+    "13.5": 60
+   }
+  },
+  "faltas_ft": {
+   "jogos": 20,
+   "media": 29.3,
+   "overs": {
+    "21.5": 90,
+    "23.5": 80,
+    "25.5": 70
+   }
+  },
+  "gols_ht": {
+   "jogos": 20,
+   "media": 1.4,
+   "overs": {
+    "0.5": 90,
+    "1.5": 35,
+    "2.5": 10
+   },
+   "ambasMarcam": 20
+  },
+  "gols_ft": {
+   "jogos": 20,
+   "media": 2.7,
+   "overs": {
+    "1.5": 85,
+    "2.5": 50,
+    "3.5": 35,
+    "4.5": 5
+   },
+   "ambasMarcam": 65
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 7,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 7
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 10,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 10
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 6,
+  "contraMedia": 7,
+  "totalMedia": 13,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 7
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 10,
+  "contraMedia": 15,
+  "totalMedia": 25,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 10,
+   "contra": 15
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 1,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 1
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 2,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 0,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 0
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 11,
+  "contraMedia": 9,
+  "totalMedia": 20,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 11,
+   "contra": 9
+  }
+ },
+ "faltas_ft": {
+  "jogos": 1,
+  "proMedia": 24,
+  "contraMedia": 17,
+  "totalMedia": 41,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 24,
+   "contra": 17
+  }
+ },
+ "gols_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 0,
+  "totalMedia": 0,
+  "casa": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2026-09-25",
+   "adv": "Egypt",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     7
+    ],
+    "ch": [
+     6,
+     7
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     10
+    ],
+    "ch": [
+     10,
+     15
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  }
+ ]
+}

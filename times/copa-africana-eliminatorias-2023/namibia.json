@@ -1,0 +1,464 @@
+{
+ "time": "Namibia",
+ "competicao": {
+  "chave": "copa-africana-eliminatorias-2023",
+  "nome": "Eliminatórias da Copa Africana",
+  "apelido": "copa-africana-eliminatorias",
+  "ano": "2023",
+  "torneioId": 1848,
+  "temporadaId": 41862,
+  "jogos": 125,
+  "jogosNaFonte": 132,
+  "periodo": {
+   "de": "2022-06-01",
+   "ate": "2023-10-17"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 125,
+   "media": 4.42,
+   "overs": {
+    "1.5": 92.8,
+    "2.5": 77.6,
+    "3.5": 61.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 125,
+   "media": 8.74,
+   "overs": {
+    "7.5": 62.4,
+    "8.5": 49.6,
+    "9.5": 37.6,
+    "10.5": 29.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 125,
+   "media": 9.98,
+   "overs": {
+    "7.5": 72,
+    "9.5": 56.8,
+    "11.5": 29.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 125,
+   "media": 22.33,
+   "overs": {
+    "19.5": 68,
+    "21.5": 53.6,
+    "23.5": 43.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 125,
+   "media": 3.3,
+   "overs": {
+    "2.5": 60.8,
+    "3.5": 39.2,
+    "4.5": 24.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 125,
+   "media": 7.31,
+   "overs": {
+    "6.5": 60,
+    "7.5": 44,
+    "8.5": 30.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 122,
+   "media": 1.09,
+   "overs": {
+    "0.5": 68,
+    "1.5": 27.9,
+    "2.5": 9.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 122,
+   "media": 3.41,
+   "overs": {
+    "3.5": 45.1,
+    "4.5": 27.9,
+    "5.5": 9.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 125,
+   "media": 29.92,
+   "overs": {
+    "21.5": 88.8,
+    "23.5": 84.8,
+    "25.5": 75.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 125,
+   "media": 1.07,
+   "overs": {
+    "0.5": 65.6,
+    "1.5": 30.4,
+    "2.5": 8.8
+   },
+   "ambasMarcam": 16
+  },
+  "gols_ft": {
+   "jogos": 125,
+   "media": 2.43,
+   "overs": {
+    "1.5": 69.6,
+    "2.5": 42.4,
+    "3.5": 22.4,
+    "4.5": 8.8
+   },
+   "ambasMarcam": 43.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 4,
+  "proMedia": 1.25,
+  "contraMedia": 2.5,
+  "totalMedia": 3.75,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3.5
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 4,
+  "proMedia": 3.25,
+  "contraMedia": 6.25,
+  "totalMedia": 9.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 3.5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 9
+  }
+ },
+ "chutes_ht": {
+  "jogos": 4,
+  "proMedia": 2.5,
+  "contraMedia": 6.5,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 9
+  }
+ },
+ "chutes_ft": {
+  "jogos": 4,
+  "proMedia": 7.75,
+  "contraMedia": 16.25,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 2,
+   "pro": 10,
+   "contra": 14
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 5.5,
+   "contra": 18.5
+  }
+ },
+ "alvo_ht": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 1,
+  "totalMedia": 2.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0.5
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 1.5
+  }
+ },
+ "alvo_ft": {
+  "jogos": 4,
+  "proMedia": 3.75,
+  "contraMedia": 3.25,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 2,
+   "pro": 4.5,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 3.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 4,
+  "proMedia": 1,
+  "contraMedia": 0,
+  "totalMedia": 1,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 4,
+  "proMedia": 2.25,
+  "contraMedia": 1.25,
+  "totalMedia": 3.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 0.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 4,
+  "proMedia": 16.75,
+  "contraMedia": 12.75,
+  "totalMedia": 29.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 15.5,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 18,
+   "contra": 10.5
+  }
+ },
+ "gols_ht": {
+  "jogos": 4,
+  "proMedia": 0.75,
+  "contraMedia": 0.75,
+  "totalMedia": 1.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 1.5
+  }
+ },
+ "gols_ft": {
+  "jogos": 4,
+  "proMedia": 1.5,
+  "contraMedia": 1.5,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 1.5,
+   "contra": 2
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2022-06-04",
+   "adv": "Burundi",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     3,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     10,
+     14
+    ],
+    "car": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2023-03-24",
+   "adv": "Cameroon",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     4
+    ],
+    "ch": [
+     3,
+     8
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     10
+    ],
+    "ch": [
+     6,
+     18
+    ],
+    "car": [
+     4,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2023-03-28",
+   "adv": "Cameroon",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     1,
+     6
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     10,
+     14
+    ],
+    "car": [
+     2,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2023-06-20",
+   "adv": "Burundi",
+   "mando": "F",
+   "golsHt": [
+    1,
+    3
+   ],
+   "golsFt": [
+    2,
+    3
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     3,
+     10
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     8
+    ],
+    "ch": [
+     5,
+     19
+    ],
+    "car": [
+     2,
+     0
+    ]
+   }
+  }
+ ]
+}

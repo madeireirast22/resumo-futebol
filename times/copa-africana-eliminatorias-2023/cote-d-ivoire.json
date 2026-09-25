@@ -1,0 +1,505 @@
+{
+ "time": "Côte d'Ivoire",
+ "competicao": {
+  "chave": "copa-africana-eliminatorias-2023",
+  "nome": "Eliminatórias da Copa Africana",
+  "apelido": "copa-africana-eliminatorias",
+  "ano": "2023",
+  "torneioId": 1848,
+  "temporadaId": 41862,
+  "jogos": 125,
+  "jogosNaFonte": 132,
+  "periodo": {
+   "de": "2022-06-01",
+   "ate": "2023-10-17"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 125,
+   "media": 4.42,
+   "overs": {
+    "1.5": 92.8,
+    "2.5": 77.6,
+    "3.5": 61.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 125,
+   "media": 8.74,
+   "overs": {
+    "7.5": 62.4,
+    "8.5": 49.6,
+    "9.5": 37.6,
+    "10.5": 29.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 125,
+   "media": 9.98,
+   "overs": {
+    "7.5": 72,
+    "9.5": 56.8,
+    "11.5": 29.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 125,
+   "media": 22.33,
+   "overs": {
+    "19.5": 68,
+    "21.5": 53.6,
+    "23.5": 43.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 125,
+   "media": 3.3,
+   "overs": {
+    "2.5": 60.8,
+    "3.5": 39.2,
+    "4.5": 24.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 125,
+   "media": 7.31,
+   "overs": {
+    "6.5": 60,
+    "7.5": 44,
+    "8.5": 30.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 122,
+   "media": 1.09,
+   "overs": {
+    "0.5": 68,
+    "1.5": 27.9,
+    "2.5": 9.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 122,
+   "media": 3.41,
+   "overs": {
+    "3.5": 45.1,
+    "4.5": 27.9,
+    "5.5": 9.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 125,
+   "media": 29.92,
+   "overs": {
+    "21.5": 88.8,
+    "23.5": 84.8,
+    "25.5": 75.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 125,
+   "media": 1.07,
+   "overs": {
+    "0.5": 65.6,
+    "1.5": 30.4,
+    "2.5": 8.8
+   },
+   "ambasMarcam": 16
+  },
+  "gols_ft": {
+   "jogos": 125,
+   "media": 2.43,
+   "overs": {
+    "1.5": 69.6,
+    "2.5": 42.4,
+    "3.5": 22.4,
+    "4.5": 8.8
+   },
+   "ambasMarcam": 43.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 5,
+  "proMedia": 5,
+  "contraMedia": 0.8,
+  "totalMedia": 5.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 1
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 5,
+  "proMedia": 9.8,
+  "contraMedia": 2.2,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 3,
+   "pro": 7.67,
+   "contra": 2.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 13,
+   "contra": 1.5
+  }
+ },
+ "chutes_ht": {
+  "jogos": 5,
+  "proMedia": 6.4,
+  "contraMedia": 2.2,
+  "totalMedia": 8.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 6,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7,
+   "contra": 2
+  }
+ },
+ "chutes_ft": {
+  "jogos": 5,
+  "proMedia": 14.6,
+  "contraMedia": 8.2,
+  "totalMedia": 22.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 13.33,
+   "contra": 8.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 16.5,
+   "contra": 8
+  }
+ },
+ "alvo_ht": {
+  "jogos": 5,
+  "proMedia": 2.4,
+  "contraMedia": 0,
+  "totalMedia": 2.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 5,
+  "proMedia": 5,
+  "contraMedia": 2,
+  "totalMedia": 7,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 4,
+   "contra": 1.5
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 0.4,
+  "contraMedia": 0.4,
+  "totalMedia": 0.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 0.8,
+  "contraMedia": 1.6,
+  "totalMedia": 2.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 5,
+  "proMedia": 13.6,
+  "contraMedia": 11.2,
+  "totalMedia": 24.8,
+  "casa": {
+   "jogos": 3,
+   "pro": 17,
+   "contra": 12.33
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 8.5,
+   "contra": 9.5
+  }
+ },
+ "gols_ht": {
+  "jogos": 5,
+  "proMedia": 0.4,
+  "contraMedia": 0.2,
+  "totalMedia": 0.6,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 0.5
+  }
+ },
+ "gols_ft": {
+  "jogos": 5,
+  "proMedia": 1.4,
+  "contraMedia": 1,
+  "totalMedia": 2.4,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0,
+   "contra": 1.5
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2022-06-03",
+   "adv": "Zambia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     9,
+     3
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     11,
+     6
+    ],
+    "ch": [
+     17,
+     10
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2022-06-09",
+   "adv": "Lesotho",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     11,
+     0
+    ],
+    "ch": [
+     7,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     16,
+     0
+    ],
+    "ch": [
+     16,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2023-03-24",
+   "adv": "Comoros",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     0
+    ],
+    "ch": [
+     5,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     0
+    ],
+    "ch": [
+     11,
+     9
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2023-06-17",
+   "adv": "Zambia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     7,
+     2
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     3
+    ],
+    "ch": [
+     17,
+     12
+    ],
+    "car": [
+     0,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2023-09-09",
+   "adv": "Lesotho",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     4,
+     2
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     12,
+     6
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  }
+ ]
+}

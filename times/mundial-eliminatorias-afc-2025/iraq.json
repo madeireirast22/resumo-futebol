@@ -1,0 +1,735 @@
+{
+ "time": "Iraq",
+ "competicao": {
+  "chave": "mundial-eliminatorias-afc-2025",
+  "nome": "Eliminatórias da Copa do Mundo — AFC",
+  "apelido": "mundial-eliminatorias-afc",
+  "ano": "2025",
+  "torneioId": 308,
+  "temporadaId": 53508,
+  "jogos": 136,
+  "jogosNaFonte": 225,
+  "periodo": {
+   "de": "2023-11-16",
+   "ate": "2025-11-18"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 136,
+   "media": 4.18,
+   "overs": {
+    "1.5": 91.2,
+    "2.5": 78.7,
+    "3.5": 61.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 136,
+   "media": 8.93,
+   "overs": {
+    "7.5": 61,
+    "8.5": 51.5,
+    "9.5": 40.4,
+    "10.5": 30.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 136,
+   "media": 10.21,
+   "overs": {
+    "7.5": 78.7,
+    "9.5": 52.2,
+    "11.5": 35.3
+   }
+  },
+  "chutes_ft": {
+   "jogos": 136,
+   "media": 22.54,
+   "overs": {
+    "19.5": 66.2,
+    "21.5": 52.9,
+    "23.5": 40.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 136,
+   "media": 3.46,
+   "overs": {
+    "2.5": 64,
+    "3.5": 45.6,
+    "4.5": 28.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 136,
+   "media": 7.65,
+   "overs": {
+    "6.5": 61.8,
+    "7.5": 52.2,
+    "8.5": 36
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 127,
+   "media": 1.24,
+   "overs": {
+    "0.5": 73.2,
+    "1.5": 34.6,
+    "2.5": 9.4
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 127,
+   "media": 3.68,
+   "overs": {
+    "3.5": 50.4,
+    "4.5": 32.3,
+    "5.5": 15
+   }
+  },
+  "faltas_ht": {
+   "jogos": 5,
+   "media": 12,
+   "overs": {
+    "9.5": 100,
+    "11.5": 40,
+    "13.5": 20
+   }
+  },
+  "faltas_ft": {
+   "jogos": 135,
+   "media": 22.33,
+   "overs": {
+    "21.5": 48.9,
+    "23.5": 36.3,
+    "25.5": 25.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 136,
+   "media": 1.25,
+   "overs": {
+    "0.5": 73.5,
+    "1.5": 34.6,
+    "2.5": 11.8
+   },
+   "ambasMarcam": 16.2
+  },
+  "gols_ft": {
+   "jogos": 136,
+   "media": 2.7,
+   "overs": {
+    "1.5": 71.3,
+    "2.5": 50,
+    "3.5": 33.8,
+    "4.5": 16.2
+   },
+   "ambasMarcam": 41.9
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 15,
+  "proMedia": 1.93,
+  "contraMedia": 1.87,
+  "totalMedia": 3.8,
+  "casa": {
+   "jogos": 7,
+   "pro": 1.86,
+   "contra": 2.14
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 2,
+   "contra": 1.63
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 15,
+  "proMedia": 4.4,
+  "contraMedia": 4.53,
+  "totalMedia": 8.93,
+  "casa": {
+   "jogos": 7,
+   "pro": 4.57,
+   "contra": 4.43
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 4.25,
+   "contra": 4.63
+  }
+ },
+ "chutes_ht": {
+  "jogos": 15,
+  "proMedia": 3.33,
+  "contraMedia": 4.4,
+  "totalMedia": 7.73,
+  "casa": {
+   "jogos": 7,
+   "pro": 3.14,
+   "contra": 4.43
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 3.5,
+   "contra": 4.38
+  }
+ },
+ "chutes_ft": {
+  "jogos": 15,
+  "proMedia": 8.73,
+  "contraMedia": 10.2,
+  "totalMedia": 18.93,
+  "casa": {
+   "jogos": 7,
+   "pro": 9,
+   "contra": 9
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 8.5,
+   "contra": 11.25
+  }
+ },
+ "alvo_ht": {
+  "jogos": 15,
+  "proMedia": 1.13,
+  "contraMedia": 1.07,
+  "totalMedia": 2.2,
+  "casa": {
+   "jogos": 7,
+   "pro": 1,
+   "contra": 1.29
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 1.25,
+   "contra": 0.88
+  }
+ },
+ "alvo_ft": {
+  "jogos": 15,
+  "proMedia": 2.8,
+  "contraMedia": 3.07,
+  "totalMedia": 5.87,
+  "casa": {
+   "jogos": 7,
+   "pro": 2.86,
+   "contra": 3.43
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 2.75,
+   "contra": 2.75
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 15,
+  "proMedia": 0.6,
+  "contraMedia": 0.87,
+  "totalMedia": 1.47,
+  "casa": {
+   "jogos": 7,
+   "pro": 0.57,
+   "contra": 1.14
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 0.63,
+   "contra": 0.63
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 15,
+  "proMedia": 1.67,
+  "contraMedia": 2.73,
+  "totalMedia": 4.4,
+  "casa": {
+   "jogos": 7,
+   "pro": 1.57,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 1.75,
+   "contra": 1.63
+  }
+ },
+ "faltas_ht": {
+  "jogos": 3,
+  "proMedia": 6.33,
+  "contraMedia": 5.67,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 1,
+   "pro": 4,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 7.5,
+   "contra": 5.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 15,
+  "proMedia": 11.27,
+  "contraMedia": 10.8,
+  "totalMedia": 22.07,
+  "casa": {
+   "jogos": 7,
+   "pro": 10.29,
+   "contra": 11.29
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 12.13,
+   "contra": 10.38
+  }
+ },
+ "gols_ht": {
+  "jogos": 15,
+  "proMedia": 0.33,
+  "contraMedia": 0.2,
+  "totalMedia": 0.53,
+  "casa": {
+   "jogos": 7,
+   "pro": 0.29,
+   "contra": 0.14
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 0.38,
+   "contra": 0.25
+  }
+ },
+ "gols_ft": {
+  "jogos": 15,
+  "proMedia": 1,
+  "contraMedia": 0.73,
+  "totalMedia": 1.73,
+  "casa": {
+   "jogos": 7,
+   "pro": 1,
+   "contra": 0.71
+  },
+  "fora": {
+   "jogos": 8,
+   "pro": 1,
+   "contra": 0.75
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-11-14",
+   "adv": "Jordan",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     3
+    ],
+    "ch": [
+     2,
+     6
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     5
+    ],
+    "ch": [
+     10,
+     9
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-11-19",
+   "adv": "Oman",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     2
+    ],
+    "ch": [
+     2,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     5,
+     9
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-03-20",
+   "adv": "Kuwait",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     4,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     0
+    ],
+    "ch": [
+     18,
+     4
+    ],
+    "car": [
+     2,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2025-03-25",
+   "adv": "Palestine",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    2
+   ],
+   "ht": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     5,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     11
+    ],
+    "ch": [
+     13,
+     15
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-06-05",
+   "adv": "South Korea",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     2,
+     6
+    ],
+    "car": [
+     1,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     10
+    ],
+    "ch": [
+     5,
+     13
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-06-10",
+   "adv": "Jordan",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     4,
+     3
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-11",
+   "adv": "Indonesia",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    0
+   ],
+   "ht": {
+    "esc": [
+     1,
+     4
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     0,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     3,
+     4
+    ],
+    "ch": [
+     7,
+     9
+    ],
+    "car": [
+     2,
+     6
+    ]
+   }
+  },
+  {
+   "data": "2025-10-14",
+   "adv": "Saudi Arabia",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    0
+   ],
+   "ht": {
+    "esc": [
+     0,
+     0
+    ],
+    "ch": [
+     2,
+     7
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     1,
+     0
+    ],
+    "ch": [
+     4,
+     15
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2025-11-13",
+   "adv": "United Arab Emirates",
+   "mando": "F",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     7,
+     7
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     9
+    ],
+    "ch": [
+     10,
+     19
+    ],
+    "car": [
+     1,
+     0
+    ]
+   }
+  },
+  {
+   "data": "2025-11-18",
+   "adv": "United Arab Emirates",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     2,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     4,
+     3
+    ],
+    "ch": [
+     10,
+     13
+    ],
+    "car": [
+     1,
+     5
+    ]
+   }
+  }
+ ]
+}

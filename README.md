@@ -77,6 +77,30 @@ mais chuta na liga: o ranking. Cada arquivo traz `legenda` com os campos.
 e `car` vem `null`. Em toda outra competição, inclusive Libertadores e
 Sul-Americana, `car` é o número real.
 
+## Seleções
+
+Calendário FIFA: Mundial, Eurocopa, Copa América, Copa Africana, Copa
+Asiática, Liga das Nações da UEFA, e as eliminatórias de cada confederação
+para a Copa do Mundo. Aparecem em `indice.json` → `competicoes[]` como
+qualquer outra competição — o `nome` diz do que se trata.
+
+**Scout de jogador só em seleções da Europa e CONMEBOL** — Mundial,
+Eurocopa, eliminatórias da Eurocopa, Liga das Nações, eliminatórias da
+Copa do Mundo (UEFA e CONMEBOL) e Copa América. Copa Africana, Copa
+Asiática e as eliminatórias de CAF/CONCACAF/AFC entram só como estatística
+de time — sem `scout-<competição>.json`, de propósito.
+
+**Seleção é edição, não temporada.** Cada arquivo é UMA edição fechada —
+Mundial é a de 2022, Eurocopa a de 2024 — não uma temporada que se repete
+todo ano. Duas exceções estão em andamento e ganham jogo novo toda semana:
+Liga das Nações 26/27 e as eliminatórias da Copa Africana (ciclo 2026-27).
+
+**Cobertura de estatística é mais fraca fora de Europa e América do Sul.**
+Nas eliminatórias africanas da Copa do Mundo, 233 dos 260 jogos não têm
+estatística nenhuma (só o placar) — a fonte simplesmente não cobre a maior
+parte das seleções menores da CAF em detalhe. Onde não há estatística, não
+há régua nem scout — trate um time desse grupo com mais cautela.
+
 ## Próximos jogos e escalações
 
 - `proximos.json` (~40 KB) — os jogos dos **próximos 7 dias** em todas as

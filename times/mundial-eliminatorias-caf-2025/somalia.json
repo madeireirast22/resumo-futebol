@@ -1,0 +1,305 @@
+{
+ "time": "Somalia",
+ "competicao": {
+  "chave": "mundial-eliminatorias-caf-2025",
+  "nome": "Eliminatórias da Copa do Mundo — CAF",
+  "apelido": "mundial-eliminatorias-caf",
+  "ano": "2025",
+  "torneioId": 13,
+  "temporadaId": 56249,
+  "jogos": 27,
+  "jogosNaFonte": 260,
+  "periodo": {
+   "de": "2023-11-18",
+   "ate": "2025-10-14"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 27,
+   "media": 4.67,
+   "overs": {
+    "1.5": 100,
+    "2.5": 85.2,
+    "3.5": 70.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 27,
+   "media": 8.67,
+   "overs": {
+    "7.5": 48.1,
+    "8.5": 37,
+    "9.5": 33.3,
+    "10.5": 25.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 27,
+   "media": 10.7,
+   "overs": {
+    "7.5": 81.5,
+    "9.5": 59.3,
+    "11.5": 40.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 27,
+   "media": 21.52,
+   "overs": {
+    "19.5": 66.7,
+    "21.5": 51.9,
+    "23.5": 44.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 27,
+   "media": 3.67,
+   "overs": {
+    "2.5": 66.7,
+    "3.5": 51.9,
+    "4.5": 40.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 27,
+   "media": 7.33,
+   "overs": {
+    "6.5": 55.6,
+    "7.5": 40.7,
+    "8.5": 29.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 27,
+   "media": 3.59,
+   "overs": {
+    "3.5": 44.4,
+    "4.5": 29.6,
+    "5.5": 14.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 5,
+   "media": 16.6,
+   "overs": {
+    "9.5": 100,
+    "11.5": 100,
+    "13.5": 100
+   }
+  },
+  "faltas_ft": {
+   "jogos": 22,
+   "media": 28.14,
+   "overs": {
+    "21.5": 95.5,
+    "23.5": 86.4,
+    "25.5": 77.3
+   }
+  },
+  "gols_ht": {
+   "jogos": 27,
+   "media": 1.41,
+   "overs": {
+    "0.5": 81.5,
+    "1.5": 44.4,
+    "2.5": 11.1
+   },
+   "ambasMarcam": 14.8
+  },
+  "gols_ft": {
+   "jogos": 27,
+   "media": 3.07,
+   "overs": {
+    "1.5": 92.6,
+    "2.5": 63,
+    "3.5": 29.6,
+    "4.5": 18.5
+   },
+   "ambasMarcam": 33.3
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 7,
+  "totalMedia": 8,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 7
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 1,
+  "proMedia": 2,
+  "contraMedia": 15,
+  "totalMedia": 17,
+  "casa": {
+   "jogos": 1,
+   "pro": 2,
+   "contra": 15
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ht": {
+  "jogos": 1,
+  "proMedia": 3,
+  "contraMedia": 11,
+  "totalMedia": 14,
+  "casa": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 11
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "chutes_ft": {
+  "jogos": 1,
+  "proMedia": 5,
+  "contraMedia": 22,
+  "totalMedia": 27,
+  "casa": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 22
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 4,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 6,
+  "totalMedia": 6,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 6
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 1,
+  "proMedia": 1,
+  "contraMedia": 1,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ht": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 2,
+  "totalMedia": 2,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 1,
+  "proMedia": 0,
+  "contraMedia": 3,
+  "totalMedia": 3,
+  "casa": {
+   "jogos": 1,
+   "pro": 0,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-10-09",
+   "adv": "Algeria",
+   "mando": "C",
+   "golsHt": [
+    0,
+    2
+   ],
+   "golsFt": [
+    0,
+    3
+   ],
+   "ht": {
+    "esc": [
+     1,
+     7
+    ],
+    "ch": [
+     3,
+     11
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     15
+    ],
+    "ch": [
+     5,
+     22
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "time": "Sweden",
+ "competicao": {
+  "chave": "liga-das-nacoes-2024",
+  "nome": "UEFA Liga das Nações",
+  "apelido": "liga-das-nacoes",
+  "ano": "2024",
+  "torneioId": 10783,
+  "temporadaId": 58337,
+  "jogos": 187,
+  "jogosNaFonte": 187,
+  "periodo": {
+   "de": "2024-09-05",
+   "ate": "2026-03-31"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 187,
+   "media": 4.3,
+   "overs": {
+    "1.5": 89.3,
+    "2.5": 73.8,
+    "3.5": 58.8
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 187,
+   "media": 8.97,
+   "overs": {
+    "7.5": 61,
+    "8.5": 51.9,
+    "9.5": 43.3,
+    "10.5": 32.1
+   }
+  },
+  "chutes_ht": {
+   "jogos": 187,
+   "media": 11.33,
+   "overs": {
+    "7.5": 82.9,
+    "9.5": 64.7,
+    "11.5": 46
+   }
+  },
+  "chutes_ft": {
+   "jogos": 187,
+   "media": 24.88,
+   "overs": {
+    "19.5": 79.7,
+    "21.5": 70.1,
+    "23.5": 54
+   }
+  },
+  "alvo_ht": {
+   "jogos": 187,
+   "media": 3.93,
+   "overs": {
+    "2.5": 69.5,
+    "3.5": 51.3,
+    "4.5": 36.9
+   }
+  },
+  "alvo_ft": {
+   "jogos": 187,
+   "media": 8.62,
+   "overs": {
+    "6.5": 71.7,
+    "7.5": 62,
+    "8.5": 49.7
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 184,
+   "media": 1.59,
+   "overs": {
+    "0.5": 76.1,
+    "1.5": 44.6,
+    "2.5": 22.3
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 184,
+   "media": 4.74,
+   "overs": {
+    "3.5": 66.8,
+    "4.5": 53.3,
+    "5.5": 36.4
+   }
+  },
+  "faltas_ht": {
+   "jogos": 4,
+   "media": 14.25,
+   "overs": {
+    "9.5": 100,
+    "11.5": 75,
+    "13.5": 25
+   }
+  },
+  "faltas_ft": {
+   "jogos": 187,
+   "media": 24.6,
+   "overs": {
+    "21.5": 64.7,
+    "23.5": 54,
+    "25.5": 39
+   }
+  },
+  "gols_ht": {
+   "jogos": 187,
+   "media": 1.19,
+   "overs": {
+    "0.5": 66.8,
+    "1.5": 35.3,
+    "2.5": 14.4
+   },
+   "ambasMarcam": 18.7
+  },
+  "gols_ft": {
+   "jogos": 187,
+   "media": 2.67,
+   "overs": {
+    "1.5": 73.3,
+    "2.5": 51.3,
+    "3.5": 29.4,
+    "4.5": 13.9
+   },
+   "ambasMarcam": 46
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 4.5,
+  "contraMedia": 1.17,
+  "totalMedia": 5.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 1.33
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 9.17,
+  "contraMedia": 2.17,
+  "totalMedia": 11.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 8,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 11.83,
+  "contraMedia": 3.5,
+  "totalMedia": 15.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 14,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 9.67,
+   "contra": 4
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 25.33,
+  "contraMedia": 7.33,
+  "totalMedia": 32.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 28,
+   "contra": 5
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 22.67,
+   "contra": 9.67
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 4.5,
+  "contraMedia": 2.17,
+  "totalMedia": 6.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 5.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 3
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 10.33,
+  "contraMedia": 3.5,
+  "totalMedia": 13.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 11,
+   "contra": 2.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 9.67,
+   "contra": 4.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 6,
+  "proMedia": 0.83,
+  "contraMedia": 1,
+  "totalMedia": 1.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.67,
+   "contra": 1
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 6,
+  "proMedia": 1.83,
+  "contraMedia": 3.5,
+  "totalMedia": 5.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 2.67
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 13.67,
+  "contraMedia": 11.33,
+  "totalMedia": 25,
+  "casa": {
+   "jogos": 3,
+   "pro": 10.33,
+   "contra": 12.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 17,
+   "contra": 10.33
+  }
+ },
+ "gols_ht": {
+  "jogos": 6,
+  "proMedia": 1.83,
+  "contraMedia": 0.33,
+  "totalMedia": 2.17,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1.33,
+   "contra": 0.33
+  }
+ },
+ "gols_ft": {
+  "jogos": 6,
+  "proMedia": 3.17,
+  "contraMedia": 0.67,
+  "totalMedia": 3.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2.67,
+   "contra": 1
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2024-09-05",
+   "adv": "Azerbaijan",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    3,
+    1
+   ],
+   "ht": {
+    "esc": [
+     4,
+     0
+    ],
+    "ch": [
+     12,
+     6
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     2
+    ],
+    "ch": [
+     30,
+     14
+    ],
+    "car": [
+     2,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-09-08",
+   "adv": "Estonia",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     9,
+     1
+    ],
+    "ch": [
+     20,
+     3
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     13,
+     1
+    ],
+    "ch": [
+     34,
+     5
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2024-10-11",
+   "adv": "Slovakia",
+   "mando": "F",
+   "golsHt": [
+    2,
+    1
+   ],
+   "golsFt": [
+    2,
+    2
+   ],
+   "ht": {
+    "esc": [
+     3,
+     2
+    ],
+    "ch": [
+     10,
+     5
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     5
+    ],
+    "ch": [
+     19,
+     11
+    ],
+    "car": [
+     2,
+     4
+    ]
+   }
+  },
+  {
+   "data": "2024-10-14",
+   "adv": "Estonia",
+   "mando": "F",
+   "golsHt": [
+    2,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     2
+    ],
+    "ch": [
+     7,
+     1
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     9,
+     2
+    ],
+    "ch": [
+     19,
+     4
+    ],
+    "car": [
+     3,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2024-11-16",
+   "adv": "Slovakia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    1
+   ],
+   "golsFt": [
+    2,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     8,
+     4
+    ],
+    "car": [
+     2,
+     2
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     2
+    ],
+    "ch": [
+     16,
+     6
+    ],
+    "car": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "data": "2024-11-19",
+   "adv": "Azerbaijan",
+   "mando": "C",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    6,
+    0
+   ],
+   "ht": {
+    "esc": [
+     4,
+     1
+    ],
+    "ch": [
+     14,
+     2
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     12,
+     1
+    ],
+    "ch": [
+     34,
+     4
+    ],
+    "car": [
+     1,
+     5
+    ]
+   }
+  }
+ ]
+}

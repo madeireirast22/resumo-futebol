@@ -1,0 +1,538 @@
+{
+ "time": "Rwanda",
+ "competicao": {
+  "chave": "copa-africana-eliminatorias-2023",
+  "nome": "Eliminatórias da Copa Africana",
+  "apelido": "copa-africana-eliminatorias",
+  "ano": "2023",
+  "torneioId": 1848,
+  "temporadaId": 41862,
+  "jogos": 125,
+  "jogosNaFonte": 132,
+  "periodo": {
+   "de": "2022-06-01",
+   "ate": "2023-10-17"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 125,
+   "media": 4.42,
+   "overs": {
+    "1.5": 92.8,
+    "2.5": 77.6,
+    "3.5": 61.6
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 125,
+   "media": 8.74,
+   "overs": {
+    "7.5": 62.4,
+    "8.5": 49.6,
+    "9.5": 37.6,
+    "10.5": 29.6
+   }
+  },
+  "chutes_ht": {
+   "jogos": 125,
+   "media": 9.98,
+   "overs": {
+    "7.5": 72,
+    "9.5": 56.8,
+    "11.5": 29.6
+   }
+  },
+  "chutes_ft": {
+   "jogos": 125,
+   "media": 22.33,
+   "overs": {
+    "19.5": 68,
+    "21.5": 53.6,
+    "23.5": 43.2
+   }
+  },
+  "alvo_ht": {
+   "jogos": 125,
+   "media": 3.3,
+   "overs": {
+    "2.5": 60.8,
+    "3.5": 39.2,
+    "4.5": 24.8
+   }
+  },
+  "alvo_ft": {
+   "jogos": 125,
+   "media": 7.31,
+   "overs": {
+    "6.5": 60,
+    "7.5": 44,
+    "8.5": 30.4
+   }
+  },
+  "cartoes_ht": {
+   "jogos": 122,
+   "media": 1.09,
+   "overs": {
+    "0.5": 68,
+    "1.5": 27.9,
+    "2.5": 9.8
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 122,
+   "media": 3.41,
+   "overs": {
+    "3.5": 45.1,
+    "4.5": 27.9,
+    "5.5": 9.8
+   }
+  },
+  "faltas_ft": {
+   "jogos": 125,
+   "media": 29.92,
+   "overs": {
+    "21.5": 88.8,
+    "23.5": 84.8,
+    "25.5": 75.2
+   }
+  },
+  "gols_ht": {
+   "jogos": 125,
+   "media": 1.07,
+   "overs": {
+    "0.5": 65.6,
+    "1.5": 30.4,
+    "2.5": 8.8
+   },
+   "ambasMarcam": 16
+  },
+  "gols_ft": {
+   "jogos": 125,
+   "media": 2.43,
+   "overs": {
+    "1.5": 69.6,
+    "2.5": 42.4,
+    "3.5": 22.4,
+    "4.5": 8.8
+   },
+   "ambasMarcam": 43.2
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 6,
+  "proMedia": 1.83,
+  "contraMedia": 1.83,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 1.67,
+   "contra": 1.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 6,
+  "proMedia": 4.33,
+  "contraMedia": 5,
+  "totalMedia": 9.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 4.67,
+   "contra": 4
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 6
+  }
+ },
+ "chutes_ht": {
+  "jogos": 6,
+  "proMedia": 4.67,
+  "contraMedia": 5.17,
+  "totalMedia": 9.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.67,
+   "contra": 4.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 5.67,
+   "contra": 6
+  }
+ },
+ "chutes_ft": {
+  "jogos": 6,
+  "proMedia": 10,
+  "contraMedia": 14,
+  "totalMedia": 24,
+  "casa": {
+   "jogos": 3,
+   "pro": 9,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11,
+   "contra": 18
+  }
+ },
+ "alvo_ht": {
+  "jogos": 6,
+  "proMedia": 2,
+  "contraMedia": 1.67,
+  "totalMedia": 3.67,
+  "casa": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 2,
+   "contra": 2
+  }
+ },
+ "alvo_ft": {
+  "jogos": 6,
+  "proMedia": 3.67,
+  "contraMedia": 6.17,
+  "totalMedia": 9.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 3.33,
+   "contra": 4.67
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 4,
+   "contra": 7.67
+  }
+ },
+ "cartoes_ht": {
+  "jogos": 5,
+  "proMedia": 0.8,
+  "contraMedia": 0.4,
+  "totalMedia": 1.2,
+  "casa": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 0.67
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 0.5,
+   "contra": 0
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 5,
+  "proMedia": 2.4,
+  "contraMedia": 1.8,
+  "totalMedia": 4.2,
+  "casa": {
+   "jogos": 3,
+   "pro": 2.33,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 1.5
+  }
+ },
+ "faltas_ft": {
+  "jogos": 6,
+  "proMedia": 12,
+  "contraMedia": 13,
+  "totalMedia": 25,
+  "casa": {
+   "jogos": 3,
+   "pro": 13,
+   "contra": 16.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 11,
+   "contra": 9.67
+  }
+ },
+ "gols_ht": {
+  "jogos": 6,
+  "proMedia": 0.17,
+  "contraMedia": 0.17,
+  "totalMedia": 0.33,
+  "casa": {
+   "jogos": 3,
+   "pro": 0,
+   "contra": 0.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 6,
+  "proMedia": 0.67,
+  "contraMedia": 1.17,
+  "totalMedia": 1.83,
+  "casa": {
+   "jogos": 3,
+   "pro": 0.33,
+   "contra": 1.33
+  },
+  "fora": {
+   "jogos": 3,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2022-06-02",
+   "adv": "Mozambique",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     1,
+     1
+    ],
+    "ch": [
+     2,
+     4
+    ],
+    "car": [
+     0,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     2,
+     4
+    ],
+    "ch": [
+     9,
+     13
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2022-06-07",
+   "adv": "Senegal",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    0,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     2
+    ],
+    "ch": [
+     0,
+     7
+    ],
+    "car": [
+     1,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     5
+    ],
+    "ch": [
+     3,
+     15
+    ],
+    "car": [
+     3,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2023-03-22",
+   "adv": "Benin",
+   "mando": "F",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     0,
+     3
+    ],
+    "ch": [
+     7,
+     11
+    ],
+    "car": [
+     1,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     0,
+     11
+    ],
+    "ch": [
+     9,
+     27
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2023-03-29",
+   "adv": "Benin",
+   "mando": "C",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     3,
+     1
+    ],
+    "ch": [
+     5,
+     2
+    ],
+    "car": [
+     2,
+     0
+    ]
+   },
+   "ft": {
+    "esc": [
+     6,
+     4
+    ],
+    "ch": [
+     12,
+     8
+    ],
+    "car": [
+     4,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2023-06-18",
+   "adv": "Mozambique",
+   "mando": "C",
+   "golsHt": [
+    0,
+    1
+   ],
+   "golsFt": [
+    0,
+    2
+   ],
+   "ht": {
+    "esc": [
+     2,
+     2
+    ],
+    "ch": [
+     6,
+     4
+    ],
+    "car": [
+     0,
+     1
+    ]
+   },
+   "ft": {
+    "esc": [
+     8,
+     3
+    ],
+    "ch": [
+     12,
+     7
+    ],
+    "car": [
+     0,
+     3
+    ]
+   }
+  },
+  {
+   "data": "2023-09-09",
+   "adv": "Senegal",
+   "mando": "F",
+   "golsHt": [
+    0,
+    0
+   ],
+   "golsFt": [
+    1,
+    1
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     8,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     10,
+     3
+    ],
+    "ch": [
+     15,
+     14
+    ]
+   }
+  }
+ ]
+}

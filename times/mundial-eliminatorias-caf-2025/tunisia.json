@@ -1,0 +1,411 @@
+{
+ "time": "Tunisia",
+ "competicao": {
+  "chave": "mundial-eliminatorias-caf-2025",
+  "nome": "Eliminatórias da Copa do Mundo — CAF",
+  "apelido": "mundial-eliminatorias-caf",
+  "ano": "2025",
+  "torneioId": 13,
+  "temporadaId": 56249,
+  "jogos": 27,
+  "jogosNaFonte": 260,
+  "periodo": {
+   "de": "2023-11-18",
+   "ate": "2025-10-14"
+  }
+ },
+ "reguaDaCompeticao": {
+  "escanteios_ht": {
+   "jogos": 27,
+   "media": 4.67,
+   "overs": {
+    "1.5": 100,
+    "2.5": 85.2,
+    "3.5": 70.4
+   }
+  },
+  "escanteios_ft": {
+   "jogos": 27,
+   "media": 8.67,
+   "overs": {
+    "7.5": 48.1,
+    "8.5": 37,
+    "9.5": 33.3,
+    "10.5": 25.9
+   }
+  },
+  "chutes_ht": {
+   "jogos": 27,
+   "media": 10.7,
+   "overs": {
+    "7.5": 81.5,
+    "9.5": 59.3,
+    "11.5": 40.7
+   }
+  },
+  "chutes_ft": {
+   "jogos": 27,
+   "media": 21.52,
+   "overs": {
+    "19.5": 66.7,
+    "21.5": 51.9,
+    "23.5": 44.4
+   }
+  },
+  "alvo_ht": {
+   "jogos": 27,
+   "media": 3.67,
+   "overs": {
+    "2.5": 66.7,
+    "3.5": 51.9,
+    "4.5": 40.7
+   }
+  },
+  "alvo_ft": {
+   "jogos": 27,
+   "media": 7.33,
+   "overs": {
+    "6.5": 55.6,
+    "7.5": 40.7,
+    "8.5": 29.6
+   }
+  },
+  "cartoes_ft": {
+   "jogos": 27,
+   "media": 3.59,
+   "overs": {
+    "3.5": 44.4,
+    "4.5": 29.6,
+    "5.5": 14.8
+   }
+  },
+  "faltas_ht": {
+   "jogos": 5,
+   "media": 16.6,
+   "overs": {
+    "9.5": 100,
+    "11.5": 100,
+    "13.5": 100
+   }
+  },
+  "faltas_ft": {
+   "jogos": 22,
+   "media": 28.14,
+   "overs": {
+    "21.5": 95.5,
+    "23.5": 86.4,
+    "25.5": 77.3
+   }
+  },
+  "gols_ht": {
+   "jogos": 27,
+   "media": 1.41,
+   "overs": {
+    "0.5": 81.5,
+    "1.5": 44.4,
+    "2.5": 11.1
+   },
+   "ambasMarcam": 14.8
+  },
+  "gols_ft": {
+   "jogos": 27,
+   "media": 3.07,
+   "overs": {
+    "1.5": 92.6,
+    "2.5": 63,
+    "3.5": 29.6,
+    "4.5": 18.5
+   },
+   "ambasMarcam": 33.3
+  }
+ },
+ "escanteios_ht": {
+  "jogos": 3,
+  "proMedia": 3,
+  "contraMedia": 2,
+  "totalMedia": 5,
+  "casa": {
+   "jogos": 2,
+   "pro": 2,
+   "contra": 2
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 5,
+   "contra": 2
+  }
+ },
+ "escanteios_ft": {
+  "jogos": 3,
+  "proMedia": 5.67,
+  "contraMedia": 3.33,
+  "totalMedia": 9,
+  "casa": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 7,
+   "contra": 3
+  }
+ },
+ "chutes_ht": {
+  "jogos": 3,
+  "proMedia": 6.67,
+  "contraMedia": 5.33,
+  "totalMedia": 12,
+  "casa": {
+   "jogos": 2,
+   "pro": 6,
+   "contra": 6.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 8,
+   "contra": 3
+  }
+ },
+ "chutes_ft": {
+  "jogos": 3,
+  "proMedia": 15.67,
+  "contraMedia": 9.67,
+  "totalMedia": 25.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 15.5,
+   "contra": 10.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 16,
+   "contra": 8
+  }
+ },
+ "alvo_ht": {
+  "jogos": 3,
+  "proMedia": 3.67,
+  "contraMedia": 1.67,
+  "totalMedia": 5.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 2.5,
+   "contra": 2.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 0
+  }
+ },
+ "alvo_ft": {
+  "jogos": 3,
+  "proMedia": 6.33,
+  "contraMedia": 3.67,
+  "totalMedia": 10,
+  "casa": {
+   "jogos": 2,
+   "pro": 5,
+   "contra": 3.5
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 9,
+   "contra": 4
+  }
+ },
+ "cartoes_ft": {
+  "jogos": 3,
+  "proMedia": 1,
+  "contraMedia": 2.33,
+  "totalMedia": 3.33,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 3
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 1,
+   "contra": 1
+  }
+ },
+ "faltas_ht": {
+  "jogos": 1,
+  "proMedia": 13,
+  "contraMedia": 10,
+  "totalMedia": 23,
+  "casa": {
+   "jogos": 1,
+   "pro": 13,
+   "contra": 10
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "faltas_ft": {
+  "jogos": 2,
+  "proMedia": 21.5,
+  "contraMedia": 16,
+  "totalMedia": 37.5,
+  "casa": {
+   "jogos": 2,
+   "pro": 21.5,
+   "contra": 16
+  },
+  "fora": {
+   "jogos": 0,
+   "pro": 0,
+   "contra": 0
+  }
+ },
+ "gols_ht": {
+  "jogos": 3,
+  "proMedia": 1.67,
+  "contraMedia": 0,
+  "totalMedia": 1.67,
+  "casa": {
+   "jogos": 2,
+   "pro": 1,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 3,
+   "contra": 0
+  }
+ },
+ "gols_ft": {
+  "jogos": 3,
+  "proMedia": 4,
+  "contraMedia": 0,
+  "totalMedia": 4,
+  "casa": {
+   "jogos": 2,
+   "pro": 3,
+   "contra": 0
+  },
+  "fora": {
+   "jogos": 1,
+   "pro": 6,
+   "contra": 0
+  }
+ },
+ "ultimos": [
+  {
+   "data": "2025-09-04",
+   "adv": "Liberia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     1
+    ],
+    "ch": [
+     5,
+     4
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     1
+    ],
+    "ch": [
+     17,
+     5
+    ],
+    "car": [
+     1,
+     2
+    ]
+   }
+  },
+  {
+   "data": "2025-10-10",
+   "adv": "São Tomé and Príncipe",
+   "mando": "F",
+   "golsHt": [
+    3,
+    0
+   ],
+   "golsFt": [
+    6,
+    0
+   ],
+   "ht": {
+    "esc": [
+     5,
+     2
+    ],
+    "ch": [
+     8,
+     3
+    ]
+   },
+   "ft": {
+    "esc": [
+     7,
+     3
+    ],
+    "ch": [
+     16,
+     8
+    ],
+    "car": [
+     1,
+     1
+    ]
+   }
+  },
+  {
+   "data": "2025-10-13",
+   "adv": "Namibia",
+   "mando": "C",
+   "golsHt": [
+    1,
+    0
+   ],
+   "golsFt": [
+    3,
+    0
+   ],
+   "ht": {
+    "esc": [
+     2,
+     3
+    ],
+    "ch": [
+     7,
+     9
+    ]
+   },
+   "ft": {
+    "esc": [
+     5,
+     6
+    ],
+    "ch": [
+     14,
+     16
+    ],
+    "car": [
+     1,
+     4
+    ]
+   }
+  }
+ ]
+}
