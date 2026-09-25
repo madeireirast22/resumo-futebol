@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-24T20:50:46.513Z",
+ "gerado": "2026-09-25T02:39:22.903Z",
  "janelaDias": 7,
  "aviso": "Escalação CONFIRMADA só existe ~1 h antes do jogo: o vigia (escalacoes.mjs) busca a cada 15 min e grava em escalacoes/<eventoId>.json quando sai (temConfirmada vira true). Até lá, provavelCasa/provavelFora = os 11 com mais minutos nos últimos 3 jogos do time.",
  "jogos": [
@@ -373,6 +373,39 @@
    "casa": "Botafogo-SP",
    "fora": "Ponte Preta",
    "arquivo": "escalacoes/15526298.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526312,
+   "data": "2026-10-01T23:30:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Athletic Club",
+   "fora": "Sport Recife",
+   "arquivo": "escalacoes/15526312.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 15526319,
+   "data": "2026-10-02T00:00:00.000Z",
+   "competicao": "brasileirao-b",
+   "casa": "Grêmio Novorizontino",
+   "fora": "Goiás",
+   "arquivo": "escalacoes/15526319.json",
+   "temProvavel": true,
+   "temPrevista": false,
+   "temConfirmada": false
+  },
+  {
+   "eventoId": 16275102,
+   "data": "2026-10-02T01:30:00.000Z",
+   "competicao": "mls",
+   "casa": "Seattle Sounders FC",
+   "fora": "Sporting Kansas City",
+   "arquivo": "escalacoes/16275102.json",
    "temProvavel": true,
    "temPrevista": false,
    "temConfirmada": false
