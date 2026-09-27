@@ -1,0 +1,383 @@
+{
+ "eventoId": 16667339,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-10-02T22:15:00.000Z",
+ "rodada": 11,
+ "casa": "CA Independiente",
+ "casaId": 3209,
+ "fora": "Instituto De Córdoba",
+ "foraId": 4937,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-19",
+    "adv": "Club Atlético Unión de Santa Fe",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-13",
+    "adv": "San Lorenzo",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Central Córdoba",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 158249,
+    "nome": "Rodrigo Rey",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 993479,
+    "nome": "Juan Fedorco",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 2671506,
+    "nome": "Juan Miguel Arrayago",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 794006,
+    "nome": "Leonardo Godoy",
+    "pos": "D",
+    "min": 266,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 4
+   },
+   {
+    "id": 122634,
+    "nome": "Iván Marcone",
+    "pos": "M",
+    "min": 260,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2192262,
+    "nome": "Mateo Perez Curci",
+    "pos": "M",
+    "min": 256,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1065611,
+    "nome": "Santiago Montiel",
+    "pos": "F",
+    "min": 256,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 12
+   },
+   {
+    "id": 340897,
+    "nome": "Maxi Meza",
+    "pos": "M",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 6
+   },
+   {
+    "id": 1015657,
+    "nome": "Facundo Zabala",
+    "pos": "D",
+    "min": 225,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1177402,
+    "nome": "Matías Abaldo",
+    "pos": "F",
+    "min": 189,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 789381,
+    "nome": "Chimy Ávila",
+    "pos": "F",
+    "min": 101,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 2511125,
+    "nome": "Felipe Tempone",
+    "pos": "F",
+    "min": 100,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 2338435,
+    "nome": "Josias Palais",
+    "pos": "F",
+    "min": 81,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 848075,
+    "nome": "Iván Morales",
+    "pos": "F",
+    "min": 71,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 2691667,
+    "nome": "Ramiro Martino",
+    "pos": "D",
+    "min": 55,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1484796,
+    "nome": "David Martínez",
+    "pos": "M",
+    "min": 40,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1865987,
+    "nome": "Lautaro Millán",
+    "pos": "M",
+    "min": 28,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 3
+   },
+   {
+    "id": 981341,
+    "nome": "Franco Calderón",
+    "pos": "D",
+    "min": 10,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-20",
+    "adv": "CA Talleres",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-15",
+    "adv": "Estudiantes de Río Cuarto",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-08",
+    "adv": "Club Atlético Unión de Santa Fe",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 757762,
+    "nome": "Marcos Ledesma",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 824157,
+    "nome": "Leonel Mosevich",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 850995,
+    "nome": "Diego Alejandro Sosa",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1183795,
+    "nome": "Giuliano Cerato",
+    "pos": "M",
+    "min": 253,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 6
+   },
+   {
+    "id": 789271,
+    "nome": "Jonathan Galván",
+    "pos": "D",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 939950,
+    "nome": "Gustavo Abregú",
+    "pos": "M",
+    "min": 247,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1094228,
+    "nome": "Alex Luna",
+    "pos": "F",
+    "min": 245,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 7
+   },
+   {
+    "id": 797020,
+    "nome": "Fernando Alarcón",
+    "pos": "D",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1649316,
+    "nome": "Jeremías Lázaro",
+    "pos": "F",
+    "min": 184,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 1482281,
+    "nome": "Matías Gallardo",
+    "pos": "M",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 859997,
+    "nome": "Matías Tissera",
+    "pos": "F",
+    "min": 171,
+    "jogos": 3,
+    "chHt": 5,
+    "chFt": 5
+   }
+  ],
+  "banco": [
+   {
+    "id": 881170,
+    "nome": "Ignacio Méndez",
+    "pos": "M",
+    "min": 107,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 961647,
+    "nome": "Jhon Córdoba",
+    "pos": "M",
+    "min": 105,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 992068,
+    "nome": "Facundo Suárez",
+    "pos": "F",
+    "min": 62,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 924518,
+    "nome": "Nicolás Guerra",
+    "pos": "F",
+    "min": 54,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1650441,
+    "nome": "Agustín Massaccesi",
+    "pos": "D",
+    "min": 47,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 875895,
+    "nome": "Jonas Acevedo",
+    "pos": "M",
+    "min": 20,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 912936,
+    "nome": "Hernán de la Fuente",
+    "pos": "D",
+    "min": 17,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   }
+  ]
+ },
+ "prevista": null,
+ "confirmada": null
+}

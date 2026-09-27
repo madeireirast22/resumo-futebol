@@ -1,0 +1,383 @@
+{
+ "eventoId": 16667342,
+ "competicao": "argentina",
+ "competicaoNome": "Liga Profesional (ARG)",
+ "data": "2026-10-03T20:00:00.000Z",
+ "rodada": 11,
+ "casa": "Newell's Old Boys",
+ "casaId": 3212,
+ "fora": "CA Lanús",
+ "foraId": 3218,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-20",
+    "adv": "Club Atlético Platense",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-11",
+    "adv": "Vélez Sarsfield",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Rosario Central",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 1485097,
+    "nome": "Josué Reinatti",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 233856,
+    "nome": "Lautaro Giannetti",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1020498,
+    "nome": "Martín Ortega",
+    "pos": "D",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 903286,
+    "nome": "Matías Cóccaro",
+    "pos": "F",
+    "min": 269,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 9
+   },
+   {
+    "id": 2017667,
+    "nome": "Luca Regiardo",
+    "pos": "M",
+    "min": 265,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 861339,
+    "nome": "Walter Mazzantti",
+    "pos": "M",
+    "min": 259,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 871798,
+    "nome": "Lucas Carrizo",
+    "pos": "D",
+    "min": 246,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1104323,
+    "nome": "Santiago Solari",
+    "pos": "M",
+    "min": 233,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 5
+   },
+   {
+    "id": 2054539,
+    "nome": "Facundo Guch",
+    "pos": "M",
+    "min": 221,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1485095,
+    "nome": "Jeronimo Russo",
+    "pos": "D",
+    "min": 210,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1067815,
+    "nome": "Rodrigo Herrera",
+    "pos": "M",
+    "min": 209,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   }
+  ],
+  "banco": [
+   {
+    "id": 2082133,
+    "nome": "Jerónimo Gómez Mattar",
+    "pos": "M",
+    "min": 75,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 595300,
+    "nome": "Franco Escobar",
+    "pos": "D",
+    "min": 60,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1218016,
+    "nome": "Walter Nuñez",
+    "pos": "F",
+    "min": 37,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 846773,
+    "nome": "Mateo García",
+    "pos": "F",
+    "min": 30,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1092313,
+    "nome": "Bruno Cabrera",
+    "pos": "D",
+    "min": 24,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 877630,
+    "nome": "Juan Ignacio Ramírez",
+    "pos": "F",
+    "min": 21,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2073009,
+    "nome": "Francisco Scarpeccio",
+    "pos": "F",
+    "min": 12,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-22",
+    "adv": "Estudiantes de La Plata",
+    "mando": "C"
+   },
+   {
+    "data": "2026-09-14",
+    "adv": "Deportivo Riestra",
+    "mando": "F"
+   },
+   {
+    "data": "2026-09-06",
+    "adv": "Defensa y Justicia",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 384552,
+    "nome": "Nahuel Losada",
+    "pos": "G",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 992126,
+    "nome": "Sasha Marcich",
+    "pos": "D",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 851824,
+    "nome": "Agustín Cardozo",
+    "pos": "M",
+    "min": 270,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 174943,
+    "nome": "Carlos Izquierdoz",
+    "pos": "D",
+    "min": 267,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 47334,
+    "nome": "Eduardo Salvio",
+    "pos": "M",
+    "min": 254,
+    "jogos": 3,
+    "chHt": 7,
+    "chFt": 9
+   },
+   {
+    "id": 1067464,
+    "nome": "Allan Wlk",
+    "pos": "F",
+    "min": 211,
+    "jogos": 3,
+    "chHt": 3,
+    "chFt": 5
+   },
+   {
+    "id": 1086339,
+    "nome": "Lucas Besozzi",
+    "pos": "M",
+    "min": 201,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1065594,
+    "nome": "Felipe Peña Biafore",
+    "pos": "M",
+    "min": 187,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 871519,
+    "nome": "Tomás Guidara",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 877452,
+    "nome": "José Canale",
+    "pos": "D",
+    "min": 180,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 846503,
+    "nome": "Matías Sepúlveda",
+    "pos": "M",
+    "min": 119,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 1
+   }
+  ],
+  "banco": [
+   {
+    "id": 1048185,
+    "nome": "Gonzalo Perez",
+    "pos": "D",
+    "min": 116,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 2470986,
+    "nome": "Gonzalo Lobos",
+    "pos": "M",
+    "min": 95,
+    "jogos": 3,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1095279,
+    "nome": "Ronaldo De Jesus",
+    "pos": "D",
+    "min": 93,
+    "jogos": 2,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1836915,
+    "nome": "Agustín Medina",
+    "pos": "M",
+    "min": 83,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1018412,
+    "nome": "Franco Watson",
+    "pos": "M",
+    "min": 81,
+    "jogos": 2,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 1847518,
+    "nome": "Yoshan Valois",
+    "pos": "F",
+    "min": 59,
+    "jogos": 3,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 340441,
+    "nome": "Ramiro Carrera",
+    "pos": "M",
+    "min": 21,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   }
+  ]
+ },
+ "prevista": null,
+ "confirmada": null
+}

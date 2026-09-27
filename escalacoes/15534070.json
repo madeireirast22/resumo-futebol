@@ -1,0 +1,318 @@
+{
+ "eventoId": 15534070,
+ "competicao": "liga-das-nacoes",
+ "competicaoNome": "UEFA Liga das Nações",
+ "data": "2026-10-01T18:45:00.000Z",
+ "rodada": 3,
+ "casa": "Greece",
+ "casaId": 4710,
+ "fora": "Netherlands",
+ "foraId": 4705,
+ "provavelCasa": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-24",
+    "adv": "Serbia",
+    "mando": "F"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 953414,
+    "nome": "Konstantinos Tzolakis",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1166952,
+    "nome": "Georgios Vagiannidis",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 828971,
+    "nome": "Panagiotis Retsos",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 786259,
+    "nome": "Kostas Tsimikas",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 128089,
+    "nome": "Dimitris Kourbelis",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 1031259,
+    "nome": "Christos Tzolis",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 4,
+    "chFt": 6
+   },
+   {
+    "id": 829022,
+    "nome": "Konstantinos Mavropanos",
+    "pos": "D",
+    "min": 89,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1026524,
+    "nome": "Christos Zafeiris",
+    "pos": "M",
+    "min": 89,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 1468744,
+    "nome": "Konstantinos Karetsas",
+    "pos": "M",
+    "min": 74,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 3
+   },
+   {
+    "id": 795236,
+    "nome": "Vangelis Pavlidis",
+    "pos": "F",
+    "min": 74,
+    "jogos": 1,
+    "chHt": 3,
+    "chFt": 4
+   },
+   {
+    "id": 1416535,
+    "nome": "Charalampos Kostoulas",
+    "pos": "F",
+    "min": 63,
+    "jogos": 1,
+    "chHt": 4,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 903679,
+    "nome": "Fotis Ioannidis",
+    "pos": "F",
+    "min": 27,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 894863,
+    "nome": "Anastasios Douvikas",
+    "pos": "F",
+    "min": 16,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 1165457,
+    "nome": "Andreas Tetteh",
+    "pos": "F",
+    "min": 16,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 947156,
+    "nome": "Giannis Michailidis",
+    "pos": "D",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 817600,
+    "nome": "Athanasios Androutsos",
+    "pos": "M",
+    "min": 1,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   }
+  ]
+ },
+ "provavelFora": {
+  "baseadoEm": [
+   {
+    "data": "2026-09-24",
+    "adv": "Germany",
+    "mando": "C"
+   }
+  ],
+  "titulares": [
+   {
+    "id": 994363,
+    "nome": "Bart Verbruggen",
+    "pos": "G",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 759520,
+    "nome": "Denzel Dumfries",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 962012,
+    "nome": "Jan Paul van Hecke",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 3
+   },
+   {
+    "id": 151545,
+    "nome": "Virgil van Dijk",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   },
+   {
+    "id": 998247,
+    "nome": "Micky van de Ven",
+    "pos": "D",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 904897,
+    "nome": "Ryan Gravenberch",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 862967,
+    "nome": "Cody Gakpo",
+    "pos": "M",
+    "min": 90,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 2
+   },
+   {
+    "id": 917005,
+    "nome": "Crysencio Summerville",
+    "pos": "M",
+    "min": 83,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 893549,
+    "nome": "Tijjani Reijnders",
+    "pos": "M",
+    "min": 83,
+    "jogos": 1,
+    "chHt": 1,
+    "chFt": 1
+   },
+   {
+    "id": 959805,
+    "nome": "Quinten Timber",
+    "pos": "M",
+    "min": 57,
+    "jogos": 1,
+    "chHt": 2,
+    "chFt": 2
+   },
+   {
+    "id": 1153117,
+    "nome": "Mexx Meerdink",
+    "pos": "F",
+    "min": 55,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 4
+   }
+  ],
+  "banco": [
+   {
+    "id": 910048,
+    "nome": "Brian Brobbey",
+    "pos": "F",
+    "min": 35,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 850816,
+    "nome": "Joey Veerman",
+    "pos": "M",
+    "min": 33,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 0
+   },
+   {
+    "id": 845798,
+    "nome": "Guus Til",
+    "pos": "M",
+    "min": 12,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 1
+   },
+   {
+    "id": 1212550,
+    "nome": "Ruben van Bommel",
+    "pos": "F",
+    "min": 12,
+    "jogos": 1,
+    "chHt": 0,
+    "chFt": 2
+   }
+  ]
+ },
+ "prevista": null,
+ "confirmada": null
+}

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-25T23:47:17.775Z",
+ "gerado": "2026-09-27T10:39:19.479Z",
  "competicoes": [
   {
    "chave": "argentina-2026",
@@ -171,11 +171,11 @@
    "ano": "2026",
    "torneioId": 390,
    "temporadaId": 89840,
-   "jogos": 290,
+   "jogos": 295,
    "jogosNaFonte": 254,
    "periodo": {
     "de": "2026-03-21",
-    "ate": "2026-09-22"
+    "ate": "2026-09-26"
    },
    "arquivo": "brasileirao-b-2026.json",
    "pastaDosTimes": "times/brasileirao-b-2026/",
@@ -577,11 +577,11 @@
    "ano": "2026",
    "torneioId": 1848,
    "temporadaId": 90940,
-   "jogos": 20,
+   "jogos": 22,
    "jogosNaFonte": 34,
    "periodo": {
     "de": "2026-09-24",
-    "ate": "2026-09-25"
+    "ate": "2026-09-26"
    },
    "arquivo": "copa-africana-eliminatorias-2026.json",
    "pastaDosTimes": "times/copa-africana-eliminatorias-2026/",
@@ -601,10 +601,13 @@
     "DR Congo": "dr-congo",
     "Egypt": "egypt",
     "Equatorial Guinea": "equatorial-guinea",
+    "Eritrea": "eritrea",
     "Gabon": "gabon",
     "Gambia": "gambia",
     "Ghana": "ghana",
+    "Guinea": "guinea",
     "Guinea-Bissau": "guinea-bissau",
+    "Kenya": "kenya",
     "Lesotho": "lesotho",
     "Liberia": "liberia",
     "Libya": "libya",
@@ -620,6 +623,7 @@
     "Senegal": "senegal",
     "Sierra Leone": "sierra-leone",
     "Somalia": "somalia",
+    "South Africa": "south-africa",
     "Tanzania": "tanzania",
     "Togo": "togo",
     "Tunisia": "tunisia",
@@ -1474,44 +1478,64 @@
    "ano": "2026",
    "torneioId": 10783,
    "temporadaId": 89945,
-   "jogos": 16,
-   "jogosNaFonte": 16,
+   "jogos": 26,
+   "jogosNaFonte": 26,
    "periodo": {
     "de": "2026-09-24",
-    "ate": "2026-09-25"
+    "ate": "2026-09-26"
    },
    "arquivo": "liga-das-nacoes-2026.json",
    "pastaDosTimes": "times/liga-das-nacoes-2026/",
    "times": {
+    "Albania": "albania",
     "Andorra": "andorra",
     "Armenia": "armenia",
     "Austria": "austria",
+    "Belarus": "belarus",
     "Belgium": "belgium",
     "Bosnia & Herzegovina": "bosnia-herzegovina",
+    "Bulgaria": "bulgaria",
+    "Croatia": "croatia",
     "Cyprus": "cyprus",
+    "Czechia": "czechia",
     "Denmark": "denmark",
+    "England": "england",
+    "Estonia": "estonia",
+    "Faroe Islands": "faroe-islands",
+    "Finland": "finland",
     "France": "france",
     "Georgia": "georgia",
     "Germany": "germany",
     "Greece": "greece",
     "Hungary": "hungary",
+    "Iceland": "iceland",
     "Ireland": "ireland",
     "Israel": "israel",
     "Italy": "italy",
+    "Kazakhstan": "kazakhstan",
     "Kosovo": "kosovo",
     "Latvia": "latvia",
     "Liechtenstein": "liechtenstein",
     "Lithuania": "lithuania",
+    "Luxembourg": "luxembourg",
     "Malta": "malta",
+    "Moldova": "moldova",
     "Montenegro": "montenegro",
     "Netherlands": "netherlands",
+    "North Macedonia": "north-macedonia",
     "Northern Ireland": "northern-ireland",
     "Norway": "norway",
     "Poland": "poland",
     "Portugal": "portugal",
     "Romania": "romania",
+    "San Marino": "san-marino",
+    "Scotland": "scotland",
     "Serbia": "serbia",
+    "Slovakia": "slovakia",
+    "Slovenia": "slovenia",
+    "Spain": "spain",
     "Sweden": "sweden",
+    "Switzerland": "switzerland",
     "Türkiye": "turkiye",
     "Ukraine": "ukraine",
     "Wales": "wales"
@@ -1599,11 +1623,11 @@
    "ano": "2026",
    "torneioId": 11621,
    "temporadaId": 96191,
-   "jogos": 76,
+   "jogos": 82,
    "jogosNaFonte": 60,
    "periodo": {
     "de": "2026-07-17",
-    "ate": "2026-09-21"
+    "ate": "2026-09-27"
    },
    "arquivo": "mexico-2026.json",
    "pastaDosTimes": "times/mexico-2026/",
@@ -1683,11 +1707,11 @@
    "ano": "2026",
    "torneioId": 242,
    "temporadaId": 86668,
-   "jogos": 388,
+   "jogos": 401,
    "jogosNaFonte": 330,
    "periodo": {
     "de": "2026-02-21",
-    "ate": "2026-09-24"
+    "ate": "2026-09-27"
    },
    "arquivo": "mls-2026.json",
    "pastaDosTimes": "times/mls-2026/",
@@ -2625,7 +2649,7 @@
   {
    "competicao": "liga-das-nacoes-2026",
    "arquivo": "scout-liga-das-nacoes-2026.json",
-   "jogadores": 366,
+   "jogadores": 324,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/liga-das-nacoes-2026/"
   },
@@ -2646,7 +2670,7 @@
   {
    "competicao": "mexico-2026",
    "arquivo": "scout-mexico-2026.json",
-   "jogadores": 250,
+   "jogadores": 262,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/mexico-2026/"
   },
@@ -2660,7 +2684,7 @@
   {
    "competicao": "mls-2026",
    "arquivo": "scout-mls-2026.json",
-   "jogadores": 468,
+   "jogadores": 478,
    "cartoes": true,
    "pastaDoScoutPorTime": "scout-times/mls-2026/"
   },
