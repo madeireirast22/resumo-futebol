@@ -9,6 +9,8 @@ Este projeto é uma peça do "segundo cérebro" da Madeireira Santa Terezinha. A
 
 Ao terminar a tarefa (ou quando ele encerrar):
 
+Os passos 3 a 6 fazem parte do fechamento da tarefa e já estão autorizados de antemão pelo Caique (ordem dele, 28/09/2026: "ao final você está autorizado e obrigado a gravar o chat na memória, pra esse caso específico é uma ordem"). Execute-os e relate no resumo final, sem abrir uma pergunta "posso atualizar o cerebro-mst?" antes. Isso vale só para essa gravação no cérebro — não autoriza nenhuma outra ação — e não muda as travas de sempre: ler o arquivo antes de escrever, nada de custo/margem/investimento em arquivo operacional, e, se o push falhar ou o repositório estiver inacessível, avisar na hora.
+
 3. Atualize esse mesmo arquivo de área: seção "Estado atual" (reescrita, 3-8 linhas, só o que vale hoje), "Decisões" (uma linha por decisão nova, com data), "Próximos passos", propriedades do frontmatter (`atualizado`, `por: cli`, `proximo`).
 4. Acrescente em "Histórico": `- YYYY-MM-DD — <o que mudou nesta sessão> — sessão: <url da sessão, se houver>`.
 5. Acrescente uma linha em `~/cerebro-mst/06-diario/YYYY-MM-DD.md` (crie o arquivo se não existir).
