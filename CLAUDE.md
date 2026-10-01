@@ -14,6 +14,7 @@ Os passos 3 a 6 fazem parte do fechamento da tarefa e já estão autorizados de 
 3. Atualize esse mesmo arquivo de área: seção "Estado atual" (reescrita, 3-8 linhas, só o que vale hoje), "Decisões" (uma linha por decisão nova, com data), "Próximos passos", propriedades do frontmatter (`atualizado`, `por: cli`, `proximo`).
 4. Acrescente em "Histórico": `- YYYY-MM-DD — <o que mudou nesta sessão> — sessão: <url da sessão, se houver>`.
 5. Acrescente uma linha em `~/cerebro-mst/06-diario/YYYY-MM-DD.md` (crie o arquivo se não existir).
+   5b. A partir de 01/10/2026 (regra `02-regras/diario-por-sessao.md` do cerebro-mst), em vez do passo 5: crie o arquivo da sessão `~/cerebro-mst/06-diario/AAAA-MM-DD/HHMM-<area>-<assunto>.md` (data e hora de Brasília; se o nome já existir, acrescente `-2`) com pedido, resultado, decisões e pendências, e não escreva em `06-diario/AAAA-MM-DD.md` (é índice; só a vigia escreve). No Histórico da área (passo 4), 1 linha curta com link para esse arquivo.
 6. `git -C ~/cerebro-mst add -A && git -C ~/cerebro-mst commit -m "futebol-caique (resumo-futebol): <resumo de 1 linha>" && git -C ~/cerebro-mst push`.
 
 Nunca sobrescreva o arquivo de área sem antes ler a versão atual (outro chat pode ter mudado). Em conflito, as duas versões vão para "Histórico", nunca se perde nada.
